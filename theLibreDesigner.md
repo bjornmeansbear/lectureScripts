@@ -5,6 +5,8 @@
 
 For the 20200727 MICA GD Summer Camp version I'll be live streaming on youtube & there will be a live, dynamic document/chat up on etherpad: https://etherpad.wikimedia.org/p/thelibredesigner
 
+Twitch: https://www.twitch.tv/libredesigner
+
 >>>>>>>>
 
 I am writing this as a sort of lecture/essay -- but I will first be giving this as a series of live streams on Twitch (I hope); then as a "virtual workshop;" then perhaps as a presentation at a small DrupalCon...
