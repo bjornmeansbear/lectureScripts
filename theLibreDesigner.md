@@ -44,8 +44,9 @@ The foundations to the Free/Libre Open Source arena has several interesting conn
 So, two quick anecdotes:
 
 1. Donald Knuth & TeX & Metafont.
-
 2. Richard Stallman & an annoying printer.
+3. Garth Braithwaite?
+4. Anything else?
 
 If you want to investigate this all more; I highly recommend finding out more about Donald Knuth and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf https://www.overleaf.com/
 
@@ -59,6 +60,7 @@ Free as in Freedom, not as in price! You can still charge money for F/LOS; the p
 ?
 
 ### A note on licenses????
+There are so many... we can dive into this more at the end if anyone cares; but in general there are truely free/libre licenses like GPL, CC share alikes, Apache; and then there are permissive license, MIT being the most used/known one. Basically, the libre licenses say that if you want to use this, great, but whatever you use it in also has to be open and shared in the same way. the permissive licenses say you can use this, and all you have to do is try to make it clear that you used this in your program or code somehwere; you _do not_ have to share your code the way I've shared mine... One is viral; one is isn't...
 
 So! how to get started as a Libre Designer!
 
@@ -87,13 +89,17 @@ So what we're looking for when we are looking for F/LOS imagery is imagery that 
 
 Good places to get started finding this stuff...
 
-- Unsplash ()
-- Undraw
-- the Noun Project
+- Unsplash (https://unsplash.com/)
+- Undraw https://undraw.co/illustrations
+- the Noun Project https://thenounproject.com/
 - Creative Commons Use&Remix section: https://creativecommons.org/use-remix/ & https://search.creativecommons.org/
 - RawPixel Public Domain: https://www.rawpixel.com/category/53/public-domain
+- dover clipart / finding and scanning old things (photographic personal prints, books from before 1925)
 
 ## Libre Fonts
+Once you have liberated your imagery and graphics, the next level is your fonts. Almost everything will work still with your exisint ghardware and software, but it is a magnitude harder to find, download and install some of the F/LOS fonts.
+
+
 
 ### Quality of Fonts?
 The universe of F/LOS fonts can sometimes feel limited... and can sometimes feel less-than in terms of quality. I would say that in general, while you might not end up with as many typographic nicities; real small caps, different styles of numbers, etc. this isn't always the case. Many of these F/LOS fonts are designed to serve populations, users, audiences, etc. historically not served. SIL for example, an organization who has done a lot for Libre Fonts (https://software.sil.org/fonts/) has many fonts with huge character sets so they could set their materials in as many languages as possible (they provide language tools to all manner of commnunites)...
