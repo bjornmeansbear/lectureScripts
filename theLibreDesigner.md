@@ -99,9 +99,21 @@ Good places to get started finding this stuff...
 - dover clipart / finding and scanning old things (photographic personal prints, books from before 1925)
 
 ## Libre Fonts
-Once you have liberated your imagery and graphics, the next level is your fonts. Almost everything will work still with your exisint ghardware and software, but it is a magnitude harder to find, download and install some of the F/LOS fonts.
+Once you have liberated your imagery and graphics, the next level is your fonts. Almost everything will work still with your existing hardware and software, but it is a magnitude harder to find, download and install some of the F/LOS fonts compared to just images...
 
+There are some open source fonts already installed on the average computer; and adobe fonts brings in some of the google font library; so you can just turn a few on there to get started super easily
 
+https://fonts.adobe.com/foundries/google
+
+Google fonts is doing a lot of cool new stuff. They're hitting this variable font thing pretty hard, and part of that means that almost any newer typeface is being converted to a variable font. This also means that almost all the newer google fonts have the full 9 weights + italics, so getting a font from google fonts these days doesn't really mean its limited in glyphs, weights, quality, whatever
+
+https://fonts.google.com/
+
+Eli Heuer?
+
+I dig velvetyne, who are french, and then this italian foundry, (TK), and the League of Moveable Type...
+
+A cool aspect of these fonts then is also you can not only get the fonts to use on your machine(s), share them with your clients and printers and friends and colleagues witout worry... you can also for the most part find and download the acutal source files used to to make th fonts. Does the F/LOS typeface you like not have a certain character or weight? well download the UFOs and edit it! Do you want to make a custom typeface for a client as part of their identity? find the thing closest to your vision from the F/LOS world and tweak it!
 
 ### Quality of Fonts?
 The universe of F/LOS fonts can sometimes feel limited... and can sometimes feel less-than in terms of quality. I would say that in general, while you might not end up with as many typographic nicities; real small caps, different styles of numbers, etc. this isn't always the case. Many of these F/LOS fonts are designed to serve populations, users, audiences, etc. historically not served. SIL for example, an organization who has done a lot for Libre Fonts (https://software.sil.org/fonts/) has many fonts with huge character sets so they could set their materials in as many languages as possible (they provide language tools to all manner of commnunites)...
@@ -115,13 +127,113 @@ Font management is both easy and terrible with F/LOS offerings and on Linux in g
 
 ## Now for someting completely different
 
+Programs!?
+
+Your images and your typefaces are now liberated. Not its time for all your software. This is the biggest leap; the largest jump; the hardest mental chasm to bridge so far. For somethings its a no brainer; for others its a nightmare. Let's try to navigate a small amount of this more complicated territory. Think of this as a partial; an incoplete map; of a terrain...
+
+Now, today is a good day to try and find and use some of this stuff -- there have never been so many easy to install and decent to use graphics tools. For the most part, most of this stuff now has mac/windows installers now -- this was a big problem in the past; running a program in an emulator or virtual machine; having to download/install from the command line... 
+
+You could start with programs that only exist as F/LOS -- things like Drawbot, OBS, Nodebox, Processing -- there aren't adobe nor native mac programs that really do these generative design things, or are rad for video streaming/screen recording... 
+
+Once you start building up your library of F/LOS tools, to do cool things you wouldn't be able to do otherwise, you can graduate to starting to replace some of your proproietary software... 
+
+Now, don't think 
+
+An incomplete list of all the libre graphics software you might want to try.
+
+- Blender
+- GNU Image Manipulation Program
+- Darktable
+- Inkscape
+- Krita
+- Nodebox
+- Scribus
+- Drawbot
+- Processing
+- ImageMagick
+- GhostScript
+- FontForge
+- TruFont
+- Birdfont
+- OBS
+- Jitsi Meet
+- LibreOffice
+- VSCode
+- and so much more...
+
+There are things like ImageMagick and GhostScript that are basically background applications -- you can run them from the terminal and other programs actually rely on them to do key things. Imagemagick lets you manipulate images, pdfs, etc. from the command line... (here, let me turn this PDF into a folder of jpgs) Ghostscript is a terminal based PDF creating/editing tool!?
+
+### If you only remember one thing...
+The key to all of this is to properly mentally frame this for yourself. Try to think of everything I show you or talk about today not as direct replacements for your regular processes or tools; but as reasonable alternatives -- they might do things differently; but you'll be able to end up at the same final result: well designed graphic objects...
 
 ## Time for an Operating System Update
 
+So you think you want to try GNU/Linux?
+
+If you have been able to ditch Adobe; if you see all this and say, hell yes, liberate me from my technocratic overlords; then you can probably try ditching Apple, Microsoft, Google, etc. You should give GNU/Linux a try.
+
+- Ubuntu
+- PopOS
+- Manjaro
+
+- GNOME
+- XFCE
+- i3wm
+
+This starts to make way more sense even then designing software -- the way your computer looks, works, etc. -- shouldn't a designer weild some control over how a tool works? how their main "studio" is setup -- how it acts, behaves, interfaces???
+
 ## New (old) Machines
 
+An advantage of all this is that you might et more life out of an old machine; you might get more life out of an underpowered machine...
+
+I mean if you want to be hardcore...
+
+- Old windows laptops: The more standard the better for old hardware; linux tech entusiasts really like the thinkpad line of computers
+- Generally Apples, particularly the newer couple of varieties, are making worse and worse options. There is so much proprietary stuff on them; the trackpads are hard to talk to for most linux kernels; the newest models with the A2 security chips are nearly impossible to utilize with linux...
+- Libre companies: 
+  - system76
+  - Purism
+  - Pine
+  - RaspberryPi
+  - PiTop
+  - ThinkPeguin...
+  - List some options...
+  
 ## Time for practice!
+
+So, you've changed image sources; you've changed fonts; you liberated your tools and your computer and OS... how to liberate your works?
+
+As you start down this path you will find and see so many more opportunities... (like jitsi meet instead of zoom)
+
+Now, your software, and maybe even your hardware, are liberated. You can use images, fonts, and programs that may be bent to your whims and will and flight of fancy. Great. How do you do something with them now that embraces all the same ideals as a process for producing work and future works?
+
+How can you make your making liberated too?
+
+### Share more
+### Version Control
+### What else? (braithwaite OS design vid)
 
 ## What's hard? What's Bad? What's not easy?
 
+In general; this stuff isn't easy. It's hard to just set out and do all of this -- even the imagery and fonts stuff because there is expectation that designer's use certain type from certain places; you might be asked specifically to go to certian photographers or certain stock photo sites or be given aready unfree things to work with. Choosing to abandon adobe and apple... well, you probably can't do that if you have any sort of normal design job... ????
+
 ## Conclusion
+In general; the main thing keeping us from this is the desire of the status quo not to change. Neoliberalism works best when we all do what it wants. "free markets" not "free software".
+
+The goal of this isn't actually full F/LOS adoption. I mean, my libre designer character, that's their goal; but in my own actual work, it isn't always possible to abandon everything every one else is using and doing. 
+
+Think of this really as a way to do more; to have more tools; to have more ways of doing things
+
+How might this help you remove bias? what other kinds of interfaces might you now see and experience? What other kinds of interfaces and systems and opinions will you run into???
+
+Designers are supposed to be designing fabulous interfaces. But! almost all of us use the same software on the same computers and so have an incredibly limited range of ideas for what makes an interface; for what makes a good interface; for what makes an accesible interfaces...
+
+Think about this: the way desktop publising works on a computer, it was designed by a handful of people in the 80s, specifically to be done on a tiny mac at the time...you know like 8 key people decided a direction and a bunch of semiotic symbols for how to do things, for what features and icons and whatever else exist in these places... How much has changed since then? how much the same are these programs and ecosystems? Can steve jobs, Warnock, and (Page maker dude)'s ideas and decisions they made leading up to 1984 still be the right ones in the present we find ourselves in? Maybe some of these other tools grasp that ???
+
+There are tools here that don't exist on a mac or windows machine; that's rad!
+
+### File Formats? (where should this go??)
+If you've gotten this far, you might start to think about file formats -- how can i still share or fix things if I for some reason don't have access to what I need?? file formats are way more universal; standarad. Even a smaller bacl can be used in a retauranta? TMI
+
+
+
