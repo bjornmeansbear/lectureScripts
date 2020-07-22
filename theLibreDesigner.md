@@ -78,6 +78,8 @@ I'm interested in this for a few reasons:
 - If you are speculating other futures, and you want to get away from the "possible" and into the probable, preferrable, or impossible, well, agian, why use the regular, everyday tools?
 - I am bothered by the hegemonic sameness of so much design, is part of that because we are all using the same computers and programs?
 
+The libre designer is a utopian device; a character as in any story; to show you another way, to be emblematic of other ideals. The libre designer stands for design tools and outputs that help return cultural production
+
 There's so much to talk about :)
 
 ### A note on licenses????
@@ -257,7 +259,4 @@ Think about this: the way desktop publising works on a computer, it was designed
 There are tools here that don't exist on a mac or windows machine; that's rad!
 
 ### File Formats? (where should this go??)
-If you've gotten this far, you might start to think about file formats -- how can i still share or fix things if I for some reason don't have access to what I need?? file formats are way more universal; standarad. Even a smaller bacl can be used in a retauranta? TMI
-
-
-
+If you've gotten this far, you might start to think about file formats -- how can i still share or fix things if I for some reason don't have access to what I need?? file formats are way more universal; standarad. If you ar
