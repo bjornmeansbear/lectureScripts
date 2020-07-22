@@ -136,6 +136,17 @@ Eli Heuer?
 
 I dig velvetyne, who are french, and then this italian foundry, (TK), and the League of Moveable Type...
 
+- https://fonts.google.com/
+- https://beautifulwebtype.com/
+- https://www.are.na/kristian-bjornard/libretype
+- https://github.com/opensourcedesign/fonts
+- http://metapolator.com/home/
+- https://www.metaflop.com/
+- https://usemodify.com/
+- https://www.velvetyne.fr/
+- https://www.design-research.be/by-womxn/
+- https://fontlibrary.org/
+
 A cool aspect of these fonts then is also you can not only get the fonts to use on your machine(s), share them with your clients and printers and friends and colleagues witout worry... you can also for the most part find and download the acutal source files used to to make th fonts. Does the F/LOS typeface you like not have a certain character or weight? well download the UFOs and edit it! Do you want to make a custom typeface for a client as part of their identity? find the thing closest to your vision from the F/LOS world and tweak it!
 
 ### Quality of Fonts?
