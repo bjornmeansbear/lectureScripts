@@ -40,35 +40,52 @@ Now, onto the libre designing.
 ## Introduction?
 For this array of ideas, I'm first going to introduce you to F/LOS if you haven't really had much of an introduction to it in the past. Then I'll try to outline from simple to complex how a designer "liberates" their practice. At the end, and throughout, I'll point out reasons that perhaps this isn't more mainstream incase you're not already thinking that... 
 
-Some Trigger Warnings: 
+Some Content Warnings: 
 - I will be derogatory towards neoliberalism
-- I will probably mention Marx, Communism, Henry George, Mutual Aid, Peter Kroptopkin, and other socialist and anarchist and libertarian thinkers
+- I will mention Marx, Communism, Henry George, Mutual Aid, Peter Kroptopkin, and other socialist, anarchist and libertarian thinkers
+- I will bring up issues of structural racism and sexism
 - ???
 
 The foundations to the Free/Libre Open Source arena has several interesting connections to the greater domain of Graphic Design. As such, I continue to be surprised how little our discipline seems to know about and partake in this world -- outside of web design.
 
-So, two quick anecdotes:
+I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning. There is a great anecdote about Donal Knuth and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes TeX and Metafont, super great ideas that you can still use today ... And then the origins of freesoftware and GNU are that Richard Stallman is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software... 
 
-1. Donald Knuth & TeX & Metafont.
-2. Richard Stallman & an annoying printer.
-3. Garth Braithwaite?
-4. Anything else?
-
-If you want to investigate this all more; I highly recommend finding out more about Donald Knuth and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf https://www.overleaf.com/
+If you want to investigate this all more; I highly recommend finding out more about Donald Knuth -- he is just an amazing person -- and Tex and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf https://www.overleaf.com/. There are some cool old videos of him showing people how to use computers in the 80s...
 
 You can also read all sorts of history and foundational information from, by, and about the Free Software foundation (https://www.fsf.org/) and GNU (http://www.gnu.org/)...
 
-And then there is "The Cathedral and the Bazaar" by Eric Raymond, which does a good job outlining how Linus Torvalds created his world of distributed hackers to rapidly build and improve upon the Linux Kernel as it evolved... This is also a foundational text for how "Free/Libre" became "Open Source"...
+Oh, And then there is "The Cathedral and the Bazaar" by Eric Raymond, which does a good job outlining how Linus Torvalds created his world of distributed hackers to rapidly build and improve upon the Linux Kernel as it evolved... This is also a foundational text for how "Free/Libre" became "Open Source"... And can be useful for thinking about how or why "Open Source" is so pervasive in web design...
 
-### Libre Not Gratis
-Free as in Freedom, not as in price! You can still charge money for F/LOS; the point is to not stop someone from doing what they want with a thing (like when you buy physical objects)
+### Libre Not Gratis / Free as in Freedom
+What is Libre Graphics?
 
-?
+When I say "Libre Graphics" I am linking to the Free/Libre part of Free/Libre Open Source.
+
+When "free" software started it was about the freedom to do with software as you pleased.
+
+FSF 4 freedoms.
+
+Free as in Freedom, not as in price! (Libre not Gratis) You can still charge money for F/LOS; the point is to not stop someone from doing what they want with a thing (like when you buy physical objects). The point is not to give everyting away and go broke and die destitute in the gutter. I'll try to point out as we go why this is useful.
+
+### So, what is the libre designer?
+
+I say "libre design" instead of "free design" for the same reason -- we don't want people to think that this design shouldn't cost anything; that it should be free to have done or to use; but that it should be about increasing people's freedoms, increasing liberty; not locking someone into a software or design ecosystem. Not prohibiting someone from doing what they need to do or want to do with a design tool; with a design. 
+
+I'm interested in this for a few reasons:
+- from a sustainability angle, many of the status quos ideals and practices are not useful; endlessly upgrading computers and software; intentional obsolescence...
+- If we are decentering, decolonzing, anti-racisting design; well then we can't use white supremacist computers, software, tools.
+- Historically culture is created using processes F/LOS is often recreating
+- If you are speculating other futures, and you want to get away from the "possible" and into the probable, preferrable, or impossible, well, agian, why use the regular, everyday tools?
+- I am bothered by the hegemonic sameness of so much design, is part of that because we are all using the same computers and programs?
+
+There's so much to talk about :)
 
 ### A note on licenses????
 There are so many... we can dive into this more at the end if anyone cares; but in general there are truely free/libre licenses like GPL, CC share alikes, Apache; and then there are permissive license, MIT being the most used/known one. Basically, the libre licenses say that if you want to use this, great, but whatever you use it in also has to be open and shared in the same way. the permissive licenses say you can use this, and all you have to do is try to make it clear that you used this in your program or code somehwere; you _do not_ have to share your code the way I've shared mine... One is viral; one is isn't...
 
-So! how to get started as a Libre Designer!
+### So! how to get started as a Libre Designer!
+
+We'll start from the most clear and concrete things and end with the big, abstract, blurry ways to liberate your designing.
 
 ## Tragedy of the commons
 
