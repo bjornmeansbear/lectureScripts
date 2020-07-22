@@ -9,6 +9,10 @@ Twitch: https://www.twitch.tv/libredesigner
 
 >>>>>>>>
 
+The realm of Free/Libre Open Source (F/LOS) offers deisgners not only a pragmatic approach reviving how sociocultural artifacts have historically been created, but also a critical approach that, through utilizing ideologically based software and tools (and having far more easy of access to software and tools) intentionally positions itself as antidote to status-quo capitalism. A designer will find more ways to make; less obstructions to their creative vision; and the ability to learn from and to give back to a community.
+
+>>>>>>>>
+
 I am writing this as a sort of lecture/essay -- but I will first be giving this as a series of live streams on Twitch (I hope); then as a "virtual workshop;" then perhaps as a presentation at a small DrupalCon...
 
 Anyway, the goal here is to point out simple to complex opportunities for a designer to start to integrate the practice and ideology of open source into their practice.
@@ -210,6 +214,9 @@ Now, your software, and maybe even your hardware, are liberated. You can use ima
 How can you make your making liberated too?
 
 ### Share more
+
+
+
 ### Version Control
 ### What else? (braithwaite OS design vid)
 
