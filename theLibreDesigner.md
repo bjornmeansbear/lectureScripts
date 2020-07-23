@@ -61,7 +61,7 @@ What is Libre Graphics?
 
 When I say "Libre Graphics" I am linking to the Free/Libre part of Free/Libre Open Source.
 
-When "free" software started it was about the freedom to do with software as you pleased.
+When "free" software st arted it was about the freedom to do with software as you pleased.
 
 FSF 4 freedoms.
 
@@ -70,6 +70,8 @@ Free as in Freedom, not as in price! (Libre not Gratis) You can still charge mon
 ### So, what is the libre designer?
 
 I say "libre design" instead of "free design" for the same reason -- we don't want people to think that this design shouldn't cost anything; that it should be free to have done or to use; but that it should be about increasing people's freedoms, increasing liberty; not locking someone into a software or design ecosystem. Not prohibiting someone from doing what they need to do or want to do with a design tool; with a design. 
+
+Basically I mean that the recipe for any design should be shared for anyone to use; and the software, tools, or equipment should be as shareable and attainable too (like you might still have to buy equipment; but ideally its "open" as well so that you can hack and customize and control physical and digital equipment the way you need to while executing the recipe the way you want as well).
 
 I'm interested in this for a few reasons:
 - from a sustainability angle, many of the status quos ideals and practices are not useful; endlessly upgrading computers and software; intentional obsolescence...
@@ -200,6 +202,13 @@ There are things like ImageMagick and GhostScript that are basically background 
 ### If you only remember one thing...
 The key to all of this is to properly mentally frame this for yourself. Try to think of everything I show you or talk about today not as direct replacements for your regular processes or tools; but as reasonable alternatives -- they might do things differently; but you'll be able to end up at the same final result: well designed graphic objects...
 
+### File Formats? (where should this go??)
+If you've gotten this far, you might start to think about file formats -- how can i still share or fix things if I for some reason don't have access to what I need?? file formats are way more universal; standard in the F/LOS world.
+
+For example, .SVG is a standard, open file format for web AND print. Illustrator can also read it. So can Sketch. So can Figma. SVG is really an XML document, so you can even read/edit SVGs with textedit or whatever coding IDE you like.
+
+This is true across the F/LOS ecosystem. Usually, whatever file formats are used are open; or if not, then they try to be some sort of plaintext (XML or other sort of text doc) to try and make readability even without the right tool, possible... Scribus documents are also really just XMl files, look you can see more or less what's happening here in VSCode; and I can even edit the file here, save it, and when I reopen it in Scribus my document will have a new page. Here's what happens when you try to open an illustrator file in VSCode...
+
 ## Time for an Operating System Update
 
 So you think you want to try GNU/Linux?
@@ -214,16 +223,20 @@ If you have been able to ditch Adobe; if you see all this and say, hell yes, lib
 - XFCE
 - i3wm
 
-This starts to make way more sense even then designing software -- the way your computer looks, works, etc. -- shouldn't a designer weild some control over how a tool works? how their main "studio" is setup -- how it acts, behaves, interfaces???
+This starts to make way more sense even then designing software -- the way your computer looks, works, etc. -- shouldn't a designer weild some control over how a tool works? how their main "studio" is setup -- how it acts, behaves, interfaces??? You can actually desing your interfaces; design your own icons; pick whatever typefaces you want to display wherever you want -- It's way more of a design dream!
 
 ## New (old) Machines
 
+Most of the GNU/Linux OS world is meant to run on MANY kinds of computers; from tiny internet of things chipsets to big mainframes and everything in between. That means that its a lot easier to get a basic install of GNU/Linux running on whatever you have laying around than MacOS or Windows... You also have sizeable control over what GUI you use; os you can preserve resources for running software or rendering 4D graphics over giving all your finder windows dropshadows and animated effects.
+
 An advantage of all this is that you might et more life out of an old machine; you might get more life out of an underpowered machine...
+
+You should be able to fix your computer if it breaks; you should be able to customize your computers if you desire; increasingly this is getting impossible -- it was already hard with Apples, but now most manufacturers are heading this route, especially for laptops. Using older or more liberated computer workstations means you have many more options for customization;  
 
 I mean if you want to be hardcore...
 
-- Old windows laptops: The more standard the better for old hardware; linux tech entusiasts really like the thinkpad line of computers
-- Generally Apples, particularly the newer couple of varieties, are making worse and worse options. There is so much proprietary stuff on them; the trackpads are hard to talk to for most linux kernels; the newest models with the A2 security chips are nearly impossible to utilize with linux...
+- Old windows laptops: The more standard the better for old hardware; GNU/linux tech entusiasts really like the thinkpad line of computers
+- Generally Apples, particularly the newer couple of varieties, are making harder and harder to use options. There is so much proprietary stuff on them; the trackpads are hard to talk to for most linux kernels; the newest models with the A2 security chips are nearly impossible to utilize with linux...
 - Libre companies: 
   - system76
   - Purism
@@ -232,7 +245,7 @@ I mean if you want to be hardcore...
   - PiTop
   - ThinkPeguin...
   - List some options...
-  
+
 ## Time for practice!
 
 So, you've changed image sources; you've changed fonts; you liberated your tools and your computer and OS... how to liberate your works?
@@ -243,12 +256,51 @@ Now, your software, and maybe even your hardware, are liberated. You can use ima
 
 How can you make your making liberated too?
 
-### Share more
+How to apply F/LOS to designing?
 
-
+### Why Share more
+- If we are open and share our designs, whatever, it is easier as a novice to learn how something is done; you can partake in freedom 1 -- studying, etc.
+- Can we adapt to changes or different workflows more easily and quickly?
+- More collisions of ideas?
+- iterate design solutions instead of creating new ones all the time?
+- it's fun?
 
 ### Version Control
+To help share more; to make it clear
+
 ### What else? (braithwaite OS design vid)
+If designers participate this way what does it look like?
+Garth Braithwaite: https://www.youtube.com/watch?v=djf8sLjtbzU
+
+1. Share your process
+just be more open about what you are doing (if you are able!?). Share what you are going through, success and failures -- maybe it is more important to share your failures frankly. Mention who inspired you or that you built off of. Be more transparent about who your mentors, inspirations, etc. were. This builds community; shows the interconnected nature of work and ideas.
+
+2. Share your Source Files
+If you can, share your files. I mean it is even better if you could always write a tutorial or documentation; but just sharing your files with libre licensing allows others to learn from how you've made things by just opening them up and poking around.
+
+3. Whenver possible use text-editable Code (XML, HTML, JS, Python, plaintext, MD, Whatever)
+It is the easiest thing to work with on any system with any tools one desires. It is also easiest to version control. AND if you are designing for the web and you try to design with HTML/CSS you can easily preview it on the real systems that you're designing for.
+
+4. Collaborate.
+Design is frequently not a "hey lets get together and make some stuff" discipline. Its often about being a singular design visionary; a design hero; and this is partially the fault of design history... 
+
+5. Donate!?
+If you make something things that don't end up being needed for a project, can you just donate them to the public domain? or with a CC license that allows sharing and remixing?
+
+6. Contribute
+Can you design for the community in some way? how can you offer design skills back to other open projects? if you like a libre font, can you make sure to contribute design work you've made with it as examples for the type designers? build a webpage for an open project that needs a website? mockup alternative interface ideas for a tool? share tempaltes for Scribus? or Inkscape? Just submit issues, or go through issues related to design stuff and then try to answer other people's questions?
+
+### Why don't designers F/LOS?
+- Won't get credit
+- Pride
+- Unreasonable Greed. I don't want to give this away cause it might make me money!
+- don't want to be judged for how the sausage is made
+- file formats
+- tooling
+- fear of "design by committee"
+- lack of desire
+
+Its not just that designers CAN open source; but the benefits are so good; we're foolish not to be more open. And there are some designers trying out these methods... but as an industry we're still just really tied to 
 
 ## What's hard? What's Bad? What's not easy?
 
@@ -257,9 +309,7 @@ In general; this stuff isn't easy. It's hard to just set out and do all of this 
 ## Conclusion
 In general; the main thing keeping us from this is the desire of the status quo not to change. Neoliberalism works best when we all do what it wants. "free markets" not "free software".
 
-The goal of this isn't actually full F/LOS adoption. I mean, my libre designer character, that's their goal; but in my own actual work, it isn't always possible to abandon everything every one else is using and doing. 
-
-Think of this really as a way to do more; to have more tools; to have more ways of doing things
+The goal of this isn't actually full F/LOS adoption. I mean, my libre designer character I like to play, that's their goal; but in my own actual work, it isn't always possible to abandon everything every one else is using and doing. Clients will need you sometimes to make a book in InDesign; you might need to work in AfterEffects to work on your team... Instead of taking the extreme view, think of this really as a way to do more; to have more tools; to have more ways of doing things; to be able to make every more formal experiments; to better tie formal choices
 
 How might this help you remove bias? what other kinds of interfaces might you now see and experience? What other kinds of interfaces and systems and opinions will you run into???
 
@@ -269,5 +319,7 @@ Think about this: the way desktop publising works on a computer, it was designed
 
 There are tools here that don't exist on a mac or windows machine; that's rad!
 
-### File Formats? (where should this go??)
-If you've gotten this far, you might start to think about file formats -- how can i still share or fix things if I for some reason don't have access to what I need?? file formats are way more universal; standarad. If you ar
+>>>>>>>
+
+Other Resources:
+- What is Open Source Explained in Lego: https://www.youtube.com/watch?v=a8fHgx9mE5U&list=TLPQMjMwNzIwMjDvdkWAxlxtzw&index=2
