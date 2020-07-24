@@ -4,6 +4,28 @@
 
 >>>>>>>>
 
+MICAGD Summer Camp
+
+LIBRE GRAPHICS with Kristian Bjornard
+
+20200724 Update: My plan to use the F/LOS video conferencing platform JitSi Meet is not quite working out, so we will be switcing to a zoom call!? And just a heads up incase it wasn't clear, this is less a "workshop" and more of a lecture/walkthrough w/ Q&A and some discussion.
+
+A general outline for things I'll be trying to talk about can be found on GitHub: <https://github.com/bjornmeansbear/lectureScripts/blob/master/theLibreDesigner.md>. And I'll also be trying to maintain an up to date document as things transpire during our time together on EtherPad; this can also be a way other than just zoom chat that links can be shared and questions can be coauthored or expanded upon in real time: <https://etherpad.wikimedia.org/p/thelibredesigner>.
+
+Optional Homework: If you are totally new to the ideas of Free/Libre and Open Source, here is a great quick intro as to "what is open source" <https://www.youtube.com/watch?v=a8fHgx9mE5U&list=TLPQMjMwNzIwMjDvdkWAxlxtzw&index=2> . You could look into the Free Software Foundation's definition of free software: <https://www.gnu.org/philosophy/free-sw.html>.
+
+So, I look forward to seeing you all on Monday on Zoom [zoom link?]
+
+---
+
+Tired of giving over all your money, attention, and energy to our Neo-liberal capitalist oligarchs? While to get paid you still might have to design for them; you do not have to use the software and computers made by them! Come on a tour of wild world of Free/Libre and Open Source Software available for Graphic Designing. (Inkscape, ImageMagick, Nodebox, Blender, etc.). There will be time for Q&A.
+
+Requirements: ~A Chromium (like Chrome) based browser; access to Jitsi.org;~ Now on Zoom, but still, you need the desire to liberate culture.
+
+July 27, 7–9pm
+
+>>>>>>>>
+
 For the 20200727 MICA GD Summer Camp version I'll be live streaming on youtube & there will be a live, dynamic document/chat up on etherpad: <https://etherpad.wikimedia.org/p/thelibredesigner>
 
 Twitch: <https://www.twitch.tv/libredesigner>
@@ -349,5 +371,6 @@ There are tools here that don't exist on a mac or windows machine; that's rad!
 Other Resources:
 
 - What is Open Source Explained in Lego: <https://www.youtube.com/watch?v=a8fHgx9mE5U&list=TLPQMjMwNzIwMjDvdkWAxlxtzw&index=2>
+- Garth Braithwaite; Designers CAN Open Source: <https://www.youtube.com/watch?v=djf8sLjtbzU>
 
 I should flesh this out heavily!!?
