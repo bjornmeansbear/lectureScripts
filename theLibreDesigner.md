@@ -41,7 +41,7 @@ Now, onto the libre designing.
 
 ## An Introduction
 
-For this array of ideas, I'm first going to introduce you to F/LOS if you haven't really had much of an introduction to it in the past. Then I'll try to outline from simple to complex how a designer "liberates" their practice. At the end, and throughout, I'll point out reasons that perhaps this isn't more mainstream incase you're not already thinking that... 
+For this array of ideas, I'm first going to introduce you to F/LOS if you haven't really had much of an introduction to it in the past. Then I'll try to outline from simple to complex how a designer "liberates" their practice. At the end, and throughout, I'll point out reasons that perhaps this isn't more mainstream incase you're not already thinking that...
 
 Some Content Warnings:
 
@@ -52,17 +52,19 @@ Some Content Warnings:
 
 The foundations to the Free/Libre Open Source arena has several interesting connections to the greater domain of Graphic Design. As such, I continue to be surprised how little our discipline seems to know about and partake in this world -- outside of web design.
 
-I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning. There is a great anecdote about Donal Knuth and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes TeX and Metafont, super great ideas that you can still use today ... And then the origins of freesoftware and GNU are that Richard Stallman is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software... 
+I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning. There is a great anecdote about Donal Knuth and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes TeX and Metafont, super great ideas that you can still use today ... And then the origins of freesoftware and GNU are that Richard Stallman is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software...
 
 If you want to investigate this all more; I highly recommend finding out more about Donald Knuth -- he is just an amazing person -- and Tex and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf <https://www.overleaf.com/>. There are some cool old videos of him showing people how to use computers in the 80s...
 
-You can also read all sorts of history and foundational information from, by, and about the Free Software foundation (https://www.fsf.org/) and GNU (<http://www.gnu.org/>)...
+You can also read all sorts of history and foundational information from, by, and about the Free Software foundation (<https://www.fsf.org/>) and GNU (<http://www.gnu.org/>)...
 
 Oh, And then there is "The Cathedral and the Bazaar" by Eric Raymond, which does a good job outlining how Linus Torvalds created his world of distributed hackers to rapidly build and improve upon the Linux Kernel as it evolved... This is also a foundational text for how "Free/Libre" became "Open Source"... And can be useful for thinking about how or why "Open Source" is so pervasive in web design...
 
-What sorts of common technolgy? what kinds of more general examples > 
+What sorts of common technolgy? what kinds of more general examples can I give them?
 
 AIGA/USDOT highway signage icons
+
+The Idea of a RECIPE.
 
 ### Libre Not Gratis / Free as in Freedom
 
@@ -76,9 +78,9 @@ FSF 4 freedoms.
 
 Free as in Freedom, not as in price! (Libre not Gratis) You can still charge money for F/LOS; the point is to not stop someone from doing what they want with a thing (like when you buy physical objects). The point is not to give everyting away and go broke and die destitute in the gutter. I'll try to point out as we go why this is useful.
 
-### So, what is the libre designer?
+### So, what is the libre designer
 
-I say "libre design" instead of "free design" for the same reason -- we don't want people to think that this design shouldn't cost anything; that it should be free to have done or to use; but that it should be about increasing people's freedoms, increasing liberty; not locking someone into a software or design ecosystem. Not prohibiting someone from doing what they need to do or want to do with a design tool; with a design. 
+I say "libre design" instead of "free design" for the same reason -- we don't want people to think that this design shouldn't cost anything; that it should be free to have done or to use; but that it should be about increasing people's freedoms, increasing liberty; not locking someone into a software or design ecosystem. Not prohibiting someone from doing what they need to do or want to do with a design tool; with a design.
 
 Basically I mean that the recipe for any design should be shared for anyone to use; and the software, tools, or equipment should be as shareable and attainable too (like you might still have to buy equipment; but ideally its "open" as well so that you can hack and customize and control physical and digital equipment the way you need to while executing the recipe the way you want as well).
 
@@ -113,7 +115,7 @@ The easiest way to get started on this adventure is to change the photos, illust
 
 Okay! so what does F/LOS mean to imageS?
 
-So what we're looking for when we are looking for F/LOS imagery is imagery that is somehow licensed for anyone to do with it as they want. This often takes the form of "public domain" or "creative commons" or sometimes the "free art" or "libre art" license. 
+So what we're looking for when we are looking for F/LOS imagery is imagery that is somehow licensed for anyone to do with it as they want. This often takes the form of "public domain" or "creative commons" or sometimes the "free art" or "libre art" license.
 
 ** Add some things from Copy This book here? or at least reference it? or say if you want to learn a lot more about copyright and how these ideas fit togeter with contract law for traditioanl practice ou might like this book?
 
@@ -163,13 +165,13 @@ I dig velvetyne, who are french, and then this italian foundry, (TK), and the Le
 
 A cool aspect of these fonts then is also you can not only get the fonts to use on your machine(s), share them with your clients and printers and friends and colleagues witout worry... you can also for the most part find and download the acutal source files used to to make th fonts. Does the F/LOS typeface you like not have a certain character or weight? well download the UFOs and edit it! Do you want to make a custom typeface for a client as part of their identity? find the thing closest to your vision from the F/LOS world and tweak it!
 
-### Quality of Fonts?
+### Quality of Fonts
 
 The universe of F/LOS fonts can sometimes feel limited... and can sometimes feel less-than in terms of quality. I would say that in general, while you might not end up with as many typographic nicities; real small caps, different styles of numbers, etc. this isn't always the case. Many of these F/LOS fonts are designed to serve populations, users, audiences, etc. historically not served. SIL for example, an organization who has done a lot for Libre Fonts (<https://software.sil.org/fonts/>) has many fonts with huge character sets so they could set their materials in as many languages as possible (they provide language tools to all manner of commnunites)...
 
 Often over time F/LOS fonts evolve to have more features just like software, etc. Raleway for exmaple was launched w/ one thin weight by TLOMT (<https://www.theleagueofmoveabletype.com/raleway>); but was forked and the incarnation that lives on google fonts has 9 weights, and italics, and even an extra display version, raleway dots. <https://fonts.google.com/specimen/Raleway?query=raleway#standard-styles> & <https://fonts.google.com/specimen/Raleway+Dots?query=raleway>
 
-### Font Management?
+### Font Management
 
 Font management is both easy and terrible with F/LOS offerings and on Linux in general. As far as applications for font management go, there's not a lot, and the one good-ish one upkept by a designery person is no longer maintained... So you're stuck manually putting things in the right places. The good part of that is that, well, using MacOS depending on what you're useing you can just use whatever font manager you're already using... Some of the F/LOS tools however, they just don't know to look for fonts anywhere except the main system folder... This is hard to add/delete fonts from if you're a regular computer user... but in Linux, there is pretty much only the sytem repo for fonts, so thus the bias/seemingly annoying "feature" (or "bug" depending on your view)
 
@@ -291,7 +293,7 @@ To help share more; to make it clear
 ### What else? (braithwaite OS design vid)
 
 If designers participate this way what does it look like?
-Garth Braithwaite: https://www.youtube.com/watch?v=djf8sLjtbzU
+Garth Braithwaite: <https://www.youtube.com/watch?v=djf8sLjtbzU>
 
 1. Share your process
 just be more open about what you are doing (if you are able!?). Share what you are going through, success and failures -- maybe it is more important to share your failures frankly. Mention who inspired you or that you built off of. Be more transparent about who your mentors, inspirations, etc. were. This builds community; shows the interconnected nature of work and ideas.
@@ -303,7 +305,7 @@ If you can, share your files. I mean it is even better if you could always write
 It is the easiest thing to work with on any system with any tools one desires. It is also easiest to version control. AND if you are designing for the web and you try to design with HTML/CSS you can easily preview it on the real systems that you're designing for.
 
 4. Collaborate.
-Design is frequently not a "hey lets get together and make some stuff" discipline. Its often about being a singular design visionary; a design hero; and this is partially the fault of design history... 
+Design is frequently not a "hey lets get together and make some stuff" discipline. Its often about being a singular design visionary; a design hero; and this is partially the fault of design history...
 
 5. Donate!?
 If you make something things that don't end up being needed for a project, can you just donate them to the public domain? or with a CC license that allows sharing and remixing?
@@ -311,7 +313,7 @@ If you make something things that don't end up being needed for a project, can y
 6. Contribute
 Can you design for the community in some way? how can you offer design skills back to other open projects? if you like a libre font, can you make sure to contribute design work you've made with it as examples for the type designers? build a webpage for an open project that needs a website? mockup alternative interface ideas for a tool? share tempaltes for Scribus? or Inkscape? Just submit issues, or go through issues related to design stuff and then try to answer other people's questions?
 
-### Why don't designers F/LOS?
+### Why don't designers F/LOS
 
 - Won't get credit
 - Pride
@@ -322,9 +324,9 @@ Can you design for the community in some way? how can you offer design skills ba
 - fear of "design by committee"
 - lack of desire
 
-Its not just that designers CAN open source; but the benefits are so good; we're foolish not to be more open. And there are some designers trying out these methods... but as an industry we're still just really tied to 
+Its not just that designers CAN open source; but the benefits are so good; we're foolish not to be more open. And there are some designers trying out these methods... but as an industry we're still just really tied to.
 
-## What's hard? What's Bad? What's not easy?
+## What's hard? What's Bad? What's not easy
 
 In general; this stuff isn't easy. It's hard to just set out and do all of this -- even the imagery and fonts stuff because there is expectation that designer's use certain type from certain places; you might be asked specifically to go to certian photographers or certain stock photo sites or be given aready unfree things to work with. Choosing to abandon adobe and apple... well, you probably can't do that if you have any sort of normal design job... ????
 
@@ -345,6 +347,7 @@ There are tools here that don't exist on a mac or windows machine; that's rad!
 >>>>>>>
 
 Other Resources:
-- What is Open Source Explained in Lego: https://www.youtube.com/watch?v=a8fHgx9mE5U&list=TLPQMjMwNzIwMjDvdkWAxlxtzw&index=2
+
+- What is Open Source Explained in Lego: <https://www.youtube.com/watch?v=a8fHgx9mE5U&list=TLPQMjMwNzIwMjDvdkWAxlxtzw&index=2>
 
 I should flesh this out heavily!!?
