@@ -1,11 +1,12 @@
 # The Libre Designer
+
 (or; why designer's don't f/los)
 
 >>>>>>>>
 
-For the 20200727 MICA GD Summer Camp version I'll be live streaming on youtube & there will be a live, dynamic document/chat up on etherpad: https://etherpad.wikimedia.org/p/thelibredesigner
+For the 20200727 MICA GD Summer Camp version I'll be live streaming on youtube & there will be a live, dynamic document/chat up on etherpad: <https://etherpad.wikimedia.org/p/thelibredesigner>
 
-Twitch: https://www.twitch.tv/libredesigner
+Twitch: <https://www.twitch.tv/libredesigner>
 
 >>>>>>>>
 
@@ -21,7 +22,8 @@ Welcome.
 
 My name is Kristian Bjornard. I teach a variety of Graphic Design classes at the Maryland Institute College of art -- mainly open studios for the seniors where they work on their capstone design projects, and then some web and motion and interactivity related courses for sophmores and juniors, and the occasional elective dealin
 
-## Brief Background?
+## Some Brief Background
+
 I first got into Free/Libre Open Source back in 2006. My first real, intentional entry into this world was using Drupal, a then novel content management system, to build websites. It seemed too good to be true -- tons of people all over the world collaborating together to make a family of modules for doing all kinds of complex web things! Here was this amazing thing and it was free to download and free to use for whatever and however I chose? At the time I could never do too much more than occasionally participate in discussions around theming... but! Woah!
 
 I ended up druapaling for a while... and then when I started getting much more into thinking about how design might be more sustainable, I was thikning about vernacular buildings[How buildings learn by Stewart Brand] and then how open source software like drupal evolved over time and adapted much like vernacular biuldings... and bam! I thought, oh, maybe something about f/los was more sustainable? I was also thinking that something like a typeface was important to make more accessible to more people for the purposes of sustainablity -- ... and again, Libre type accomplished this...
@@ -37,10 +39,12 @@ This really got to be part of my practice when I ran a class about "Open Source 
 
 Now, onto the libre designing.
 
-## Introduction?
+## An Introduction
+
 For this array of ideas, I'm first going to introduce you to F/LOS if you haven't really had much of an introduction to it in the past. Then I'll try to outline from simple to complex how a designer "liberates" their practice. At the end, and throughout, I'll point out reasons that perhaps this isn't more mainstream incase you're not already thinking that... 
 
-Some Content Warnings: 
+Some Content Warnings:
+
 - I will be derogatory towards neoliberalism
 - I will mention Marx, Communism, Henry George, Mutual Aid, Peter Kroptopkin, and other socialist, anarchist and libertarian thinkers
 - I will bring up issues of structural racism and sexism
@@ -50,13 +54,18 @@ The foundations to the Free/Libre Open Source arena has several interesting conn
 
 I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning. There is a great anecdote about Donal Knuth and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes TeX and Metafont, super great ideas that you can still use today ... And then the origins of freesoftware and GNU are that Richard Stallman is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software... 
 
-If you want to investigate this all more; I highly recommend finding out more about Donald Knuth -- he is just an amazing person -- and Tex and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf https://www.overleaf.com/. There are some cool old videos of him showing people how to use computers in the 80s...
+If you want to investigate this all more; I highly recommend finding out more about Donald Knuth -- he is just an amazing person -- and Tex and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf <https://www.overleaf.com/>. There are some cool old videos of him showing people how to use computers in the 80s...
 
-You can also read all sorts of history and foundational information from, by, and about the Free Software foundation (https://www.fsf.org/) and GNU (http://www.gnu.org/)...
+You can also read all sorts of history and foundational information from, by, and about the Free Software foundation (https://www.fsf.org/) and GNU (<http://www.gnu.org/>)...
 
 Oh, And then there is "The Cathedral and the Bazaar" by Eric Raymond, which does a good job outlining how Linus Torvalds created his world of distributed hackers to rapidly build and improve upon the Linux Kernel as it evolved... This is also a foundational text for how "Free/Libre" became "Open Source"... And can be useful for thinking about how or why "Open Source" is so pervasive in web design...
 
+What sorts of common technolgy? what kinds of more general examples > 
+
+AIGA/USDOT highway signage icons
+
 ### Libre Not Gratis / Free as in Freedom
+
 What is Libre Graphics?
 
 When I say "Libre Graphics" I am linking to the Free/Libre part of Free/Libre Open Source.
@@ -74,6 +83,7 @@ I say "libre design" instead of "free design" for the same reason -- we don't wa
 Basically I mean that the recipe for any design should be shared for anyone to use; and the software, tools, or equipment should be as shareable and attainable too (like you might still have to buy equipment; but ideally its "open" as well so that you can hack and customize and control physical and digital equipment the way you need to while executing the recipe the way you want as well).
 
 I'm interested in this for a few reasons:
+
 - from a sustainability angle, many of the status quos ideals and practices are not useful; endlessly upgrading computers and software; intentional obsolescence...
 - If we are decentering, decolonzing, anti-racisting design; well then we can't use white supremacist computers, software, tools.
 - Historically culture is created using processes F/LOS is often recreating
@@ -84,16 +94,18 @@ The libre designer is a utopian device; a character as in any story; to show you
 
 There's so much to talk about :)
 
-### A note on licenses????
+### A note on licenses
+
 There are so many... we can dive into this more at the end if anyone cares; but in general there are truely free/libre licenses like GPL, CC share alikes, Apache; and then there are permissive license, MIT being the most used/known one. Basically, the libre licenses say that if you want to use this, great, but whatever you use it in also has to be open and shared in the same way. the permissive licenses say you can use this, and all you have to do is try to make it clear that you used this in your program or code somehwere; you _do not_ have to share your code the way I've shared mine... One is viral; one is isn't...
 
-### So! how to get started as a Libre Designer!
+### So! how to get started as a Libre Designer
 
 We'll start from the most clear and concrete things and end with the big, abstract, blurry ways to liberate your designing.
 
 ## Tragedy of the commons
 
 The easiest way to get started on this adventure is to change the photos, illustrations, icons, etc. that you might use in a project. This is easiest for several reasons:
+
 1. You don't need to change OS or software -- any "free" image works with any tools you are already using. Nothing to install; turn on; reconfigure...
 2. You don't need to ask permission; you're probably already finding these things for projects and clients anyway...
 3. You sometimes don't even have to look in new places; just change the way you search/look...
@@ -116,64 +128,62 @@ So what we're looking for when we are looking for F/LOS imagery is imagery that 
 
 Good places to get started finding this stuff...
 
-- Unsplash (https://unsplash.com/)
-- Undraw https://undraw.co/illustrations
-- the Noun Project https://thenounproject.com/
-- Creative Commons Use&Remix section: https://creativecommons.org/use-remix/ & https://search.creativecommons.org/
-- RawPixel Public Domain: https://www.rawpixel.com/category/53/public-domain
+- Unsplash (<https://unsplash.com/>)
+- Undraw <https://undraw.co/illustrations>
+- the Noun Project <https://thenounproject.com/>
+- Creative Commons Use&Remix section: <https://creativecommons.org/use-remix/> & <https://search.creativecommons.org/>
+- RawPixel Public Domain: <https://www.rawpixel.com/category/53/public-domain>
 - dover clipart / finding and scanning old things (photographic personal prints, books from before 1925)
 
 ## Libre Fonts
+
 Once you have liberated your imagery and graphics, the next level is your fonts. Almost everything will work still with your existing hardware and software, but it is a magnitude harder to find, download and install some of the F/LOS fonts compared to just images...
 
 There are some open source fonts already installed on the average computer; and adobe fonts brings in some of the google font library; so you can just turn a few on there to get started super easily
 
-https://fonts.adobe.com/foundries/google
+<https://fonts.adobe.com/foundries/google>
 
 Google fonts is doing a lot of cool new stuff. They're hitting this variable font thing pretty hard, and part of that means that almost any newer typeface is being converted to a variable font. This also means that almost all the newer google fonts have the full 9 weights + italics, so getting a font from google fonts these days doesn't really mean its limited in glyphs, weights, quality, whatever
 
-https://fonts.google.com/
+<https://fonts.google.com/>
 
 Eli Heuer?
 
 I dig velvetyne, who are french, and then this italian foundry, (TK), and the League of Moveable Type...
 
-- https://fonts.google.com/
-- https://beautifulwebtype.com/
-- https://www.are.na/kristian-bjornard/libretype
-- https://github.com/opensourcedesign/fonts
-- http://metapolator.com/home/
-- https://www.metaflop.com/
-- https://usemodify.com/
-- https://www.velvetyne.fr/
-- https://www.design-research.be/by-womxn/
-- https://fontlibrary.org/
+- [Open Font Library](https://fontlibrary.org/)
+- [Google Fonts](https://fonts.google.com/)
+- [Beautiful Web Type](https://beautifulwebtype.com/)
+- [KB Libre Type Are.na Channel](https://www.are.na/kristian-bjornard/libretype)
+- [A Repository on GitHub you can just fork and/or download](https://github.com/opensourcedesign/fonts)
+- [UseModify](https://usemodify.com/)
+- [Velvetyne](https://www.velvetyne.fr/)
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [Badass Libre Fonts by Womxn](https://www.design-research.be/by-womxn/)
 
 A cool aspect of these fonts then is also you can not only get the fonts to use on your machine(s), share them with your clients and printers and friends and colleagues witout worry... you can also for the most part find and download the acutal source files used to to make th fonts. Does the F/LOS typeface you like not have a certain character or weight? well download the UFOs and edit it! Do you want to make a custom typeface for a client as part of their identity? find the thing closest to your vision from the F/LOS world and tweak it!
 
 ### Quality of Fonts?
-The universe of F/LOS fonts can sometimes feel limited... and can sometimes feel less-than in terms of quality. I would say that in general, while you might not end up with as many typographic nicities; real small caps, different styles of numbers, etc. this isn't always the case. Many of these F/LOS fonts are designed to serve populations, users, audiences, etc. historically not served. SIL for example, an organization who has done a lot for Libre Fonts (https://software.sil.org/fonts/) has many fonts with huge character sets so they could set their materials in as many languages as possible (they provide language tools to all manner of commnunites)...
 
-Often over time F/LOS fonts evolve to have more features just like software, etc. Raleway for exmaple was launched w/ one thin weight by TLOMT (https://www.theleagueofmoveabletype.com/raleway); but was forked and the incarnation that lives on google fonts has 9 weights, and italics, and even an extra display version, raleway dots. https://fonts.google.com/specimen/Raleway?query=raleway#standard-styles & https://fonts.google.com/specimen/Raleway+Dots?query=raleway
+The universe of F/LOS fonts can sometimes feel limited... and can sometimes feel less-than in terms of quality. I would say that in general, while you might not end up with as many typographic nicities; real small caps, different styles of numbers, etc. this isn't always the case. Many of these F/LOS fonts are designed to serve populations, users, audiences, etc. historically not served. SIL for example, an organization who has done a lot for Libre Fonts (<https://software.sil.org/fonts/>) has many fonts with huge character sets so they could set their materials in as many languages as possible (they provide language tools to all manner of commnunites)...
 
-Whew!
+Often over time F/LOS fonts evolve to have more features just like software, etc. Raleway for exmaple was launched w/ one thin weight by TLOMT (<https://www.theleagueofmoveabletype.com/raleway>); but was forked and the incarnation that lives on google fonts has 9 weights, and italics, and even an extra display version, raleway dots. <https://fonts.google.com/specimen/Raleway?query=raleway#standard-styles> & <https://fonts.google.com/specimen/Raleway+Dots?query=raleway>
 
 ### Font Management?
+
 Font management is both easy and terrible with F/LOS offerings and on Linux in general. As far as applications for font management go, there's not a lot, and the one good-ish one upkept by a designery person is no longer maintained... So you're stuck manually putting things in the right places. The good part of that is that, well, using MacOS depending on what you're useing you can just use whatever font manager you're already using... Some of the F/LOS tools however, they just don't know to look for fonts anywhere except the main system folder... This is hard to add/delete fonts from if you're a regular computer user... but in Linux, there is pretty much only the sytem repo for fonts, so thus the bias/seemingly annoying "feature" (or "bug" depending on your view)
 
 ## Now for someting completely different
 
-Programs!?
+Programs!? How do you start switching your tools and programs and software!!??
 
 Your images and your typefaces are now liberated. Not its time for all your software. This is the biggest leap; the largest jump; the hardest mental chasm to bridge so far. For somethings its a no brainer; for others its a nightmare. Let's try to navigate a small amount of this more complicated territory. Think of this as a partial; an incoplete map; of a terrain...
 
-Now, today is a good day to try and find and use some of this stuff -- there have never been so many easy to install and decent to use graphics tools. For the most part, most of this stuff now has mac/windows installers now -- this was a big problem in the past; running a program in an emulator or virtual machine; having to download/install from the command line... 
+Now, today is a good day to try and find and use some of this stuff -- there have never been so many easy to install and decent to use graphics tools. For the most part, most of this stuff now has mac/windows installers now -- this was a big problem in the past; running a program in an emulator or virtual machine; having to download/install from the command line...
 
-You could start with programs that only exist as F/LOS -- things like Drawbot, OBS, Nodebox, Processing -- there aren't adobe nor native mac programs that really do these generative design things, or are rad for video streaming/screen recording... 
+You could start with programs that only exist as F/LOS -- things like Drawbot, OBS, Nodebox, Processing -- there aren't adobe nor native mac programs that really do these generative design things, or are rad for video streaming/screen recording...
 
-Once you start building up your library of F/LOS tools, to do cool things you wouldn't be able to do otherwise, you can graduate to starting to replace some of your proproietary software... 
-
-Now, don't think 
+Once you start building up your library of F/LOS tools, to do cool things you wouldn't be able to do otherwise, you can graduate to starting to replace some of your proproietary software...
 
 An incomplete list of all the libre graphics software you might want to try.
 
@@ -196,13 +206,16 @@ An incomplete list of all the libre graphics software you might want to try.
 - LibreOffice
 - VSCode
 - and so much more...
+NEED LINKS! F
 
 There are things like ImageMagick and GhostScript that are basically background applications -- you can run them from the terminal and other programs actually rely on them to do key things. Imagemagick lets you manipulate images, pdfs, etc. from the command line... (here, let me turn this PDF into a folder of jpgs) Ghostscript is a terminal based PDF creating/editing tool!?
 
-### If you only remember one thing...
+### If you only remember one thing
+
 The key to all of this is to properly mentally frame this for yourself. Try to think of everything I show you or talk about today not as direct replacements for your regular processes or tools; but as reasonable alternatives -- they might do things differently; but you'll be able to end up at the same final result: well designed graphic objects...
 
-### File Formats? (where should this go??)
+### File Formats
+
 If you've gotten this far, you might start to think about file formats -- how can i still share or fix things if I for some reason don't have access to what I need?? file formats are way more universal; standard in the F/LOS world.
 
 For example, .SVG is a standard, open file format for web AND print. Illustrator can also read it. So can Sketch. So can Figma. SVG is really an XML document, so you can even read/edit SVGs with textedit or whatever coding IDE you like.
@@ -223,6 +236,8 @@ If you have been able to ditch Adobe; if you see all this and say, hell yes, lib
 - XFCE
 - i3wm
 
+NEED LINKS???
+
 This starts to make way more sense even then designing software -- the way your computer looks, works, etc. -- shouldn't a designer weild some control over how a tool works? how their main "studio" is setup -- how it acts, behaves, interfaces??? You can actually desing your interfaces; design your own icons; pick whatever typefaces you want to display wherever you want -- It's way more of a design dream!
 
 ## New (old) Machines
@@ -237,7 +252,8 @@ I mean if you want to be hardcore...
 
 - Old windows laptops: The more standard the better for old hardware; GNU/linux tech entusiasts really like the thinkpad line of computers
 - Generally Apples, particularly the newer couple of varieties, are making harder and harder to use options. There is so much proprietary stuff on them; the trackpads are hard to talk to for most linux kernels; the newest models with the A2 security chips are nearly impossible to utilize with linux...
-- Libre companies: 
+- Libre companies:
+
   - system76
   - Purism
   - Pine
@@ -246,7 +262,9 @@ I mean if you want to be hardcore...
   - ThinkPeguin...
   - List some options...
 
-## Time for practice!
+LINKS???
+
+## Time for (your) practice
 
 So, you've changed image sources; you've changed fonts; you liberated your tools and your computer and OS... how to liberate your works?
 
@@ -259,6 +277,7 @@ How can you make your making liberated too?
 How to apply F/LOS to designing?
 
 ### Why Share more
+
 - If we are open and share our designs, whatever, it is easier as a novice to learn how something is done; you can partake in freedom 1 -- studying, etc.
 - Can we adapt to changes or different workflows more easily and quickly?
 - More collisions of ideas?
@@ -266,9 +285,11 @@ How to apply F/LOS to designing?
 - it's fun?
 
 ### Version Control
+
 To help share more; to make it clear
 
 ### What else? (braithwaite OS design vid)
+
 If designers participate this way what does it look like?
 Garth Braithwaite: https://www.youtube.com/watch?v=djf8sLjtbzU
 
@@ -291,6 +312,7 @@ If you make something things that don't end up being needed for a project, can y
 Can you design for the community in some way? how can you offer design skills back to other open projects? if you like a libre font, can you make sure to contribute design work you've made with it as examples for the type designers? build a webpage for an open project that needs a website? mockup alternative interface ideas for a tool? share tempaltes for Scribus? or Inkscape? Just submit issues, or go through issues related to design stuff and then try to answer other people's questions?
 
 ### Why don't designers F/LOS?
+
 - Won't get credit
 - Pride
 - Unreasonable Greed. I don't want to give this away cause it might make me money!
@@ -307,6 +329,7 @@ Its not just that designers CAN open source; but the benefits are so good; we're
 In general; this stuff isn't easy. It's hard to just set out and do all of this -- even the imagery and fonts stuff because there is expectation that designer's use certain type from certain places; you might be asked specifically to go to certian photographers or certain stock photo sites or be given aready unfree things to work with. Choosing to abandon adobe and apple... well, you probably can't do that if you have any sort of normal design job... ????
 
 ## Conclusion
+
 In general; the main thing keeping us from this is the desire of the status quo not to change. Neoliberalism works best when we all do what it wants. "free markets" not "free software".
 
 The goal of this isn't actually full F/LOS adoption. I mean, my libre designer character I like to play, that's their goal; but in my own actual work, it isn't always possible to abandon everything every one else is using and doing. Clients will need you sometimes to make a book in InDesign; you might need to work in AfterEffects to work on your team... Instead of taking the extreme view, think of this really as a way to do more; to have more tools; to have more ways of doing things; to be able to make every more formal experiments; to better tie formal choices
@@ -323,3 +346,5 @@ There are tools here that don't exist on a mac or windows machine; that's rad!
 
 Other Resources:
 - What is Open Source Explained in Lego: https://www.youtube.com/watch?v=a8fHgx9mE5U&list=TLPQMjMwNzIwMjDvdkWAxlxtzw&index=2
+
+I should flesh this out heavily!!?
