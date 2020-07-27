@@ -75,7 +75,7 @@ Hopefully you know what you're here for!
 
 The foundations to the Free/Libre Open Source arena has several interesting connections to the greater domain of Graphic Design. As such, I continue to be surprised how little our discipline seems to know about and partake in this world -- outside of web design.
 
-I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning. 
+I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning.
 
 There is a great anecdote about Donald Knuth and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes TeX and Metafont, super great ideas that you can still use today ... And then the origins of freesoftware and GNU are that Richard Stallman is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software...
 
@@ -88,8 +88,9 @@ Oh, And then there is "The Cathedral and the Bazaar" by Eric Raymond, which does
 FYI: The history of intellectual property (at least in Europe/USA) is largely one of those in power trying to control things; not the less powerful trying being protected. (1556 establishment of the Stationers’ Company’s monopoly in England was largely intended to help limit the Protestant Reformation movement's power. By putting the entire printing industry in the control of this company, the government and church could prevent the dissemination of ideas. (from <https://lawshelf.com/coursewarecontentview/history-and-sources-of-intellectual-property-law/>))
 
 Some examples to get things framed correctly right away?
+
 - What sorts of common technolgy? what kinds of more general examples can I give them?
-- 1974 & 1979 AIGA/USDOT Pictograms/Symbol Signs (https://www.aiga.org/symbol-signs/ & https://en.wikipedia.org/wiki/DOT_pictograms & https://thenounproject.com/aiga-icons/collection/symbol-signs/)
+- 1974 & 1979 AIGA/USDOT Pictograms/Symbol Signs (<https://www.aiga.org/symbol-signs/> & <https://en.wikipedia.org/wiki/DOT_pictograms> & <https://thenounproject.com/aiga-icons/collection/symbol-signs/>)
 - The Idea of a RECIPE.
 - Any other tie ins with sustainability or anything else?
 
@@ -241,6 +242,7 @@ An incomplete list of all the libre graphics software you might want to try.
 - [VSCode]()
 - [Olive Video Editor](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [LibreCad](https://librecad.org/)
+
 - and so much more...
 
 There are things like ImageMagick and GhostScript that are basically background applications -- you can run them from the terminal and other programs actually rely on them to do key things. Imagemagick lets you manipulate images, pdfs, etc. from the command line... (here, let me turn this PDF into a folder of jpgs) Ghostscript is a terminal based PDF creating/editing tool!?
@@ -383,5 +385,6 @@ Other Resources:
 
 - What is Open Source Explained in Lego: <https://www.youtube.com/watch?v=a8fHgx9mE5U&list=TLPQMjMwNzIwMjDvdkWAxlxtzw&index=2>
 - Garth Braithwaite; Designers CAN Open Source: <https://www.youtube.com/watch?v=djf8sLjtbzU>
+- [Github Open Source Guides](https://opensource.guide/) <- FYI: the imagery for each "card" is an SVG and marked as open source; they're part of the guide repos; you can take the illustrations and use them for something else!
 
 I should flesh this out heavily!!?
