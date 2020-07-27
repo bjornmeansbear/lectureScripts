@@ -229,22 +229,24 @@ An incomplete list of all the libre graphics software you might want to try.
 - [GNU Image Manipulation Program](https://www.gimp.org/downloads/)
 - [Darktable](http://www.darktable.org/)
 - [Inkscape](https://inkscape.org/)
-- [Krita]()
-- [Nodebox]()
-- [Scribus]()
-- [Drawbot]()
-- [Processing]()
-- [ImageMagick]()
-- [GhostScript]()
-- [FontForge]()
-- [Birdfont]()
-- [OBS]()
-- [Jitsi Meet]()
-- [LibreOffice]()
-- [VSCode]()
+- [Krita](https://krita.org/en/)
+- [Nodebox](https://www.nodebox.net/)
+- [Scribus](https://www.scribus.net/)
+- [Drawbot](https://www.drawbot.com/content/download.html)
+- [Processing](https://processing.org/)
+- [ImageMagick](https://imagemagick.org/)
+- [GhostScript](https://www.ghostscript.com/)
+- [FontForge](https://fontforge.org/en-US/)
+- [Birdfont](https://birdfont.org/)
+- [OBS](https://obsproject.com/)
+- [Jitsi Meet](https://meet.jit.si/)
+- [LibreOffice](https://www.libreoffice.org/)
+- [VSCode](https://code.visualstudio.com/)
 - [Olive Video Editor](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [LibreCad](https://librecad.org/)
-
+- [Audacity](https://www.audacityteam.org)
+- [Ardour](https://ardour.org/)
+- [VLC](https://www.videolan.org/vlc/)
 - and so much more...
 
 There are things like ImageMagick and GhostScript that are basically background applications -- you can run them from the terminal and other programs actually rely on them to do key things. Imagemagick lets you manipulate images, pdfs, etc. from the command line... (here, let me turn this PDF into a folder of jpgs) Ghostscript is a terminal based PDF creating/editing tool!?
@@ -267,15 +269,21 @@ So you think you want to try GNU/Linux?
 
 If you have been able to ditch Adobe; if you see all this and say, hell yes, liberate me from my technocratic overlords; then you can probably try ditching Apple, Microsoft, Google, etc. You should give GNU/Linux a try.
 
-- Ubuntu
-- PopOS
-- Manjaro
+- [Debian](https://www.debian.org/)
+- [Ubuntu](https://ubuntu.com/)
+- [PopOS](https://pop.system76.com/)
+- [Manjaro](https://manjaro.org/)
+- [OpenSUSE](https://www.opensuse.org/)
+- [RedHat/Fedora](https://getfedora.org/)
+- [EasyOS](https://easyos.org/)
+- [GNU/Linux Distributions](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
-- GNOME
-- XFCE
-- i3wm
+And then besides figuring out what distro works for you there is the ecosystem of front ends too!
 
-NEED LINKS???
+- [GNOME](https://www.gnome.org/)
+- [XFCE](https://xfce.org/)
+- [i3wm](https://i3wm.org/)
+- [There are so many desktop environments for GNU/Linux](https://en.wikipedia.org/wiki/Desktop_environment#Examples_of_desktop_environments)
 
 This starts to make way more sense even then designing software -- the way your computer looks, works, etc. -- shouldn't a designer weild some control over how a tool works? how their main "studio" is setup -- how it acts, behaves, interfaces??? You can actually desing your interfaces; design your own icons; pick whatever typefaces you want to display wherever you want -- It's way more of a design dream!
 
@@ -289,19 +297,19 @@ You should be able to fix your computer if it breaks; you should be able to cust
 
 I mean if you want to be hardcore...
 
-- Old windows laptops: The more standard the better for old hardware; GNU/linux tech entusiasts really like the thinkpad line of computers
+- Old windows laptops: The more standard the better for old hardware; GNU/linux tech entusiasts really like the thinkpad line of computers (<https://www.ebay.com/sch/i.html?_from=R40&_nkw=Lenovo+Thinkpad&_sacat=177&rt=nc&Storage%2520Type=SSD%2520%2528Solid%2520State%2520Drive%2529&_dcat=177>)
 - Generally Apples, particularly the newer couple of varieties, are making harder and harder to use options. There is so much proprietary stuff on them; the trackpads are hard to talk to for most linux kernels; the newest models with the A2 security chips are nearly impossible to utilize with linux...
 - Libre companies:
 
-  - system76
-  - Purism
-  - Pine
-  - RaspberryPi
-  - PiTop
-  - ThinkPeguin...
-  - List some options...
+- [System76](https://system76.com/)
+- [Purism](https://puri.sm/)
+- [KDE SLimbook](https://kde.slimbook.es/) <- KDE makes a desktop environment as well!
+- [Tuxedo](https://www.tuxedocomputers.com/)
+- [Pinebook](https://www.pine64.org/pinebook-pro/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [PiTop](https://www.pi-top.com/products/pi-top-3)
 
-LINKS???
+You can also look on FSF.org they link directly to fully liberated computer sellers.
 
 ## Time for (your) practice
 
