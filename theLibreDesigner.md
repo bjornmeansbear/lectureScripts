@@ -68,13 +68,16 @@ For this array of ideas, I'm first going to introduce you to F/LOS if you haven'
 Some Content Warnings:
 
 - I will be derogatory towards neoliberalism
-- I will mention Marx, Communism, Henry George, Mutual Aid, Peter Kroptopkin, and other socialist, anarchist and libertarian thinkers
-- I will bring up issues of structural racism and sexism
-- ???
+- I will probably mention Marx, Communism, Henry George, Mutual Aid, Peter Kroptopkin, and other socialist, anarchist and libertarian thinkers
+- I will probably bring up issues of classism, structural racism, and sexism
+
+Hopefully you know what you're here for!
 
 The foundations to the Free/Libre Open Source arena has several interesting connections to the greater domain of Graphic Design. As such, I continue to be surprised how little our discipline seems to know about and partake in this world -- outside of web design.
 
-I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning. There is a great anecdote about Donal Knuth and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes TeX and Metafont, super great ideas that you can still use today ... And then the origins of freesoftware and GNU are that Richard Stallman is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software...
+I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning. 
+
+There is a great anecdote about Donald Knuth and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes TeX and Metafont, super great ideas that you can still use today ... And then the origins of freesoftware and GNU are that Richard Stallman is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software...
 
 If you want to investigate this all more; I highly recommend finding out more about Donald Knuth -- he is just an amazing person -- and Tex and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf <https://www.overleaf.com/>. There are some cool old videos of him showing people how to use computers in the 80s...
 
@@ -82,19 +85,27 @@ You can also read all sorts of history and foundational information from, by, an
 
 Oh, And then there is "The Cathedral and the Bazaar" by Eric Raymond, which does a good job outlining how Linus Torvalds created his world of distributed hackers to rapidly build and improve upon the Linux Kernel as it evolved... This is also a foundational text for how "Free/Libre" became "Open Source"... And can be useful for thinking about how or why "Open Source" is so pervasive in web design...
 
-What sorts of common technolgy? what kinds of more general examples can I give them?
+FYI: The history of intellectual property (at least in Europe/USA) is largely one of those in power trying to control things; not the less powerful trying being protected. (1556 establishment of the Stationers’ Company’s monopoly in England was largely intended to help limit the Protestant Reformation movement's power. By putting the entire printing industry in the control of this company, the government and church could prevent the dissemination of ideas. (from <https://lawshelf.com/coursewarecontentview/history-and-sources-of-intellectual-property-law/>))
 
-AIGA/USDOT highway signage icons
-
-The Idea of a RECIPE.
+Some examples to get things framed correctly right away?
+- What sorts of common technolgy? what kinds of more general examples can I give them?
+- 1974 & 1979 AIGA/USDOT Pictograms/Symbol Signs (https://www.aiga.org/symbol-signs/ & https://en.wikipedia.org/wiki/DOT_pictograms & https://thenounproject.com/aiga-icons/collection/symbol-signs/)
+- The Idea of a RECIPE.
+- Any other tie ins with sustainability or anything else?
 
 ### Libre Not Gratis / Free as in Freedom
+
+Okay, so we'll be talkinga about Free, Libre, Open Source -- let's make sure we define F/LOS!.
 
 What is Libre Graphics?
 
 When I say "Libre Graphics" I am linking to the Free/Libre part of Free/Libre Open Source.
 
+(this is where Stallman goes!?) Printer anecdote? His ideas of "freedom" > FSF/GNU
+
 When "free" software st arted it was about the freedom to do with software as you pleased.
+
+[stallman golden rule slide?]
 
 FSF 4 freedoms.
 
@@ -126,7 +137,7 @@ There are so many... we can dive into this more at the end if anyone cares; but 
 
 We'll start from the most clear and concrete things and end with the big, abstract, blurry ways to liberate your designing.
 
-## Tragedy of the commons
+## Liberated Imagery! Tragedy of the commons
 
 The easiest way to get started on this adventure is to change the photos, illustrations, icons, etc. that you might use in a project. This is easiest for several reasons:
 
@@ -211,26 +222,26 @@ Once you start building up your library of F/LOS tools, to do cool things you wo
 
 An incomplete list of all the libre graphics software you might want to try.
 
-- Blender
-- GNU Image Manipulation Program
-- Darktable
-- Inkscape
-- Krita
-- Nodebox
-- Scribus
-- Drawbot
-- Processing
-- ImageMagick
-- GhostScript
-- FontForge
-- TruFont
-- Birdfont
-- OBS
-- Jitsi Meet
-- LibreOffice
-- VSCode
+- [Blender](https://www.blender.org/)
+- [GNU Image Manipulation Program](https://www.gimp.org/downloads/)
+- [Darktable](http://www.darktable.org/)
+- [Inkscape](https://inkscape.org/)
+- [Krita]()
+- [Nodebox]()
+- [Scribus]()
+- [Drawbot]()
+- [Processing]()
+- [ImageMagick]()
+- [GhostScript]()
+- [FontForge]()
+- [Birdfont]()
+- [OBS]()
+- [Jitsi Meet]()
+- [LibreOffice]()
+- [VSCode]()
+- [Olive Video Editor](https://www.blackmagicdesign.com/products/davinciresolve/)
+- [LibreCad](https://librecad.org/)
 - and so much more...
-NEED LINKS! F
 
 There are things like ImageMagick and GhostScript that are basically background applications -- you can run them from the terminal and other programs actually rely on them to do key things. Imagemagick lets you manipulate images, pdfs, etc. from the command line... (here, let me turn this PDF into a folder of jpgs) Ghostscript is a terminal based PDF creating/editing tool!?
 
