@@ -2,6 +2,8 @@
 
 (or; why designer's don't f/los)
 
+live on youtube 202007271900: <https://youtu.be/fLfeWtOpFto>
+
 >>>>>>>>
 
   MICAGD Summer Camp
