@@ -18,6 +18,7 @@ Clmate Designers as a community has two main goals:
 2. To inspire, motivate, and graduate climate designers by providing climate-focused resources for design educators.
 
 ## 2. BauErden
+
 I call that "BauErden" a sort of re-imaginging of the bauhaus manifesto with restoring earth as the central tenant...
 
 It's part of what I think "a climate designer" is; or at least, should be...
