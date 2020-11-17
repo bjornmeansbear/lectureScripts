@@ -43,6 +43,7 @@ A quick preface: Climate designers is the initial work of Sarah Harrison and Mar
 So, Climate Designers. What is it; who is it for; why does it exist??? 
 
 Climate Designers is a website -- climatedesigners.org
+
 Climate Designers is a network -- https://climate-designers.mn.co
 
 Climate Desigers is by and for designers taking on climate change. Graphic Designers, illustrators, Industrial designers, architects, social designers, interaction designers, service designers... 
