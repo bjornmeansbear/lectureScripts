@@ -144,9 +144,9 @@ To me, Success equals climate designers not needing to exist... designer becomes
 
 Responsibility of design when talking about Climate Change? the climate crisis?
 
-What if you work somewhere that has nothing to do with climate change (spolier: everything is connected so, well, everything/everywhere has something it can do or is affecting climate change...........)
+What if you work somewhere that has nothing to do with climate change (spolier: everything is connected so, well, everything/everywhere has something it can do or is affecting climate change...)
 
-What can you do without quiting your job? / "I'm aware, but I can't do this at my job..........."
+What can you do without quiting your job? / "I'm aware, but I can't do this at my job..."
 
 You want to do something, not quit your career; so what makes a big impact...
 
