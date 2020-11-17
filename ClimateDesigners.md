@@ -12,9 +12,9 @@ Climate designers -- what is a climate designer?
 
 Clmate Designers as a community has two main goals:
 
-### The Climate Designer Mission
+### The Climate Designer Mission - from site
 
-1. To provide the resources, knowledge, and community for designers to take climate action in their work. 
+1. To provide the resources, knowledge, and community for designers to take climate action in their work.
 2. To inspire, motivate, and graduate climate designers by providing climate-focused resources for design educators.
 
 ## 2. BauErden
@@ -25,7 +25,7 @@ It's part of what I think "a climate designer" is; or at least, should be...
 
 ++++++++++++++++++++++++++
 
-### BauErden — Build Earth!
+### BauErden — Build Earth
 
 The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design may be created without first asking “does this need to exist?” -- “does this help drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
 
@@ -68,10 +68,9 @@ Clmate Designers as a community has two important aims:
 ### The Climate Designer Mission
 
 1. To provide the resources, knowledge, and community for designers to take climate action in their work. 
-
 2. To inspire, motivate, and graduate climate designers by providing climate-focused resources for design educators.
 
-#### Mission part 1:
+#### Mission part 1
 
 Climate Designers wants to build a community of designers working towards solving the climate crisis. Let those deaigners drawn to using their design skills for climate change know that they're not alone. 
 
@@ -87,11 +86,12 @@ Help those designers saying, OMG i'd love to do this but... with Actionable, tan
 
 How to combine what you're doing as a designer with climate action.
 
-Learn how to do this whether you are freelance, or in an office/fulltime 
+Learn how to do this whether you are freelance, or in an office/fulltime.
 
 See how other designers are doing all this stuff -- how it might chang ebusiness plans, materials, processes, career paths, tactics, etc.
 
 climate designers helps in a number of ways
+
 - get ideas for how to find work; how to find projects
 - materials, processes, etc.
 - networking
@@ -112,6 +112,7 @@ Seek out work; seek out climate work, setup to become a climate designer
 - how to charge $
 
 CD.org
+
 - highlight climate design projects
 - host climate design portoflios
 - job board for climtae design rols (climate bsae tie in)
@@ -121,7 +122,8 @@ CD.org
 - create a community all over
 - workshops
 
-#### Mission Part 2: 
+#### Mission Part 2
+
 The other aspect of CD is about design education: Introduce climate related concerns into design curriculum at large.
 
 Provide projects, syllabus, couse ideas, plans... so you can see what others are doing how to bring this into a classroom and implment as/where possible everywhere!
@@ -132,13 +134,14 @@ Influence new designers towards understanindg these things from the start of the
 
 learn about projects educators are doing
 
-### KB CD end:
-success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; as an og we don't need to exist once that happens...
+### KB conclusion? Hmmm
+
+To me, Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; as an og we don't need to exist once that happens...
 
 
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
-## Additional notes and thoughts.
+## Additional notes and thoughts
 
 Responsibility of design when talking about Climate Change? the climate crisis?
 
