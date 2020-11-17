@@ -134,29 +134,23 @@ We must merge design with the workshop, the science lab, the forest, the interne
 
 Good luck.
 
->>>>>>>>
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
-Okay.
+## Additional notes and thoughts.
 
 Responsibility of design when talking about Climate Change? the climate crisis?
 
 What if you work somewhere that has nothing to do with climate change (spolier: everything is connected so, well, everything/everywhere has something it can do or is affecting climate change...........)
 
-What can you do without quiting your job?
+What can you do without quiting your job? / "I'm aware, but I can't do this at my job..........."
 
-"I'm aware, but I can't do this at my job..........."
+You want to do something, not quit your career; so what makes a big impact...
 
-You want to do sometihing, not quit your career; so what makes a big impact...
-
-Climate base > jobs!?
+ClimateBase > jobs!?
 
 The role of design & climate change...
 
 Ideologies; the status quo as an ideolgoy...
-
-Bau erden
-
-signs signalling sustainability
 
 we need to take risks and be bold
 
@@ -171,5 +165,3 @@ what do you care about
 Drawdown.org > what does the most for drawing down carbon
 
 provide resources for all designers to take take climate action with their work...
-
->>>
