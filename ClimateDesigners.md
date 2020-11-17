@@ -46,13 +46,17 @@ Climate Designers is a website -- climatedesigners.org
 
 Climate Designers is a network -- https://climate-designers.mn.co
 
-Climate Desigers is by and for designers taking on climate change. Graphic Designers, illustrators, Industrial designers, architects, social designers, interaction designers, service designers... 
+Climate Designers is by and for designers taking on climate change. Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, service designers, digital designers ... any and all kinds of designers.
 
-Clmate Designers as a community has two main goals:
+Climate designers is for anyone of any age, any skill level, any amount of time in the field.
+
+Clmate Designers as a community has two important aims:
 
 ### The Climate Designer Mission:
 1. To provide the resources, knowledge, and community for designers to take climate action in their work. 
 2. To inspire, motivate, and graduate climate designers by providing climate-focused resources for design educators.
+
+#### Mission part 1:
 
 Climate Designers wants to build a community of designers working towards solving the climate crisis. Let those deaigners drawn to using their design skills for climate change know that they're not alone. 
 
@@ -92,6 +96,17 @@ Seek out work; seek out climate work, setup to become a climate designer
 - how to find projects
 - how to charge $
 
+CD.org
+- highlight climate design projects
+- host climate design portoflios
+- job board for climtae design rols (climate bsae tie in)
+- platform for resource sharing/FAQ/Q&A
+- educators > resources, networking, etc.
+- meetups
+- create a community all over
+- workshops
+
+#### Mission Part 2: 
 The other aspect of CD is about design education: Introduce climate related concerns into design curriculum at large.
 
 Provide projects, syllabus, couse ideas, plans... so you can see what others are doing how to bring this into a classroom and implment as/where possible everywhere!
@@ -102,18 +117,22 @@ Influence new designers towards understanindg these things from the start of the
 
 learn about projects educators are doing
 
-success equals climate designer not needing to exist... designer becomes synonymous w/ cliamte designers; as an og we don't need to exist once that happens...
+### KB CD end:
+success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; as an og we don't need to exist once that happens...
 
+## BauErden — Build Earth!
 
-CD.org
-- highlight climate design projects
-- host climate design portoflios
-- job board for climtae design rols (climate bsae tie in)
-- platform for resource sharing/FAQ/Q&A
-- educators > resources, networking, etc.
-- meetups
-- create a community all over
-- workshops
+The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design may be created without first asking “does this need to exist?” -- “does this help drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
+
+We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, etc. Our new design education must aid in this. How might a new pedagogical approach focus on the liminal; designers as connectors?
+
+Designers must recognize anew and learn to grasp the composite character of “climate” (climate(s) [natural, social, etc.?]? the climate? the earth? nature?) as a holistic entity AND in its separate, interconnected parts. Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
+
+Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new ways of working, of making, and of seeing are required.​
+
+We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between all interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
+
+Good luck.
 
 >>>>>>>>
 
@@ -154,21 +173,3 @@ Drawdown.org > what does the most for drawing down carbon
 provide resources for all designers to take take climate action with their work...
 
 >>>
-
-BauErden — Build Earth!
-Nov 12, 2019
-
-The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design may be created without first asking “does this need to exist?” -- “does this help drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
-
-We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, etc. Our new design education must aid in this. How might a new pedagogical approach focus on the liminal; designers as connectors?
-
-Designers must recognize anew and learn to grasp the composite character of “climate” (climate(s) [natural, social, etc.?]? the climate? the earth? nature?) as a holistic entity AND in its separate, interconnected parts. Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
-
-Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new ways of working, of making, and of seeing are required.​
-
-We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between all interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
-
-Good luck.
-
->>>
-
