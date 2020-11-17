@@ -1,11 +1,10 @@
-# Climate Designers …
+# Climate Designers
+
 What are they? what do they design? what's the point? etc.
 
-## Intro.
+## Intro
 
-Hello. My name is Kristian Bjornard. I'm here to talk about Climate Designers. First I'll try to quickly summarize and explain what a Climate Designer is. Then, I'll pitch an idea to you that relates to Climate Design itself... 
-
-?
+Hello. My name is Kristian Bjornard. I'm here to talk about Climate Designers. First I'll try to quickly summarize and explain what a Climate Designer is. Then, I'll pitch an idea to you that relates to Climate Design itself... ????????????
 
 ## 1. Climate Designers
 
@@ -13,7 +12,8 @@ Climate designers -- what is a climate designer?
 
 Clmate Designers as a community has two main goals:
 
-### The Climate Designer Mission:
+### The Climate Designer Mission
+
 1. To provide the resources, knowledge, and community for designers to take climate action in their work. 
 2. To inspire, motivate, and graduate climate designers by providing climate-focused resources for design educators.
 
@@ -48,19 +48,17 @@ The main goal then, particularly as a graphic designer, is to make your works sp
 
 The handle doesn't loolw like ahande? that's what eh's gonna blame that one, well, surpsried you ended up the wat you are.
 
-
-
 >>>>>>
 
 ## Climate Design
 
-A quick preface: Climate designers is the initial work of Sarah Harrison and Marc Obrien... they're the main organizers and instrgators of the climatedesigner.org stuff, as well as the networking site, https://climate-designers.mn.co/ … And then Eric Benson and I are helping to get the educators stuff off the ground. We're still working on that side of things!
+A quick preface: Climate designers is the initial work of Sarah Harrison and Marc Obrien... they're the main organizers and instrgators of the climatedesigner.org stuff, as well as the networking site, <https://climate-designers.mn.co/> … And then Eric Benson and I are helping to get the educators stuff off the ground. We're still working on that side of things!
 
 So, Climate Designers. What is it; who is it for; why does it exist??? 
 
-Climate Designers is a website -- climatedesigners.org
+Climate Designers is a website -- <https://climatedesigners.org>
 
-Climate Designers is a network -- https://climate-designers.mn.co
+Climate Designers is a network -- <https://climate-designers.mn.co>
 
 Climate Designers is by and for designers taking on climate change. Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, service designers, digital designers ... any and all kinds of designers.
 
@@ -68,8 +66,10 @@ Climate designers is for anyone of any age, any skill level, any amount of time 
 
 Clmate Designers as a community has two important aims:
 
-### The Climate Designer Mission:
+### The Climate Designer Mission
+
 1. To provide the resources, knowledge, and community for designers to take climate action in their work. 
+
 2. To inspire, motivate, and graduate climate designers by providing climate-focused resources for design educators.
 
 #### Mission part 1:
