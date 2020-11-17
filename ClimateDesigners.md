@@ -4,19 +4,30 @@ A talk for MICA Senior Seminar, 11/24/2020
 
 ## Intro
 
-Hello. My name is Kristian Bjornard. I'm going to introduce the role of "Climate Designers" -- What is a climate designer? what might a climate designer design? what's the point of being a climate designer? what does the community of climate designers offer? etc. As I've got about 20 minutes I hope that I can do justice to climate deisgners AND present you a way of seeing design out in the world in a new communicative light -- how might all these signs we put out into the world help signal sustainability in addition to whatever else they are intended to do... okay!
+Hello. My name is Kristian Bjornard. I'm going to introduce the role of "Climate Designers" -- What is a climate designer? what might a climate designer design? what's the point of being a climate designer? what does the community of climate designers offer? etc. And I hope that I can do justice to climate deisgners AND present you a way of seeing design out in the world in a new communicative light -- how might all these signs we put out into the world help signal sustainability in addition to whatever else they are intended to do...
 
 ## 1. Climate Designers
 
 Climate Designers. What is it; who is it for; why does it exist???
 
-Climate Designers is a website -- <https://climatedesigners.org>
-
-Climate Designers is a network -- <https://climate-designers.mn.co>
-
 Climate Designers is by and for designers taking on climate change. Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, service designers, digital designers ... any and all kinds of designers.
 
 Climate designers is for anyone of any age, any skill level, any amount of time in the field.
+
+Climate Designers is a website -- <https://climatedesigners.org>
+
+CD.org
+
+- highlight climate design projects
+- host climate design portoflios
+- job board for climtae design rols (climate bsae tie in)
+- platform for resource sharing/FAQ/Q&A
+- educators > resources, networking, etc.
+- meetups
+- create a community all over
+- workshops
+
+Climate Designers is a network -- <https://climate-designers.mn.co>
 
 Clmate Designers as a community has two important aims:
 
@@ -65,17 +76,6 @@ Seek out work; seek out climate work, setup to become a climate designer
 - tips and tricks
 - how to find projects
 - how to charge $
-
-CD.org
-
-- highlight climate design projects
-- host climate design portoflios
-- job board for climtae design rols (climate bsae tie in)
-- platform for resource sharing/FAQ/Q&A
-- educators > resources, networking, etc.
-- meetups
-- create a community all over
-- workshops
 
 #### Mission Part 2
 
