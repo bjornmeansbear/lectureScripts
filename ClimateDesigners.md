@@ -43,7 +43,7 @@ Good luck.
 
 [start with imager Bakke demo rig???]
 
-Now, as designers we typically "communicate" -- our works speak to certain audiences. 
+Now, as designers we typically "communicate" -- our works speak to certain audiences.
 
 The main goal then, particularly as a graphic designer, is to make your works speak to new audiences about climate change... How can we signal sustainability in every sign we create.
 
@@ -53,7 +53,7 @@ The handle doesn't loolw like ahande? that's what eh's gonna blame that one, wel
 
 ## Climate Design
 
-Climate Designers. What is it; who is it for; why does it exist??? 
+Climate Designers. What is it; who is it for; why does it exist???
 
 Climate Designers is a website -- <https://climatedesigners.org>
 
@@ -67,12 +67,12 @@ Clmate Designers as a community has two important aims:
 
 ### The Climate Designer Mission
 
-1. To provide the resources, knowledge, and community for designers to take climate action in their work. 
+1. To provide the resources, knowledge, and community for designers to take climate action in their work.
 2. To inspire, motivate, and graduate climate designers by providing climate-focused resources for design educators.
 
 #### Mission part 1
 
-Climate Designers wants to build a community of designers working towards solving the climate crisis. Let those deaigners drawn to using their design skills for climate change know that they're not alone. 
+Climate Designers wants to build a community of designers working towards solving the climate crisis. Let those deaigners drawn to using their design skills for climate change know that they're not alone.
 
 We want to attract more designers doing work in this space... doing work with/for/in climate to this community.
 
@@ -137,7 +137,6 @@ learn about projects educators are doing
 ### KB conclusion? Hmmm
 
 To me, Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; as an og we don't need to exist once that happens...
-
 
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
