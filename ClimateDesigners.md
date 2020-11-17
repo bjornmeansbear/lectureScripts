@@ -38,7 +38,7 @@ The handle doesn't loolw like ahande? that's what eh's gonna blame that one, wel
 
 ## Climate Design
 
-A quick preface: Climate designers is the initial work of Sarah Harrison and Marc Obrien... they're the main organizers and instrgators of the climatedesigner.org stuff, as well as the networking site, https://climate-designers.mn.co/ … And then Eric Benson and myself are helping to get the educators stuff off the ground. We're still working on that side of things!
+A quick preface: Climate designers is the initial work of Sarah Harrison and Marc Obrien... they're the main organizers and instrgators of the climatedesigner.org stuff, as well as the networking site, https://climate-designers.mn.co/ … And then Eric Benson and I are helping to get the educators stuff off the ground. We're still working on that side of things!
 
 So, Climate Designers. What is it; who is it for; why does it exist??? 
 
