@@ -36,7 +36,7 @@ some background???
 
 Climate Designers as a organization wants designers of all stripes to figure out how to use their creative energies to do something tangible about our climate crisis -- no matter what you design, you can bring "fighting climate change" into your work...
 
-## So, what is a climate designer?
+## So, what is a climate designer
 
 A climate designer is a designer using their creative powers to fight the climate crisis.
 
@@ -73,7 +73,7 @@ Influence new designers towards understanding climate related issues from the st
 
 To me, Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc...
 
-## Transition...
+## A Transition, need a subhead
 
 If you thought that sounded like what you think Design should do... well then you might be a climate designer...
 
