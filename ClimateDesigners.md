@@ -16,15 +16,17 @@ the following is what "a climate designer" should be …
 
 ### BauErden — Build Earth
 
-The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design may be created without first asking “does this need to exist?” -- “does this help drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
+Earthstronauts.
 
-We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, etc. Our new design education must aid in this. How might a new pedagogical approach focus on the liminal; designers as connectors?
+The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design shall be created without first asking “does this need to exist?” -- “does this help drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
 
-Designers must recognize anew and learn to grasp the composite character of “climate” (climate(s) [natural, social, etc.?]? the climate? the earth? nature?) as a holistic entity AND in its separate, interconnected parts. Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
+We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, parents, small business owners, etc. A new design education must aid in this. How might a new pedagogical approaches focus on the liminal; designers as connectors? For everything is connected.
 
-Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new ways of working, of making, and of seeing are required.​
+Designers must recognize anew and learn to grasp the composite character of “climate” as a holistic entity AND in its separate, interconnected parts (climate(s): natural, social, etc.? _the_ planetary climate? the earth? nature? the universe?). Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
 
-We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between all interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
+Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new processses, new ways of working, of making, and of seeing are required.​
+
+We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between new interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
 
 Good luck.
 
@@ -32,13 +34,15 @@ Good luck.
 
 If you thought that sounded like what you think Design should do... well then you might be a climate designer...
 
-### Climate Designers. What is it; who is it for; why does it exist???
+### Climate Designers. What is it; who is it for; why does it exist
+
+"Climate designer" is a title you can grant yourself, as well as a community organization.
 
 A climate designer is a designer using their creative powers to fight the climate crisis.
 
-Climate Designers is by and for designers taking on climate change — Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, fashion designers, service designers, digital designers ... any and all kinds of designers. Any designer doing work in the climate space.
+Climate Designers is by and for designers taking on climate change — Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, fashion designers, service designers, digital designers ... Any designer doing work in the climate space.
 
-Climate designers is for anyone of any age, any skill level, any amount of time in the field.
+This means anyone of any age, any skill level, any amount of time in the field.
 
 Climate Designers has two important aims:
 
@@ -92,6 +96,12 @@ To do all of this means that
 To me, Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; as an og we don't need to exist once that happens...
 
 ## 3. Signs Signalling Sustainability
+
+Some connection to project drawdown?
+
+
+
+## SSS > signs signaling sust (to come back to)
 
 [start with imager Bakke demo rig???]
 
