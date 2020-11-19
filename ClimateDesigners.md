@@ -10,9 +10,29 @@ Hello. My name is Kristian Bjornard.
 
 I'm going to introduce the role of "Climate Designers" -- What is a climate designer? what might a climate designer design? what's the point of being a climate designer? what does the community of climate designers offer? etc. And I hope that I can do justice to climate deisgners AND present you a way of seeing design out in the world in a new communicative light -- how might all these signs we put out into the world help signal sustainability in addition to whatever else they are intended to do...
 
-## 1. Climate Designers
+## 2. BauErden
 
-Climate Designers. What is it; who is it for; why does it exist???
+the following is what "a climate designer" should be …
+
+### BauErden — Build Earth
+
+The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design may be created without first asking “does this need to exist?” -- “does this help drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
+
+We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, etc. Our new design education must aid in this. How might a new pedagogical approach focus on the liminal; designers as connectors?
+
+Designers must recognize anew and learn to grasp the composite character of “climate” (climate(s) [natural, social, etc.?]? the climate? the earth? nature?) as a holistic entity AND in its separate, interconnected parts. Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
+
+Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new ways of working, of making, and of seeing are required.​
+
+We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between all interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
+
+Good luck.
+
+## 2. Climate Designers
+
+If you thought that sounded like what you think Design should do... well then you might be a climate designer...
+
+### Climate Designers. What is it; who is it for; why does it exist???
 
 A climate designer is a designer using their creative powers to fight the climate crisis.
 
@@ -70,26 +90,6 @@ To do all of this means that
 ### KB conclusion? Hmmm
 
 To me, Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; as an og we don't need to exist once that happens...
-
-## 2. BauErden
-
-I call that "BauErden" a sort of re-imaginging of the bauhaus manifesto with restoring earth as the central tenant...
-
-It's part of what I think "a climate designer" is; or at least, should be...
-
-### BauErden — Build Earth
-
-The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design may be created without first asking “does this need to exist?” -- “does this help drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
-
-We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, etc. Our new design education must aid in this. How might a new pedagogical approach focus on the liminal; designers as connectors?
-
-Designers must recognize anew and learn to grasp the composite character of “climate” (climate(s) [natural, social, etc.?]? the climate? the earth? nature?) as a holistic entity AND in its separate, interconnected parts. Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
-
-Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new ways of working, of making, and of seeing are required.​
-
-We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between all interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
-
-Good luck.
 
 ## 3. Signs Signalling Sustainability
 
