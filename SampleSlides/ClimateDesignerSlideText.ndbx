@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ndbx formatVersion="21" type="file" uuid="b7d49447-ed27-4abb-a541-3913320db778">
+    <property name="canvasHeight" value="1080"/>
+    <property name="canvasWidth" value="1920"/>
+    <property name="canvasX" value="0"/>
+    <property name="canvasY" value="0"/>
+    <node name="root" prototype="core.network" renderedChild="combine2">
+        <node name="Fonts" position="12.00,-2.00" prototype="data.import_text">
+            <port name="file" type="string" value="/Users/bjornmeansbear/Code/writing/lectureScripts/typefacePostscriptNames.txt"/>
+        </node>
+        <node name="Fonts1" position="34.00,-2.00" prototype="data.import_text">
+            <port name="file" type="string" value="/Users/bjornmeansbear/Code/writing/lectureScripts/typefacePostscriptNames.txt"/>
+        </node>
+        <node name="SlideTitles" position="9.00,-2.00" prototype="data.import_text">
+            <port name="file" type="string" value="/Users/bjornmeansbear/Code/writing/lectureScripts/climateDesign.txt"/>
+        </node>
+        <node name="SlideTitles1" position="31.00,-2.00" prototype="data.import_text">
+            <port name="file" type="string" value="/Users/bjornmeansbear/Code/writing/lectureScripts/climateDesign.txt"/>
+        </node>
+        <node name="colorize1" position="1.00,2.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+            <port name="strokeWidth" type="float" value="1.0"/>
+        </node>
+        <node name="colorize2" position="9.00,2.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+            <port name="strokeWidth" type="float" value="1.0"/>
+        </node>
+        <node name="colorize3" position="23.00,2.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+            <port name="strokeWidth" type="float" value="1.0"/>
+        </node>
+        <node name="colorize4" position="31.00,2.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+            <port name="strokeWidth" type="float" value="1.0"/>
+        </node>
+        <node name="combine1" position="2.00,9.00" prototype="list.combine"/>
+        <node name="combine2" position="24.00,9.00" prototype="list.combine"/>
+        <node name="copy1" position="8.00,6.00" prototype="corevector.copy">
+            <port name="copies" type="int" value="8"/>
+            <port name="order" type="string" value="trs"/>
+            <port name="translate" type="point" value="-9.00,2.00"/>
+            <port name="rotate" type="float" value="4.0"/>
+            <port name="scale" type="point" value="99.00,99.00"/>
+        </node>
+        <node name="copy2" position="30.00,6.00" prototype="corevector.copy">
+            <port name="copies" type="int" value="8"/>
+            <port name="order" type="string" value="trs"/>
+            <port name="translate" type="point" value="-9.00,2.00"/>
+            <port name="rotate" type="float" value="4.0"/>
+            <port name="scale" type="point" value="99.00,99.00"/>
+        </node>
+        <node name="count1" position="12.00,-1.00" prototype="list.count"/>
+        <node name="count2" position="34.00,-1.00" prototype="list.count"/>
+        <node name="divide1" position="15.00,2.00" prototype="math.divide">
+            <port name="value2" type="float" value="100.0"/>
+        </node>
+        <node name="divide2" position="18.00,2.00" prototype="math.divide"/>
+        <node name="divide3" position="38.00,-1.00" prototype="math.divide"/>
+        <node name="ellipse1" position="2.00,3.00" prototype="corevector.ellipse">
+            <port name="width" type="float" value="1.0"/>
+            <port name="height" type="float" value="1.0"/>
+        </node>
+        <node name="ellipse2" position="27.00,2.00" prototype="corevector.ellipse">
+            <port name="width" type="float" value="1.0"/>
+            <port name="height" type="float" value="1.0"/>
+        </node>
+        <node name="frame1" position="15.00,1.00" prototype="core.frame"/>
+        <node name="frame2" position="38.00,-2.00" prototype="core.frame"/>
+        <node name="grid1" position="5.00,1.00" prototype="corevector.grid">
+            <port name="columns" type="int" value="160"/>
+            <port name="rows" type="int" value="90"/>
+            <port name="width" type="float" value="1824.0"/>
+            <port name="height" type="float" value="984.0"/>
+        </node>
+        <node name="grid2" position="27.00,1.00" prototype="corevector.grid">
+            <port name="columns" type="int" value="160"/>
+            <port name="rows" type="int" value="90"/>
+            <port name="width" type="float" value="1824.0"/>
+            <port name="height" type="float" value="984.0"/>
+        </node>
+        <node name="pick1" position="5.00,2.00" prototype="list.pick"/>
+        <node name="pick2" position="15.00,6.00" prototype="list.pick">
+            <port name="amount" type="int" value="1"/>
+        </node>
+        <node name="pick3" position="13.00,0.00" prototype="list.pick">
+            <port name="amount" type="int" value="1"/>
+        </node>
+        <node name="pick4" position="35.00,0.00" prototype="list.pick">
+            <port name="amount" type="int" value="1"/>
+        </node>
+        <node name="pick5" position="37.00,3.00" prototype="list.pick">
+            <port name="amount" type="int" value="1"/>
+        </node>
+        <node name="random_numbers1" position="15.00,5.00" prototype="math.random_numbers">
+            <port name="start" type="float" value="-6.0"/>
+            <port name="end" type="float" value="6.0"/>
+        </node>
+        <node name="random_numbers2" position="37.00,2.00" prototype="math.random_numbers">
+            <port name="start" type="float" value="-6.0"/>
+            <port name="end" type="float" value="6.0"/>
+        </node>
+        <node name="rect1" position="1.00,1.00" prototype="corevector.rect">
+            <port name="width" type="float" value="1920.0"/>
+            <port name="height" type="float" value="1080.0"/>
+        </node>
+        <node name="rect2" position="23.00,1.00" prototype="corevector.rect">
+            <port name="width" type="float" value="1920.0"/>
+            <port name="height" type="float" value="1080.0"/>
+        </node>
+        <node name="round1" position="15.00,3.00" prototype="math.round"/>
+        <node name="slice1" position="9.00,0.00" prototype="list.slice">
+            <port name="start_index" type="int" value="1"/>
+            <port name="size" type="int" value="1"/>
+        </node>
+        <node name="slice2" position="31.00,-1.00" prototype="list.slice">
+            <port name="start_index" type="int" value="1"/>
+            <port name="size" type="int" value="1"/>
+        </node>
+        <node name="textpath1" position="9.00,1.00" prototype="corevector.textpath">
+            <port name="font_size" type="float" value="282.0"/>
+            <port name="position" type="point" value="-30.00,-210.00"/>
+            <port name="width" type="float" value="1920.0"/>
+        </node>
+        <node name="textpath2" position="12.00,3.00" prototype="corevector.textpath">
+            <port name="font_size" type="float" value="38.0"/>
+            <port name="align" type="string" value="LEFT"/>
+            <port name="position" type="point" value="-913.00,492.00"/>
+        </node>
+        <node name="textpath3" position="34.00,3.00" prototype="corevector.textpath">
+            <port name="font_size" type="float" value="38.0"/>
+            <port name="align" type="string" value="LEFT"/>
+            <port name="position" type="point" value="-913.00,492.00"/>
+        </node>
+        <node name="textpath4" position="31.00,1.00" prototype="corevector.textpath">
+            <port name="font_size" type="float" value="282.0"/>
+            <port name="position" type="point" value="-30.00,-210.00"/>
+            <port name="width" type="float" value="1920.0"/>
+        </node>
+        <conn input="colorize1.shape" output="rect1"/>
+        <conn input="combine1.list1" output="colorize1"/>
+        <conn input="pick1.amount" output="count1"/>
+        <conn input="pick1.list" output="grid1"/>
+        <conn input="count1.list" output="Fonts"/>
+        <conn input="copy1.copies" output="count1"/>
+        <conn input="divide1.value1" output="frame1"/>
+        <conn input="round1.value" output="divide1"/>
+        <conn input="slice1.start_index" output="round1"/>
+        <conn input="random_numbers1.amount" output="count1"/>
+        <conn input="divide2.value2" output="count1"/>
+        <conn input="pick2.list" output="random_numbers1"/>
+        <conn input="copy1.rotate" output="pick2"/>
+        <conn input="pick2.seed" output="divide2"/>
+        <conn input="textpath1.text" output="slice1"/>
+        <conn input="colorize2.shape" output="textpath1"/>
+        <conn input="copy1.shape" output="colorize2"/>
+        <conn input="slice1.list" output="SlideTitles"/>
+        <conn input="textpath1.font_name" output="pick3"/>
+        <conn input="pick3.seed" output="divide2"/>
+        <conn input="pick3.list" output="Fonts"/>
+        <conn input="combine1.list7" output="textpath2"/>
+        <conn input="textpath2.text" output="pick3"/>
+        <conn input="ellipse1.position" output="grid1"/>
+        <conn input="combine1.list2" output="ellipse1"/>
+        <conn input="combine1.list6" output="copy1"/>
+        <conn input="textpath2.font_name" output="pick3"/>
+        <conn input="colorize3.shape" output="rect2"/>
+        <conn input="combine2.list1" output="colorize3"/>
+        <conn input="count2.list" output="Fonts1"/>
+        <conn input="copy2.copies" output="count2"/>
+        <conn input="random_numbers2.amount" output="count2"/>
+        <conn input="pick5.list" output="random_numbers2"/>
+        <conn input="copy2.rotate" output="pick5"/>
+        <conn input="textpath4.text" output="slice2"/>
+        <conn input="colorize4.shape" output="textpath4"/>
+        <conn input="copy2.shape" output="colorize4"/>
+        <conn input="slice2.list" output="SlideTitles1"/>
+        <conn input="textpath4.font_name" output="pick4"/>
+        <conn input="pick4.list" output="Fonts1"/>
+        <conn input="combine2.list7" output="textpath3"/>
+        <conn input="textpath3.text" output="pick4"/>
+        <conn input="ellipse2.position" output="grid2"/>
+        <conn input="combine2.list2" output="ellipse2"/>
+        <conn input="combine2.list6" output="copy2"/>
+        <conn input="textpath3.font_name" output="pick4"/>
+        <conn input="pick4.seed" output="frame2"/>
+        <conn input="divide3.value1" output="frame2"/>
+        <conn input="divide3.value2" output="count2"/>
+        <conn input="slice2.start_index" output="divide3"/>
+    </node>
+</ndbx>
