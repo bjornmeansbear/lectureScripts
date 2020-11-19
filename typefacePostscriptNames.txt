@@ -1,0 +1,13 @@
+Avara-BoldItalic
+BluuNext-BoldItalic
+CrimsonPro-BoldItalic
+Epilogue-Black
+Fruktur-Regular
+LeagueGothic-Regular
+LeMurmure-Regular
+Savate-Serif
+SpaceMono-Regular
+Spectral-Light
+Terminal-Grotesque
+Yatra
+YoungSerif-Regular

@@ -1,10 +1,14 @@
 # Climate Designers
 
+## So You want to be a climate designer
+
 A talk for MICA Senior Seminar, 11/24/2020
 
 ## Intro
 
-Hello. My name is Kristian Bjornard. I'm going to introduce the role of "Climate Designers" -- What is a climate designer? what might a climate designer design? what's the point of being a climate designer? what does the community of climate designers offer? etc. And I hope that I can do justice to climate deisgners AND present you a way of seeing design out in the world in a new communicative light -- how might all these signs we put out into the world help signal sustainability in addition to whatever else they are intended to do...
+Hello. My name is Kristian Bjornard.
+
+I'm going to introduce the role of "Climate Designers" -- What is a climate designer? what might a climate designer design? what's the point of being a climate designer? what does the community of climate designers offer? etc. And I hope that I can do justice to climate deisgners AND present you a way of seeing design out in the world in a new communicative light -- how might all these signs we put out into the world help signal sustainability in addition to whatever else they are intended to do...
 
 ## 1. Climate Designers
 
@@ -21,7 +25,7 @@ Climate Designers has two important aims:
 1. To provide the resources, knowledge, and community for designers to take climate action in their work.
 2. To inspire, motivate, and graduate climate designers by providing climate-focused resources for design educators.
 
-#### Mission part 1
+### Mission part 1
 
 Climate Designers wants to build a community of designers working towards solving the climate crisis. Let those designers drawn to using their design skills for climate change know that they're not alone. We want to attract more designers doing work in this space... doing work with/for/in climate to this community.
 
@@ -31,7 +35,7 @@ Motivate designers to use their creative talents to solve our climate crisis. --
 
 See how other designers are doing all this stuff -- how it might chang ebusiness plans, materials, processes, career paths, tactics, etc. Help those designers saying, OMG i'd love to do this but... with Actionable, tangible things to do.
 
-#### Mission Part 2
+### Mission Part 2
 
 That was the practical, studio, design practice side of climate deisgners. The other aspect of CD is about design education, design pedagogy, how to graduate new climate designers. How can we help introduce climate related concerns into design curriculum at large?
 
@@ -43,27 +47,25 @@ To do all of this means that
 
 1. Climate Designers is a website -- <https://climatedesigners.org>
 
-- highlight climate design projects
-- host climate design portoflios
-- job board for climtae design rols (climate bsae tie in)
-- platform for resource sharing/FAQ/Q&A
-- educators > resources, networking, etc.
-- meetups
-- create a community all over
-- workshops
-
-and
+    - highlight climate design projects
+    - host climate design portoflios
+    - job board for climtae design rols (climate bsae tie in)
+    - platform for resource sharing/FAQ/Q&A
+    - educators > resources, networking, etc.
+    - meetups
+    - create a community all over
+    - workshops
 
 2. Climate Designers is a community -- <https://climate-designers.mn.co>
 
-The climate designer community is meant to help in a number of ways
+    The climate designer community is meant to help in a number of ways
 
-- networking
-- get ideas for how to find work; how to find projects
-- share innovative materials, processes, etc.
-- actionable resources
-- realistic tactics
-- ways to integrate into education
+    - networking
+    - get ideas for how to find work; how to find projects
+    - share innovative materials, processes, etc.
+    - actionable resources
+    - realistic tactics
+    - ways to integrate into education
 
 ### KB conclusion? Hmmm
 
