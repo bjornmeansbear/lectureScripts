@@ -165,14 +165,6 @@ Yoko Ono Earth Piece 1963
 
 https://climate.studio/ > warming globe code on your website!
 
-≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
-
-## Introduction
-
-Hello. My name is Kristian Bjornard.
-
-I'm going to introduce the role of "Climate Designers" -- What is a climate designer? what might a climate designer design? what's the point of being a climate designer? what does the community of climate designers offer? etc. And I hope that I can do justice to climate deisgners AND present you a way of seeing design out in the world in a new communicative light -- how might all these signs we put out into the world help signal sustainability in addition to whatever else they are intended to do...
-
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
 ## Additional notes and thoughts
