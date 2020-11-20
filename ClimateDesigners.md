@@ -1,8 +1,8 @@
-# Climate Designers
-
-## So You want to be a climate designer
+# So You want to be a climate designer
 
 A talk for MICA Senior Seminar, 11/24/2020
+
+## What is a climate designer
 
 ## BauErden — Build Earth
 
@@ -32,7 +32,7 @@ All our designs can point towards a different more sustainable future; any desig
 
 some background???
 
-## What is "Climate Deisgners"
+## What is "Climate Design"
 
 Climate Designers as a organization wants designers of all stripes to figure out how to use their creative energies to do something tangible about our climate crisis -- no matter what you design, you can bring "fighting climate change" into your work...
 
