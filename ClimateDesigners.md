@@ -1,4 +1,6 @@
-# So You want to be a climate designer
+# Climate Design, Signs Signalling Sustainably, Build Earth, and more
+
+## So you want to be a climate designer?
 
 A talk for MICA Senior Seminar, 11/24/2020
 
@@ -18,40 +20,34 @@ We must merge design with the workshop, the science lab, the forest, the interne
 
 Good luck.
 
-## Intro
+## An Introduction
 
 Hello. I'm Kristian Bjørnard.
 
-What I just read I call "Bau Erden" or Build Earth. It attempts to rewrite some of the ideas from the Bauhaus withing the context of the restoration of our world, rather than the craft of building, as the main goal designers of all stripes should aspire to.
-
-I see this as an important aim -- we need new techniques, new ideas, new pedagogies to adapt a "climate crisis" mindset to our designing... the ideology of modernism, of moderno-techno-capitalism, has failed us … design education is complicit in this failure, particularly in that it perpetuates normative, status quo "problem solving"
-
-…
+I call that "Bau Erden" or Build Earth. It attempts to re-frame the Bauhaus manifesto within the context of the restoration of our world. This should be the current main goal designers of all stripes aspire to -- the welfare of all life and the restoration of spaceship earth. This reframing is important as the current trajectory of contemporary culture, of the status quo, extrapolated out into the future is looking pretty bleak.
 
 [Future Cone?]
     [From Joseph Voros, (and some influence from Dunne and Raby by way of Stuart Candy)](https://thevoroscope.com/2017/02/24/the-futures-cone-use-and-history/)
 
-Instead, how might All our designs point towards different more sustainable futures;
+Instead of continuing the design the same things the same ways, how might All our designs instead point towards different more sustainable futures.
 
-In thinking about this I ended up in a conversation with Eric Benson, who then connected me with Marc OBrien...
+## A beginning
 
 <https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab>
 
-These casual conversations with Eric and Marc quickly became more serious, and rather quickly Climate Designers was born by Marc and his studio partner Sarah...
+During the summer of 2019 I tweeted at Eric Benson. In thinking about these ways that designing might embrace new materials or techniques; or how design teaching could integrate new practices, I had some things I was hoping to try. Eric was starting this new paper making lab at University of Illinois Champaign-Urbana -- he had some farm land of the universities where he is growing permaculture grasses and using them mixed with other local agricultural waste to make paper -- I was intrigued by this, as well as some other ideas I had for a carbon sequestering book... and really just was trying to ask Eric how I could get some of his paper, as well as if he knew any ink makers that might have carbon black ink where the carbon was from CO2 air capture...
 
-Eric and I have been working with Marc on a education piece of Cliamte Deisgners...
+After some back and forth Eric then connected me with Marc OBrien... thinking that Marc's work in the bay area with various carbon draw down start ups might lead to some new connections...
 
-So what did we create?
+(June and then July 2019? when we were driving to Maine was one of the calls!?)
 
-## What is a "Climate Designer" (from the website)
+These casual conversations with Eric and Marc became more serious pretty rapidly, and Climate Designers was born out of those initial discussions -- Marc and his studio partner Sarah leading the community side of things... and Eric and Marc and I working on an education side of Climate Designers...
 
-Designers taking climate action
+## Designers taking climate action
 
 Climate Designers is a global hub for designers and creative professionals from all industries, committed to using their creative skills for climate action. The Climate designer community brings together design practitioners of all kinds to share and master the best new climate action practices. Climate Designers' vision is to empower every single designer to feel confident in taking on our climate crisis.
 
 ## For real, what is a climate designer
-
-Climate Designers is for anyone of any age, any skill level, any amount of time in the field.
 
 A climate designer is a designer using their creative powers to fight the climate crisis. How can designers of all stripes figure out how to use their creative energies to do something tangible about our climate crisis -- no matter what you design, how can we help you bring "fighting climate change" into your work...
 
@@ -111,13 +107,11 @@ Climate Designers is a community -- <https://climate-designers.mn.co>
 
 ## Where else to get inspired
 
-the ways designers might involve themselves in solutions is multitudinous. One thing Climate Designers points out to designers strguggling to match their work to their ideals in this regard is to use outside frameworks
-
 I am particularly *drawn* to DrawDown.org.
 
 Project DrawDown looks at the most effective means for pulling carbon out of the atmostphere.
 
-I think there are a lot of opportunties for design and designers in the list.
+the ways designers might involve themselves in solutions is multitudinous. -- I think there are a lot of opportunties for design and designers in the list.
 
 It can become much easier to see how or where you can act when you think about the various kinds of companies and orgs that might work in any of these particular fields/disciplines
 
@@ -125,11 +119,7 @@ How can a designer help any of them?
 
 can you work as a GDer at General Electric? trying to get on the wind turbine team or something?
 
-once you get into this space; the "how do I analyze what the outputs of these systems are;" how do they fit into getting the most carbon out of the atmosphere then you start having some new opportunities for how design communicates as well.
-
-## Signs Signalling Sustainability (NOT greenwashing)
-
-So something that climate designers might then call their work are 'signs signalling sustainability"
+## What does a Climate Designer make
 
 if we look at what Climate designers is trying to do; not so much wholesale changing the deisgn industry, but changing the focus, chaning the fundamental aspects of "base level constraints" for each project; being more specific about what should be served what should count in the analysis of "good" designing...
 
@@ -139,7 +129,9 @@ And then designs that fit into any of those criteria become "climate designs"
 
 really really fantastic solutions are those that somehow show you what they are doing in a clear, interesting way.
 
-I call these "signs signalling sustainability"
+## Signs Signalling Sustainability (NOT greenwashing)
+
+I call these "signs signalling sustainability" / So something that climate designers might then call their work are 'signs signalling sustainability"
 
 the designs communicate additional information to you; they signal some large idea or seachange.
 
@@ -197,16 +189,8 @@ know what your ethics and viewpoint are -- what is being a repsonsible person
 
 what do you care about
 
-Drawdown.org > what does the most for drawing down carbon
-
 provide resources for all designers to take take climate action with their work...
-
-desinging is deciding!?
-
-±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 ## extras
 
 A quick preface: Climate designers is the initial work of Sarah Harrison and Marc Obrien... they're the main organizers and instrgators of the climatedesigner.org stuff, as well as the networking site, <https://climate-designers.mn.co/> … And then Eric Benson and I are helping to get the educators stuff off the ground. We're still working on that side of things!
-
-So I start with bau erdern
