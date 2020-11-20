@@ -35,7 +35,7 @@ Instead, how might All our designs point towards different more sustainable futu
 
 In thinking about this I ended up in a conversation with Eric Benson, who then connected me with Marc OBrien...
 
-https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab
+<https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab>
 
 These casual conversations with Eric and Marc quickly became more serious, and rather quickly Climate Designers was born by Marc and his studio partner Sarah...
 
@@ -49,7 +49,7 @@ Designers taking climate action
 
 Climate Designers is a global hub for designers and creative professionals from all industries, committed to using their creative skills for climate action. The Climate designer community brings together design practitioners of all kinds to share and master the best new climate action practices. Climate Designers' vision is to empower every single designer to feel confident in taking on our climate crisis.
 
-## So, what is a climate designer really?
+## For real, what is a climate designer
 
 Climate Designers is for anyone of any age, any skill level, any amount of time in the field.
 
@@ -163,7 +163,7 @@ Dymaxion map?
 
 Yoko Ono Earth Piece 1963
 
-https://climate.studio/ > warming globe code on your website!
+<https://climate.studio/> > warming globe code on your website!
 
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
