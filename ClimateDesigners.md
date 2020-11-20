@@ -2,8 +2,6 @@
 
 A talk for MICA Senior Seminar, 11/24/2020
 
-## What is a climate designer
-
 ## BauErden — Build Earth
 
 Earthstronauts.
@@ -26,40 +24,55 @@ Hello. I'm Kristian Bjørnard.
 
 What I just read I call "Bau Erden" or Build Earth. It attempts to rewrite some of the ideas from the Bauhaus withing the context of the restoration of our world, rather than the craft of building, as the main goal designers of all stripes should aspire to.
 
+I see this as an important aim -- we need new techniques, new ideas, new pedagogies to adapt a "climate crisis" mindset to our designing... the ideology of modernism, of moderno-techno-capitalism, has failed us … design education is complicit in this failure, particularly in that it perpetuates normative, status quo "problem solving"
+
+…
+
 [Future Cone?]
+    [From Joseph Voros, (and some influence from Dunne and Raby by way of Stuart Candy)](https://thevoroscope.com/2017/02/24/the-futures-cone-use-and-history/)
 
-All our designs can point towards a different more sustainable future; any design might be able to reduce carbon outputs … thinking about this, what needs to change in practice, in pedagogy, conversing with other designers trying to do this... it led me to collaborate with the other array of people resposnible for Climate Designers.
+Instead, how might All our designs point towards different more sustainable futures;
 
-some background???
+In thinking about this I ended up in a conversation with Eric Benson, who then connected me with Marc OBrien...
 
-## What is "Climate Design"
+https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab
 
-Climate Designers as a organization wants designers of all stripes to figure out how to use their creative energies to do something tangible about our climate crisis -- no matter what you design, you can bring "fighting climate change" into your work...
+These casual conversations with Eric and Marc quickly became more serious, and rather quickly Climate Designers was born by Marc and his studio partner Sarah...
 
-## So, what is a climate designer
+Eric and I have been working with Marc on a education piece of Cliamte Deisgners...
 
-A climate designer is a designer using their creative powers to fight the climate crisis.
+So what did we create?
 
-"Climate designer" is a title you can grant upon yourself, it doesn't depend on what kind of design you produce, just that you are a designer taking on climate change -- the current Climate Designer community includes Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, fashion designers, service designers, digital designers ... Any designer doing(or wanting to do) work in the climate space.
+## What is a "Climate Designer" (from the website)
+
+Designers taking climate action
+
+Climate Designers is a global hub for designers and creative professionals from all industries, committed to using their creative skills for climate action. The Climate designer community brings together design practitioners of all kinds to share and master the best new climate action practices. Climate Designers' vision is to empower every single designer to feel confident in taking on our climate crisis.
+
+## So, what is a climate designer really?
 
 Climate Designers is for anyone of any age, any skill level, any amount of time in the field.
 
+A climate designer is a designer using their creative powers to fight the climate crisis. How can designers of all stripes figure out how to use their creative energies to do something tangible about our climate crisis -- no matter what you design, how can we help you bring "fighting climate change" into your work...
+
+And, "Climate designer" is a title you can grant upon yourself, it doesn't depend on what kind of design you produce, just that you are a designer taking on climate change -- the current Climate Designer community includes Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, fashion designers, service designers, digital designers ... Pretty much all kinds of designers -- the connection is that we're doing (or wanting to do) work in the climate space.
+
 ## CD goals
 
-Climate Designers (the org) has two main goals:
+Climate Designers has two main goals:
 
-1. Providing resources, knowledge, and community for designers to take on climate action in their work.
-2. To inspire, motivate, and graduate new climate designers by providing climate-focused resources for design educators.
+1. Provide resources, knowledge, and community for designers to take on climate action in their work.
+2. Inspire, motivate, and graduate new climate designers by providing climate-focused resources for design educators.
 
 ### Practice
 
-Goal 1 includes work on the practice side of things... how to tangibly, actionably, pragmatically move design to a model that considers climate as a key constraint, as a key aspect of any prompt...
+Goal 1 is about the professional practice side of things: how to tangibly, actionably, pragmatically move design to a model that considers climate as a key constraint, as a key aspect of any prompt or new project
 
-On the community side of things … Let those designers drawn to using their design skills for climate change know that they're not alone. We want to attract more designers doing work in this space...
+Help those designers saying, OMG i'd love to do this but... with Actionable, tangible things to do.
 
-No matter what kind of deisgn you do you are aware about these other people doing this work too! Hwo can we connect with one another and share info, share resources, bring everyone along further and faster towards best practices, new ideas, repurposing old ideas, etc.
+See how other designers are doing all this stuff; share what you know about this stuff -- how it might change business plans, materials, processes, career paths, tactics, etc.
 
-See how other designers are doing all this stuff -- how it might chang ebusiness plans, materials, processes, career paths, tactics, etc. Help those designers saying, OMG i'd love to do this but... with Actionable, tangible things to do.
+Let designers drawn to using their skills for climate change know that they're not alone ... help make you aware about other people doing this work! How can we share info, share resources, bring everyone along further and faster towards best practices, new ideas, repurposing old ideas, etc.
 
 ### Pedagogy
 
@@ -73,38 +86,34 @@ Influence new designers towards understanding climate related issues from the st
 
 To me, Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc...
 
-## A Transition, need a subhead
+## Climate Designers [dot] org
 
-If you thought that sounded like what you think Design should do... well then you might be a climate designer...
+Climate Designers is a website -- <https://climatedesigners.org>
 
-To do all of this means that
+- highlight climate design projects
+- host climate design portoflios
+- job board for climtae design rols (climate bsae tie in)
+- platform for resource sharing/FAQ/Q&A
+- educators > resources, networking, etc.
+- meetups
+- workshops
 
-1. Climate Designers is a website -- <https://climatedesigners.org>
+## Climate Designers on Might Networks
 
-    - highlight climate design projects
-    - host climate design portoflios
-    - job board for climtae design rols (climate bsae tie in)
-    - platform for resource sharing/FAQ/Q&A
-    - educators > resources, networking, etc.
-    - meetups
-    - workshops
+Climate Designers is a community -- <https://climate-designers.mn.co>
 
-2. Climate Designers is a community -- <https://climate-designers.mn.co>
+- networking
+- get ideas for how to find work; how to find projects
+- share innovative materials, processes, etc.
+- actionable resources
+- realistic tactics
+- ways to integrate into education
 
-    The climate designer community is meant to help in a number of ways
-
-    - networking
-    - get ideas for how to find work; how to find projects
-    - share innovative materials, processes, etc.
-    - actionable resources
-    - realistic tactics
-    - ways to integrate into education
-
-## Transition part 2 to drawdown.org
+## Where else to get inspired
 
 the ways designers might involve themselves in solutions is multitudinous. One thing Climate Designers points out to designers strguggling to match their work to their ideals in this regard is to use outside frameworks
 
-I am particularly drawn to DrawDown.org.
+I am particularly *drawn* to DrawDown.org.
 
 Project DrawDown looks at the most effective means for pulling carbon out of the atmostphere.
 
@@ -153,6 +162,8 @@ Ride with Hitler poster
 Dymaxion map?
 
 Yoko Ono Earth Piece 1963
+
+https://climate.studio/ > warming globe code on your website!
 
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 

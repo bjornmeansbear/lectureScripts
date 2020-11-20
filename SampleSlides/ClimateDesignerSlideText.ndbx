@@ -61,6 +61,9 @@
         </node>
         <node name="divide2" position="18.00,2.00" prototype="math.divide"/>
         <node name="divide3" position="42.00,-4.00" prototype="math.divide"/>
+        <node name="divide4" position="34.00,4.00" prototype="math.divide">
+            <port name="value2" type="float" value="2.0"/>
+        </node>
         <node name="ellipse1" position="2.00,3.00" prototype="corevector.ellipse">
             <port name="width" type="float" value="1.0"/>
             <port name="height" type="float" value="1.0"/>
@@ -96,8 +99,8 @@
         </node>
         <node name="random_numbers2" position="31.00,4.00" prototype="math.random_numbers">
             <port name="amount" type="int" value="1"/>
-            <port name="start" type="float" value="-2.0"/>
-            <port name="end" type="float" value="2.0"/>
+            <port name="start" type="float" value="-5.0"/>
+            <port name="end" type="float" value="5.0"/>
         </node>
         <node name="rect1" position="1.00,1.00" prototype="corevector.rect">
             <port name="width" type="float" value="1920.0"/>
@@ -173,7 +176,6 @@
         <conn input="colorize3.shape" output="rect2"/>
         <conn input="combine2.list1" output="colorize3"/>
         <conn input="count2.list" output="Fonts1"/>
-        <conn input="copy2.copies" output="count2"/>
         <conn input="textpath4.text" output="slice2"/>
         <conn input="colorize4.shape" output="textpath4"/>
         <conn input="copy2.shape" output="colorize4"/>
@@ -196,5 +198,7 @@
         <conn input="wave1.offset" output="frame2"/>
         <conn input="subtract1.value1" output="round2"/>
         <conn input="slice3.start_index" output="subtract1"/>
+        <conn input="divide4.value1" output="count2"/>
+        <conn input="copy2.copies" output="divide4"/>
     </node>
 </ndbx>
