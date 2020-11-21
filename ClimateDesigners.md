@@ -22,7 +22,9 @@ Part of my question was about trying to source ink that would air capture carbon
 
 Well, my carbon sequestering book is currently just an idea for some possible future; but the conversations that Eric and Marc and I started over that idea turned into a longer discussion of teaching climate science and climate activism in college design courses.
 
-A few phone calls later, and suddenly this is more than something hypothetical. Marc and his business partner Sarah Harrison helped launch Climate Designers as a networking hub in the fall of 2019. And then ever since the project and community launched Eric, Marc, and I have been working on Climate Designers EDU.
+A few phone calls later, and suddenly this is more than something hypothetical. Marc and his business partner Sarah Harrison helped launch Climate Designers as a networking hub in the fall of 2019. And then ever since the project and community launched Eric, Marc, and I have been working on Climate Designers EDU. Our goal is to “…graduate the next wave of design leaders who are solving our climate crisis.” In order to do this, we developed this list of questions:
+    1. What skills do students need to have in order to address our climate crisis?
+    2. How can design educators support students as they start their path to becoming climate designers?
 
 ## Designers taking climate action
 
@@ -34,7 +36,7 @@ Climate Designers is a global hub for designers and creative professionals from 
 
 The Climate designer community brings together design practitioners of all kinds to share and master the best new climate action practices. We want to empower every designer to feel confident in taking on the climate crisis.
 
-"Climate designer" is a title you can grant upon yourself. If you are a designer taking on climate change; doing (or wanting to do) work in the climate space; please call youself a climate designer.
+"Climate designer" is a title you can grant upon yourself. If you are a designer taking on climate change; doing (or wanting to do) work in the climate space; please call yourself a climate designer.
 
 ## CD goals
 
@@ -62,10 +64,6 @@ How do you teach climate design? how do you integrate some of this much more tec
 Climate Designers is working to help provide projects, syllabi, couse ideas & plans... so you can see what others are doing how to bring this into a classroom and implement as and where possible in any design class/program.
 
 Influence new designers towards understanding climate related issues from the start of their design education.
-
-## Conclusion p1
-
-To me, Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc...
 
 ## What does a Climate Designer make
 
@@ -159,6 +157,10 @@ Climate Designers is a community -- <https://climate-designers.mn.co>
 - actionable resources
 - realistic tactics
 - ways to integrate into education
+
+## Conclusion p1
+
+To me, Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc...
 
 ## Additional notes and thoughts
 
