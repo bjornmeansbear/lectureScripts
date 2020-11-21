@@ -192,7 +192,3 @@ know what your ethics and viewpoint are -- what is being a repsonsible person
 what do you care about
 
 provide resources for all designers to take take climate action with their work...
-
-## extras
-
-A quick preface: Climate designers is the initial work of Sarah Harrison and Marc Obrien... they're the main organizers and instrgators of the climatedesigner.org stuff, as well as the networking site, <https://climate-designers.mn.co/> … And then Eric Benson and I are helping to get the educators stuff off the ground. We're still working on that side of things!
