@@ -92,15 +92,13 @@ We're working on anwering them...
 
 ## What does a Climate Designer make
 
-That book idea that helped connect Eric and Marc and I, it is an example of the kind of work we hope Climate Designers might help concept, make and develop. Designers envisioning objects from a possible future; and then trying to make them real to signal a sea change for society, for cultural produciton.
+That book idea that helped connect Eric and Marc and I, it is an example of the kind of work I hope Climate Designers might help concept, make and develop. Designers envisioning objects from a possible future; a future where spaceship earth has been resotred to a safe operating amount of CO2, and then trying to make them real to signal a sea change for society.
 
-While a sequestering book isn't likely to exist anytime soon, as even a speculative object it does something useful. Bringing an object like that into your home, you can't help but recognize and acknowledge CO2 in the atmosphere in a new way.
+While a sequestering book isn't likely to exist anytime soon, as even the idea of an object it does something useful. Bringing an object like that into someone's periphery, you can't help but recognize and acknowledge CO2 in the atmosphere in a new way. This book would require the absorption of some amount of CO2 to turn the ink black... that then becomes a symbol for X quantity of carbon and starts to help one tangiably understand what is otherwise so ephemeral and so big it can be hard to grasp.
 
-This book would require the absorption of some amount of CO2 to turn the ink black... that then becomes a symbol for X quantity of carbon and starts to help one tangiably understand what is otherwise so ephemeral and so big it can be hard to grasp.
+That too was the goal of this idea: amager bakke ring... The idea for Amager Bakke's smoke stack was that it would be shut by default... CO2 and water vapor would be intentionally trapped in the smokestack. Upon 1 ton of CO2 being collected in the smokestack, a ring is puffed into the sky. …
 
 This is part of a larger idea I like to call "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action -- how can you turn every designed object into a sign to signal sustainability...
-
-Climate designers isn't trying to wholesale changing the deisgn industry, CD is triyng to change the fundamental aspects of "base level constraints" for each project; being more specific about what should be served what should count in the analysis of "good" designing...
 
 what if we take all these solutions from drawdown as ways to judge "good" design? or as ways to figure out who or what to design? Designs that fit into any of those criteria become "climate designs"
 
@@ -138,6 +136,8 @@ It can become much easier to see how or where you can act when you think about t
 How can a designer help any of them?
 
 ## A Conclusion
+
+Climate designers aren't trying to wholesale changing the deisgn industry, CD is triyng to change the fundamental aspects of "base level constraints" for each project; being more specific about what should be served what should count in the analysis of "good" designing...
 
 Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc... Take those things into account, you're just making design, it would become the bare minimum of success, did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? just become a regular aspect of design.
 
