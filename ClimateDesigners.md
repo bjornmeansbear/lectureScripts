@@ -4,7 +4,7 @@
 
 ## So you want to be a climate designer[?]
 
-[S002 CO2 vapor ring] > from old BIG Amager Bakke stuff.
+[S002 CO2 vapor ring] > from old BIG Amager Bakke stuff. [^BIG.DK]
 
 A talk for MICA Senior Seminar, 11/24/2020
 
@@ -168,5 +168,7 @@ know what your ethics and viewpoint are -- what is being a repsonsible person
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
 ## Footnotes
+
+[^BIG.DK]: Check out the Amager Bakke project on Bjarke Ingels Group website...
 
 [^1]: Eric Benson also recounts his version of this tale here: <https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab>
