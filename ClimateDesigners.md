@@ -59,7 +59,7 @@ How can designers learn to do something tangible about climate change. How can w
 
 "Climate designer" is a title you may grant upon yourself. If you are a designer doing (or wanting to do) work in the climate space; you should call yourself a climate designer.
 
-The current Climate Designer community includes Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, fashion designers, service designers, digital designers ... Pretty much all kinds of designers. The unifying element: designers committed to using their creative skills for climate action.
+The current Climate Designer community includes Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, fashion designers, service designers, digital designers … Pretty much all kinds of designers. The unifying element: designers committed to using their creative skills for climate action.
 
 ## CD goals
 
@@ -74,7 +74,7 @@ Climate Designers has two main goals:
 
 Goal 1 is about the professional practice side of things: how to tangibly, actionably, pragmatically shift design to considers climate as a key constraint, as a key aspect of any prompt or new project.
 
-Goal 1 is also concerned with helping those designers saying, OMG i'd love to do this but I can't in my job fo xyz reasons... with actionable, tangible things to do; what are even the tiniest things you can change in your design practice?
+Goal 1 is also concerned with helping those designers saying, OMG i'd love to do this but I can't in my job fo xyz reasons… with actionable, tangible things to do; what are even the tiniest things you can change in your design practice?
 
 See how other designers are doing all this; share what you know -- how might factoring in climate change change business plans, materials, processes, career paths, tactics, etc. How can we share info, share resources, bring everyone along further and faster towards best practices, new ideas, repurposing old ideas, etc.
 
@@ -99,21 +99,19 @@ Gather materials from our professorial colleagues already integrating climate de
 
 ## What does a Climate Designer make
 
-In broad strokes, that's what Climate Designers *is* -- perhaps now it might be useful to ponder more concretely how design outputs might evolve or change presuming you adopt "climate design" as a mindset?
+In broad strokes, that's what Climate Designers *is* -- perhaps now it might be useful to ponder more concretely how design outputs might evolve or change presuming you adopt "climate design" as a mindset? Or, what should a climate designer make?
 
-Let's go back to the beginning -- That book idea that helped connect Eric and Marc and I. It's an example of the kind of work I hope Climate Designers might help concept, make and develop. Designers envisioning objects from a possible future; a future where spaceship earth is restored to it's safe operating levels of CO2. Having envisioned this future, envisioned design objects from this future, trying to make them real signals a sea change for society and culture at large.
+To loop back (everything is conneted, cycles are everywhere) -- That book idea that helped connect Eric and Marc and I is an example of the kind of work I desire Climate Designers to concept, make, and develop. Designers envisioning objects from a possible future (FutureCone?); a future where spaceship earth (Buckmister Fuller?) is restored to it's safe operating range of CO2. Having envisioned this future, envisioned design objects from this future, trying to make them real signals a sea change for society and culture at large in the present. How might we point our peers and colleagues to desire an alternate future? Can we entice with specualtive objects from that future? can we shift what is "possible"?
 
-While a sequestering book isn't likely to exist anytime soon (it turns out that many chemicals required to air capture carbon are caustic; and they don't necessarily keep the carbon and get rid of the other stuff, so the idea of turning black over time wasn't probably going to happen either!?), even just the idea of an object like it can be useful.
+While a sequestering book isn't likely to exist anytime soon (it turns out that many chemicals required to air capture carbon are caustic; and they don't necessarily keep the carbon and get rid of the other stuff, so the idea of turning black over time wasn't probably going to happen either!?), even just the idea of an object like it can be useful. Bringing an object like that into someone's periphery, one can't help but recognize and acknowledge CO2 in the atmosphere in a new way. This book would require the absorption of some amount of CO2 to become legible -- that then becomes a symbol for X quantity of carbon and starts to help one tangiably understand what is otherwise so ephemeral and so big it can be hard to grasp.
 
-Bringing an object like that into someone's periphery, one can't help but recognize and acknowledge CO2 in the atmosphere in a new way. This book would require the absorption of some amount of CO2 to become legible -- that then becomes a symbol for X quantity of carbon and starts to help one tangiably understand what is otherwise so ephemeral and so big it can be hard to grasp.
-
-That too was the goal of and idea Bjarke Ingles Group had for Amager Bakke. Amager Bakke's smoke stack was that it would be shut by default... CO2 and water vapor would be intentionally trapped in the smokestack. Upon 1 ton of CO2 being collected in the smokestack, a ring is puffed into the sky. … Again, we're using desing to tangibly communicate something important about climate change -- how can we start fathoming how much CO2 we are releasing? how to visualize what 416ppm vs 350ppm means so its not just invisible, ephemeral, intagible...
+That too was the goal of and idea Bjarke Ingles Group had for Amager Bakke. Amager Bakke's smoke stack was that it would be shut by default… CO2 and water vapor would be intentionally trapped in the smokestack. Upon 1 ton of CO2 being collected in the smokestack, a ring is puffed into the sky. … Again, we're using desing to tangibly communicate something important about climate change -- how can we start fathoming how much CO2 we are releasing? how to visualize what 416ppm vs 350ppm means so its not just invisible, ephemeral, intagible… This unfortunately wasn't completed either, and lives on merely in an episode of Netflix's Abstract… but! again, what an amazing design idea that gets at how we concretize these intagibles…
 
 ## Signs signaling Sustainability (NOT greenwashing)
 
-I like to call objects like these "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action -- how can you turn every designed object into a sign to signal sustainability... make tangible, make understandable something important about climate change and bring it directly into your design work. This is doable no matter the project, no matter the prompt.
+I like to call objects like these "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action -- how can you turn every designed object into a sign to signal sustainability… make tangible, make understandable something important about climate change and bring it directly into your design work. This is doable no matter the project, no matter the prompt.
 
-So these two examples I just gave you focus on this "visualizing CO2" aspect. But, there are other aspects of sustainability one might also signal. Marie's work on solar.lowtechmagazine.com for instance... Curry's work on the water line project...
+So these two examples I just gave you focus on this "visualizing CO2" aspect. But, there are other aspects of sustainability one might also signal. Marie's work on solar.lowtechmagazine.com for instance… Curry's work on the water line project…
 
 the designs communicate additional information to you; they signal some large idea or seachange.
 
@@ -137,13 +135,13 @@ what if we take all these solutions from drawdown as ways to judge "good" design
 
 Take for instance Graham Coreil Allens "Reverberation Crosswalks"
 
-On the surface, these are fun, brightly colored crosswalks -- paint on cement and asphalt; not particularly innovative or special in the "new materials" or "direct carbon capture" front... But then, take a look at project draw down... walkable cities is in their table of most effective strategies at 50th is overall reduction/draw down capability... With this higher level view, well suddenly a project like reverberations crosswalks becomes a climate design project; it signals a more sustainable way forward. Around this school suddenly becomes more walkable. You now notice the crosswalks, and are hopefully more likely to walk yourself... these are cheap, fast, easy to do, can be customized for region, culture, available materials, etc. AND can help make more people walk in the citiy... Bam!
+On the surface, these are fun, brightly colored crosswalks -- paint on cement and asphalt; not particularly innovative or special in the "new materials" or "direct carbon capture" front… But then, take a look at project draw down… walkable cities is in their table of most effective strategies at 50th is overall reduction/draw down capability… With this higher level view, well suddenly a project like reverberations crosswalks becomes a climate design project; it signals a more sustainable way forward. Around this school suddenly becomes more walkable. You now notice the crosswalks, and are hopefully more likely to walk yourself… these are cheap, fast, easy to do, can be customized for region, culture, available materials, etc. AND can help make more people walk in the citiy… Bam!
 
 ## A Conclusion
 
-Climate designers aren't trying to wholesale changing the deisgn industry, CD is triyng to change the fundamental aspects of "base level constraints" for each project; being more specific about what should be served what should count in the analysis of "good" designing...
+Climate designers aren't trying to wholesale changing the deisgn industry, CD is triyng to change the fundamental aspects of "base level constraints" for each project; being more specific about what should be served what should count in the analysis of "good" designing…
 
-Success equals climate designers not needing to exist... designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc... Take those things into account, you're just making design, it would become the bare minimum of success, did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? just become a regular aspect of design.
+Success equals climate designers not needing to exist… designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc… Take those things into account, you're just making design, it would become the bare minimum of success, did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? just become a regular aspect of design.
 
 Success also equals all designed objects signaling their sustainability in some way. While modernism doesn't feel particularly avant garde or ideology driven any more; once upon a time to have a sleek tea kettle was meant to really mean something!
 
@@ -153,7 +151,7 @@ Success also equals all designed objects signaling their sustainability in some 
 
 ## Additional notes and thoughts
 
-so...
+so…
 
 Use solar.lowtechmagazine.com as an example?
 
@@ -172,9 +170,9 @@ Motivate designers to use their creative talents to solve our climate crisis. --
 
 Responsibility of design when talking about Climate Change? the climate crisis?
 
-What can you do without quiting your job? / "I'm aware, but I can't do this at my job..." / You want to do something, not quit your career; so what makes a big impact...
+What can you do without quiting your job? / "I'm aware, but I can't do this at my job…" / You want to do something, not quit your career; so what makes a big impact…
 
-Ideologies; the status quo as an ideolgoy...
+Ideologies; the status quo as an ideolgoy…
 
 take risks and be bold
 
@@ -188,6 +186,6 @@ know what your ethics and viewpoint are -- what is being a repsonsible person
 
 [^Nasa]:  Blue Marble 2012; A contemporary blue marble image, image was released to the public on January 25, 2012. NASA <https://www.flickr.com/photos/nasacommons/31258502484/in/album-72157646697326324/>
 
-[^BIG.DK]: Check out the Amager Bakke project on Bjarke Ingels Group website... <https://big.dk/#projects-arc>
+[^BIG.DK]: Check out the Amager Bakke project on Bjarke Ingels Group website… <https://big.dk/#projects-arc>
 
 [^1]: Eric Benson also recounts his version of this tale here: <https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab>
