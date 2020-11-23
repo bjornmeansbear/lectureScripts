@@ -1,6 +1,6 @@
 # Climate Design, Signs signaling Sustainably, Build Earth, and more
 
-[S001 NASA Earth?]
+[S001 NASA Earth?] [^Nasa]
 
 ## So you want to be a climate designer[?]
 
@@ -168,6 +168,8 @@ know what your ethics and viewpoint are -- what is being a repsonsible person
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
 ## Footnotes
+
+[^Nasa]:  Blue Marble 2012; A contemporary blue marble image, image was released to the public on January 25, 2012. NASA <https://www.flickr.com/photos/nasacommons/31258502484/in/album-72157646697326324/>
 
 [^BIG.DK]: Check out the Amager Bakke project on Bjarke Ingels Group website...
 
