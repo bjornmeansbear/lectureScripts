@@ -13,7 +13,7 @@ I'm going to say these things a lot during my talk, so just so we are all on the
 - Carbon:
   Shorthand for Carbon Dioxide, CO2
 - Drawdown:
-  Taking excess Carbon Dioxide, CO2, out of the atmosphere -- bringing it back down to the Earth in various ways...
+  Taking excess Carbon Dioxide, CO2, out of the atmosphere — bringing it back down to the Earth in various ways...
 - Climate Designer:
   Designers taking climate action
 - Sustainability:
@@ -22,6 +22,12 @@ I'm going to say these things a lot during my talk, so just so we are all on the
   The concious act of creating something that improves a situation; Not necessarily any particular adjectived profession.
 - Sign:
   The semiotic sense of the word: a stand in representing some other idea or object.
+
+## Introduction
+
+Hello I'm Kristian Bjornard;
+
+Current PPM CO2? Preferred Levels? Historic operating levels for most of humanity?
 
 ## So you want to be a climate designer[?]
 
@@ -35,7 +41,7 @@ A talk for MICA Senior Seminar, 11/24/2020
 
 [s004 FreshPress?]
 
-In June 2019 got in touch with Eric Benson. Eric has a paper making farm and lab at the University of Illinois at Urbana-Champaign. The project is called "Fresh Press" -- he grows native prairie grasses, and uses them (mixed with other local agricultural waste) to make paper. I had spent most of june listening to podcasts about regenerative agriculture and sequestering carbon dioxide in soil while re-mortaring my house's roofline. Eric's practice of using prairie grass as a paper material seemed like the perfect place for a design practice and prarie soil sequestration to intersect. I thought his paper might be useful for a carbon sequestering book idea … and so we got to talking.
+In June 2019 got in touch with Eric Benson. Eric has a paper making farm and lab at the University of Illinois at Urbana-Champaign. The project is called "Fresh Press" — he grows native prairie grasses, and uses them (mixed with other local agricultural waste) to make paper. I had spent most of june listening to podcasts about regenerative agriculture and sequestering carbon dioxide in soil while re-mortaring my house's roofline. Eric's practice of using prairie grass as a paper material seemed like the perfect place for a design practice and prarie soil sequestration to intersect. I thought his paper might be useful for a carbon sequestering book idea … and so we got to talking.
 
 [S005 drawdown SSS book sketch]
 
@@ -55,13 +61,13 @@ Out of these hypothetical conversation around captured carbon black ink and clim
 
 [S008]
 
-Climate Designers is a website -- <https://climatedesigners.org>; and a network -- <https://climate-designers.mn.co/feed>
+Climate Designers is a website — <https://climatedesigners.org>; and a network — <https://climate-designers.mn.co/feed>
 
 The Climate designer community brings together design practitioners to share and master climate action practices. We want to empower every designer, every type of designer, to feel confident in taking on the climate crisis.
 
 - highlight climate design projects
 - host climate design portfolios
-- job board for climate design roles/positions/opportunities -- A collab w/ ClimateBase <https://climate.careers/jobs/?q=design>
+- job board for climate design roles/positions/opportunities — A collab w/ ClimateBase <https://climate.careers/jobs/?q=design>
 - meetups
 - workshops
 - platform for resource sharing/FAQ/Q&A
@@ -91,45 +97,47 @@ Climate Designers has two main goals:
 
 ### Goal 1: Practice
 
-Goal 1 is about the professional practice side of things: how to tangibly, actionably, pragmatically shift design to considers climate as a key constraint, as a key aspect of any prompt or new project. How can designers learn to do something tangible about climate change. How can we help you bring "fighting climate change" into your work no matter what you design.
+Goal 1 is about updating design practice: how to tangibly, actionably, pragmatically shift design to consider climate as a key constraint, climate change as a key aspect of any prompt or new project. How can designers do something tangible about climate change in every aspect of their practice? How can we help you bring "fighting climate change" into your work no matter what you design?
 
-Goal 1 is also concerned with helping those designers saying, OMG i'd love to do this but I can't in my job fo xyz reasons… with actionable, tangible things to do; what are even the tiniest things you can change in your design practice?
+Goal 1 is also concerned with helping designers saying, OMG i'd love to do this but I can't in my job fo xyz reasons… So, we want designer to see how others are doing all this. What has been figured out all ready — how might factoring in climate change change business plans, materials, processes, career paths, tactics, etc.
 
-See how other designers are doing all this; share what you know -- how might factoring in climate change change business plans, materials, processes, career paths, tactics, etc. How can we share info, share resources, bring everyone along further and faster towards best practices, new ideas, repurposing old ideas, etc. The current Climate Designer community includes Graphic Designers, illustrators, Industrial designers, architects, social designers, interface designers, fashion designers, service designers, digital designers … Pretty much all kinds of designers. So our goal is that no matter what you can either connect with someone to help you with what you're doing, or be a resource for newcomers regardless of discipline.
+How can we share information & resources, successes & failures, all to bring everyone along further and faster towards best practices, new ideas, repurposing old ideas, etc.
 
-And we want designers to consider how to be a climate designer by continuing to do your regular job, not to make you feel bad or that you have to change positions:
+We want you to consider how to be a climate designer while continuing to do your job, not to make you feel bad or that you have to change positions:
 
 - Maybe that's picking fonts, designing logos, creating publications or apps and bringing new criteria and constraints into decision making: materials that use less energy? typefaces that require less ink? software and service providers that have sustainability initiatives? local, socially positive workforce?
 - If you get to help pick projects or you run your own studio can you look for clients whose work or missions align socially and ecologically?
 - If you are working in-house in an office that seems ostensbily not related or connected to climate change you may just need to ask more questions… find where you can affect an outcome no matter how small.
 
-However, if you do want a design job directly related to drawing down carbon, or you think where you are is a lost cause, Climate Designers has help with that too with the ClimateBase job board!
+If you do want a design job directly related to drawing down carbon, or you think where you are is a lost cause, Climate Designers has help with that too with the ClimateBase job board!
 
 { a Quick Project Draw Down / Climate Base sidenote? }
 
 ### Goal 2: Pedagogy
 
-Goal 2 is concerned with changing design pedagogy.
+Goal 2 is concerned with evolving design pedagogy.
 
-What skills do students need to have in order to address our climate crisis? How can design educators support students as they start their path to becoming climate designers? How do you teach climate design? how do you integrate the required technical, social, scientific, & philosophical work into design courses? How can we help introduce climate related concerns into design curriculum at large?
-
-Climate Designers' intial work on this front is to help provide projects, syllabi, course ideas & plans.
+What skills do students (& educators) need to have in order to address our climate crisis? How can design educators support students as they start their path towards climate designing? How do you teach climate design? how do you integrate the required technical, social, scientific, & philosophical work into design courses? How can we help introduce climate related concerns into design curriculum at large? The intial work on this front is to help provide projects, syllabi, course ideas & plans.
 
 Climate Design EDU is gathering materials from the Climate Design teachers and professors already integrating climate design in their courses. And as our reousrces come together we also hope to actively generate new resources and new materials to help create "climate design" programs or curriculum arcs. Show how one migh† bring this into a classroom and implement as and where possible in any design class/program.
 
+We're also hoping to have a running podcast of interviews with educators in different kinds of higher ed settings: large private universities, small private art and design colleges, and whatever is inbetween. The thinking here is to illustrate where different opportunities and colloabroations might lie depending on what kind of enviuronment you find yourself teaching in. And what you can do in simple, small ways if you're not able to do much about the curriculum as a whole.
+
 ## What does a Climate Designer make
 
-In broad strokes, that's what Climate Designers *is* -- designers engaging with the climate in their work and teaching. Now let's ponder more concretely how design outputs can evolve and change when you adopt "climate design" as a mindset? To put it more succintly: what should a climate designer make? what is a climate design?
+In broad strokes, that's what Climate Designers *is* — designers engaging with the climate in their work and teaching. Now let's ponder more concretely how design outputs can evolve and change when you adopt "climate design" as a mindset?
 
-To loop back (everything is conneted, cycles are everywhere) -- That book idea that helped connect Eric and Marc and I is an example of the kind of work I desire Climate Designers to concept, make, and develop. Designers envisioning objects from a possible future (FutureCone?); a future where spaceship Earth (Buckmister Fuller?) is restored to it's safe operating range of CO2. Having envisioned this future, envisioned design objects from this future, trying to make them real signals a sea change for society and culture at large in the present. How might we point our peers and colleagues to desire an alternate future? Can we entice with specualtive objects from that future? can we shift what is "possible"?
+To put it more succintly: what should a climate designer make? what is a climate design?
 
-While a sequestering book isn't likely to exist anytime soon (it turns out that many chemicals required to air capture carbon are caustic; and they don't necessarily keep the carbon and get rid of the other stuff, so the idea of turning black over time wasn't probably going to happen either!?), even just the idea of an object like it can be useful. Bringing an object like that into someone's periphery, one can't help but recognize and acknowledge CO2 in the atmosphere in a new way. This book would require the absorption of some amount of CO2 to become legible -- that then becomes a symbol for X quantity of carbon and starts to help one tangiably understand what is otherwise so ephemeral and so big it can be hard to grasp.
+Let's loop back to the beginning (everything is conneted, cycles are everywhere). That book idea that helped connect Eric and Marc and I is an example of the kind of work Climate Designers should concept, make, and develop. Designers envisioning objects from a possible future (FutureCone?); a future where spaceship Earth (Buckmister Fuller?) is restored to it's safe operating range of CO2 (did I go over this yet?). Having envisioned this future, envisioned design objects from this future, trying to make them real signals a sea change for society and culture at large in the present. How might we point our peers and colleagues to desire an alternate future? Can we entice with specualtive objects from that future? can we shift what is "possible"?
 
-That too was the goal of and idea Bjarke Ingles Group had for Amager Bakke. Amager Bakke's smoke stack was that it would be shut by default… CO2 and water vapor would be intentionally trapped in the smokestack. Upon 1 ton of CO2 being collected in the smokestack, a ring is puffed into the sky. … Again, we're using desing to tangibly communicate something important about climate change -- how can we start fathoming how much CO2 we are releasing? how to visualize what 416ppm vs 350ppm means so its not just invisible, ephemeral, intagible… This unfortunately wasn't completed either, and lives on merely in an episode of Netflix's Abstract… but! again, what an amazing design idea that gets at how we concretize these intagibles…
+While a sequestering book isn't likely to exist anytime soon (it turns out that many chemicals required to air capture carbon are caustic; and they don't necessarily keep the carbon and get rid of the other stuff, so the idea of turning black over time wasn't probably going to happen either!?), even just the idea of an object like it can be useful. Bringing an object like that into someone's periphery, one can't help but recognize and acknowledge CO2 in the atmosphere in a new way. This book would require the absorption of some amount of CO2 to become legible — that then becomes a symbol for X quantity of carbon and starts to help one tangiably understand what is otherwise so ephemeral and so big it can be hard to grasp.
+
+That too was the goal of and idea Bjarke Ingles Group had for Amager Bakke. Amager Bakke's smoke stack was that it would be shut by default… CO2 and water vapor would be intentionally trapped in the smokestack. Upon 1 ton of CO2 being collected in the smokestack, a ring is puffed into the sky. … Again, we're using desing to tangibly communicate something important about climate change — how can we start fathoming how much CO2 we are releasing? how to visualize what 416ppm vs 350ppm means so its not just invisible, ephemeral, intagible… This unfortunately wasn't completed either, and lives on merely in an episode of Netflix's Abstract… but! again, what an amazing design idea that gets at how we concretize these intagibles…
 
 ## Signs signaling Sustainability (NOT greenwashing)
 
-I like to call objects like these "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action -- how can you turn every designed object into a sign to signal sustainability… make tangible, make understandable something important about climate change and bring it directly into your design work. This is doable no matter the project, no matter the prompt.
+I like to call objects like these "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — how can you turn every designed object into a sign to signal sustainability… make tangible, make understandable something important about climate change and bring it directly into your design work. This is doable no matter the project, no matter the prompt.
 
 So these two examples I just gave you focus on this "visualizing CO2" aspect. But, there are other aspects of sustainability one might also signal. Marie's work on solar.lowtechmagazine.com for instance… Curry's work on the water line project…
 
@@ -141,13 +149,13 @@ I am particularly *drawn* to DrawDown.org.
 
 Project DrawDown looks at the most effective means for pulling carbon out of the atmostphere.
 
-the ways designers might involve themselves in solutions is multitudinous. -- I think there are a lot of opportunties for design and designers in the list.
+the ways designers might involve themselves in solutions is multitudinous. — I think there are a lot of opportunties for design and designers in the list.
 
 It can become much easier to see how or where you can act when you think about the various kinds of companies and orgs that might work in any of these particular fields/disciplines
 
 How can a designer help any of them?
 
-all kinds of work can be reframed as a sustainable sign if you can rethink what the project is really about -- can you fit any of the aims of a prompt into a category from project draw down for example?
+all kinds of work can be reframed as a sustainable sign if you can rethink what the project is really about — can you fit any of the aims of a prompt into a category from project draw down for example?
 
 A resource I've been using to help think about what kinds
 
@@ -155,7 +163,7 @@ what if we take all these solutions from drawdown as ways to judge "good" design
 
 Take for instance Graham Coreil Allens "Reverberation Crosswalks"
 
-On the surface, these are fun, brightly colored crosswalks -- paint on cement and asphalt; not particularly innovative or special in the "new materials" or "direct carbon capture" front… But then, take a look at project draw down… walkable cities is in their table of most effective strategies at 50th is overall reduction/draw down capability… With this higher level view, well suddenly a project like reverberations crosswalks becomes a climate design project; it signals a more sustainable way forward. Around this school suddenly becomes more walkable. You now notice the crosswalks, and are hopefully more likely to walk yourself… these are cheap, fast, easy to do, can be customized for region, culture, available materials, etc. AND can help make more people walk in the citiy… Bam!
+On the surface, these are fun, brightly colored crosswalks — paint on cement and asphalt; not particularly innovative or special in the "new materials" or "direct carbon capture" front… But then, take a look at project draw down… walkable cities is in their table of most effective strategies at 50th is overall reduction/draw down capability… With this higher level view, well suddenly a project like reverberations crosswalks becomes a climate design project; it signals a more sustainable way forward. Around this school suddenly becomes more walkable. You now notice the crosswalks, and are hopefully more likely to walk yourself… these are cheap, fast, easy to do, can be customized for region, culture, available materials, etc. AND can help make more people walk in the citiy… Bam!
 
 ## A Conclusion
 
@@ -186,7 +194,7 @@ Amager Bakke as an example?
 
 Climate Designers wants to build a community of designers working towards solving the climate crisis.
 
-Motivate designers to use their creative talents to solve our climate crisis. -- How to combine what you're doing as a designer with climate action.
+Motivate designers to use their creative talents to solve our climate crisis. — How to combine what you're doing as a designer with climate action.
 
 Responsibility of design when talking about Climate Change? the climate crisis?
 
@@ -198,7 +206,7 @@ take risks and be bold
 
 say and do things that you think are important
 
-know what your ethics and viewpoint are -- what is being a repsonsible person
+know what your ethics and viewpoint are — what is being a repsonsible person
 
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
