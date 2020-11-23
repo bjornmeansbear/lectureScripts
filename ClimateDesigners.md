@@ -171,24 +171,13 @@ Success equals climate designers not needing to exist… designer becomes synony
 
 Success also equals all designed objects signaling their sustainability in some way. While modernism doesn't feel particularly avant garde or ideology driven any more; once upon a time to have a sleek tea kettle was meant to really mean something!
 
-???
-
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
 ## Additional notes and thoughts
 
-so…
-
-Use solar.lowtechmagazine.com as an example?
-
-Curry's high water line sculptures as an example?
-
 Tattfoo's SOS outfit
 
 Ecovention Inks / color palette
-
-[Return to the halo?]
-Amager Bakke as an example?
 
 Climate Designers wants to build a community of designers working towards solving the climate crisis.
 
