@@ -22,11 +22,11 @@ I brought up in our conversation how I might find or make ink that could direct 
 
 [S006 Marc?]
 
-Well, it didn't — at least not on the carbon capture ink front. My carbon sequestering book is still just speculative idea for a possible future; but! the discussion that Eric and Marc and I did end up having turned into a longer exchange around teaching climate science and climate activism in college design courses; as well as how more designers might be encouraged to undertake their work in climate consious ways.
+Well, it didn't — at least not on the carbon capture ink front. My carbon sequestering book is still just speculative idea for a possible future. But! the discussion that Eric, Marc and I did start became a longer exchange around teaching climate science and activism in college design courses; as well as how more designers might be encouraged to undertake their work in climate consious ways.
 
 [S007 CD website?]
 
-This initial hypothetical conversation around carbon black ink and climate focused classrooms led to discussing what sustainability and climate change related resources other designers and educators would benefit from. A few phone calls later, and suddenly tangible things were happening. Marc and his business partner Sarah Harrison officially launched a website for Climate Designers as a networking hub fall of 2019. And ever since the Climate Designers project and community launched Eric, Marc, and I have been working on Climate Designers EDU, a soon to be resource for design educators.
+Out of these hypothetical conversation around carbon black ink and climate focused classrooms a real discussion of what sustainability and climate change related resources other designers and educators might benefit from was birthed. A few phone calls later, and suddenly tangible things were happening. Marc and his business partner Sarah Harrison officially launched [Climate Designers {dot} org](https://climatedesigners.org) as a networking hub fall of 2019. And ever since the Climate Designers project and community launched Eric, Marc, and I have been working on [Climate Designers EDU](https://www.climatedesigners.org/edu), a soon to be resource for design educators.
 
 ## Climate Designers [dot] org
 
