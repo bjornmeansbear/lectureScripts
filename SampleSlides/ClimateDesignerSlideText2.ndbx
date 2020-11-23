@@ -4,7 +4,7 @@
     <property name="canvasWidth" value="1920"/>
     <property name="canvasX" value="0"/>
     <property name="canvasY" value="0"/>
-    <node name="root" prototype="core.network">
+    <node name="root" prototype="core.network" renderedChild="combine2">
         <node name="FontNameOutput" position="9.00,5.00" prototype="corevector.textpath">
             <port name="font_size" type="float" value="38.0"/>
             <port name="align" type="string" value="LEFT"/>
@@ -24,6 +24,9 @@
         <node name="add1" position="21.00,-1.00" prototype="math.add">
             <port name="value2" type="float" value="1.0"/>
         </node>
+        <node name="add2" position="4.00,1.00" prototype="math.add">
+            <port name="value2" type="float" value="1.0"/>
+        </node>
         <node name="colorize4" position="6.00,6.00" prototype="corevector.colorize">
             <port name="fill" type="color" value="#ffffffff"/>
             <port name="strokeWidth" type="float" value="1.0"/>
@@ -38,12 +41,16 @@
         </node>
         <node name="count1" position="3.00,0.00" prototype="list.count"/>
         <node name="count2" position="7.00,0.00" prototype="list.count"/>
-        <node name="frame2" position="-2.00,-1.00" prototype="core.frame"/>
-        <node name="random_numbers2" position="-2.00,3.00" prototype="math.random_numbers">
+        <node name="degreeTurn" position="7.00,7.00" prototype="math.random_numbers">
             <port name="amount" type="int" value="1"/>
             <port name="start" type="float" value="-4.0"/>
             <port name="end" type="float" value="4.0"/>
         </node>
+        <node name="divide1" position="0.00,1.00" prototype="math.divide">
+            <port name="value2" type="float" value="16.0"/>
+        </node>
+        <node name="floor1" position="1.00,2.00" prototype="math.floor"/>
+        <node name="frame2" position="-2.00,-1.00" prototype="core.frame"/>
         <node name="round1" position="18.00,2.00" prototype="math.round"/>
         <node name="slice2" position="4.00,3.00" prototype="list.slice">
             <port name="size" type="int" value="1"/>
@@ -57,6 +64,9 @@
         <node name="subtract2" position="15.00,-1.00" prototype="math.subtract">
             <port name="value2" type="float" value="12.0"/>
         </node>
+        <node name="subtract3" position="-1.00,0.00" prototype="math.subtract">
+            <port name="value2" type="float" value="1.0"/>
+        </node>
         <node name="wave1" position="18.00,1.00" prototype="math.wave">
             <port name="offset" type="float" value="11.0"/>
             <port name="type" type="string" value="sawtooth"/>
@@ -64,8 +74,6 @@
         <conn input="count2.list" output="Fonts1"/>
         <conn input="copy2.shape" output="colorize4"/>
         <conn input="slice2.list" output="SlideTitles1"/>
-        <conn input="random_numbers2.seed" output="frame2"/>
-        <conn input="copy2.rotate" output="random_numbers2"/>
         <conn input="slice3.list" output="Fonts1"/>
         <conn input="combine2.list7" output="FontNameOutput"/>
         <conn input="FontNameOutput.text" output="slice3"/>
@@ -83,5 +91,13 @@
         <conn input="slice3.start_index" output="round1"/>
         <conn input="subtract2.value1" output="frame2"/>
         <conn input="wave1.offset" output="subtract2"/>
+        <conn input="subtract3.value1" output="frame2"/>
+        <conn input="divide1.value1" output="subtract3"/>
+        <conn input="degreeTurn.seed" output="frame2"/>
+        <conn input="copy2.rotate" output="degreeTurn"/>
+        <conn input="floor1.value" output="divide1"/>
+        <conn input="slice2.start_index" output="floor1"/>
+        <conn input="add2.value1" output="count2"/>
+        <conn input="divide1.value2" output="add2"/>
     </node>
 </ndbx>
