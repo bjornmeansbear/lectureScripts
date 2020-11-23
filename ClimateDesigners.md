@@ -134,7 +134,7 @@ That's what Climate Designers *is* — designers engaging with the climate in th
 
 To put it more succintly: *what should a climate designer make? what is a climate design?*
 
-Let's loop back to the beginning (everything is conneted, cycles are everywhere). The carbon negative book idea that helped connect Eric and Marc and I is an example of work Climate Designers should concept, make, and develop. Design objects that embodying the constraints of climate change in their concepts.
+Let's loop back to the beginning (everything is conneted, cycles are everywhere). The carbon negative book idea that connected Eric, Marc and I is an example of work Climate Designers should concept, make, and develop. Design objects  embodying the constraints of climate change in their concepts.
 
 While a sequestering book isn't likely to exist anytime soon, the very idea of an object like that is useful. Bringing objects into someone's periphery which show you something otherwise intangible, one can't help but recognize and acknowledge CO2 in the atmosphere in a new way. The idea is that the book would require the absorption of known amount of CO2 to become legible — the becomes a sign for X quantity of carbon and helps one grasp what is otherwise so ephemeral, so invisble.
 
