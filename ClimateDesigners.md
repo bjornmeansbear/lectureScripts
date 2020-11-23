@@ -165,6 +165,8 @@ What if we take all these solutions from drawdown as ways to judge "good" design
 
 ## A Conclusion
 
+[take risks and be bold]
+
 Climate designers aren't trying to wholesale changing the deisgn industry, CD is triyng to change the fundamental aspects of "base level constraints" for each project; being more specific about what should be served what should count in the analysis of "good" designing…
 
 Success equals climate designers not needing to exist… designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc… Take those things into account, you're just making design, it would become the bare minimum of success, did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? just become a regular aspect of design.
@@ -172,30 +174,6 @@ Success equals climate designers not needing to exist… designer becomes synony
 Success also equals all designed objects signaling their sustainability in some way. While modernism doesn't feel particularly avant garde or ideology driven any more; once upon a time to have a sleek tea kettle was meant to really mean something!
 
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
-
-## Additional notes and thoughts
-
-Tattfoo's SOS outfit
-
-Ecovention Inks / color palette
-
-Climate Designers wants to build a community of designers working towards solving the climate crisis.
-
-Motivate designers to use their creative talents to solve our climate crisis. — How to combine what you're doing as a designer with climate action.
-
-Responsibility of design when talking about Climate Change? the climate crisis?
-
-What can you do without quiting your job? / "I'm aware, but I can't do this at my job…" / You want to do something, not quit your career; so what makes a big impact…
-
-Ideologies; the status quo as an ideolgoy…
-
-take risks and be bold
-
-say and do things that you think are important
-
-know what your ethics and viewpoint are — what is being a repsonsible person
-
-≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
 ## Footnotes
 
