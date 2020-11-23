@@ -115,7 +115,7 @@ So these two examples I just gave you focus on this "visualizing CO2" aspect. Bu
 
 the designs communicate additional information to you; they signal some large idea or seachange.
 
-## Where else to get inspired / DrawDown as SSS resource?
+## Where else to get inspired / DrawDown as SSS resource
 
 I am particularly *drawn* to DrawDown.org.
 
