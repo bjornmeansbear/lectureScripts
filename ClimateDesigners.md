@@ -155,9 +155,11 @@ I am particularly *drawn* to DrawDown.org. Project DrawDown looks at the most ef
 
 Take for instance Graham Coreil Allens "Reverberation Crosswalks"
 
-On the surface, these are fun, brightly colored crosswalks — paint on cement and asphalt; not particularly innovative or special in the "new materials" or "direct carbon capture" front… But then, take a look at project draw down… walkable cities is in their table of most effective strategies at 50th is overall reduction/draw down capability… With this higher level view, well suddenly a project like reverberations crosswalks becomes a climate design project; it signals a more sustainable way forward. Around this school suddenly becomes more walkable. You now notice the crosswalks, and are hopefully more likely to walk yourself… these are cheap, fast, easy to do, can be customized for region, culture, available materials, etc. AND can help make more people walk in the citiy… Bam!
+On the surface, these are merely fun, brightly colored crosswalks — paint on cement and asphalt; not particularly innovative in the "new materials" or "direct carbon capture" front… But! when take a look at Project DrawDown, *walkable cities* is 50th overall reduction/draw down capability from the table strategies. Suddenly a project like *reverberations crosswalks* signals new, more sustainable vectors forward. The neighborhood around this school is now more walkable. You are forces to notice the crosswalks, hopefully this makes you more likely to walk yourself.
 
-What if we take all these solutions from drawdown as ways to judge "good" design? or as ways to figure out who or what to design? Designs that fit into any of those criteria become "climate designs"
+This idea is also cheap, fast, easy to do, can be customized for region, culture, available materials, etc. AND can help make more people walk in the citiy… Bam!
+
+Okay, so then what if we take all these solutions from drawdown as ways to judge "good" design? or as ways to figure out what to design or who to design for? Designs that fit into any of those criteria become "climate designs" …
 
 - Tattfoo's SOS
 - Ecovention Grid/Color palette
@@ -167,11 +169,13 @@ What if we take all these solutions from drawdown as ways to judge "good" design
 
 [take risks and be bold]
 
-Climate designers aren't trying to wholesale changing the deisgn industry, CD is triyng to change the fundamental aspects of "base level constraints" for each project; being more specific about what should be served what should count in the analysis of "good" designing…
+Climate designers desires to change the fundamental aspects, the "base level constraints," for every design project; being more specific about who should be served and what should count in the analysis of "good" designing.
 
-Success equals climate designers not needing to exist… designer becomes synonymous w/ climate designers; we end up with design and bad design; if you aren't taking into consideration the climate, sustainability at large, you are making bad design regardless of aesthetics, etc… Take those things into account, you're just making design, it would become the bare minimum of success, did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? just become a regular aspect of design.
+Success of climate designers equals climate designers rapidly not needing to exist: designer will become synonymous w/ climate designers; design = climate design. If we can end up in a place where if aren't taking into consideration the climate, you aren't factoring sustainability at large, you are making *bad* design regardless of aesthetics, etc… then Climate Designers has succeeded.
 
-Success also equals all designed objects signaling their sustainability in some way. While modernism doesn't feel particularly avant garde or ideology driven any more; once upon a time to have a sleek tea kettle was meant to really mean something!
+So, let's just plan on making design: climate action built into your work should be another bare minimum of success, did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? did you reduce energy requirement? They just become a regular aspect of design.
+
+Success equals all designed objects signaling their sustainability. While modernism doesn't feel particularly avant garde or ideology driven any more; once upon a time to have a sleek tea kettle was meant to really mean something!
 
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
