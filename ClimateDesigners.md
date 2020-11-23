@@ -136,33 +136,33 @@ To put it more succintly: *what should a climate designer make? what is a climat
 
 Let's loop back to the beginning (everything is conneted, cycles are everywhere). The carbon negative book idea that connected Eric, Marc and I is an example of work Climate Designers should concept, make, and develop. Design objects  embodying the constraints of climate change in their concepts.
 
-While a sequestering book isn't likely to exist anytime soon, the very idea of an object like that is useful. Bringing objects into someone's periphery which show you something otherwise intangible, one can't help but recognize and acknowledge CO2 in the atmosphere in a new way. The idea is that the book would require the absorption of known amount of CO2 to become legible — the becomes a sign for X quantity of carbon and helps one grasp what is otherwise so ephemeral, so invisble.
-
-My favorite example of this is unfrouantely another unmade idea: The Bjarke Ingels Group Amager Bakke smoestack. Amager Bakke is a waste to energy plant so clean that only CO2 and water vapor come out of its smoke stack. So an idea BIG had was that CO2 and water vapor would be intentionally trapped in the smokestack. Once 1 ton of CO2 was collected, a ring is puffed into the sky. This ring would then help fathom how much CO2 we are releasing? how to visualize what 416ppm vs 350ppm means so its not just invisible, ephemeral, intagible… This idea lives on in an episode of Netflix's Abstract… but was unfortuantely not made — but what an amazing design idea that gets at how we concretize these intagibles…
+While a sequestering book isn't likely to exist anytime soon, the very idea of objects like that is useful. Bringing objects into someone's periphery, they show you something otherwise intangible, one can't help but recognize and acknowledge CO2 in the atmosphere in a new way. The idea is that the book would require the absorption of known amount of CO2 to become legible — the becomes a sign for X quantity of carbon and helps one grasp what is otherwise so ephemeral, so invisble.
 
 ## Signs signaling Sustainability
 
-I like to call objects like these "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — how to turn every designed object, every design opportunity, into a sign that signals sustainability. To make tangible, make understandable something important about climate change and bring it directly into your design work. This is doable no matter the project, and no matter the prompt.
+I like to call designs like these "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — how to turn every designed object, every design opportunity, every gesture, into a sign that signals sustainability. To make tangible, make understandable something important about climate change and bring it directly into your design work. This is doable no matter the project; no matter the prompt.
 
-So these two examples — the book, the CO2 vapor ring — focus on "visualizing CO2". But, there are other aspects of sustainability one can signal.
+So this example — the seuqestering book — focus on "visualizing CO2". But, there are other aspects of climate change and sustainability one might signal.
 
-Solar.lowtechmagazine.com for instance — how do we visualize energy and the idea of requiring constant connection and how aesthetic choices correlate to physical resource based ones even in the digital sphere...
+### Solar.lowtechmagazine.com
 
-Curry's work on the water line project — how do we visualize what increased flooding and sea level rise really mean; where these impacts will be felt in your neighborhood! The water level rings help articulate to you — oh shit, this place will be underwater in our current future; you can then act accordingly to redirect our present towards a future where that is no longer true. Without *seeing* that, you can't be helped to envision the alternative.
+Low Tech Magazine's solar powered website investigates how we might visualize energy usage and the idea of requiring constant connection and how aesthetic choices correlate to physical resources even in the digital sphere...
 
-Their designs communicate additional information to you; they signal a larger idea that draws from understanding aspects of climate change. The goal, redirecting culture. The up side? this is a great place to work as a graphic designer.
+### DC High Water Mark Project
+
+Curry's work on the water line project — how do we visualize what increased flooding and sea level rise really mean; where these impacts will be felt in your neighborhood! The various water level rings help articulate to you — oh shit, this place might be underwater in our current future; you can then act accordingly to redirect our present towards a future where that is no longer true. Without *seeing* that, you cannot be helped to envision the alternative.
+
+These designs communicate additional information to you; they act as signs to signal larger concepts of climate change, of sustainability. The goal: redirecting culture towoards better future possibles. And! this is a great place to work as a graphic designer.
 
 ## Where else to get inspired / DrawDown as SSS resource
 
-I am particularly *drawn* to DrawDown.org. Project DrawDown looks at the most effective means for pulling carbon out of the atmostphere. And so, fortunately if you dig into all the "solutions" on projet drawdown, the ways artists and designers might involve themselves is multitudinous. All kinds of work can be reframed as a "sign signaling sustainability" if you rethink what the project is really about — can you fit any of the aims of a prompt into a category from Project DrawDown for example?
+I am particularly *drawn* to [Project DrawDown](https://www.DrawDown.org) as a framework to reveal opportunities for "signs signaling sustainability". Project DrawDown looks at the most effective means for pulling carbon out of the atmostphere. If you dig into all the "solutions" on Project DrawDown, the ways artists and designers might involve themselves is multitudinous. All kinds of work can be reframed as a "sign signaling sustainability" if you rethink what the project is really about — can you fit any of the aims of a prompt into a solution from Project DrawDown's table of strategies for example?
 
-Take for instance Graham Coreil Allens "Reverberation Crosswalks"
+Take for instance Graham Coreil Allens "Reverberation Crosswalks." On the surface, these are fun, brightly colored crosswalks — paint on cement and asphalt; not particularly innovative in the "new materials" or "direct carbon capture" front. But! when you take a look at Project DrawDown, *walkable cities* is the 50th overall reduction/draw down solution from the table of strategies. Suddenly a project like *reverberations crosswalks* signals more sustainable vectors forward. The neighborhood around this school is more walkable. The kids are safer. You are forced to notice the crosswalks, hopefully this makes you more likely to walk yourself.
 
-On the surface, these are merely fun, brightly colored crosswalks — paint on cement and asphalt; not particularly innovative in the "new materials" or "direct carbon capture" front… But! when take a look at Project DrawDown, *walkable cities* is 50th overall reduction/draw down capability from the table strategies. Suddenly a project like *reverberations crosswalks* signals new, more sustainable vectors forward. The neighborhood around this school is now more walkable. You are forces to notice the crosswalks, hopefully this makes you more likely to walk yourself.
+This idea is also cheap, fast, easy to do, can be customized for region, culture, available materials, etc. AND can help make more people walk in the city… Bam!
 
-This idea is also cheap, fast, easy to do, can be customized for region, culture, available materials, etc. AND can help make more people walk in the citiy… Bam!
-
-Okay, so then what if we take all these solutions from drawdown as ways to judge "good" design? or as ways to figure out what to design or who to design for? Designs that fit into any of those criteria become "climate designs" …
+What if we take all these solutions from Project DrawDown as ways to judge "good" design? or as ways to figure out what to design and who to design for? Designers that use criteria become "climate designers" …
 
 - Tattfoo's SOS
 - Ecovention Grid/Color palette
