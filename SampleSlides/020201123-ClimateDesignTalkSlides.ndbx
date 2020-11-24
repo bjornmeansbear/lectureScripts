@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ndbx formatVersion="21" type="file" uuid="b7d49447-ed27-4abb-a541-3913320db778">
+    <property name="canvasHeight" value="1080"/>
+    <property name="canvasWidth" value="1920"/>
+    <property name="canvasX" value="0"/>
+    <property name="canvasY" value="0"/>
+    <node name="root" prototype="core.network" renderedChild="combine2">
+        <node name="FontNameOutput" position="9.00,5.00" prototype="corevector.textpath">
+            <port name="font_size" type="float" value="38.0"/>
+            <port name="align" type="string" value="LEFT"/>
+            <port name="position" type="point" value="-913.00,492.00"/>
+        </node>
+        <node name="Fonts1" position="6.00,-1.00" prototype="data.import_text">
+            <port name="file" type="string" value="../typefacePostscriptNames.txt"/>
+        </node>
+        <node name="SlideTitles1" position="2.00,-1.00" prototype="data.import_text">
+            <port name="file" type="string" value="/Users/bjornmeansbear/Code/writing/lectureScripts/climateDesign.txt"/>
+        </node>
+        <node name="TitleSlides" position="6.00,5.00" prototype="corevector.textpath">
+            <port name="font_size" type="float" value="250.0"/>
+            <port name="position" type="point" value="-30.00,-210.00"/>
+            <port name="width" type="float" value="1920.0"/>
+        </node>
+        <node name="add1" position="21.00,-1.00" prototype="math.add">
+            <port name="value2" type="float" value="1.0"/>
+        </node>
+        <node name="add2" position="4.00,1.00" prototype="math.add">
+            <port name="value2" type="float" value="1.0"/>
+        </node>
+        <node name="colorize4" position="6.00,6.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+            <port name="strokeWidth" type="float" value="1.0"/>
+        </node>
+        <node name="combine2" position="8.00,10.00" prototype="list.combine"/>
+        <node name="copy2" position="6.00,8.00" prototype="corevector.copy">
+            <port name="copies" type="int" value="11"/>
+            <port name="order" type="string" value="rst"/>
+            <port name="translate" type="point" value="-6.00,3.00"/>
+            <port name="rotate" type="float" value="4.0"/>
+            <port name="scale" type="point" value="99.00,99.00"/>
+        </node>
+        <node name="count1" position="3.00,0.00" prototype="list.count"/>
+        <node name="count2" position="7.00,0.00" prototype="list.count"/>
+        <node name="degreeTurn" position="7.00,7.00" prototype="math.random_numbers">
+            <port name="amount" type="int" value="1"/>
+            <port name="start" type="float" value="-4.0"/>
+            <port name="end" type="float" value="4.0"/>
+        </node>
+        <node name="divide1" position="0.00,1.00" prototype="math.divide">
+            <port name="value2" type="float" value="16.0"/>
+        </node>
+        <node name="floor1" position="1.00,2.00" prototype="math.floor"/>
+        <node name="frame2" position="-2.00,-1.00" prototype="core.frame"/>
+        <node name="round1" position="18.00,2.00" prototype="math.round"/>
+        <node name="slice2" position="4.00,3.00" prototype="list.slice">
+            <port name="size" type="int" value="1"/>
+        </node>
+        <node name="slice3" position="8.00,3.00" prototype="list.slice">
+            <port name="size" type="int" value="1"/>
+        </node>
+        <node name="subtract1" position="18.00,-1.00" prototype="math.subtract">
+            <port name="value2" type="float" value="1.0"/>
+        </node>
+        <node name="subtract2" position="15.00,-1.00" prototype="math.subtract">
+            <port name="value2" type="float" value="12.0"/>
+        </node>
+        <node name="subtract3" position="-1.00,0.00" prototype="math.subtract">
+            <port name="value2" type="float" value="1.0"/>
+        </node>
+        <node name="wave1" position="18.00,1.00" prototype="math.wave">
+            <port name="offset" type="float" value="11.0"/>
+            <port name="type" type="string" value="sawtooth"/>
+        </node>
+        <conn input="count2.list" output="Fonts1"/>
+        <conn input="copy2.shape" output="colorize4"/>
+        <conn input="slice2.list" output="SlideTitles1"/>
+        <conn input="slice3.list" output="Fonts1"/>
+        <conn input="combine2.list7" output="FontNameOutput"/>
+        <conn input="FontNameOutput.text" output="slice3"/>
+        <conn input="FontNameOutput.font_name" output="slice3"/>
+        <conn input="TitleSlides.text" output="slice2"/>
+        <conn input="colorize4.shape" output="TitleSlides"/>
+        <conn input="TitleSlides.font_name" output="slice3"/>
+        <conn input="combine2.list1" output="copy2"/>
+        <conn input="subtract1.value1" output="count2"/>
+        <conn input="count1.list" output="SlideTitles1"/>
+        <conn input="add1.value1" output="count2"/>
+        <conn input="round1.value" output="wave1"/>
+        <conn input="wave1.period" output="add1"/>
+        <conn input="wave1.max" output="subtract1"/>
+        <conn input="slice3.start_index" output="round1"/>
+        <conn input="subtract2.value1" output="frame2"/>
+        <conn input="wave1.offset" output="subtract2"/>
+        <conn input="subtract3.value1" output="frame2"/>
+        <conn input="divide1.value1" output="subtract3"/>
+        <conn input="degreeTurn.seed" output="frame2"/>
+        <conn input="copy2.rotate" output="degreeTurn"/>
+        <conn input="floor1.value" output="divide1"/>
+        <conn input="slice2.start_index" output="floor1"/>
+        <conn input="add2.value1" output="count2"/>
+        <conn input="divide1.value2" output="add2"/>
+    </node>
+</ndbx>

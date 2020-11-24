@@ -1,11 +1,9 @@
 Avara-BoldItalic
 BluuNext-BoldItalic
-Coconat-BoldExt
 CrimsonPro-BoldItalic
 Epilogue-Black
 Fruktur-Regular
 HalibutSerif-CondensedThin
-Jabin-Bold
 LeagueGothic-Regular
 LeMurmure-Regular
 ManifontGroteskBook
@@ -16,7 +14,6 @@ Spectral-Light
 SportingGrotesque-Bold
 Terminal-Grotesque
 Tillana-SemiBold
-VTF-Mixo
 WorkSans-SemiBold
 Yatra
 YoungSerif-Regular
