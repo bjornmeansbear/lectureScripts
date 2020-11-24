@@ -1,8 +1,10 @@
 # Climate Design, Signs signaling Sustainably, Build Earth, and more
 
+Slides: <https://www.figma.com/proto/AX7Z5MtB9lDTl300hhR5W8/ClimateDesigner?node-id=29%3A3&viewport=2339%2C896%2C0.25&scaling=contain>
+
 [S001 NASA Earth?] [^Nasa]
 
-## Glossary
+<!-- ## Glossary
 
 [S002 Glossary/NASA earth reuse]
 
@@ -21,19 +23,19 @@ I'm going to say these things a lot during my talk, so just so we are all on the
 - Sustainability:
   Considering the welfare of all life; and by all life I mean animal, vegetable, mineral, elemental "life".
 - Sign:
-  The semiotic sense of the word: a stand in representing some other idea or object.
+  The semiotic sense of the word: a stand in representing some other idea or object. -->
 
 ## Introduction
 
 [S003 KB Bamboo Harvest]
 
-Hello I'm Kristian Bjornard; (and duplicate at end again?)
+<!-- Hello I'm Kristian Bjornard; (and duplicate at end again?) -->
 
 <!-- Current PPM CO2? Preferred Levels? Historic operating levels for most of humanity? [^SafeCO2] -->
 
 ## So you want to be a climate designer
 
-[S004 CO2 vapor ring > from old BIG Amager Bakke stuff] [^BIG.DK]
+<!-- [S004 CO2 vapor ring > from old BIG Amager Bakke stuff] [^BIG.DK] -->
 
 A talk for MICA Senior Seminar, 11/24/2020
 
@@ -193,11 +195,19 @@ These examples communicate additional information as key aspects of their design
 [S026 Ecovention]
 
 - Ecovention Grid/Color palette
+  Attempt at minimizing ink coverage, but still getting a range of colors so as to uniquely colorcode each section of a exhibition catalog. ?
 
 [S027 Climates book]
 
 - *Climates: Architecture and the Planetary Imaginary*
   Neil Donnelly, 2016. The interior paper gets gradually thinner from the beginning to the end, conveying scarcity and depletion through the materiality of the book. One could easily see something like this in reverse, perhaps a book about sea level rise has its paper get thicker as the book progresses? (<https://neildonnelly.net/#climates>)
+
+- Space Hippie?
+- Improvisational Lamps?
+- Print posters on found paper?
+- Flower based "down" substitute?
+- What else??
+- Amager Bakke unmade vapor ring?
 
 ## A Conclusion
 
