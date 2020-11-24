@@ -3,7 +3,6 @@ BluuNext-BoldItalic
 CrimsonPro-BoldItalic
 Epilogue-Black
 Fruktur-Regular
-HalibutSerif-CondensedThin
 LeagueGothic-Regular
 LeMurmure-Regular
 ManifontGroteskBook
@@ -13,7 +12,6 @@ SpaceMono-Regular
 Spectral-Light
 SportingGrotesque-Bold
 Terminal-Grotesque
-Tillana-SemiBold
 WorkSans-SemiBold
 Yatra
 YoungSerif-Regular

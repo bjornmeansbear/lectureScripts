@@ -98,7 +98,7 @@ Climate Designers has two main goals:
 
 [S012 Practice!]
 
-1. Provide resources, knowledge, and community for designers to take on climate action in their work.
+> 1. Provide resources, knowledge, and community for designers to take on climate action in their work.
 
 Goal 1 is about updating design practice: how to tangibly, actionably, pragmatically shift design to consider climate as a key deisgn constraint. Make climate change a key aspect of any prompt and new project.
 
@@ -118,7 +118,7 @@ If you do want a design job directly related to drawing down carbon, or you thin
 
 [S014 Pegagogy]
 
-2. Inspire, motivate, and graduate new climate designers by providing climate-focused resources for educators.
+> 2. Inspire, motivate, and graduate new climate designers by providing climate-focused resources for educators.
 
 Goal 2 is concerned with evolving design pedagogy.
 
@@ -149,7 +149,7 @@ Let's loop back to the beginning (everything is connected, cycles are everywhere
 
 While a sequestering book isn't likely to exist anytime soon, even the *idea* of objects like that is useful. Bringing objects into someone's periphery, showing something otherwise intangible, one can't help but recognize and acknowledge CO2 in the atmosphere in a new way. A book like this would require the absorption of known amount of CO2 to become legible — this becomes a sign for X quantity of carbon and helps one grasp what is otherwise so ephemeral, so invisible.
 
-## Signs signaling Sustainability
+## Signs Signaling Sustainability
 
 [S019]
 
@@ -157,7 +157,7 @@ I like to call designs like the sequestering book "Signs signaling Sustainabilit
 
 So this seuqestering book example focuses on "visualizing CO2". But, there are plenty of other aspects of climate change and sustainability one can signal.
 
-## Where else to get inspired / DrawDown as SSS resource
+## Where Else to get Inspired
 
 [S020]
 
@@ -195,7 +195,7 @@ These examples communicate additional information as key aspects of their design
 
 [S027]
 
-- CGSA book w/ paper thickness increasing?
+- CGSA book w/ paper thickness decreasing?
 
 ## A Conclusion
 
