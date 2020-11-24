@@ -4,7 +4,7 @@
     <property name="canvasWidth" value="1920"/>
     <property name="canvasX" value="0"/>
     <property name="canvasY" value="0"/>
-    <node name="root" prototype="core.network" renderedChild="combine3">
+    <node name="root" prototype="core.network" renderedChild="copy4">
         <node name="FontNameOutput" position="9.00,5.00" prototype="corevector.textpath">
             <port name="font_size" type="float" value="38.0"/>
             <port name="align" type="string" value="LEFT"/>
@@ -49,6 +49,10 @@
             <port name="fill" type="color" value="#ffffffff"/>
             <port name="strokeWidth" type="float" value="1.0"/>
         </node>
+        <node name="colorize6" position="18.00,24.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+            <port name="strokeWidth" type="float" value="1.0"/>
+        </node>
         <node name="combine2" position="8.00,10.00" prototype="list.combine"/>
         <node name="combine3" position="9.00,29.00" prototype="list.combine"/>
         <node name="copy2" position="6.00,8.00" prototype="corevector.copy">
@@ -65,6 +69,13 @@
             <port name="rotate" type="float" value="4.0"/>
             <port name="scale" type="point" value="99.00,99.00"/>
         </node>
+        <node name="copy4" position="18.00,26.00" prototype="corevector.copy">
+            <port name="copies" type="int" value="11"/>
+            <port name="order" type="string" value="rst"/>
+            <port name="translate" type="point" value="-6.00,3.00"/>
+            <port name="rotate" type="float" value="4.0"/>
+            <port name="scale" type="point" value="99.00,99.00"/>
+        </node>
         <node name="count1" position="3.00,0.00" prototype="list.count"/>
         <node name="count2" position="7.00,0.00" prototype="list.count"/>
         <node name="count3" position="4.00,19.00" prototype="list.count"/>
@@ -74,6 +85,11 @@
             <port name="end" type="float" value="3.0"/>
         </node>
         <node name="degreeTurn1" position="9.00,26.00" prototype="math.random_numbers">
+            <port name="amount" type="int" value="1"/>
+            <port name="start" type="float" value="-3.0"/>
+            <port name="end" type="float" value="3.0"/>
+        </node>
+        <node name="degreeTurn2" position="20.00,25.00" prototype="math.random_numbers">
             <port name="amount" type="int" value="1"/>
             <port name="start" type="float" value="-3.0"/>
             <port name="end" type="float" value="3.0"/>
@@ -107,6 +123,13 @@
             <port name="value2" type="float" value="9.0"/>
         </node>
         <node name="subtract3" position="-1.00,0.00" prototype="math.subtract"/>
+        <node name="textpath1" position="18.00,23.00" prototype="corevector.textpath">
+            <port name="text" type="string" value="Spontaneous Lamp!"/>
+            <port name="font_name" type="string" value="PoppinsLatin-Black"/>
+            <port name="font_size" type="float" value="211.0"/>
+            <port name="position" type="point" value="429.00,27.00"/>
+            <port name="width" type="float" value="1500.0"/>
+        </node>
         <node name="wave1" position="13.00,1.00" prototype="math.wave">
             <port name="offset" type="float" value="11.0"/>
             <port name="type" type="string" value="sawtooth"/>
@@ -161,5 +184,9 @@
         <conn input="wave2.max" output="count3"/>
         <conn input="slice4.start_index" output="wave2"/>
         <conn input="wave2.offset" output="frame3"/>
+        <conn input="copy4.shape" output="colorize6"/>
+        <conn input="degreeTurn2.seed" output="frame3"/>
+        <conn input="copy4.rotate" output="degreeTurn2"/>
+        <conn input="colorize6.shape" output="textpath1"/>
     </node>
 </ndbx>
