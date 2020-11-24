@@ -4,8 +4,13 @@
     <property name="canvasWidth" value="1920"/>
     <property name="canvasX" value="0"/>
     <property name="canvasY" value="0"/>
-    <node name="root" prototype="core.network" renderedChild="combine2">
+    <node name="root" prototype="core.network" renderedChild="combine3">
         <node name="FontNameOutput" position="9.00,5.00" prototype="corevector.textpath">
+            <port name="font_size" type="float" value="38.0"/>
+            <port name="align" type="string" value="LEFT"/>
+            <port name="position" type="point" value="-913.00,492.00"/>
+        </node>
+        <node name="FontNameOutput1" position="10.00,24.00" prototype="corevector.textpath">
             <port name="font_size" type="float" value="38.0"/>
             <port name="align" type="string" value="LEFT"/>
             <port name="position" type="point" value="-913.00,492.00"/>
@@ -13,17 +18,26 @@
         <node name="Fonts1" position="6.00,-1.00" prototype="data.import_text">
             <port name="file" type="string" value="../typefacePostscriptNames.txt"/>
         </node>
+        <node name="Fonts2" position="7.00,18.00" prototype="data.import_text">
+            <port name="file" type="string" value="../typefacePostscriptNames.txt"/>
+        </node>
         <node name="SlideTitles1" position="2.00,-1.00" prototype="data.import_text">
+            <port name="file" type="string" value="/Users/bjornmeansbear/Code/writing/lectureScripts/climateDesign.txt"/>
+        </node>
+        <node name="SlideTitles2" position="3.00,18.00" prototype="data.import_text">
             <port name="file" type="string" value="/Users/bjornmeansbear/Code/writing/lectureScripts/climateDesign.txt"/>
         </node>
         <node name="TitleSlides" position="6.00,5.00" prototype="corevector.textpath">
             <port name="font_size" type="float" value="250.0"/>
-            <port name="position" type="point" value="-30.00,-210.00"/>
+            <port name="position" type="point" value="0.00,-88.00"/>
             <port name="width" type="float" value="1920.0"/>
         </node>
-        <node name="add1" position="21.00,-1.00" prototype="math.add">
-            <port name="value2" type="float" value="1.0"/>
+        <node name="TitleSlides1" position="7.00,24.00" prototype="corevector.textpath">
+            <port name="font_size" type="float" value="222.0"/>
+            <port name="position" type="point" value="0.00,-147.00"/>
+            <port name="width" type="float" value="1800.0"/>
         </node>
+        <node name="add1" position="16.00,-1.00" prototype="math.add"/>
         <node name="add2" position="4.00,1.00" prototype="math.add">
             <port name="value2" type="float" value="1.0"/>
         </node>
@@ -31,8 +45,20 @@
             <port name="fill" type="color" value="#ffffffff"/>
             <port name="strokeWidth" type="float" value="1.0"/>
         </node>
+        <node name="colorize5" position="7.00,25.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+            <port name="strokeWidth" type="float" value="1.0"/>
+        </node>
         <node name="combine2" position="8.00,10.00" prototype="list.combine"/>
+        <node name="combine3" position="9.00,29.00" prototype="list.combine"/>
         <node name="copy2" position="6.00,8.00" prototype="corevector.copy">
+            <port name="copies" type="int" value="11"/>
+            <port name="order" type="string" value="rst"/>
+            <port name="translate" type="point" value="-6.00,3.00"/>
+            <port name="rotate" type="float" value="4.0"/>
+            <port name="scale" type="point" value="99.00,99.00"/>
+        </node>
+        <node name="copy3" position="7.00,27.00" prototype="corevector.copy">
             <port name="copies" type="int" value="11"/>
             <port name="order" type="string" value="rst"/>
             <port name="translate" type="point" value="-6.00,3.00"/>
@@ -41,34 +67,51 @@
         </node>
         <node name="count1" position="3.00,0.00" prototype="list.count"/>
         <node name="count2" position="7.00,0.00" prototype="list.count"/>
-        <node name="degreeTurn" position="7.00,7.00" prototype="math.random_numbers">
+        <node name="count3" position="4.00,19.00" prototype="list.count"/>
+        <node name="degreeTurn" position="8.00,7.00" prototype="math.random_numbers">
             <port name="amount" type="int" value="1"/>
-            <port name="start" type="float" value="-4.0"/>
-            <port name="end" type="float" value="4.0"/>
+            <port name="start" type="float" value="-3.0"/>
+            <port name="end" type="float" value="3.0"/>
+        </node>
+        <node name="degreeTurn1" position="9.00,26.00" prototype="math.random_numbers">
+            <port name="amount" type="int" value="1"/>
+            <port name="start" type="float" value="-3.0"/>
+            <port name="end" type="float" value="3.0"/>
         </node>
         <node name="divide1" position="0.00,1.00" prototype="math.divide">
             <port name="value2" type="float" value="16.0"/>
         </node>
         <node name="floor1" position="1.00,2.00" prototype="math.floor"/>
         <node name="frame2" position="-2.00,-1.00" prototype="core.frame"/>
-        <node name="round1" position="18.00,2.00" prototype="math.round"/>
+        <node name="frame3" position="-1.00,18.00" prototype="core.frame"/>
+        <node name="pick1" position="9.00,20.00" prototype="list.pick">
+            <port name="amount" type="int" value="1"/>
+        </node>
+        <node name="round1" position="13.00,2.00" prototype="math.round"/>
         <node name="slice2" position="4.00,3.00" prototype="list.slice">
             <port name="size" type="int" value="1"/>
         </node>
         <node name="slice3" position="8.00,3.00" prototype="list.slice">
             <port name="size" type="int" value="1"/>
         </node>
-        <node name="subtract1" position="18.00,-1.00" prototype="math.subtract">
+        <node name="slice4" position="3.00,20.00" prototype="list.slice">
+            <port name="size" type="int" value="1"/>
+        </node>
+        <node name="slice5" position="9.00,22.00" prototype="list.slice">
+            <port name="size" type="int" value="1"/>
+        </node>
+        <node name="subtract1" position="13.00,-1.00" prototype="math.subtract">
             <port name="value2" type="float" value="1.0"/>
         </node>
-        <node name="subtract2" position="15.00,-1.00" prototype="math.subtract">
-            <port name="value2" type="float" value="12.0"/>
+        <node name="subtract2" position="10.00,-1.00" prototype="math.subtract">
+            <port name="value2" type="float" value="9.0"/>
         </node>
-        <node name="subtract3" position="-1.00,0.00" prototype="math.subtract">
-            <port name="value2" type="float" value="1.0"/>
-        </node>
-        <node name="wave1" position="18.00,1.00" prototype="math.wave">
+        <node name="subtract3" position="-1.00,0.00" prototype="math.subtract"/>
+        <node name="wave1" position="13.00,1.00" prototype="math.wave">
             <port name="offset" type="float" value="11.0"/>
+            <port name="type" type="string" value="sawtooth"/>
+        </node>
+        <node name="wave2" position="-3.00,22.00" prototype="math.wave">
             <port name="type" type="string" value="sawtooth"/>
         </node>
         <conn input="count2.list" output="Fonts1"/>
@@ -99,5 +142,24 @@
         <conn input="slice2.start_index" output="floor1"/>
         <conn input="add2.value1" output="count2"/>
         <conn input="divide1.value2" output="add2"/>
+        <conn input="copy3.shape" output="colorize5"/>
+        <conn input="slice4.list" output="SlideTitles2"/>
+        <conn input="slice5.list" output="Fonts2"/>
+        <conn input="combine3.list7" output="FontNameOutput1"/>
+        <conn input="TitleSlides1.text" output="slice4"/>
+        <conn input="colorize5.shape" output="TitleSlides1"/>
+        <conn input="combine3.list1" output="copy3"/>
+        <conn input="degreeTurn1.seed" output="frame3"/>
+        <conn input="copy3.rotate" output="degreeTurn1"/>
+        <conn input="pick1.list" output="Fonts2"/>
+        <conn input="pick1.seed" output="frame3"/>
+        <conn input="TitleSlides1.font_name" output="pick1"/>
+        <conn input="FontNameOutput1.text" output="pick1"/>
+        <conn input="FontNameOutput1.font_name" output="pick1"/>
+        <conn input="count3.list" output="SlideTitles2"/>
+        <conn input="wave2.period" output="count3"/>
+        <conn input="wave2.max" output="count3"/>
+        <conn input="slice4.start_index" output="wave2"/>
+        <conn input="wave2.offset" output="frame3"/>
     </node>
 </ndbx>
