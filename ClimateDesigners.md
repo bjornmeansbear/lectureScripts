@@ -12,43 +12,31 @@ Slides: <https://www.figma.com/proto/AX7Z5MtB9lDTl300hhR5W8/ClimateDesigner?node
 
 [S005 A beginning?]
 
-It was June 2019. I was on my roof, and we were all about to die… wait, no, I was re-mortaring my house wall and listening to podcasts about regenerative agriculture and carbon sequestration… The mental space my home maintenance left me with thinking about how I as a designer could do something as useful as these carbon sequestering farmers … I dreamed up a book idea …
+It was June 2019. I was on my roof, and I was pondering how we were all about to die… wait, that's overly dramatic -- I was on my roof re-mortaring my house and listening to podcasts about regenerative agriculture and carbon sequestration… The mental space home maintenance left me with sent me thinking about how I as a designer could do something as useful as these carbon sequestering farmers I was hearing about … I dreamed up a book idea …
 
 [S006 FreshPress?]
 
-Then I got in touch with Eric Benson. Eric has a paper making farm and studio called "Fresh Press" at the University of Illinois at Urbana-Champaign. They grow native prairie grasses, and use them (mixed with other local agricultural waste) to make paper.
+I got in touch with Eric Benson. Eric has a paper making farm and studio called "Fresh Press" at the University of Illinois at Urbana-Champaign. They grow native prairie grasses, and use them (mixed with other local agricultural waste) to make paper.
 
 [S007 drawdown SSS book sketch]
 
-I pitched this idea to Eric: using his paper could start making books that sequestered carbon. Since prairie grass stores carbon in soil over time, his paper was an important part of my idea, but it wasn't enough — I also asked Eric if he knew how I might find ink that direct air captured carbon too! This way the book printing would slowly reveal itself as carbon was drawn into the ink.
+I pitched this idea to Eric: using his paper I wanted to start making books that sequestered carbon. Prairie grass stores carbon in soil over time, his paper was an important part of my idea, but it wasn't enough — I asked Eric if he knew how I might find ink to use that direct air captured carbon too! The book text would slowly reveal itself as carbon was drawn into the ink.
 
-Eric didn't have any ideas for me there, but he thought we could loop in Marc O'Brien. Marc was working in the bay area designing with some carbon capture start ups — maybe one of his clients or colleagues could help.
+Eric didn't have any ideas for me, but he thought we could loop in Marc O'Brien. Marc was working in the bay area designing with some carbon capture start ups — maybe one of his clients or colleagues could help.
 
-Nope. Carbon capturing ink as I envision it isn't yet a thing. But, Eric, Marc, and I ended up having a longer exchange around teaching climate science in college design courses; as well as how more designers might be encouraged to undertake their work in climate consious ways.
+Nope. Carbon capturing ink as I envision it isn't yet a thing. But, Eric, Marc, and I ended up having a longer, worthwhile exchange around teaching climate science in college design courses; as well as how more designers might be encouraged to undertake their work in climate consious ways.
 
 ## Climate Designers [dot] org
 
 [S008 CD website?]
 
-A few phone calls later, and tangible things began to happen. Marc and his business partner, Sarah Harrison, officially launched [Climate Designers {dot} org](https://climatedesigners.org) in the fall of 2019. And ever since then Eric, Marc, and I have been working on [Climate Designers EDU](https://www.climatedesigners.org/edu), a soon to be resource for design educators.
+A few phone calls later, and tangible things began to happen. Marc and his business partner, Sarah Harrison, officially launched [Climate Designers {dot} org](https://climatedesigners.org) in the fall of 2019. And ever since then Eric, Marc, and I have been working on [Climate Designers EDU](https://www.climatedesigners.org/edu), a budding resource for design educators.
 
 ## Climate Designers is a website and a community
 
 [S009 Mighty networks...]
 
 The Climate designer community brings together design practitioners to share and master climate action practices. We want to empower every designer, every type of designer, to feel confident in using design to help avert a climate crisis.
-
-- highlight climate design projects
-- host climate design portfolios
-- get ideas for how to find work; how to find projects
-- job board for climate design roles/positions/opportunities — A collab w/ ClimateBase <https://climate.careers/jobs/?q=design>
-- meetups
-- workshops
-- platform for resource sharing/FAQ/Q&A
-- share innovative materials, processes, etc.
-- actionable resources & realistic tactics
-- ways to integrate into education
-- educators > resources, networking, etc.
 
 ## What is a climate designer[?]
 
