@@ -200,4 +200,7 @@ other stuff I referenced?
 - https://www.climatedesigners.org/edu/behindthesyllabus
 - https://thepangaia.com/pages/flowerdown
 - https://www.nike.com/t/space-hippie-04-mens-shoe-gGWDLk/CZ6398-001
+- https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab
+- https://www.nike.com/space-hippie
+
 
