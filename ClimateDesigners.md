@@ -192,3 +192,13 @@ Good luck.
 [^BIG.DK]: Check out the Amager Bakke project on Bjarke Ingels Group website… <https://big.dk/#projects-arc>
 
 [^EB]: Eric Benson also recounts his version of this tale here: <https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab>
+
+other stuff I referenced?
+- https://www.freshpress.studio/projects
+- https://www.flickr.com/photos/nasacommons/31258502484/in/album-72157646697326324/
+- https://www.flickr.com/photos/nasacommons/5052124705/in/album-72157625096855580/
+- https://www.climatedesigners.org/edu/behindthesyllabus
+- https://thepangaia.com/pages/flowerdown
+- https://www.nike.com/t/space-hippie-04-mens-shoe-gGWDLk/CZ6398-001
+- https://ericbenson.medium.com/behind-the-syllabus-how-to-introduce-climate-science-into-your-design-curriculum-36d38f14f5ab
+- https://www.nike.com/space-hippie
