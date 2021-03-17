@@ -242,6 +242,60 @@ These Gestures are undoubtedly utopian. What of my projects fit under this umbre
 
 Climate Change. So the climate is changing. What does that mean. Social climates, ecological climates, both. How are climate and weather related? how does graphic design show or make this all more understandable? is focusing on climate change even important? is it too big? too abstract? What's the perspective of Drawdown.org on that idea? What about The Climate Mobilization? How does Climate Designers fit into all of this? What framework or ideology should lead? What about AirMiners? as a community do they have any stronger organizing principle or concepts other than just "get carbon out of the atmosphere and into other sinks?" What is the minimum you need to learn to understand this? to have enough people grok this to actually change some behaviors? to change some social and cultural structures? What does a climate friendly museum look like? what does a climate friendly school look like? what does a climate friendly
 
+Success in climate designers' stated goals means a future where "climate designers" no longer need exist. *Climate designing* is no longer extra, it becomes plain *designing*. Did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? did you reduce your energy requirements? did you kern your headlines? did you restore spaceship earth? No? well then that's *bad* design.
+
++++++++++++++++++=
+
+## What does a Climate Designer make
+
+A Climate Designer is a designer engaging with the climate in their work and/or teaching.
+
+In my utopian vision, here's how design outputs evolve and change when you adopt "climate design" as a mindset.
+
+Let's look at The carbon negative book as an example of work Climate Designers should concept, make, and develop: design objects clearly embodying aspects of climate change. And while a sequestering book isn't likely to exist anytime soon, even the *idea* of objects like that is useful. A book like this would require the absorption of known amount of CO2 to become legible — this becomes a sign for X quantity of carbon and helps one grasp what is otherwise intangible.
+
+## Signs Signaling Sustainability
+
+I like to call designs like this "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — turning every design opportunity into a sign signaling sustainability. Make tangible, make understandable something about climate change. This is doable no matter the project; no matter the prompt.
+
+So this seuqestering book example focuses on "visualizing CO2". But, there are myriad other aspects of climate change and sustainability one might signal.
+
+## Where Else to get Inspired
+
+I am *drawn* to [Project DrawDown](https://www.DrawDown.org) as a framework revealing opportunities for "signs signaling sustainability". Project DrawDown presents the most effective means for pulling carbon out of the atmostphere. Digging into all the "solutions" on Project DrawDown, the ways artists and designers might involve themselves is multitudinous. All kinds of work can be reframed as a "sign signaling sustainability" if you rethink the aims of a prompt so that it fits into an idea from Project DrawDown's table of solutions.
+
+### Reverberation Crosswalk
+
+Take for instance Graham Coreil Allen's *Reverberation Crosswalks*. On the surface, these are fun, brightly colored crosswalks — paint on cement and asphalt; not particularly innovative in the "new materials" or "direct carbon capture." But! looking at Project DrawDown solutions, *walkable cities* is the 50th overall reduction solution. Suddenly *Reverberations Crosswalks* signals a sustainable vector forward. The neighborhood around this school is more walkable. You can't not notice the crosswalks, hopefully this makes you more likely to walk yourself. This concept is cheap; fast; easily replicated; can be customized for region, culture, available materials, etc.; AND can help make more people walk in the city. Bam! Climate Designed.
+
+### Solar.lowtechmagazine.com
+
+Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazine's solar powered website signals how we might visualize energy usage; how we might enable new sytems of powering our tools; questions if we really need constant connection; and how aesthetic choices correlate to physical resources even in the digital sphere.
+
+### DC High Water Mark Project
+
+And you don't have to just signal "sustainable" things from DrawDown... that's just an easy way to get started.
+
+The DC water mark project visualizes increased flooding and water level rise — where these impacts will be felt by you in this place! The water level rings articulates to us "oh shit, this place might be underwater pretty frequently given our current projected future!" Then maybe we can act accordingly and redirect our present towards a future where that is no longer true. Without *seeing* your house or office or favorite park area submerged, even symoblically, you cannot envision an alternative.
+
+### Other SSSs
+- Tattfoo Tan, *S.O.S. Steward*
+  Enrolled in various green courses and acquired certification for green knowledge. To flaunt my new found title in the form of a merit patch on my gray coverall and wear it during events and gardening session. I'm intrigue by the certification of knowledge and the power that was bestow by the agency that gave the certificate. Partly propelled by the thirst of knowledge and partly to sustain the endurance of going to classes and community service requirements of these courses. (<http://tattfoo.com/sos/SOSGreenStewardship.html>)
+
+- Ecovention Grid/Color palette
+  Attempt at minimizing ink coverage, but still getting a range of colors so as to uniquely colorcode each section of a exhibition catalog. ?
+
+- *Climates: Architecture and the Planetary Imaginary*
+  Neil Donnelly, 2016. The interior paper gets gradually thinner from the beginning to the end, conveying scarcity and depletion through the materiality of the book. One could easily see something like this in reverse, perhaps a book about sea level rise has its paper get thicker as the book progresses? (<https://neildonnelly.net/#climates>)
+
+- Space Hippie?
+- Improvisational Lamps?
+- Flower based "down" substitute?
+- Amager Bakke unmade vapor ring?
+- Print posters on found paper?
+
+These examples communicate additional information as key aspects of their design. They redirect culture towards better *future possibles.* And! this is a great place to work as a graphic designer.
+
 ++++++++++++++++++
 
 ## Future Possibles?
