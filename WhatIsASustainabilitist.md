@@ -31,3 +31,14 @@ This will be part revisionist history, part utopian speculation.
 ## A Permaculture Garden
 
 ## Low Carbon Urban Homestead
+
+Does any of this matter?
+
++++++++++++++++++++++++++++++++++++++++++
+
+What does design do? and what does it mean?
+
+Sustainability as flourishing. What does this mean for designing? we strive for a context in which all life can flourish.
+
+Design and the welfare of all life. How does this change how design is practiced and defined?
+

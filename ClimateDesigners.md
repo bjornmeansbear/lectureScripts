@@ -12,7 +12,7 @@ Slides: <https://www.figma.com/proto/AX7Z5MtB9lDTl300hhR5W8/ClimateDesigner?node
 
 [S005 A beginning?]
 
-It was June 2019. I was on my roof, and I was pondering how we were all about to die… wait, that's overly dramatic -- I was on my roof re-mortaring my house and listening to podcasts about regenerative agriculture and carbon sequestration… The mental space home maintenance left me with sent me thinking about how I as a designer could do something as useful as these carbon sequestering farmers I was hearing about … I dreamed up a book idea …
+It was June 2019. I was on my roof re-mortaring my house and listening to podcasts about regenerative agriculture and carbon sequestration… The mental space this home maintenance left me with sent me thinking about how I as a mostly visual designer might do something as useful as these carbon sequestering farmers I was hearing about …
 
 [S006 FreshPress?]
 
@@ -22,7 +22,7 @@ I got in touch with Eric Benson. Eric has a paper making farm and studio called 
 
 I pitched this idea to Eric: using his paper I wanted to start making books that sequestered carbon. Prairie grass stores carbon in soil over time, his paper was an important part of my idea, but it wasn't enough — I asked Eric if he knew how I might find ink to use that direct air captured carbon too! The book text would slowly reveal itself as carbon was drawn into the ink.
 
-Eric didn't have any ideas for me, but he thought we could loop in Marc O'Brien. Marc was working in the bay area designing with some carbon capture start ups — maybe one of his clients or colleagues could help.
+Eric wasn't sure, but he thought we should loop in Marc O'Brien. Marc was working in the bay area designing with some carbon capture start ups — maybe one of his clients or colleagues could help.
 
 Nope. Carbon capturing ink as I envision it isn't yet a thing. But, Eric, Marc, and I ended up having a longer, worthwhile exchange around teaching climate science in college design courses; as well as how more designers might be encouraged to undertake their work in climate consious ways.
 
