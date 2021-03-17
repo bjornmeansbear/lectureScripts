@@ -1,10 +1,10 @@
 # These Gestures Are Undoubtedly Utopian Attempt
 
-This is a talk about designing. About living. About climate change. About struggling. About how one's work, one's practice, one's thinking might align and diverge... I'll try to keep it short.
+## intro?
 
 ## BauErden (Build Earth)
 
-Earthstronauts.
+Earthstronauts:
 
 The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design shall be created without first asking “does this need to exist?” — “does this help drawn down carbon from the atmosphere?” — “does this re-balance natural systems?”
 
@@ -20,7 +20,19 @@ We must merge design with the workshop, the science lab, the forest, the interne
 
 “BauErden” is meant to replicate some of the concepts from the original Bauhaus manifesto, but written with a climate lens, a planet-centered lens, instead of architecture building and craft as a focus...
 
-++++++++++++++
+bauhaus course diagram?
+
+ulm school course diagram?
+
+hypotehtical BauErdern course diagram?
+
+++++++++++++++++++++
+
+## Waste = Food
+
+++++++++++++++++++++
+
+## Sustainable? FLOSS?
 
 How to move towards a more sustainable graphic design practice?
 
@@ -34,9 +46,9 @@ The GNU ecosystem is fully into reusing old ideas — just reusing ideas period.
 
 Free software can allow for more creative waste to become creative food. And, WASTE = FOOD is a sustainable ideal. So, does that make free software more sustainable?
 
-The ecosystem for libre tools is more like a natural ecosystem: darwinian style evolution; variations due to minor differences of philosophy or habit or desire; a plurality of solutions…
+The ecosystem for libre tools is more like a natural ecosystem: evolution; variations due to minor differences of philosophy or habit or desire; a plurality of solutions…
 
-If the way our tools are built and subsequently evolve is more like nature; more like natural cycles/processes; does that allow those tools to fit into our lives, society, culture — whatever — in more "natural" ways? does it allow for more natural ways of using them? (natural meaning finding harmony with nature; being more "a part" of nature rather than "apart" from nature...
+If the way our tools are built and evolve is more like natural cycles/processes; does that allow those tools to fit into our lives, society, and culture in more "natural" ways? (natural meaning finding harmony with nature; being more "a part" of nature rather than "apart" from nature).
 
 Do the ideals of F/LOSS align better with the ideals of sustainability?
 
@@ -46,70 +58,52 @@ Does "all humans and other life should flourish" fit into F/LOSS as an ideal?
 - bruce mau's design for the welfare of all life
 - get some blurbs from my Towards Sust Aesthetics essay?
 
-does F/LOSS help achieve flourishing more than proprietary software might/will?
+does F/LOSS help achieve flourishing more than proprietary software?
 
 Where and how do my interests in Design serving a flourishing/wellfare of all life agenda and my interests in F/LOSS  overlap; how are they additive; how do they serve each other. Are they negative or at odds with each other?
 
-Why do any of this at all? why design? why compute? why care about liberated tools? why be a designer — why am I not just a farmer or garbage collector or something?
+Why do any of this at all? why design? why compute? why care about liberated tools? why be a designer? why am I not just a farmer or garbage collector or something?
 
 - Our current capitalist constructs DO NOT improve the wellfare of all life;
-- the origins of F/LOSS are also anti-capitalist — or at least anti valuing making a buck over the good of your neighbor — so, if you have to use software, F/LOSS is more likely to AID you in helping all life flourish than proprietary/non-free softwares. (Is this provable? or measurable?)
+- the origins of F/LOSS are anti-capitalist — or at least anti valuing making a buck over the good of your neighbor — so, if you have to use software, F/LOSS is more likely to AID you in helping all life flourish than proprietary/non-free softwares. (Is this provable? or measurable?)
 
 Waste = Food; what other ways can I find that this is true for creative kinds of waste? As I mentioned before I think that in some ways F/LOSS improves upon this equation.
-
-The philosophical issue I run into here is, well, what exactly is my goal as a designer? what do I want to design? is designing solving any of the problems I am pointing out — did it just create them in the first place?
 
 Is this also how vernacular patterns/building come into the picture — are free/libre open models the new vernacular (is that how I make my designing today more like the way say a Cape Cod house comes together?)
 
 Dunne and Raby propose that design should explore activities and outcomes that question and challenge status quo industrial agendas—however! for the most part the designers doing this are still using status quo tools! Sustainability (at least the flourishing variety I am interested in) is NOT the current status quo; so if I am challenging the assumptions of contemporary design and capitalist consumerism, then I need non-capitalist consumerist tools to do that with—enter F/LOSS.
 
-Sustainable Graphic Design is a mindset, not necessarily a checklist of "the right" materials — now, it can't be the wrong materials either, but it's not just the right materials...
+Sustainable Graphic Design is a mindset, not necessarily a checklist of "the right" materials
 
-If you have the right mindset, but still use the wrong materials, does it matter?
-
-If one uses better materials, but for the status quo aims, does it matter?
-
-In what ways can I change how I work and live to yield immediate results?
+- If you have the right mindset, but still use the wrong materials, does it matter?
+- If one uses better materials, but for the status quo aims, does it matter?
+- In what ways can I change how I work and live to yield immediate results?
 
 Waste = Food is a great idea to apply to more things than just the natural world. Here's a great prompt: the earth's major nutrients are carbon, hydrogen, oxygen, & nitrogen ... what are graphic design's major nutrients? (and! how can they be cycled and recycled into new graphic design indefinitely?)
 
 I have this idea — sustainable graphic design does not exist. Now, that might mean "there is no such graphic design that can count as sustainable — its all wasteful garbage that does nothing good" — or — and this is the cool part — sustainable graphic design doesn't exist meaning that it comes together to serve a communication purpose; deliver a semiotic message; and then redistributes back to whatever energy and matter it was before.
 
-That's more than just reuse for packaging or something; that is about harnessing a more entropic way of being.
-
 Sustainability is about knowing what you want to sustain. Libre tools are about a person's freedom to do what they want. If I don't want to sustain our moderno-techno-capitalism, then I should probably use libre tools while creating alternatives... what do I want to sustain though? It is easy to say what I don't want to sustain; less clear to say what I do want to.
-
-What good do any of my design "tools" do me if just being a general good citizen; a general good human; is what I am after?
 
 A designer needs to know a lot to really be good these days. I don't mean good as in makes formally pleasing work; I mean good as in really improves things; really exemplifies other ways of thinking and being. So how does one get this way? is this something to be learned? something to be taught? Is pedagogy buildable from these thoughts? If i teach in a graphic design program still rooted mainly in typography and static, flat, two-dimensional printed forms, can I do what I am proposing/asking here? How do I learn enough about materials, behaviors, situations, philosophy, history, physics, energy, biology, sociology, anthropology, politics, etc. ...
 
-Quality is essential because quantity is impossible.
-
 Sustainability is essential because there are no other options.
 
-Do more with less. Do the most with nothing (do everything with nothing?). Sustainable graphic design does not exist.
+Sustainable graphic design does not exist.
 
 If sustainable designers don't make design; what do we make? who do I need my next clients to be? If I am all in on the sustaino-libre stuff; what are the kinds of things I must investigate? And, how does being a "graphic designer" play into all this when/if/as my projects become more about software development; more about building bicycles; more about actions or interventions; more about proposals and plans?
 
 I know I like to say how the sustainabilitist principles project exemplifies "sustainable design does not exist" since the objects came together to be a sculpture for an exhibition and then went back to being the objects afterward — but how does that work for other kinds of projects? can I work with clients and still pitch that kind of solution?
 
-mostly what is good is what is familiar.
-
-And can something be good if it isn't sustainable? can something be good if it isn't F/LOS? < or at least doesn't value the human, the planet, and not diminish the opportunities of both!?
-
-Less is More. More is Less. Less is a Bore. Boring is less exciting. Is more stuff then more exciting? is that the point of designing? Do more with Less. What does that actually entail or imply?
-
 What does sustainable design look like? should it look intentionally different to tell everyone that its not the same? If the paradigm must shift; then the styles should probably shift as well to be clear that they are in all ways different? By just using different tools and typefaces and image sources do you do this? does it need to be more extreme than that?
 
 on the extreme side; there is this "Sustainable graphic design does not exist" idea I've had for a while. The point is not that literally you can't make it (though that is sort of what I was thinking at first), but that a graphic designed thing that is sustainable comes together to communicate the message it needs to communicate; and then can dematerialize back to its initial parts once the communicative need is over. How does "signs on a substrate" translate to "pieces coming together for a determinate amount of time and then returning to their constituent pieces"
 
-Sustainabilitize a graphic design so that it lives forever? wait, is this the point? If sustainable graphic design doesn't exist — meaning that things come together to server a purpose then can go back to their original constituent parts — does a piece of GD need to live forever? perhaps this is better put through the lens of perennial agriculture or permaculture or no till or something? what is perennial graphic design that is restorative to culture — that protects and builds cultural health (the same way that prairie grasses build and protect the soil health of the plains?).
-
-A responsible designer. A socially responsible designer. An environmentally responsible designer. How does one actually do this all? What is a responsible designer???
+What is perennial graphic design that is restorative to culture — that protects and builds cultural health? (the same way that prairie grasses build and protect the soil health of the plains?)
 
 What are the implications of designing in the crisis filled era we find ourselves? what does "graphic designing" do to heal and restore the world? how can making anew unmake all the old?
 
-What are local and reusable materials I could start playing with? making my own paper? creating sheets of remade plastic "paper"? digging and making my own clay to make tablets out of? firing pages that way? what do I produce with those things? plates to print from? stamps? seals? do I draw and compose right into clay? what else allows me to put "signs on substrates" in a meaningful way that continues to let me "graphic design" but really does something about material usage; education; communication; etc???
+What are local and reusable materials for visual design? making my own paper? creating sheets of remade plastic "paper"? digging and making my own clay to make tablets out of? firing pages that way? what do I produce with those things? plates to print from? stamps? seals? do I draw and compose right into clay? what else allows me to put "signs on substrates" in a meaningful way that continues to let me "graphic design" but really does something about material usage; education; communication; etc???
 
 Am I a sustainable designer? or am I a sustainable person that happens to design — everything I design is thus influenced by my sustainabilitism. Designing follows one's personhood?
 
@@ -243,9 +237,7 @@ So, I need to actually produce something of substance, something of value. What 
 
 ## A Lamp Design:
 
-* 20191207 back to that lamp idea. So its a bamboo lamp; bamboo is the main material for constructing lamp pieces. The bamboo should be found; it should be an invasive species. it should be cut long, try not to cut it more? again? how can it be reused afterward? how can it be attached/affixed to things without doing much damage to it so it can be used again!
-* 20191208 two long bamboo poles. one 5 gallon bucket. rocks or construction debris. painters light. A recipe for a lamp.
-* 20191209 three long bamboo poles. one painters light. another recipe for a lamp.
-* 20191210 These lamps come together from found material, easy to get materials. they then live as a lamp as needed. they then go back to their original parts or can be remade in a different way, when the lamp is no longer necessary.
-* 20191211 how is this part of a local and/or circular economy?
-* 20191212 waste = food? do these lamp ideas fit into that? design that does not exist? do they fit into that?
+* A bamboo lamp; bamboo is the main material for constructing lamp pieces. The bamboo should be found; it should be an invasive species. it should be cut long, try not to cut it more? again? how can it be reused afterward? how can it be attached/affixed to things without doing much damage to it so it can be used again!
+* Two long bamboo poles. one 5 gallon bucket. rocks or construction debris. painters light. A recipe for a lamp.
+* Three long bamboo poles. one painters light. another recipe for a lamp.
+* These lamps come together from found material, easy to get materials. they then live as a lamp as needed. they then go back to their original parts or can be remade in a different way, when the lamp is no longer necessary.
