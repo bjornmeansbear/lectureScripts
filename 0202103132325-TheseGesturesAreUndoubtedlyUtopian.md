@@ -6,19 +6,19 @@
 
 Earthstronauts:
 
-The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design shall be created without first asking “does this need to exist?” — “does this help drawn down carbon from the atmosphere?” — “does this re-balance natural systems?”
+The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design shall be created without first asking “does this need to exist?” — “does this drawn down carbon from the atmosphere?” — “does this re-balance natural systems?”
 
-We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, parents, small business owners, etc. A new design education must aid in this. How might a new pedagogical approaches focus on the liminal; designers as connectors? For everything is connected.
+We need the conscious​, cooperative effort of all designers, politicians, craftspeople, scientists, farmers, parents, small business owners, etc. A new design education must aid in this federated endeavore. How might a new pedagogical approaches focus on the liminal; designers as connectors? For everything is connected.
 
-Designers must recognize anew and learn to grasp the composite character of “climate” as a holistic entity AND in its separate, interconnected parts (climate(s): natural, social, etc.? _the_ planetary climate? the earth? nature? the universe?). Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
+Designers must recognize anew and learn to grasp the composite character of “climate” as a holistic entity AND in its separate, interconnected parts (climate(s): natural, social, technical, etc.? _the_ planetary climate? the earth? nature? the universe?). Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
 
-Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new processses, new ways of working, of making, and of seeing are required.​
+Old styles and models for designing​ are not capable of producing the required unity. Abandon them. New styles, new processses, new ways of working, new ways of making, and new ways of seeing are required.​
 
-We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between new interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
+We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers shall become the nexus between new interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
 
 ## What was that?
 
-“BauErden” is meant to replicate some of the concepts from the original Bauhaus manifesto, but written with a climate lens, a planet-centered lens, instead of architecture building and craft as a focus...
+“BauErden” is meant to replicate the concepts from the original Bauhaus manifesto, but with a climate-centered lens, instead of architecture building and craft as a focus...
 
 bauhaus course diagram?
 
@@ -153,21 +153,22 @@ Design is an attitude that can be brought to all aspects of a person's life (see
 
 We do not have unlimited energy. We do not have unlimited resources. How does this change our relationship with designing? With capitalism? with our economic ideals?
 
-variations on bamboo lamps; utilize found materials only? that's not graphic design though; that's not really communication design; how to do graphic design or digital or web projects that are really sustainabilitist?
-
-is that not important though? is just doing anything that can help provide more signalling for design to have different/better alternatives a good choice of project? a good use of my creative energy? or should I just volunteer somewherE? just work on my house and yard? just help denzel farm or something?
-
 What do I want to sustain? What does the welfare of all life really look like? really entail? How do you actually design for this? What kind of design challenges structural inequalities and balances equity, ecology, and economy? Design that collaborates so as to create lasting, positive change in one's community?
 
-Open source? Sustainability? how do these fit together? What am I writing about? thinking about? how do I turn something with so many random bits and pieces that don't outwardly appear to obvious connect into a clear and short presentation?
+Open source? Sustainability? how do these fit together?
 
 Everything is Connected. I say this all the time. What does it mean? how does it have any impact on my work? on my life? on my home? on my practice? on my teaching? on my interacting with other people? Martin Luther King talks about the interconnectedness of all people and things in his final Christmas Sermon... That will be a useful quote at some point in some Everything is connected lecture or workshop.
 
-A carbon sequestering book. So what does on need to make this work — 1. paper. Some alternative fiber paper; 50% recycled content; 50% permaculture grown prairiegrass fiber or something? reusing waste and practicing regenerative agriculture. 2. Ink. This is the real special sauce. How can something be printed clear; then the composition of the ink absorbs carbon dioxide out of the air, stores the carbon, and slowly darkens to carbon black over time!?!?!?! Oh, and is this compostable at the end of its life as well? 3. Cover. Again, cover needs to be compostable, recycled + permaculture fibers, and perhaps the type/image on the cover is just blind debossed? 4. Binding. Perfect bind? use some sort of compostable glue? What else would need to be figured out?
+## A carbon sequestering book
 
-Climate Change. So the climate is changing. What does that mean. Social climates, ecological climates, both. How are climate and weather related? how does graphic design show or make this all more understandable? is focusing on climate change even important? is it too big? too abstract? What's the perspective of Drawdown.org on that idea? What about The Climate Mobilization? How does Climate Designers fit into all of this? What framework or ideology should lead? What about AirMiners? as a community do they have any stronger organizing principle or concepts other than just "get carbon out of the atmosphere and into other sinks?" What is the minimum you need to learn to understand this? to have enough people grok this to actually change some behaviors? to change some social and cultural structures? What does a climate friendly museum look like? what does a climate friendly school look like? what does a climate friendly
+1. paper. Some alternative fiber paper; 50% recycled content; 50% permaculture grown prairiegrass fiber or something? reusing waste and practicing regenerative agriculture.
+2. Ink. This is the real special sauce. How can something be printed clear; then the composition of the ink absorbs carbon dioxide out of the air, stores the carbon, and slowly darkens to carbon black over time!?!?!?! Oh, and is this compostable at the end of its life as well?
+3. Cover. Again, cover needs to be compostable, recycled + permaculture fibers, and perhaps the type/image on the cover is just blind debossed?
+4. Binding. Perfect bind? use some sort of compostable glue? What else would need to be figured out?
 
-Success in climate designers' stated goals means a future where "climate designers" no longer need exist. *Climate designing* is no longer extra, it becomes plain *designing*. Did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? did you reduce your energy requirements? did you kern your headlines? did you restore spaceship earth? No? well then that's *bad* design.
+Climate Change. The climate is changing. What does that mean. Social climates, ecological climates, both. How are climate and weather related? how does graphic design show or make this all more understandable? is focusing on climate change even important? is it too big? too abstract? What's the perspective of Drawdown.org on that idea? What about The Climate Mobilization? How does Climate Designers fit into all of this? What framework or ideology should lead? What about AirMiners? as a community do they have any stronger organizing principle or concepts other than just "get carbon out of the atmosphere and into other sinks?" What is the minimum you need to learn to understand this? to have enough people grok this to actually change some behaviors? to change some social and cultural structures? What does a climate friendly museum look like? what does a climate friendly school look like? what does a climate friendly
+
+Success in climate designers' goals means a future where "climate designers" no longer exist. *Climate designing* becomes plain *designing*. Did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? did you reduce your energy requirements? did you kern your headlines? did you restore spaceship earth? No? well then that's *bad* design.
 
 +++++++++++++++++=
 
@@ -187,7 +188,7 @@ So this seuqestering book example focuses on "visualizing CO2". But, there are m
 
 ## Where Else to get Inspired
 
-I am *drawn* to [Project DrawDown](https://www.DrawDown.org) as a framework revealing opportunities for "signs signaling sustainability". Project DrawDown presents the most effective means for pulling carbon out of the atmostphere. Digging into all the "solutions" on Project DrawDown, the ways artists and designers might involve themselves is multitudinous. All kinds of work can be reframed as a "sign signaling sustainability" if you rethink the aims of a prompt so that it fits into an idea from Project DrawDown's table of solutions.
+I am *drawn* to [Project DrawDown](https://www.DrawDown.org) as a framework for revealing opportunities for "signs signaling sustainability". Project DrawDown presents the most effective means for pulling carbon out of the atmostphere. Digging into all the "solutions" on Project DrawDown, the ways artists and designers might involve themselves is multitudinous. All kinds of work can be reframed as a "sign signaling sustainability" if you rethink the aims of a prompt so that it fits into an idea from Project DrawDown's table of solutions.
 
 ### Reverberation Crosswalk
 
@@ -202,14 +203,15 @@ Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazin
 The DC water mark project visualizes increased flooding and water level rise — where these impacts will be felt by you in this place! The water level rings articulates to us "oh shit, this place might be underwater pretty frequently given our current projected future!" Then maybe we can act accordingly and redirect our present towards a future where that is no longer true. Without *seeing* your house or office or favorite park area submerged, even symoblically, you cannot envision an alternative.
 
 ### Other SSSs
+
 - Tattfoo Tan, *S.O.S. Steward*
-  Enrolled in various green courses and acquired certification for green knowledge. To flaunt my new found title in the form of a merit patch on my gray coverall and wear it during events and gardening session. I'm intrigue by the certification of knowledge and the power that was bestow by the agency that gave the certificate. Partly propelled by the thirst of knowledge and partly to sustain the endurance of going to classes and community service requirements of these courses. (<http://tattfoo.com/sos/SOSGreenStewardship.html>)
+  - Enrolled in various green courses and acquired certification for green knowledge. To flaunt my new found title in the form of a merit patch on my gray coverall and wear it during events and gardening session. I'm intrigue by the certification of knowledge and the power that was bestow by the agency that gave the certificate. Partly propelled by the thirst of knowledge and partly to sustain the endurance of going to classes and community service requirements of these courses. (<http://tattfoo.com/sos/SOSGreenStewardship.html>)
 
 - Ecovention Grid/Color palette
-  Attempt at minimizing ink coverage, but still getting a range of colors so as to uniquely colorcode each section of a exhibition catalog. ?
+  - Attempt at minimizing ink coverage, but still getting a range of colors so as to uniquely colorcode each section of a exhibition catalog. The grid itself practices reuse...
 
 - *Climates: Architecture and the Planetary Imaginary*
-  Neil Donnelly, 2016. The interior paper gets gradually thinner from the beginning to the end, conveying scarcity and depletion through the materiality of the book. One could easily see something like this in reverse, perhaps a book about sea level rise has its paper get thicker as the book progresses? (<https://neildonnelly.net/#climates>)
+  - Neil Donnelly, 2016. The interior paper gets gradually thinner from the beginning to the end, conveying scarcity and depletion through the materiality of the book. One could easily see something like this in reverse, perhaps a book about sea level rise has its paper get thicker as the book progresses? (<https://neildonnelly.net/#climates>)
 
 - Space Hippie?
 - Improvisational Lamps?
@@ -226,7 +228,6 @@ These examples communicate additional information as key aspects of their design
 So, I need to actually produce something of substance, something of value. What do I have to offer? What can I write about coherently and succintly? is that important or is just getting new and different ideas that point in utopian directions all that matters?
 
 - Precious Plastics
-  - associated addendum ideas?
 - Exhibition with sue spaid?
 - More Climate designers stuff
 - Lectures! Talks!
