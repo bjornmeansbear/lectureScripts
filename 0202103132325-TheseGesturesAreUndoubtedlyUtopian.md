@@ -19,7 +19,38 @@ I'll try to keep it short and interesting. :)
 
 20191225 what other sings signaling sustainabiity can I invent? do I need to invent any mrore or do I just need to fins a better way of finding and documenting everything else already out there? exhibition? photo/image essay?
 
-BauErden (Build Earth)
+++++++++++++++
+
+# BauErden (Build Earth)
+
+Earthstronauts.
+
+The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design shall be created without first asking “does this need to exist?” -- “does this help drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
+
+We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, parents, small business owners, etc. A new design education must aid in this. How might a new pedagogical approaches focus on the liminal; designers as connectors? For everything is connected.
+
+Designers must recognize anew and learn to grasp the composite character of “climate” as a holistic entity AND in its separate, interconnected parts (climate(s): natural, social, etc.? _the_ planetary climate? the earth? nature? the universe?). Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
+
+Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new processses, new ways of working, of making, and of seeing are required.​
+
+We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between new interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
+
+Good luck.
+
+++++++++++++++
+
+## Important Words?
+
+Everything is connected
+Sustainabilitist
+Flourishing
+These Gestures are Undoubtedly Utopian
+The Long Now
+10000 years
+Culture
+Society
+Taste
+Vernacular
 
 ++++++++++++++
 
@@ -188,3 +219,41 @@ We do not have unlimited energy. We do not have unlimited resources. How does th
 Low-Tech Magazine > good sign signalling sustainability.
 
 What's the sustainability version of david reinfurts "new" design program book!?
+
+Design when everyone designs? is that really what social design is about? what can I learn from Mike weikert and the center for social design?
+
+Who else to bring in? who else to collaborate with? what else to design? what is useful for designing? how does one achieve the right formal fitness?
+
+variations on bamboo lamps; utilize found materials only?
+
+that's not graphic design though; that's not really communication design; how to do graphic design or digital or web projects that are really sustainabilitist?
+
+is that not important though? is just doing anything that can help provide more signalling for design to have different/better alternatives a good choice of project? a good use of my creative energy? or should I just volunteer somewherE? just work on my house and yard? just help denzel farm or something?
+
+What do I want to sustain? What does the welfare of all life really look like? really entail? How do you actually design for this? What kind of design challenges structural inequalities and balances equity, ecology, and economy? Design that collaborates so as to create lasting, positive change in one's community?
+
+Open source? Sustainability? how do these fit together? What am I writing about? thinking about? how do I turn something with so many random bits and pieces that don't outwardly appear to obvious connect into a clear and short presentation?
+
+Everything is Connected. I say this all the time. What does it mean? how does it have any impact on my work? on my life? on my home? on my practice? on my teaching? on my interacting with other people? Martin Luther King talks about the interconnectedness of all people and things in his final Christmas Sermon... That will be a useful quote at some point in some Everything is connected lecture or workshop.
+
+A carbon sequestering book. So what does on need to make this work -- 1. paper. Some alternative fiber paper; 50% recycled content; 50% permaculture grown prairiegrass fiber or something? reusing waste and practicing regenerative agriculture. 2. Ink. This is the real special sauce. How can something be printed clear; then the composition of the ink absorbs carbon dioxide out of the air, stores the carbon, and slowly darkens to carbon black over time!?!?!?! Oh, and is this compostable at the end of its life as well? 3. Cover. Again, cover needs to be compostable, recycled + permaculture fibers, and perhaps the type/image on the cover is just blind debossed? 4. Binding. Perfect bind? use some sort of compostable glue? What else would need to be figured out?
+
+These Gestures are undoubtedly utopian. What of my projects fit under this umbrella? Where does this start? how far back does it go? how might it be a great organizing principle for my projects? for a lecture? Is my initial Senior project from undergrad too far away to start with? that works -- telling the "I was on an engineering track, then I switched to art..." story? what about working at sundaysenergy? my own grad school experience? how to turn that into a compelling narrative that is also artfully illustrated AND relevant to social/ecological/sustainable things today? the signs signalling sustaainability is also utopian!?
+
+Climate Change. So the climate is changing. What does that mean. Social climates, ecological climates, both. How are climate and weather related? how does graphic design show or make this all more understandable? is focusing on climate change even important? is it too big? too abstract? What's the perspective of Drawdown.org on that idea? What about The Climate Mobilization? How does Climate Designers fit into all of this? What framework or ideology should lead? What about AirMiners? as a community do they have any stronger organizing principle or concepts other than just "get carbon out of the atmosphere and into other sinks?" What is the minimum you need to learn to understand this? to have enough people grok this to actually change some behaviors? to change some social and cultural structures? What does a climate friendly museum look like? what does a climate friendly school look like? what does a climate friendly
+
+++++++++++++++++++
+
+## Future Possibles?
+
+So, I need to actually produce something of substance, something of value. What do I have to offer? What can I write about coherently and succintly? is that important or is just getting new and different ideas that point in utopian directions all that matters?
+
+- Precious Plastics
+  - associated addendum ideas?
+- Exhibition with sue spaid?
+- More Climate designers stuff
+- Lectures! Talks!
+- Twitch stream more F/LOS design stuff?
+- Video Essays? Video Lectures?
+- Ideas... thoughts... philosophies... manifestos...
+- Carbon Neutral House Things!?
