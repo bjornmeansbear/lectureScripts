@@ -82,7 +82,6 @@ Is this also how vernacular patterns/building come into the picture — are free
 
 Waste = Food is a great idea to apply to more things than just the natural world. Here's a great prompt: the earth's major nutrients are carbon, hydrogen, oxygen, & nitrogen ... what are graphic design's major nutrients? (and! how can they be cycled and recycled into new graphic design indefinitely?)
 
-
 Dunne and Raby propose that design should explore activities and outcomes that question and challenge status quo industrial agendas—however! for the most part the designers doing this are still using status quo tools! Sustainability (at least the flourishing variety I am interested in) is NOT the current status quo; so if I am challenging the assumptions of contemporary design and capitalist consumerism, then I need non-capitalist consumerist tools to do that with—enter F/LOSS.
 
 Sustainable Graphic Design is a mindset, not a checklist of "the right" materials
@@ -133,33 +132,29 @@ I do like this life-affirming design thing. How do I get more into that? or rath
 
 Every graphic design problem's answer is not a book; or a poster; or an identity... it is not necessarily a visual design problem; superficial 2D surface decoration isn't the answer to every problem — though the thinking of a designer might reveal an interesting solution still... Can it always be framed as signs on substrates (signs on surfaces?) even if not a visual "answer"?
 
+## Carbon Sink Book
+
 Idea: A book printed in an ink that acts as a carbon sink — the book's text only shows up gradually; it has to absorb the carbon to become black!!??
 
 how does graphic designing remove carbon? can a book recycle plastic? what logo captures the most carbon? what typeface uses the least energy and/or ink? what aesthetic is the most decolonizing? whose bias am I perpetuating? does designing matter? is building a wetland better than building a website? is using solar power better than writing all this shit down?
 
 if sustainability is a totally cyclical, restorative, resilant, flourishing, non-anthropocentric, anti-entropy, maintenance-based, stewardship, co-existing thing...... what? you cannot expect everyone to understand what you mean by sustainability — so do we need other words; or do we just need to say that we mean all those other things when we say sustainability. it is a shorthand sign for all those other words...
 
-Sustainability I guess must become the message of every cultural medium? if you are an actor or director or writer for tv or movies — everything you write or act in or direct needs to tackle climate change in some way; all the episodes of a show; the plot of every movie. Likewise for musicians. Why aren't there more protest songs w/ a sustainabilitist themes? Instead of give peace a chance, we need give sustainability a chance. I mean, give regenerative design a chance doesn't quite roll of the tongue the same way... but hopefully you get the point?
+Sustainability I guess must become the message of every cultural medium? if you are an actor or director or writer for tv or movies — everything you write or act in or direct needs to tackle climate change in some way; all the episodes of a show; the plot of every movie. Likewise for musicians. Why aren't there more protest songs w/ a sustainabilitist themes? Instead of give peace a chance, we need give sustainability a chance.
 
 what does sustainable design act like? feel like? how does sustainable design sustain its goals out in the world?
 
-I still don't know what sustainable design looks like. > Can an aesthetic carry and ideology?
+what sustainable design looks like. > Can an aesthetic carry and ideology?
 
-Is maintenance a principle of sustainability? of sustainable design? is that a new paradigm for designing? Design for maintenance. What does maintenance mean in graphic designing? Maintenance for cars, maintenance for houses, maintenance for websites, maintenance for logos? Does it just not work that way? what does that even mean anyway
+Design is about connections. Design is about being a connector. Design is about bringing people and ideas and problems and solutions together.
 
-What would maintenance mean in my own design practice? The magazines I have designed for a while, is it maintenance to slowly evolve their design? is it maintenance to fix and fine tune the paragraph styles, etc. over time?
-
-Design is about being a connector. Design is about bringing people and ideas and problems and solutions together. Design only works when it is trying to really achieve a success for the planet; for the welfare of all life.
-
-Design is an attitude that can be brought to all aspects of a person's life (see deiter rams?).
+Design only works when it is trying to  achieve a success for the planet; for the welfare of all life.
 
 We do not have unlimited energy. We do not have unlimited resources. How does this change our relationship with designing? With capitalism? with our economic ideals?
 
 What do I want to sustain? What does the welfare of all life really look like? really entail? How do you actually design for this? What kind of design challenges structural inequalities and balances equity, ecology, and economy? Design that collaborates so as to create lasting, positive change in one's community?
 
-Everything is Connected.
-
-Martin Luther King talks about the interconnectedness of all people and things in his final Christmas Sermon...
+Everything is Connected. Martin Luther King talks about the interconnectedness of all people and things in his final Christmas Sermon...
 
 ## A carbon sequestering book
 
@@ -168,23 +163,25 @@ Martin Luther King talks about the interconnectedness of all people and things i
 3. Cover. Again, cover needs to be compostable, recycled + permaculture fibers, and perhaps the type/image on the cover is just blind debossed?
 4. Binding. Perfect bind? use some sort of compostable glue? What else would need to be figured out?
 
-Climate Change. The climate is changing. What does that mean. Social climates, ecological climates, both. How are climate and weather related? how does graphic design show or make this all more understandable? is focusing on climate change even important? is it too big? too abstract? What's the perspective of Drawdown.org on that idea? What about The Climate Mobilization? How does Climate Designers fit into all of this? What framework or ideology should lead? What about AirMiners? as a community do they have any stronger organizing principle or concepts other than just "get carbon out of the atmosphere and into other sinks?" What is the minimum you need to learn to understand this? to have enough people grok this to actually change some behaviors? to change some social and cultural structures? What does a climate friendly museum look like? what does a climate friendly school look like? what does a climate friendly
+The climate is changing. What does that mean. Social climates, ecological climates, both. How are climate and weather related? how does graphic design show or make this all more understandable? is focusing on climate change even important? is it too big? too abstract? What's the perspective of Drawdown.org on that idea? How does Climate Designers fit into all of this? What framework or ideology should lead? What about AirMiners? as a community do they have any stronger organizing principle or concepts other than just "get carbon out of the atmosphere and into other sinks?" What is the minimum you need to learn to understand this? to have enough people grok this to actually change some behaviors? to change some social and cultural structures? What does a climate friendly museum look like? what does a climate friendly school look like?
+
+## Success in Climate Designer goals
 
 Success in climate designers' goals means a future where "climate designers" no longer exist. *Climate designing* becomes plain *designing*. Did you use a grid? did you sequester carbon? did you match your aesthetic to you audience? did you reduce your energy requirements? did you kern your headlines? did you restore spaceship earth? No? well then that's *bad* design.
 
 +++++++++++++++++=
 
-## What does a Climate Designer make
+## What is a climate designer?
 
 A Climate Designer is a designer engaging with the climate in their work and/or teaching.
 
-In my utopian vision, here's how design outputs evolve and change when you adopt "climate design" as a mindset.
+## What does a Climate Designer make
 
 Let's look at The carbon negative book as an example of work Climate Designers should concept, make, and develop: design objects clearly embodying aspects of climate change. And while a sequestering book isn't likely to exist anytime soon, even the *idea* of objects like that is useful. A book like this would require the absorption of known amount of CO2 to become legible — this becomes a sign for X quantity of carbon and helps one grasp what is otherwise intangible.
 
 ## Signs Signaling Sustainability
 
-I like to call designs like this "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — turning every design opportunity into a sign signaling sustainability. Make tangible, make understandable something about climate change. This is doable no matter the project; no matter the prompt.
+I like to call designs like this "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — turning each design opportunity into a sign signaling sustainability. Make tangible, make understandable something about climate change. This is doable no matter the project; no matter the prompt.
 
 So this seuqestering book example focuses on "visualizing CO2". But, there are myriad other aspects of climate change and sustainability one might signal.
 
@@ -204,26 +201,15 @@ Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazin
 
 The DC water mark project visualizes increased flooding and water level rise — where these impacts will be felt by you in this place! The water level rings articulates to us "oh shit, this place might be underwater pretty frequently given our current projected future!" Then maybe we can act accordingly and redirect our present towards a future where that is no longer true. Without *seeing* your house or office or favorite park area submerged, even symoblically, you cannot envision an alternative.
 
-### Other SSSs
+### Other:
 
-- Tattfoo Tan, *S.O.S. Steward*
-  - Enrolled in various green courses and acquired certification for green knowledge. To flaunt my new found title in the form of a merit patch on my gray coverall and wear it during events and gardening session. I'm intrigue by the certification of knowledge and the power that was bestow by the agency that gave the certificate. Partly propelled by the thirst of knowledge and partly to sustain the endurance of going to classes and community service requirements of these courses. (<http://tattfoo.com/sos/SOSGreenStewardship.html>)
-
-- Ecovention Grid/Color palette
-  - Attempt at minimizing ink coverage, but still getting a range of colors so as to uniquely colorcode each section of a exhibition catalog. The grid itself practices reuse...
-
-- *Climates: Architecture and the Planetary Imaginary*
-  - Neil Donnelly, 2016. The interior paper gets gradually thinner from the beginning to the end, conveying scarcity and depletion through the materiality of the book. One could easily see something like this in reverse, perhaps a book about sea level rise has its paper get thicker as the book progresses? (<https://neildonnelly.net/#climates>)
-
-- Space Hippie?
 - Improvisational Lamps?
-- Flower based "down" substitute?
 - Amager Bakke unmade vapor ring?
 - Print posters on found paper?
 
-These examples communicate additional information as key aspects of their design. They redirect culture towards better *future possibles.* And! this is a great place to work as a graphic designer.
-
 ## Future Possibles?
+
+These examples communicate additional information as key aspects of their design. They redirect culture towards better *future possibles.* And! this is a great place to work as a graphic designer.
 
 ### The Futures Cone!?
 
@@ -237,3 +223,4 @@ So, I need to actually produce something of substance, something of value. What 
 - Video Essays? Video Lectures?
 - Ideas... thoughts... philosophies... manifestos...
 - Carbon Neutral House Things!?
+
