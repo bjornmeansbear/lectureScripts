@@ -1,6 +1,45 @@
 # These Gestures Are Undoubtedly Utopian Attempt
 
-## intro?
+I have spent a lot of time lately looking through old works, reading through old essays and lectures... just trying to analyze what I've done; go back to existing presentations and lectures...
+
+I've been struck by a couple of things.
+
+1. My work is all over the place. Differet aesthetics, different mediums, different scales...
+2. I have a hard time staying focused on one thing
+3. I do a lot of repetitive processes
+4. While materials, forms, etc. might sometimes change, there seem to be some real commonalities...
+
+Okay, so I am gonna go through a couple of my favorite works from the last twenty years. I'll try to point out quickly what was good about them, how they came to be, why they are the way they are...
+
+This will be part revisionist history, part utopian speculation.
+
+## Cellular Distortions
+
+## The Sustainabilitist Principles
+
+## Design a Days 2010
+
+## Green Acres / Eco Ventions
+
+## Free/Libre Design Explorations
+
+## Situationist Lamps
+
+## A Permaculture Garden
+
+## Low Carbon Urban Homestead
+
+Does any of this matter?
+
++++++++++++++++++++++++++++++++++++++++++
+
+What does design do? and what does it mean?
+
+Sustainability as flourishing. What does this mean for designing? we strive for a context in which all life can flourish.
+
+Design and the welfare of all life. How does this change how design is practiced and defined?
+
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
 ## BauErden (Build Earth)
 
@@ -132,31 +171,21 @@ I do like this life-affirming design thing. How do I get more into that? or rath
 
 Every graphic design problem's answer is not a book; or a poster; or an identity... it is not necessarily a visual design problem; superficial 2D surface decoration isn't the answer to every problem — though the thinking of a designer might reveal an interesting solution still... Can it always be framed as signs on substrates (signs on surfaces?) even if not a visual "answer"?
 
-## Carbon Sink Book
+if sustainability is a cyclical, restorative, resilant, flourishing, non-anthropocentric, maintenance-based, stewardship, co-existing thing...... what? you cannot expect everyone to understand what you mean by sustainability — so do we need other words; or do we just need to say that we mean all those other things when we say sustainability. it is a shorthand sign for all those other words...
 
-Idea: A book printed in an ink that acts as a carbon sink — the book's text only shows up gradually; it has to absorb the carbon to become black!!??
+Design is about connections. Design is about bringing people and ideas and problems and solutions together.
 
-how does graphic designing remove carbon? can a book recycle plastic? what logo captures the most carbon? what typeface uses the least energy and/or ink? what aesthetic is the most decolonizing? whose bias am I perpetuating? does designing matter? is building a wetland better than building a website? is using solar power better than writing all this shit down?
-
-if sustainability is a totally cyclical, restorative, resilant, flourishing, non-anthropocentric, anti-entropy, maintenance-based, stewardship, co-existing thing...... what? you cannot expect everyone to understand what you mean by sustainability — so do we need other words; or do we just need to say that we mean all those other things when we say sustainability. it is a shorthand sign for all those other words...
-
-Sustainability I guess must become the message of every cultural medium? if you are an actor or director or writer for tv or movies — everything you write or act in or direct needs to tackle climate change in some way; all the episodes of a show; the plot of every movie. Likewise for musicians. Why aren't there more protest songs w/ a sustainabilitist themes? Instead of give peace a chance, we need give sustainability a chance.
-
-what does sustainable design act like? feel like? how does sustainable design sustain its goals out in the world?
-
-what sustainable design looks like. > Can an aesthetic carry and ideology?
-
-Design is about connections. Design is about being a connector. Design is about bringing people and ideas and problems and solutions together.
-
-Design only works when it is trying to  achieve a success for the planet; for the welfare of all life.
+Design only works when it is trying to achieve a success for the planet; for the welfare of all life.
 
 We do not have unlimited energy. We do not have unlimited resources. How does this change our relationship with designing? With capitalism? with our economic ideals?
 
 What do I want to sustain? What does the welfare of all life really look like? really entail? How do you actually design for this? What kind of design challenges structural inequalities and balances equity, ecology, and economy? Design that collaborates so as to create lasting, positive change in one's community?
 
-Everything is Connected. Martin Luther King talks about the interconnectedness of all people and things in his final Christmas Sermon...
+## A carbon sequestering book / Carbon Sink Book
 
-## A carbon sequestering book
+Idea: A book printed in an ink that acts as a carbon sink — the book's text only shows up gradually; it has to absorb the carbon to become black!!??
+
+how does graphic designing remove carbon? can a book recycle plastic? what logo captures the most carbon? what typeface uses the least energy and/or ink? what aesthetic is the most decolonizing? whose bias am I perpetuating? does designing matter? is building a wetland better than building a website? is using solar power better than writing all this shit down?
 
 1. paper. Some alternative fiber paper; 50% recycled content; 50% permaculture grown prairiegrass fiber or something? reusing waste and practicing regenerative agriculture.
 2. Ink. This is the real special sauce. How can something be printed clear; then the composition of the ink absorbs carbon dioxide out of the air, stores the carbon, and slowly darkens to carbon black over time!?!?!?! Oh, and is this compostable at the end of its life as well?
@@ -201,7 +230,7 @@ Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazin
 
 The DC water mark project visualizes increased flooding and water level rise — where these impacts will be felt by you in this place! The water level rings articulates to us "oh shit, this place might be underwater pretty frequently given our current projected future!" Then maybe we can act accordingly and redirect our present towards a future where that is no longer true. Without *seeing* your house or office or favorite park area submerged, even symoblically, you cannot envision an alternative.
 
-### Other:
+### Other
 
 - Improvisational Lamps?
 - Amager Bakke unmade vapor ring?
@@ -223,4 +252,3 @@ So, I need to actually produce something of substance, something of value. What 
 - Video Essays? Video Lectures?
 - Ideas... thoughts... philosophies... manifestos...
 - Carbon Neutral House Things!?
-
