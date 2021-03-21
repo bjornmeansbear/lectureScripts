@@ -3,11 +3,13 @@ title: What is a Sustainabilitist?
 description: An attempt at a lecture for a visit to the University of Nebraska.
 ---
 
+# What is a Sustainabilitist?
+
 I have spent a lot of time lately looking through old works, reading through old essays and lectures... just trying to analyze what I've done; go back to existing presentations and lectures...
 
 I've been struck by a couple of things.
 
-1. My work is all over the place. Differet aesthetics, different mediums, different scales...
+1. My work is all over the place. Different aesthetics, different mediums, different scales...
 2. I have a hard time staying focused on one thing
 3. I do a lot of repetitive processes
 4. While materials, forms, etc. might sometimes change, there seem to be some real commonalities...
@@ -34,7 +36,7 @@ This will be part revisionist history, part utopian speculation.
 
 Does any of this matter?
 
-+++++++++++++++++++++++++++++++++++++++++
+±±±±±±±±±±±±±±±±±±±±±±±±
 
 What does design do? and what does it mean?
 
