@@ -1,5 +1,40 @@
 # A Sustainable Designer?
 
+a question meant to inspire a body of works: “What does sustainable graphic design look like?"
+
+1. SGD looks the same
+2. SGD looks eco-friendly > the design wears its eco friendliness or social justice advocacy on its sleeve
+3. SGD looks innovative
+4. SGD does not exist
+
+I meant this last one as pessimism initially, as a, hmmmm is there anything useful design does? or is it really all just trash -- ephemeral waste so nothing is sustainable...
+
+It slowly rubbed off on me, and started to show a lot more options,
+
+## The Sustainabilitist Principles
+
+I am going to launch right in with a work called _The Sustainabilitist Principles_. This was really the culmination of my time in Graduate School. I conceived this as a response to a question I posed myself, a question meant to inspire a body of works: “What does sustainable graphic design look like?"
+
+_The Sustainabilitist Principles_ was the end of a process, the amalgmation of all my different ideas at the time. In this piece were all kinds of things coming together…
+
+1. Sustainable design does not exist: the piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definition, they were printed on found paperback novels, and are still readable, its only the title pages or other minmal front matter that were printed on. The shape of the structure was also formulated partially to use the emroidery floss that connects things together in the longest possible pieces to maximize use of the floss later... Anyway, so this was sort of the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
+2. Everything is connected: an aphorism of sorts. I wanted to show how all these different ideas don't just come from one place, and how intertwingled certain repeating principles are...
+3. ???
+
+The sustainabilitist principles is the best place to start because, well, its the closest thing I've made to pure “sustainable graphic design”
+
+Everything before aided in its creation, everything after has never been able to do all these things at once.
+
+Constraint?
+
+## Green Acres
+
+I was doing a variety of work with a museum in Baltimore, The Contemporary, and the director at the time, Sue Spaid, had an exciting exhibition she was working on: Green Acres. We designed a book to go along with the exhibition -- infact, the book is probably just as much an "exhibition"
+
+Green acres tries to utilize
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
 What comes to mind when you hear the phrase “sustainable graphic design?” Brown paper? Soy Ink? Bamboo? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or particular look or feel? How about a particular message? A particular manufacturing process?
 
 I've ruminating over this question for years, and I’ve never quite been satisfied with my half-answers. I still haven’t found a solid solution. I am currently inclined to believe that there is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist). However, I do believe there are some particular messages and clients that are not okay if you are a sustainabilitist.
