@@ -1,5 +1,10 @@
 # A Sustainable Designer?
 
+Thanks for the introduction. I'm kristian bjornard.
+I'm going to talk about "Sustainabilitists" -- that is, those interested in creating sustainability.
+
+It's normal to talk about modernists, post-modernists, conceptual minimalists... These are artistic and design ideologies that have formal
+
 a question meant to inspire a body of works: “What does sustainable graphic design look like?"
 
 1. SGD looks the same
