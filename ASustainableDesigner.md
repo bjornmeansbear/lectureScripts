@@ -27,7 +27,7 @@ These artists and designers from various movements; the innovators we’ve histo
 
 Sustainability is a new way of thinking (but also, and old way!?), so shouldn’t it carry with it a new style (or reuse old ones!?)?
 
-a question meant to inspire a body of works: “What does sustainable graphic design look like?"
+So, a question meant to inspire a body of works: “What does sustainable graphic design look like?" resulted in a few "main" potential outcomes in my thining:
 
 1. SGD looks the same
 2. SGD looks eco-friendly > the design wears its eco friendliness or social justice advocacy on its sleeve
@@ -37,8 +37,6 @@ a question meant to inspire a body of works: “What does sustainable graphic de
 I meant this last one as pessimism initially, as a, hmmmm is there anything useful design does? or is it really all just trash -- ephemeral waste so nothing is sustainable...
 
 ## Other Places of Interest
-
-In looking to artists and designers from previous movements, innovators we’ve historically documented are known for novel visuals, but got to those novel visuals by exploring new ideologic territory and experimenting with different ways of thinking. Avant garde visuals stemming from these movements were the result of the ideas (or ideals) to come out of their novel thinking, not really the main ideas themselves. Our past is not about style for style’s sake, but style that illuminates a theoretical position (or at least style that is arrived at from a thought process, from a set of values, or from some set of hypotheses).
 
 I want there to be a concrete solution as to what sustainable graphic design looks like. I want it to be different and special. I want it to be better. However, perhaps that is undesirable; perhaps it is against the ideals of sustainability. Part of flourishing is the opportunity for many diverse solutions to a problem. Nature never typically solves any problem in just one way. Successful, resilient systems have many redundancies — that is what makes them resilient. Why shouldn’t sustainability be able to have many styles and aesthetics? Why should there only be one way something looks to be “sustainable?”
 
