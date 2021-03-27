@@ -4,8 +4,8 @@
 
 I am going to start with a work, _The Sustainabilitist Principles_. This was a sort of sculptural poster? It encapsulated two important concepts
 
-1. Everything is Connected.
-2. Sustainable Design does not exist.
+1. Sustainable Design does not exist.
+2. Everything is Connected.
 
 This was really the culmination of my time in Graduate School. I conceived this as a response to a question, a question meant to inspire a body of works: “What does sustainable graphic design look like?"
 
@@ -42,18 +42,18 @@ I want there to be a concrete solution as to what sustainable graphic design loo
 
 Alain de Botton repeatedly references a line from the French writer Stendahl: “there are as many styles of beauty as there are visions of happiness” (pg 100). Perhaps my thinking on sustainable graphic design’s look must take it’s cue from this. Anything that looks in such a way that it helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface — just the right ideals or messages.
 
-±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+## Back to the Works
 
-1. Sustainable design does not exist: the piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definition, they were printed on found paperback novels, and are still readable, its only the title pages or other minmal front matter that were printed on. The shape of the structure was also formulated partially to use the emroidery floss that connects things together in the longest possible pieces to maximize use of the floss later... Anyway, so this was sort of the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
+So, as a piece, The sustainabilit principles was an example for Sustainable design does not existing
+
+The piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definitions, they were printed on found paperback novels, so the novels were still readable, its only the title pages or other minmal front matter that were printed on. The shape of the structure was also formulated partially to use the emroidery floss that connects things together in the longest possible pieces to maximize reuse of the floss later... Anyway, so this was sort of the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
+
 2. Everything is connected: an aphorism of sorts. I wanted to show how all these different ideas don't just come from one place, and how intertwingled certain repeating principles are...
-3. ???
 
 The sustainabilitist principles is the best place to start because, well, its the closest thing I've made to pure “sustainable graphic design”
 
 Everything before aided in its creation, everything after has never been able to do all these things at once.
 
-Constraint?
-
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 
@@ -65,9 +65,9 @@ Constraint?
 
 
 
+Constraint
 
-
-
+Vernacular
 
 Thanks for the introduction. I'm kristian bjornard.
 I'm going to talk about "Sustainabilitists" -- that is, those interested in creating sustainability.
