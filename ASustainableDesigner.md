@@ -21,12 +21,33 @@ back to this in a sec...
 
 ## Sustainable Design does not exist.
 
+It's normal to talk about modernists, post-modernists, conceptual minimalists...
+
+These artists and designers from various movements; the innovators we’ve historically documented are known for novel visuals, but got to those novel visuals by exploring new ideologic territory and experimenting with different ways of thinking. Avant garde visuals stemming from these movements were the result of the ideas (or ideals) to come out of their novel thinking, not really the main ideas themselves. Our past is not about style for style’s sake, but style that illuminates a theoretical position (or at least style that is arrived at from a thought process, from a set of values, or from some set of hypotheses).
+
+Sustainability is a new way of thinking (but also, and old way!?), so shouldn’t it carry with it a new style (or reuse old ones!?)?
+
+a question meant to inspire a body of works: “What does sustainable graphic design look like?"
+
+1. SGD looks the same
+2. SGD looks eco-friendly > the design wears its eco friendliness or social justice advocacy on its sleeve
+3. SGD looks innovative
+4. SGD does not exist
+
+I meant this last one as pessimism initially, as a, hmmmm is there anything useful design does? or is it really all just trash -- ephemeral waste so nothing is sustainable...
+
+## Other Places of Interest
+
+In looking to artists and designers from previous movements, innovators we’ve historically documented are known for novel visuals, but got to those novel visuals by exploring new ideologic territory and experimenting with different ways of thinking. Avant garde visuals stemming from these movements were the result of the ideas (or ideals) to come out of their novel thinking, not really the main ideas themselves. Our past is not about style for style’s sake, but style that illuminates a theoretical position (or at least style that is arrived at from a thought process, from a set of values, or from some set of hypotheses).
+
+I want there to be a concrete solution as to what sustainable graphic design looks like. I want it to be different and special. I want it to be better. However, perhaps that is undesirable; perhaps it is against the ideals of sustainability. Part of flourishing is the opportunity for many diverse solutions to a problem. Nature never typically solves any problem in just one way. Successful, resilient systems have many redundancies — that is what makes them resilient. Why shouldn’t sustainability be able to have many styles and aesthetics? Why should there only be one way something looks to be “sustainable?”
+
+Alain de Botton repeatedly references a line from the French writer Stendahl: “there are as many styles of beauty as there are visions of happiness” (pg 100). Perhaps my thinking on sustainable graphic design’s look must take it’s cue from this. Anything that looks in such a way that it helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface — just the right ideals or messages.
 
 
 
 
-
-
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 1. Sustainable design does not exist: the piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definition, they were printed on found paperback novels, and are still readable, its only the title pages or other minmal front matter that were printed on. The shape of the structure was also formulated partially to use the emroidery floss that connects things together in the longest possible pieces to maximize use of the floss later... Anyway, so this was sort of the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
 2. Everything is connected: an aphorism of sorts. I wanted to show how all these different ideas don't just come from one place, and how intertwingled certain repeating principles are...
@@ -56,16 +77,6 @@ Constraint?
 Thanks for the introduction. I'm kristian bjornard.
 I'm going to talk about "Sustainabilitists" -- that is, those interested in creating sustainability.
 
-It's normal to talk about modernists, post-modernists, conceptual minimalists... These are artistic and design ideologies that have formal
-
-a question meant to inspire a body of works: “What does sustainable graphic design look like?"
-
-1. SGD looks the same
-2. SGD looks eco-friendly > the design wears its eco friendliness or social justice advocacy on its sleeve
-3. SGD looks innovative
-4. SGD does not exist
-
-I meant this last one as pessimism initially, as a, hmmmm is there anything useful design does? or is it really all just trash -- ephemeral waste so nothing is sustainable...
 
 It slowly rubbed off on me, and started to show a lot more options,
 
@@ -140,15 +151,7 @@ Each student sorted out for themselves what might be both a sustainable and a be
 
 My students’s works this term have shown me that a “correct” style may be irrelevant when it comes to what sustainable graphic design should look like. Maybe it is just the message that matters.
 
-## Other Places of Interest
 
-In looking to artists and designers from previous movements, innovators we’ve historically documented are known for novel visuals, but got to those novel visuals by exploring new ideologic territory and experimenting with different ways of thinking. Avant garde visuals stemming from these movements were the result of the ideas (or ideals) to come out of their novel thinking, not really the main ideas themselves. Our past is not about style for style’s sake, but style that illuminates a theoretical position (or at least style that is arrived at from a thought process, from a set of values, or from some set of hypotheses).
-
-How do I reconcile what my students have shown me — that all styles can be sustainable — with these thoughts? Sustainability is a new way of thinking, so shouldn’t it carry with it a new style?
-
-I want there to be a concrete solution as to what sustainable graphic design looks like. I want it to be different and special. I want it to be better. However, perhaps that is undesirable; perhaps it is against the ideals of sustainability. Part of flourishing is the opportunity for many diverse solutions to a problem. Nature never typically solves any problem in just one way. Successful, resilient systems have many redundancies — that is what makes them resilient. Why shouldn’t sustainability be able to have many styles and aesthetics? Why should there only be one way something looks to be “sustainable?”
-
-Alain de Botton repeatedly references a line from the French writer Stendahl: “there are as many styles of beauty as there are visions of happiness” (pg 100). Perhaps my thinking on sustainable graphic design’s look must take it’s cue from this. Anything that looks in such a way that it helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface — just the right ideals or messages.
 
 ## Works Cited:
 
