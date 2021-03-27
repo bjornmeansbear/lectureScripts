@@ -42,9 +42,6 @@ I want there to be a concrete solution as to what sustainable graphic design loo
 
 Alain de Botton repeatedly references a line from the French writer Stendahl: “there are as many styles of beauty as there are visions of happiness” (pg 100). Perhaps my thinking on sustainable graphic design’s look must take it’s cue from this. Anything that looks in such a way that it helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface — just the right ideals or messages.
 
-
-
-
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 1. Sustainable design does not exist: the piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definition, they were printed on found paperback novels, and are still readable, its only the title pages or other minmal front matter that were printed on. The shape of the structure was also formulated partially to use the emroidery floss that connects things together in the longest possible pieces to maximize use of the floss later... Anyway, so this was sort of the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
