@@ -21,7 +21,7 @@ The sustainabilitist principles was a modular manifesto. It collected my set of 
 
 back to this in a sec...
 
-## Sustainable Design does not exist.
+## Sustainable Design does not exist
 
 It's normal to talk about modernists, post-modernists, conceptual minimalists...
 
@@ -60,6 +60,33 @@ The sustainabilitist principles is the best place to start because, well, its th
 
 Let;s see how everything else is connected...
 
+## Green Acres
+
+I was doing a variety of work with a museum in Baltimore, The Contemporary, and the director at the time, Sue Spaid, had an exciting exhibition she was working on: _Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_. We designed a book to go along with the exhibition, or I guess extend the "exhibition," as there are more works and more explanation in the book than was possible.
+
+This is going to be an everything is connected situation... so lets jump back to our options for "what SGD looks like?"
+
+GA falls into the "It looks the same" category.
+
+Really, the things that made the production of this book "sustainable" were that it was printed on demand -- we had a very short run of books, and then printed more when necessary.
+
+Design wise, the book was meant to be a critique of commercial farming -- juxtaposing artistic "farmed" graphics over an extremely constrained grid based on aerial photography of commercial farm tracts...
+
+So, its trying to visually tell you something different, but otherwise conforms to the common standards of "good" modernist typography, etc... It has a minorly improved production method...
+
+## Sarah De Bondt?
+
+After working on GA, I heard a lecture by the designer and author Sarah De Bondt. She had recently completed a catalog for the Barbican in London for a similar exhibition to Green Acres. As part of her teams research leading up to the catalog's production they wrote a manifesto for how they were going to produce the catalog.
+
+[[Show the manifesto?]]
+
+It reminded me of things that I guess I had been ignoring from my The Principles!
+
+I
+
+????
+
+## Ecovention Europe
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -69,27 +96,11 @@ Vernacular
 
 It slowly rubbed off on me, and started to show a lot more options,
 
-## The Sustainabilitist Principles
+## The Sustainabilitist Principles Xtra
 
 I am going to launch right in with a work called _The Sustainabilitist Principles_. This was really the culmination of my time in Graduate School. I conceived this as a response to a question I posed myself, a question meant to inspire a body of works: “What does sustainable graphic design look like?"
 
 _The Sustainabilitist Principles_ was the end of a process, the amalgmation of all my different ideas at the time. In this piece were all kinds of things coming together…
-
-1. Sustainable design does not exist: the piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definition, they were printed on found paperback novels, and are still readable, its only the title pages or other minmal front matter that were printed on. The shape of the structure was also formulated partially to use the emroidery floss that connects things together in the longest possible pieces to maximize use of the floss later... Anyway, so this was sort of the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
-2. Everything is connected: an aphorism of sorts. I wanted to show how all these different ideas don't just come from one place, and how intertwingled certain repeating principles are...
-3. ???
-
-The sustainabilitist principles is the best place to start because, well, its the closest thing I've made to pure “sustainable graphic design”
-
-Everything before aided in its creation, everything after has never been able to do all these things at once.
-
-Constraint?
-
-## Green Acres
-
-I was doing a variety of work with a museum in Baltimore, The Contemporary, and the director at the time, Sue Spaid, had an exciting exhibition she was working on: Green Acres. We designed a book to go along with the exhibition -- infact, the book is probably just as much an "exhibition"
-
-Green acres tries to utilize
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -107,7 +118,7 @@ Graphic designers are form makers. Sustainable graphic designers must make forma
 
 These are complicated questions.
 
-## Sustainability and Beauty.
+## Sustainability and Beauty
 
 > “To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in material medium.” — Alain de Botton, The Architecture of Happiness, pg. 100
 
@@ -130,7 +141,7 @@ But, beauty is in the eye of the beholder. This starts to explain why “what do
 
 Is there really no “correct” aesthetic choice?
 
-## Visual Experiment.
+## Visual Experiment
 
 A guest came to class to present his work. He designs and builds furniture exclusively from reclaimed materials. The students were very excited about his ideas, but as a group deemed the furniture aesthetically undesirable. The found materials spoke too loudly, and everything looked “ReUsed” — some of the time in a negative way (purely from an aesthetic stand point). To the students, this proved problematic as it occurs again and again in green and sustainable design projects: the work wears its heart too much on its sleeve; it looks too eco-friendly and unrefined. This was not what they wanted for their work nor for Sustainability as a whole. In their projects, many of the students were actively trying to make work that avoided looking specifically ReUsed, energy-efficient, or “green.” The work was meant to just be “good graphic design” — that it should look like other design, yet be more “good” in that it also embraced various aspects of Sustainability.
 
@@ -140,12 +151,10 @@ Each student sorted out for themselves what might be both a sustainable and a be
 
 My students’s works this term have shown me that a “correct” style may be irrelevant when it comes to what sustainable graphic design should look like. Maybe it is just the message that matters.
 
-
-
-## Works Cited:
+## Works Cited
 
 De Botton, Alain. _The Architecture of Happiness_. Vintage Books. New York, NY. 2006. #Alain de Botton #The Architecture of Happiness
 
 Ehrenfeld, John and Hoffman, Andrew J. _Flourishing: A Frank Conversation About Sustainability_. Stanford University Press, Stanford, CA. 2013.
 
-Sterling, Bruce. _The Last Veridian Note_. Nov 2008. ViridianDesign.org. January 2015. http://www.viridiandesign.org/2008/11/last-viridian-note.html
+Sterling, Bruce. _The Last Veridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
