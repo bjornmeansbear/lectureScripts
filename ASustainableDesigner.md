@@ -1,5 +1,7 @@
 # A Sustainable Designer?
 
+Thanks for the introduction. I'm kristian bjornard. I'm going to talk about "Sustainabilitists" -- that is, those interested in creating sustainability. And I'm going to talk about designing and how design might change in terms of forms, outputs, aesthetics when viewed through "Sustainabilitism"
+
 ## The Sustainabilitist Principles
 
 I am going to start with a work, _The Sustainabilitist Principles_. This was a sort of sculptural poster? It encapsulated two important concepts
@@ -44,34 +46,26 @@ Alain de Botton repeatedly references a line from the French writer Stendahl: �
 
 ## Back to the Works
 
-So, as a piece, The sustainabilit principles was an example for Sustainable design does not existing
+So, as a piece, The sustainabilist principles was an example for Sustainable design does not existing
+
+re: #1, Sustainable Design Doesn't Exist:
 
 The piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definitions, they were printed on found paperback novels, so the novels were still readable, its only the title pages or other minmal front matter that were printed on. The shape of the structure was also formulated partially to use the emroidery floss that connects things together in the longest possible pieces to maximize reuse of the floss later... Anyway, so this was sort of the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
 
-2. Everything is connected: an aphorism of sorts. I wanted to show how all these different ideas don't just come from one place, and how intertwingled certain repeating principles are...
+re: #2, Everything is connected:
+
+an aphorism of sorts. I wanted to show how all these different ideas don't just come from one place, and how intertwingled certain repeating principles are... That writers and practitioners from different eras continue to talk about the same key things... The other way "everything is connected" is that Everything I did and made before TSP influenced its creation, and everything I've done after has had its trajectory defined based on the ideas here — though no work since has ever been able to do as much of these things at once.
 
 The sustainabilitist principles is the best place to start because, well, its the closest thing I've made to pure “sustainable graphic design”
 
-Everything before aided in its creation, everything after has never been able to do all these things at once.
+Let;s see how everything else is connected...
+
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-
-
-
-
-
-
-
-
 
 Constraint
 
 Vernacular
-
-Thanks for the introduction. I'm kristian bjornard.
-I'm going to talk about "Sustainabilitists" -- that is, those interested in creating sustainability.
-
 
 It slowly rubbed off on me, and started to show a lot more options,
 
