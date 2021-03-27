@@ -1,5 +1,58 @@
 # A Sustainable Designer?
 
+## The Sustainabilitist Principles
+
+I am going to start with a work, _The Sustainabilitist Principles_. This was a sort of sculptural poster? It encapsulated two important concepts
+
+1. Everything is Connected.
+2. Sustainable Design does not exist.
+
+This was really the culmination of my time in Graduate School. I conceived this as a response to a question, a question meant to inspire a body of works: “What does sustainable graphic design look like?"
+
+_The Sustainabilitist Principles_ was the conclusion of a process, the amalgmation of all my different ideas at the time. In this piece were all kinds of things coming together… This was pretty much the last thing I made in graduate school; and was really a starting point for all the works I've created since.
+
+Walk through the process of making it?
+
+I had been reading and thinking and researching and making, I had piles of visual experiments, zines, posters, etc. littering my studio space and flat files, but this, this came together at the end as a I said as this encapsualtion
+
+The sustainabilitist principles was a modular manifesto. It collected my set of "ideals" for how one needed to approach designing, the ways of thinking to create more sustainably. And the goal was to create something that would bring all these ideas to visual fruition.
+
+back to this in a sec...
+
+## Sustainable Design does not exist.
+
+
+
+
+
+
+
+
+1. Sustainable design does not exist: the piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definition, they were printed on found paperback novels, and are still readable, its only the title pages or other minmal front matter that were printed on. The shape of the structure was also formulated partially to use the emroidery floss that connects things together in the longest possible pieces to maximize use of the floss later... Anyway, so this was sort of the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
+2. Everything is connected: an aphorism of sorts. I wanted to show how all these different ideas don't just come from one place, and how intertwingled certain repeating principles are...
+3. ???
+
+The sustainabilitist principles is the best place to start because, well, its the closest thing I've made to pure “sustainable graphic design”
+
+Everything before aided in its creation, everything after has never been able to do all these things at once.
+
+Constraint?
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Thanks for the introduction. I'm kristian bjornard.
 I'm going to talk about "Sustainabilitists" -- that is, those interested in creating sustainability.
 
