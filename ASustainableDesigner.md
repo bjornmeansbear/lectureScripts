@@ -68,11 +68,13 @@ This is going to be an everything is connected situation... so lets jump back to
 
 GA falls into the "It looks the same" category.
 
-Really, the things that made the production of this book "sustainable" were that it was printed on demand -- we had a very short run of books, and then printed more when necessary.
+Really, the things that made the production of this book "sustainable" were that it was printed on demand — we had a very short run of books, and then printed more when necessary.
 
-Design wise, the book was meant to be a critique of commercial farming -- juxtaposing artistic "farmed" graphics over an extremely constrained grid based on aerial photography of commercial farm tracts...
+Design wise, the book was meant to be a critique of commercial farming — juxtaposing artistic "farmed" graphics over an extremely constrained grid based on aerial photography of commercial farm tracts...
 
 So, its trying to visually tell you something different, but otherwise conforms to the common standards of "good" modernist typography, etc... It has a minorly improved production method...
+
+Now, there is a little Reuse here at lesat — the format! Sue had worked on a book almost 10 years earlier called Ecovention, a word she and her collaborator coined short for "Ecoogical Invention" > trying to categorize these new ways artists were working at the ecological and artistitc avant garde … That book was an 8x8 square. Sue saw these, along with another text for an artist Patricia Johanson, as connected, as a sort of collection, so I made them all the matching physical shape, so they "fit" together sensically... (Everything is connect???)
 
 ## Sarah De Bondt?
 
@@ -82,11 +84,9 @@ After working on GA, I heard a lecture by the designer and author Sarah De Bondt
 
 It reminded me of things that I guess I had been ignoring from my The Principles!
 
-I
-
-????
-
 ## Ecovention Europe
+
+Then, a couple years later, Sue Spaid now living in Belgium, a new exhibition opporutniy comes up. Its called _Ecovention Europe_
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -153,8 +153,7 @@ My students’s works this term have shown me that a “correct” style may be 
 
 ## Works Cited
 
-De Botton, Alain. _The Architecture of Happiness_. Vintage Books. New York, NY. 2006. #Alain de Botton #The Architecture of Happiness
-
-Ehrenfeld, John and Hoffman, Andrew J. _Flourishing: A Frank Conversation About Sustainability_. Stanford University Press, Stanford, CA. 2013.
-
-Sterling, Bruce. _The Last Veridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
+- De Botton, Alain. _The Architecture of Happiness_. Vintage Books. New York, NY. 2006. #Alain de Botton #The Architecture of Happiness
+- Ehrenfeld, John and Hoffman, Andrew J. _Flourishing: A Frank Conversation About Sustainability_. Stanford University Press, Stanford, CA. 2013.
+- Sterling, Bruce. _The Last Veridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
+- Sarah De Bondt
