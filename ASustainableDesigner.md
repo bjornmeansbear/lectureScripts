@@ -90,15 +90,19 @@ How could we re-approach the design of Green Acres? repurpose what I had done al
 
 Colors? Page Count? Wasted Space? Decoration?
 
+The design of ecovention europe ...
+
+Reuse: Sue Spaid and I worked on Green Acres: Artists Farming Fields, Greenhouses and Abandoned Lots together in 2012. The grid for Green Acres had a lot of time and conceptual reasoning invested into it. Since Ecovention Europe is a sort of sibling to Green Acres, we decided to reuse the Green Acres page layout templates. The type choices, grid setup, etc. for this book are lifted from Green Acres and tweaked for the minor new and different needs required for Ecovention Europe. Although sustainable designers routinely find novel ways to reuse materials, I’ve found little discussion for the possibility of reusing ideas and solutions, either as an exemplary form of reuse nor as a useful design tool.
+
+Reduce: One goal for the manufacturing of this book is to expend fewer materials, most noticeably ink, than in the previous tomes I’ve designed. Using less ink required me to select colours more carefully and to use them more sparingly. No colour adds up to more that 100% ink coverage. (The book uses CMYK: and colour palette selections all start at 100% pure C, M, Y, or K, and then are mixed in equal percentages to keep 100% or less total coverage: 50% + 50%; 33% + 33% + 33%, etc.). Another way I tried to reduce ink was by using bitmapped city maps as the decorative section markers. The feeling of a filled area is kept, but since many pixels end up being blank, much less ink is used. Attempts to keep things from bleeding and to fill each page’s grid completely were also made (reduce paper, reduce ink). In Green Acres, I used some superficial decorative elements that looked nice but served no functional purpose — they merely took up room. I also ended columns only where a full paragraph ended to make a few things easier from a design perspective (less has to change if something is added or removed while things are being finalised; you don’t have to deal with as many annoying line or paragraph breaks across columns, etc.). So, while this gave a ragged, formally-nice flow to text columns, it was an inefficient use of space in the book. With the layout of Ecovention Europe, I spent a lot of effort reducing the amount of unused space, thus minimising paper waste (however, more time was used, still a resource not to be wasted).
+
+As a conceptual exercise, this was good. But, did it actually make much of a difference? I don’t know yet. In a book like this, there are a lot of images, yet the artworks don’t adhere to the same ink coverage rules that I set for section colours and body text. One might also ask if I could achieve the look I want using only black, which would save a lot in terms of ink and clean-up over CMYK. Perhaps.
+
+How could this be done differently and better next time? Would a different typeface save ink and space? Are there other ways to handle image inclusion? Is there an alternative to making this? (Should this exist at all? I didn’t ask myself that question before we began.) While I was not prepared to tackle these questions for this book, I will continue exploring and attempting to resolve them with subsequent projects.
+
 ## Whats the end!??? I don't know
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-Constraint
-
-Vernacular
-
-It slowly rubbed off on me, and started to show a lot more options,
 
 What comes to mind when you hear the phrase “sustainable graphic design?” Brown paper? Soy Ink? Bamboo? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or particular look or feel? How about a particular message? A particular manufacturing process?
 
@@ -116,9 +120,9 @@ Ehrenfeld wants to sustain that “all humans and other life should flourish” 
 
 Using Ehrenfeld’s thinking, Sustainable Graphic Design is design made for clients that believe all life should flourish, design made to promote messages about sustainability-as-flourishing, and design made with materials and processes that promote and sustain the state of flourishing too.
 
-Graphic designers are form makers.
+Sustainable graphic designers must make formal decisions.
 
-Sustainable graphic designers must make formal decisions. How does the sustainable designer concern themselves with the forms and aesthetics of a solution?
+How does the sustainable designer concern themselves with the forms and aesthetics of a solution?
 
 Are there visual choices that are more sustainable?
 
