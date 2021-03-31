@@ -84,13 +84,9 @@ In the interim since working on GA, I heard a lecture by the designer and author
 
 It reminded me of things that I guess I had been ignoring from my The Principles!
 
-So, in embracing sarah's manifesto, modifying it a bit for my own pruposes, and then re-examining my own past works...
+So, in embracing sarah's manifesto, modifying it a bit for my own purposes, and then re-examining my own past works...
 
 How could we re-approach the design of Green Acres? repurpose what I had done already? I tried to Reduce and Reuse.
-
-Colors? Page Count? Wasted Space? Decoration?
-
-The design of ecovention europe ...
 
 Reuse: Sue Spaid and I worked on Green Acres: Artists Farming Fields, Greenhouses and Abandoned Lots together in 2012. The grid for Green Acres had a lot of time and conceptual reasoning invested into it. Since Ecovention Europe is a sort of sibling to Green Acres, we decided to reuse the Green Acres page layout templates. The type choices, grid setup, etc. for this book are lifted from Green Acres and tweaked for the minor new and different needs required for Ecovention Europe. Although sustainable designers routinely find novel ways to reuse materials, I’ve found little discussion for the possibility of reusing ideas and solutions, either as an exemplary form of reuse nor as a useful design tool.
 
@@ -99,6 +95,10 @@ Reduce: One goal for the manufacturing of this book is to expend fewer materials
 As a conceptual exercise, this was good. But, did it actually make much of a difference? I don’t know yet. In a book like this, there are a lot of images, yet the artworks don’t adhere to the same ink coverage rules that I set for section colours and body text. One might also ask if I could achieve the look I want using only black, which would save a lot in terms of ink and clean-up over CMYK. Perhaps.
 
 How could this be done differently and better next time? Would a different typeface save ink and space? Are there other ways to handle image inclusion? Is there an alternative to making this? (Should this exist at all? I didn’t ask myself that question before we began.) While I was not prepared to tackle these questions for this book, I will continue exploring and attempting to resolve them with subsequent projects.
+
+Colors? Page Count? Wasted Space? Decoration?
+
+The design of ecovention europe ...
 
 ## Whats the end!??? I don't know
 
