@@ -100,8 +100,6 @@ Vernacular
 
 It slowly rubbed off on me, and started to show a lot more options,
 
-±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
 What comes to mind when you hear the phrase “sustainable graphic design?” Brown paper? Soy Ink? Bamboo? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or particular look or feel? How about a particular message? A particular manufacturing process?
 
 I've ruminating over this question for years, and I’ve never quite been satisfied with much of what I've done.
