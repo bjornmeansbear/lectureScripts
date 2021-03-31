@@ -108,7 +108,11 @@ Colors? Page Count? Wasted Space? Decoration?
 
 The design of ecovention europe ...
 
+## I need something current!?!?!?
+
 ## Signs Signalling Sustainability?
+
+## Climate designers???
 
 ## Whats the end!??? I don't know
 
