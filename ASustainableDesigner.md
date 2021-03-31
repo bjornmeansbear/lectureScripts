@@ -76,17 +76,23 @@ So, its trying to visually tell you something different, but otherwise conforms 
 
 Now, there is a little Reuse here at lesat — the format! Sue had worked on a book almost 10 years earlier called Ecovention, a word she and her collaborator coined short for "Ecoogical Invention" > trying to categorize these new ways artists were working at the ecological and artistitc avant garde … That book was an 8x8 square. Sue saw these, along with another text for an artist Patricia Johanson, as connected, as a sort of collection, so I made them all the matching physical shape, so they "fit" together sensically... (Everything is connect???)
 
-## Sarah De Bondt?
+## Ecovention Europe
 
-After working on GA, I heard a lecture by the designer and author Sarah De Bondt. She had recently completed a catalog for the Barbican in London for a similar exhibition to Green Acres. As part of her teams research leading up to the catalog's production they wrote a manifesto for how they were going to produce the catalog.
+Then, a couple years later, Sue Spaid now living in Belgium, a new exhibition opporutniy comes up. Its called _Ecovention Europe_ and there was going to be another big catalog like GA...
+
+In the interim since working on GA, I heard a lecture by the designer and author Sarah De Bondt. She had recently completed a catalog for the Barbican in London for a similar exhibition to Green Acres. As part of her teams research leading up to the catalog's production they wrote a manifesto for how they were going to produce the catalog.
 
 [[Show the manifesto?]]
 
 It reminded me of things that I guess I had been ignoring from my The Principles!
 
-## Ecovention Europe
+So, in embracing sarah's manifesto, modifying it a bit for my own pruposes, and then re-examining my own past works...
 
-Then, a couple years later, Sue Spaid now living in Belgium, a new exhibition opporutniy comes up. Its called _Ecovention Europe_
+How could we re-approach the design of Green Acres? repurpose what I had done already? I tried to Reduce and Reuse.
+
+Colors? Page Count? Wasted Space? Decoration?
+
+## Whats the end!??? I don't know
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
