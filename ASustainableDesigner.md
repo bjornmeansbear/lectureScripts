@@ -100,25 +100,33 @@ Vernacular
 
 It slowly rubbed off on me, and started to show a lot more options,
 
-## The Sustainabilitist Principles Xtra
-
-I am going to launch right in with a work called _The Sustainabilitist Principles_. This was really the culmination of my time in Graduate School. I conceived this as a response to a question I posed myself, a question meant to inspire a body of works: “What does sustainable graphic design look like?"
-
-_The Sustainabilitist Principles_ was the end of a process, the amalgmation of all my different ideas at the time. In this piece were all kinds of things coming together…
-
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 What comes to mind when you hear the phrase “sustainable graphic design?” Brown paper? Soy Ink? Bamboo? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or particular look or feel? How about a particular message? A particular manufacturing process?
 
-I've ruminating over this question for years, and I’ve never quite been satisfied with my half-answers. I still haven’t found a solid solution. I am currently inclined to believe that there is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist). However, I do believe there are some particular messages and clients that are not okay if you are a sustainabilitist.
+I've ruminating over this question for years, and I’ve never quite been satisfied with much of what I've done.
 
-Where does a designer start in sorting this out?
+I still haven’t found a solid solution.
+
+I am currently inclined to believe that there is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist).
 
 ## A Place to Start
 
-John Ehrenfeld states in the book _Flourishing_ “The key to doing something about sustainability is that you first have to say what you want to sustain.” Ehrenfeld wants to sustain that “all humans and other life should flourish” (pg 23). Using Ehrenfeld’s thinking, Sustainable Graphic Design is design made for clients that believe all life should flourish, design made to promote messages about sustainability-as-flourishing, and design made with materials and processes that promote and sustain the state of flourishing too.
+John Ehrenfeld states in the book _Flourishing_ “The key to doing something about sustainability is that you first have to say what you want to sustain.”
 
-Graphic designers are form makers. Sustainable graphic designers must make formal decisions. How does the sustainable designer concern themselves with the forms and aesthetics of a solution? Are there visual choices that are more sustainable? What form says “I believe that humans and all life should flourish?” Are aesthetics as they relate to sustainability even important?
+Ehrenfeld wants to sustain that “all humans and other life should flourish” (pg 23).
+
+Using Ehrenfeld’s thinking, Sustainable Graphic Design is design made for clients that believe all life should flourish, design made to promote messages about sustainability-as-flourishing, and design made with materials and processes that promote and sustain the state of flourishing too.
+
+Graphic designers are form makers.
+
+Sustainable graphic designers must make formal decisions. How does the sustainable designer concern themselves with the forms and aesthetics of a solution?
+
+Are there visual choices that are more sustainable?
+
+What form says “I believe that humans and all life should flourish?”
+
+Are aesthetics as they relate to sustainability even important?
 
 These are complicated questions.
 
@@ -126,38 +134,68 @@ These are complicated questions.
 
 > “To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in material medium.” — Alain de Botton, The Architecture of Happiness, pg. 100
 
-In _The Architecture of Happiness_, Alain de Botton provides some insights useful in trying to solve aesthetic quandaries around sustainability and formal beauty. Beautiful design embodies and sustains the values you hold dear.
+In _The Architecture of Happiness_, Alain de Botton provides some insights useful in trying to solve aesthetic quandaries around sustainability and formal beauty.
 
-Following Botton’s thinking, sustainable designers should see the non-sustainable as the less-than beautiful, even the ugly. Only truly sustainable things — meaning objects and forms that inspire sustainable ideals — should count as beautiful. Beautiful things ARE sustainable things, and vice versa.
+Beautiful design embodies and sustains the values you hold dear.
 
-Burgeoning sustainabilitists wishing to de-clutter their lives may come across [a piece by Bruce Sterling](http://viridiandesign.org/) that echoes similar sentiments. Sterling outlines four criteria for sorting through the objects you own so as to decide what to keep and what to discard as a part of your new, sustainably designed life.
+Following Botton’s thinking, sustainable designers should see the non-sustainable as the less-than beautiful, even the ugly.
 
-1. Beautiful Things
-2. Sentimental Things
-3. Utilitarian Things
-4. Everything else.
+Only truly sustainable things — meaning objects and forms that inspire sustainable ideals — should count as beautiful.
 
-If an object in your possession fits into the first three categories (beautiful, sentimental, or utilitarian things), then it is worth keeping. If it falls into “Everything Else” you must be rid of it. Sterling is interested in these categories from the point of view that sustainabilitists should have the right stuff — right meaning the best functioning, most meaningful, prettiest stuff. By virtue of being objects that you really need or want to have around just by being so lovely to look at, these things rise above just plain detritus to become more valuable, more sustainable objects (even if it just means you replace them less often).
+Beautiful things ARE sustainable things, and vice versa.
 
-When Alain de Botton talks about beauty in design and architecture, I think his “beauty” encompasses all of Sterling’s top 3 categories.
+But, beauty is in the eye of the beholder.
 
-But, beauty is in the eye of the beholder. This starts to explain why “what does sustainable graphic design looks like?” is such a hard question to answer. It also explains why Sterling found the need to break his list of criteria four separate entities, and not just “beautiful things” and “everything else.” To me, a nice hammer is functional, utilitarian, and beautiful. To you, it might just be functional. The paintings and drawings I find beautiful are what another might find ugly. The things I find sentimental are probably unique to me. Not everyone has the same idea of what should be sustained as not everyone thinks the same things are beautiful.
+This starts to explain why “what does sustainable graphic design looks like?” is such a hard question to answer.
+
+It also explains why Sterling found the need to break his list of criteria four separate entities, and not just “beautiful things” and “everything else.”
+
+To me, a nice hammer is functional, utilitarian, and beautiful. To you, it might just be functional.
+
+The paintings and drawings I find beautiful are what another might find ugly.
+
+The things I find sentimental are probably unique to me.
+
+Not everyone has the same idea of what should be sustained as not everyone thinks the same things are beautiful.
 
 Is there really no “correct” aesthetic choice?
 
 ## Visual Experiment
 
-A guest came to class to present his work. He designs and builds furniture exclusively from reclaimed materials. The students were very excited about his ideas, but as a group deemed the furniture aesthetically undesirable. The found materials spoke too loudly, and everything looked “ReUsed” — some of the time in a negative way (purely from an aesthetic stand point). To the students, this proved problematic as it occurs again and again in green and sustainable design projects: the work wears its heart too much on its sleeve; it looks too eco-friendly and unrefined. This was not what they wanted for their work nor for Sustainability as a whole. In their projects, many of the students were actively trying to make work that avoided looking specifically ReUsed, energy-efficient, or “green.” The work was meant to just be “good graphic design” — that it should look like other design, yet be more “good” in that it also embraced various aspects of Sustainability.
+A guest came to class to present his work.
 
-Toward this end, student’s projects took on different shapes, forms, and styles. Of general interest was to avoid the current tropes of “greenness” or “eco-friendly-ness.” To find new visual themes for sustainable design to draw from. Some formal solutions were influenced by their concepts, some forms directly influenced by materials (though not in as earnest a way as the furniture maker’s works), and some just looked like regular old graphic design. Some were fantastical; some were practical. Regardless of their speculativeness, none of the project directions ended up being “wrong” as a sustainable design project. All the student’s projects have in some way attempted to solve what it means to be “sustainable graphic design,” and many aesthetic and conceptual approaches were used.
+He designs and builds furniture exclusively from reclaimed materials.
 
-Each student sorted out for themselves what might be both a sustainable and a beautiful design solution. The one thing all works this term did share in common was the message — not a style, not a material, but a recurring message. The message revolved around variants of “include sustainable thinking more authentically in your life (and through your life, into your design practice).”
+The students were very excited about his ideas, but as a group deemed the furniture aesthetically undesirable.
 
-My students’s works this term have shown me that a “correct” style may be irrelevant when it comes to what sustainable graphic design should look like. Maybe it is just the message that matters.
+The found materials spoke too loudly, and everything looked “ReUsed” — some of the time in a negative way (purely from an aesthetic stand point). To the students, this proved problematic as
+
+it occurs again and again in green and sustainable design projects: the work wears its heart too much on its sleeve; it looks too eco-friendly and unrefined.
+
+This was not what they wanted for their work nor for Sustainability as a whole.
+
+In their projects, many of the students were actively trying to make work that avoided looking specifically ReUsed, energy-efficient, or “green.”
+
+The work was meant to just be “good graphic design” — that it should look like other design, yet be more “good” in that it also embraced various aspects of Sustainability.
+
+Toward this end, student’s projects took on different shapes, forms, and styles.
+
+Of general interest was to avoid the current tropes of “greenness” or “eco-friendly-ness.”
+
+To find new visual themes for sustainable design to draw from.
+
+Some formal solutions were influenced by their concepts, some forms directly influenced by materials (though not in as earnest a way as the furniture maker’s works), and some just looked like regular old graphic design.
+
+Some were fantastical; some were practical.
+
+Regardless of their speculativeness, none of the project directions ended up being “wrong” as a sustainable design project. All the student’s projects have in some way attempted to solve what it means to be “sustainable graphic design,” and many aesthetic and conceptual approaches were used.
+
+The message revolved around variants of “include sustainable thinking more authentically in your life (and through your life, into your design practice).”
+
+a “correct” style may be irrelevant when it comes to what sustainable graphic design should look like. Maybe it is just the message that matters.
 
 ## Works Cited
 
 - De Botton, Alain. _The Architecture of Happiness_. Vintage Books. New York, NY. 2006. #Alain de Botton #The Architecture of Happiness
 - Ehrenfeld, John and Hoffman, Andrew J. _Flourishing: A Frank Conversation About Sustainability_. Stanford University Press, Stanford, CA. 2013.
 - Sterling, Bruce. _The Last Veridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
-- Sarah De Bondt
