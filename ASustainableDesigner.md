@@ -4,13 +4,13 @@ Flourishing? Welfare of all life? some kind of intro? Nested circles mindset?
 
 I like to say that I am a "Sustainabilitist" — that is, those interested in creating sustainability, in working ever towards the more sustainable!
 
-We sustainabilitists shall take over where the environmentalists left off, moving from the realm of the environment into all realms.
+We sustainabilitists shall take over where the environmentalists left off, moving from the realm of the environment into all realms; and so we must allow our designs, strategies and methodologies to evolve and adapt to new ideas — accept and deal with a constant state of flux.
 
-We sustainabilitists must allow our designs, strategies and methodologies to evolve and adapt to new ideas — accept and deal with a constant state of flux.
+## Minor background
+
+I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and even built a few digital tools… This will mainly be a few casestudies that specifically deal with sustainability, constraint, aesthetics, vernacular … what Sustainable design might "look" like; not just any design...
 
 ## The Sustainabilitist Principles
-
-I'll start with this: _The Sustainabilitist Principles_.
 
 _The Sustainabilitist Principles_ is a modular manifesto. It collected my set of "ideals" for how one should approach designing, the ways of thinking to create more sustainably as I had collected them up to 2009. The goal of the piece was to create something that would bring these principles to visual fruition, while also diseemenating them. It was a poster, just with novel form.
 
@@ -23,13 +23,13 @@ _The Sustainabilitist Principles_ is a good place to start as it visualizes two 
 
 It's normal to talk about modernists, post-modernists, conceptual minimalists...
 
-The art and design innovators we’ve historically documented are known for novel visuals, but got to those novel visuals exploring ideologic territory and experimenting with different and new ways of thinking. Avant garde visuals stemming from these movements were the result of the ideas (or ideals) to come out of their thinking. Our past is not about style for style’s sake, but style that illuminates a theoretical position (style that is arrived at from a thought process, from a set of values, or from some hypotheses).
+The art and design innovators we historically document are known for novel visuals. Avant garde visuals stemming from these movements were the result of the ideas (or ideals) to come out of different, often new, ways of thinking. This is not about style for style’s sake, but style that illuminates a theoretical position (style that is arrived at from a thought process, from a set of values, or from hypothesizing and experimenting).
 
-Modernism of the early to mid 20th century was radical! it was meant to be aesthetically different than the past visually, formally... but that came from it being ideologically different from the past as well! (Against but in the spirit of modernism, jerome harris)
+Modernism of the early 20th century was radical! it was meant to be aesthetically different than the past visually ... but that came from it being _ideologically_ different from the past as well! ((Against but in the spirit of modernism, jerome harris))
 
-If "sustainability" requires different ways of thinking (some new, but also, returning to some old ways!?), shouldn’t it carry with it new styles (or reuse old ones!?)?
+If "sustainability" requires different ways of thinking (some new, but also, returning to some old ways!?), shouldn’t it carry with it new styles (and/or reuse old ones!?)?
 
-This line of reasoning led me to the question: “What does sustainable graphic design look like?" This question was meant to inspire a body of works; anything I made in my studio could be anaylzed through this lens -- does this look like sustainable graphic deisgn? and this resulted in a few "main" probable outcomes in my own work:
+This line of reasoning led me to the question: “What does sustainable graphic design look like?" This question was meant to inspire a body of works; anything I made in my studio can  be anaylzed through this lens -- does this look like sustainable graphic deisgn? I've arrived at a few probable "answers" in my own work:
 
 1. SGD looks the same
 2. SGD looks eco-friendly
@@ -38,17 +38,24 @@ This line of reasoning led me to the question: “What does sustainable graphic 
    - A Pessimistic interpretation?
    - An Optimistic interpretation?
 
-I arrived at "Sustainable design does not exist" from pessimism initially, as a, hmmmm is there anything useful design does? or is it really all just trash -- ephemeral waste so nothing is sustainable... like literally, sustainable design is not a thing, anything you are making is unmaking too much... I wasn't  seeing useful opportunity from my other directions...
+"Sustainable design does not exist" came initially from a place of pessimism. Like, is there anything useful design does? or is it really all just trash -- ephemeral waste so nothing is sustainable... like literally, sustainable design is not a thing, anything you are making is unmaking too much... I wasn't  seeing useful opportunity from my other directions... ((Victor papanek there are some disciplines more dangerous? slide))
 
-But! eventually, this came to signify this alternative way forward; it didn't exist because it was ephemeral? or because it reused other existing things in a new way? or that it left no trace? suddenly this started to feel like a prompt, a useful constraint, not a deadend...
+But! eventually, this came to signify this alternative way forward; it didn't exist because it was ephemeral? or because it reused other existing things in a new way? or that it left no trace? suddenly this started to feel like a prompt, a useful constraint to help with new thinking... Make design work, but make sure that it doesn't exist!?
 
 ## Back to the Work
 
-_The Sustainabilitist Principles_ is an example for Sustainable design not exist...
+_The Sustainabilitist Principles_, as I Said before,visualizes two important concepts for this talk:
+
+1. Sustainable Design does not exist.
+2. Everything is Connected.
 
 re: #1, Sustainable Design Doesn't Exist:
 
-The piece is made of my actual books; my actual bookshelf. The bits and pieces came together in the gallery to form this sculptural poster, and then *poof* everything went back to the consituent parts when the exhibition was over. The screen printed definitions, they were printed on found paperback novels, the novels were still readable, its only the title pages or other minimal front matter that were printed on. The novels went back to the free book exchange where they were found afterward... The shape of the structure was also formulated partially to use the embroidery floss that connects things together in the longest possible pieces to maximize reuse of the floss later... this was the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
+The piece _was_ my actual books at the time; my actual bookshelf. The constiuent parts came together in the gallery to form this sculptural "poster," and then *poof* everything went back to it original stalwarts when the exhibition was over.
+
+The screen printed definitions, they were printed on found paperback novels, the novels were still readable, its only the title pages or other minimal front matter that were printed on. The novels went back to the free book exchange where they were found afterward...
+
+The shape of the structure was also formulated partially to use the embroidery floss that connects things together in the longest possible pieces to maximize reuse of the floss later... this was the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
 
 re: #2, Everything is connected:
 
@@ -60,13 +67,13 @@ The sustainabilitist principles is the best place to start because, well, its th
 
 Now, Let's see how everything else is connected... where this work, these principles show up in more recent works!
 
+## Any other work or thinking before GA?
+
 ## Green Acres
 
-This book is called "Green Acres."
+I was doing a variety of work with a contemporary art museum in Baltimore ((show a lot of things??????)), The Contemporary, and the director at the time, Sue Spaid, had an exciting exhibition: _Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_. Artists using farming as their main form of practice and expression. We designed a book for the exhibition, or I guess extend the "exhibition," as there are more works and way more explanation in the book than was possible to do in the galleries.
 
-I was doing a variety of work with a contemporary art museum in Baltimore, The Contemporary, and the director at the time, Sue Spaid, had an exciting exhibition: _Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_. Artists using farming as their main form of practice and expression. We designed a book for the exhibition, or I guess extend the "exhibition," as there are more works and way more explanation in the book than was possible to do in the galleries.
-
-There was an interest in making the book "sustainable". The things that made the production of this book "sustainable" were that it was printed on demand — we had a very short initial run of books, as the audience was estimated to be small, and then printed more when necessary.
+There was an interest in making the book momre "sustainable" — how to better grasp the content inside in the design. The things that made the production of this book "sustainable" were that it was printed on demand — we had a very short initial run of books, as the audience was estimated to be small, and then printed more when necessary.
 
 As an everything is connected situation... lets jump back to my options for "what SGD looks like?" GA falls into the "It looks the same" category.
 
