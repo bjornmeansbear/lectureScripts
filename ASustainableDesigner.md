@@ -12,24 +12,24 @@ I've designed books, record sleeves, magazines, logos, websites, exhibition grap
 
 ## The Sustainabilitist Principles
 
-_The Sustainabilitist Principles_ is a modular manifesto. It collected my set of "ideals" for how one should approach designing, the ways of thinking to create more sustainably as I had collected them up to 2009. The goal of the piece was to create something that would bring these principles to visual fruition, while also diseemenating them. It was a poster, just with novel form.
+_The Sustainabilitist Principles_ is a modular manifesto. It collected my set of "ideals" for how one should approach designing as a Sustainabilitist, the ways of thinking to create more sustainably as I had collected them in 2009. The goal of the piece was to create an object whose form directly emboded the principles, while also diseemenating them. It was a poster, that just happened to be a sculpture.
 
 _The Sustainabilitist Principles_ is a good place to start as it visualizes two important concepts for this talk:
 
 1. Sustainable Design does not exist.
 2. Everything is Connected.
 
-## Sustainable Design does not exist
+## What Does Sustainable Graphic Design Look Like?
 
-It's normal to talk about modernists, post-modernists, conceptual minimalists...
+It's normal to talk about modernists, post-modernists, conceptual minimalists... and know these as novel visual styles. Avant garde visuals from these movements were the result of the ideas to come out of different, often new, ways of thinking. This is not about style for style’s sake, but style  illuminating a theoretical position (style that is arrived at from a thought process, from a set of values, or from hypothesizing and experimenting).
 
-The art and design innovators we historically document are known for novel visuals. Avant garde visuals stemming from these movements were the result of the ideas (or ideals) to come out of different, often new, ways of thinking. This is not about style for style’s sake, but style that illuminates a theoretical position (style that is arrived at from a thought process, from a set of values, or from hypothesizing and experimenting).
+Modernism of the early 20th century was radical! it was meant to be _aesthetically_ different, a different way of seeing and visualizing ... but that came from it being _ideologically_ different from the past as well! The Bauhaus for example, it was against the ornamentation, and for embracing industry. Also it turned design and production torwards the people, not the aristocracy. These were novel! ((Against but in the spirit of modernism, jerome harris))
 
-Modernism of the early 20th century was radical! it was meant to be aesthetically different than the past visually ... but that came from it being _ideologically_ different from the past as well! ((Against but in the spirit of modernism, jerome harris))
+If "sustainability" requires different ways of thinking (some new, but also, returning to some old ways!?), shouldn’t it carry with it new styles (and/or reuse old ones!?)? We need a new new; or a new old new; or an old remixed new??? Regardless, shouldn't there be something different aesthetically?
 
-If "sustainability" requires different ways of thinking (some new, but also, returning to some old ways!?), shouldn’t it carry with it new styles (and/or reuse old ones!?)?
+This thinking led me to the question: “What does sustainable graphic design look like?" It was meant to inspire my body of works; anything I made in my studio can be anaylzed through this lens -- does this look like sustainable graphic deisgn?
 
-This line of reasoning led me to the question: “What does sustainable graphic design look like?" This question was meant to inspire a body of works; anything I made in my studio can  be anaylzed through this lens -- does this look like sustainable graphic deisgn? I've arrived at a few probable "answers" in my own work:
+I at a few probable "answers" in my own work:
 
 1. SGD looks the same
 2. SGD looks eco-friendly
@@ -38,9 +38,11 @@ This line of reasoning led me to the question: “What does sustainable graphic 
    - A Pessimistic interpretation?
    - An Optimistic interpretation?
 
+((show lots of examples of my work as I say thiese things, quickly click through them))
+
 "Sustainable design does not exist" came initially from a place of pessimism. Like, is there anything useful design does? or is it really all just trash -- ephemeral waste so nothing is sustainable... like literally, sustainable design is not a thing, anything you are making is unmaking too much... I wasn't  seeing useful opportunity from my other directions... ((Victor papanek there are some disciplines more dangerous? slide))
 
-But! eventually, this came to signify this alternative way forward; it didn't exist because it was ephemeral? or because it reused other existing things in a new way? or that it left no trace? suddenly this started to feel like a prompt, a useful constraint to help with new thinking... Make design work, but make sure that it doesn't exist!?
+But! eventually, this came to signify this alternative way forward; it didn't exist because it was ephemeral? or because it reused other existing things in a new way? or that it left no trace? suddenly this started to feel like a prompt for yet more works! A useful constraint to help with new thinking...
 
 ## Back to the Work
 
@@ -49,15 +51,17 @@ _The Sustainabilitist Principles_, as I Said before,visualizes two important con
 1. Sustainable Design does not exist.
 2. Everything is Connected.
 
-re: #1, Sustainable Design Doesn't Exist:
+### re: #1, Sustainable Design Doesn't Exist
 
-The piece _was_ my actual books at the time; my actual bookshelf. The constiuent parts came together in the gallery to form this sculptural "poster," and then *poof* everything went back to it original stalwarts when the exhibition was over.
+So in terms of not existing, TSP had a history. There were iterations, me looking at the books on my desk, trying to map connections, trying to write about and illustrate these principles and intellectial interminglings, and finally the end result.
 
-The screen printed definitions, they were printed on found paperback novels, the novels were still readable, its only the title pages or other minimal front matter that were printed on. The novels went back to the free book exchange where they were found afterward...
+The final, resulting piece _was_ those actual books; my actual bookshelf. I didn't need to turn it into a book to write and explain and illustrate this! I needed to find a way to bring the right parts came together in the gallery to for "poster," and then *poof* everything would go back to its raw materials when the exhibition was over.
 
-The shape of the structure was also formulated partially to use the embroidery floss that connects things together in the longest possible pieces to maximize reuse of the floss later... this was the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
+So the books were my books. The screen printed definition placards, they were printed on title pages and front matter of found paperback novels to not affect their readability. The novels went back to the free book exchange where they were found afterward... Even The shape of the network was meant to use the embroidery floss connecting things  in the longest possible pieces to maximize reuse of the thread afterward.
 
-re: #2, Everything is connected:
+This was the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
+
+### re: #2, Everything is connected
 
 _The Sustainabilitist Principles_ tried to visualize the threads between what I had been reading, what I had been thinking, and what I felt was important. It was meant to show where you could look for more, but also simplify and condense a lot of disparate material into a clearer, more accessible format... Connecting dots, connecting areas of thought...
 
@@ -196,6 +200,7 @@ Some were fantastical; some were practical.
 - Sterling, Bruce. _The Last Veridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
 - Sarah de Bondt reference?
 - Bruce Mau reference?
+- Against but in the spirit of modernism, jerome harris
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
