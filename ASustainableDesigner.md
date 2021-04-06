@@ -38,9 +38,9 @@ I saw a few recurring themes in my own work:
 
 ((show lots of examples of my work as I say thiese things, quickly click through them))
 
-"Sustainable design does not exist" came initially from a place of pessimism. Like, is there anything useful design does? or is it really all just trash -- ephemeral waste so nothing is sustainable... like literally, sustainable design is not a thing, anything you are making is unmaking too much... I wasn't  seeing useful opportunity from my other directions... ((Victor papanek there are some disciplines more dangerous? slide))
+"Sustainable design does not exist" initially was pessimistic. Is design really all just trash; design just creates waste so nothing is sustainable… Literally, sustainable design is not a thing, anything you are making is unmaking too much… I wasn't seeing useful opportunity from my other directions… ((Victor papanek there are some disciplines more dangerous? slide))
 
-But! eventually, this came to signify this alternative way forward; it didn't exist because it was ephemeral? or because it reused other existing things in a new way? or that it left no trace? suddenly this started to feel like a prompt for yet more works! A useful constraint to help with new thinking...
+Eventually, "Sustainable design does not exist" came to signify this alternative way forward; it didn't exist because it was ephemeral! or because it reused other existing things in a new way! or that it left no trace! suddenly this started to feel like a prompt for yet more works! A useful constraint forward.
 
 ## Back to the Work
 
