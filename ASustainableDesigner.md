@@ -2,17 +2,17 @@
 
 I like to say that I am a "Sustainabilitist" — that is, those interested in creating sustainability, in working ever towards the more sustainable!
 
-We sustainabilitists shall take over where the environmentalists left off, moving from the realm of the environment into all realms; and so we must allow our designs, strategies and methodologies to evolve and adapt to new ideas — accept and deal with a constant state of flux.
+We sustainabilitists take over where the environmentalism ends, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas — accept and deal with a constant state of flux between nature, society, economy — everything.
+
+((Spaceship earth?))
 
 ((Flourishing? Welfare of all life? some kind of intro? Nested circles mindset?))
 
 ## Quick Background
 
-I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and even built a few digital tools…
+In my practice, I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and even built a few digital tools… Regardless of the final forms, or if its client based or self-initiated, I like to treat all design projects as opportunities for intellectual inquiry and self-expression.
 
-This talk will be a couple of casestudies that specifically deal with sustainability, constraint, aesthetics, vernacular, reuse, connection … We're going to think about _what Sustainable design might look like_.
-
-What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
+This talk will be a couple of casestudies that specifically deal with sustainability; via constraint, aesthetics, vernacular, reuse, connection … We're going to think about _what Sustainable design might look like_.
 
 ## The Sustainabilitist Principles
 
@@ -128,6 +128,8 @@ I am currently inclined to believe that there is no single way that sustainable 
 The message revolved around variants of “include sustainable thinking more authentically in your life (and through your life, into your design practice).”
 
 a “correct” style may be irrelevant when it comes to what sustainable graphic design should look like.
+
+What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
