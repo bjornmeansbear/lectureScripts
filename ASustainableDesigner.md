@@ -1,14 +1,18 @@
 # A Sustainable Designer?
 
-Flourishing? Welfare of all life? some kind of intro? Nested circles mindset?
-
 I like to say that I am a "Sustainabilitist" — that is, those interested in creating sustainability, in working ever towards the more sustainable!
 
 We sustainabilitists shall take over where the environmentalists left off, moving from the realm of the environment into all realms; and so we must allow our designs, strategies and methodologies to evolve and adapt to new ideas — accept and deal with a constant state of flux.
 
-## Minor background
+((Flourishing? Welfare of all life? some kind of intro? Nested circles mindset?))
 
-I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and even built a few digital tools… This will mainly be a few casestudies that specifically deal with sustainability, constraint, aesthetics, vernacular … what Sustainable design might "look" like; not just any design...
+## Quick Background
+
+I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and even built a few digital tools…
+
+This talk will be a couple of casestudies that specifically deal with sustainability, constraint, aesthetics, vernacular, reuse, connection … We're going to think about _what Sustainable design might look like_.
+
+What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
 
 ## The Sustainabilitist Principles
 
@@ -21,15 +25,17 @@ _The Sustainabilitist Principles_ is a good place to start as it visualizes two 
 
 ## What Does Sustainable Graphic Design Look Like?
 
-It's normal to talk about modernists, post-modernists, conceptual minimalists... and know these as novel visual styles. Avant garde visuals from these movements were the result of the ideas to come out of different, often new, ways of thinking. This is not about style for style’s sake, but style  illuminating a theoretical position (style that is arrived at from a thought process, from a set of values, or from hypothesizing and experimenting).
+It's normal to talk about cubists, constructivists, modernists, post-modernists, conceptual minimalists... and know these as novel visual styles for their time. The avant garde visuals from these movements were the result of the ideas to come out of different ways of thinking. This is not about style for style’s sake, but style illuminating a theoretical position (style that is arrived at from a thought process, from a set of values, or from hypothesizing and experimenting).
 
-Modernism of the early 20th century was radical! it was meant to be _aesthetically_ different, a different way of seeing and visualizing ... but that came from it being _ideologically_ different from the past as well! The Bauhaus for example, it was against the ornamentation, and for embracing industry. Also it turned design and production torwards the people, not the aristocracy. These were novel! ((Against but in the spirit of modernism, jerome harris))
+Modernism of the early 20th century was radical! it was meant to be _aesthetically_ different, a different way of seeing and visualizing… but that came from it being _ideologically_ different from the past too! The Bauhaus, it was against ornamentation, and for embracing industry. And for turning design and production torwards the people, not the aristocracy.
+
+> Modernism in graphic design has evolved from a progressive and rebellious ideology to a seductive and efficient, yet oppressively ubiquitous, visual language. -- Jerome Harris, Against, yet in the spirit of Modernsim, 2019
 
 If "sustainability" requires different ways of thinking (some new, but also, returning to some old ways!?), shouldn’t it carry with it new styles (and/or reuse old ones!?)? We need a new new; or a new old new; or an old remixed new??? Regardless, shouldn't there be something different aesthetically?
 
-This thinking led me to the question: “What does sustainable graphic design look like?" It was meant to inspire my body of works; anything I made in my studio can be anaylzed through this lens -- does this look like sustainable graphic deisgn?
+This thinking led me to the question: “What does sustainable graphic design look like?" It was meant to inspire my body of works; anything I made in my studio would be anaylzed through this lens -- does this look like sustainable graphic deisgn?
 
-I at a few probable "answers" in my own work:
+I saw a few "answers" in my own work:
 
 1. SGD looks the same
 2. SGD looks eco-friendly
@@ -63,9 +69,9 @@ This was the perfect end to all the different things I tried, and I've been tryi
 
 ### re: #2, Everything is connected
 
-_The Sustainabilitist Principles_ tried to visualize the threads between what I had been reading, what I had been thinking, and what I felt was important. It was meant to show where you could look for more, but also simplify and condense a lot of disparate material into a clearer, more accessible format... Connecting dots, connecting areas of thought...
+_The Sustainabilitist Principles_ tried to visualize the threads between what I had been reading, what I had been thinking, and what I felt was important. It showed you where you could look for more, but also simplified and condensed a lot of disparate material into a clearer, more accessible format... Connecting dots, connecting areas of thought... letting a newcomer get further faster.
 
-These important ideas don't just come from one place; time and space and location are all intertwingled and different thinkers and makers in differnt ways arrive at the same kinds of sustainable processes or useful principles...
+These important ideas don't just come from one place; time and space and location are all intertwingled and different thinkers and makers in different ways arrive at similar processes and useful principles...
 
 The sustainabilitist principles is the best place to start because, well, its the closest thing I've made to pure “sustainable graphic design.” And, the principles I outlined in _The Sustainabilitist Principles_ have influenced all the work I've produced since...
 
@@ -121,9 +127,7 @@ I am currently inclined to believe that there is no single way that sustainable 
 
 The message revolved around variants of “include sustainable thinking more authentically in your life (and through your life, into your design practice).”
 
-a “correct” style may be irrelevant when it comes to what sustainable graphic design should look like. Maybe it is just the message that matters.
-
-What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
+a “correct” style may be irrelevant when it comes to what sustainable graphic design should look like.
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -200,7 +204,7 @@ Some were fantastical; some were practical.
 - Sterling, Bruce. _The Last Veridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
 - Sarah de Bondt reference?
 - Bruce Mau reference?
-- Against but in the spirit of modernism, jerome harris
+- Against but in the spirit of modernism, jerome harris / https://www.youtube.com/watch?v=E4ygiodaY40
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
