@@ -159,6 +159,8 @@ a “correct” style may be irrelevant when it comes to what sustainable graphi
 
 What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
 
+so what does sustainable graphic design look like? I'm still not completely sure, but working on it…
+
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 ## A Place to Start
@@ -209,9 +211,7 @@ Is there really no “correct” aesthetic choice?
 
 ## Visual Experiment
 
-The students were very excited about his ideas, but as a group deemed the furniture aesthetically undesirable.
-
-The found materials spoke too loudly, and everything looked “ReUsed” — some of the time in a negative way (purely from an aesthetic stand point). To the students, this proved problematic as
+Materials spoke too loudly, and everything looked “ReUsed” — some of the time in a negative way (purely from an aesthetic stand point). To the students, this proved problematic as
 
 it occurs again and again in green and sustainable design projects: the work wears its heart too much on its sleeve; it looks too eco-friendly and unrefined.
 
@@ -221,11 +221,7 @@ actively trying to avoid making work looking specifically ReUsed, energy-efficie
 
 The work was meant to just be “good graphic design” — that it should look like other design, yet be more “good” in that it also embraced various aspects of Sustainability.
 
-projects took on different shapes, forms, and styles.
-
 To find new visual themes for sustainable design to draw from.
-
-Some were fantastical; some were practical.
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -241,17 +237,9 @@ This leads to this next diagram, more the philosophy of sustainability; the Mind
 
 We are in a post-environmental world, and need to expand our thinking outside of any one realm into the others… These are the stepping stones towards my next set of "things."
 
-## MAKING SUSTAINABLE CHOICES
-
-With my personal theories and philosophies coming together, I have been spending more time attempting to answer my initial question "what does sustainable graphic design look like?"
-
-END: so what does sustainable graphic design look like? I'm still not completely sure, but working on it…
-
 ±±±±±±±±±±±±±±±±
 
 > Modernism in graphic design has evolved from a progressive and rebellious ideology to a seductive and efficient, yet oppressively ubiquitous, visual language. -- Jerome Harris, Against, yet in the spirit of Modernism, 2019
-
-±±±±±±±±±±±±±±±±
 
 ## A Bibliography?
 
@@ -261,4 +249,5 @@ END: so what does sustainable graphic design look like? I'm still not completely
 - Sara de Bondt, Insights Lecture Series, Walker Art Center, 2014. <https://www.youtube.com/watch?v=tUMh_UXc_dY>
 - Bruce Mau reference?
 - Against but in the spirit of modernism, Jerome Harris / <https://www.youtube.com/watch?v=E4ygiodaY40>
-- Radical Nature, Art and Architecture for a Changing Planet, Fri 19 Jun—Sun 18 Oct 2009; Barbican, London. <https://www.barbican.org.uk/whats-on/2009/event/radical-nature-art-and-architecture-for-a-changing-planet>
+- Radical Nature, Art and Architecture for a Changing Planet, Friday 19 June—Sunday 18 October 2009; Barbican, London. <https://www.barbican.org.uk/whats-on/2009/event/radical-nature-art-and-architecture-for-a-changing-planet>
+- Jerome Harris, Against, but in the Spirit of, Modernist Graphic Design | Jerome Harris | 2019 Core77 Conference <https://www.youtube.com/watch?v=E4ygiodaY40>
