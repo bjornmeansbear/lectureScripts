@@ -21,7 +21,7 @@ _The Sustainabilitist Principles_ visualizes two important concepts:
 
 We'll get back to this in a sec, but first a quick detour…
 
-## What Does Sustainable Graphic Design Look Like?
+## Detour1: What Does Sustainable Graphic Design Look Like?
 
 It's normal to talk about constructivists, modernists, conceptual minimalists, etc.; and know these as novel visual styles for their time and space. Avant garde visuals from these movements resulted from different ways of thinking. Modernism (for instance) was not about style for style’s sake, but style illuminating a novel theoretical position; style that was arrived at from a thought process, from a set of values, or from hypothesizing and experimenting.
 
@@ -46,11 +46,9 @@ I have seen a few recurring “answers” in my work and work from the field:
 
 ((Victor Papanek there are some disciplines more dangerous? slide))
 
-But! Eventually, "Sustainable design does not exist" came to signify an alternative way forward; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this started to feel like a prompt for new works; new questions! A useful constraint going forward.
+But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
 
-((Future cone!?))
-
-((Instead of problem solving, why not problem finding))
+((Future cone!?)) ((Instead of problem solving, why not problem finding))
 
 ## Back to the Work
 
@@ -59,81 +57,94 @@ _The Sustainabilitist Principles_, visualizes two important concepts for this ta
 1. Sustainable Design does not exist.
 2. Everything is Connected.
 
-### re: #1, Sustainable Design Doesn't Exist
+### re: 1, Sustainable Design Doesn't Exist
 
-So in terms of not existing, TSP had a _The Sustainabilitist Principles_. There were iterations, me looking at the books on my desk, my trying to map connections, my trying to write about and illustrate these principles and interconnection, and finally the "poster."
+_The Sustainabilitist Principles_ was the real example I've made of a design "not existing."
 
-The final, resulting piece _was_ the actual books from my actual bookshelf. I didn't need to turn it into a book to explain these principles and show the shared connections, I could do it with the objects themselves! I needed to find a way to bring the right parts together in the gallery, and then *poof* everything would go back to its raw materials when the exhibition was over.
+_The Sustainabilitist Principles_ started out as me looking at the books on my desk, wondering where "sustainable" design lies within them… my trying to map connections between all these texts… my trying to write about and illustrate these principles I was garnering; the interconnections over time and space of similar ideals…
 
-So the books were my books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The novels went back to the free book exchange where they were found afterward. The shape of the "graphic" was meant to use the embroidery floss interconnecting things in the longest possible pieces to maximize reuse of the thread afterward.
+The final, resulting piece _was_ the actual books from my actual bookshelf. I hadn't needed to make a book to explain these principles; it was doable with the objects themselves! Bring the right parts together in the gallery, and then *poof* everything goes back to its raw materials when the exhibition was over. Design that does not exist (beyond its necessity).
 
-This was the perfect end to all the different things I tried, and I've been trying to figure out how to do it again on my projects ever since...
+The books were my books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The novels went back to the free book exchange where they were found afterward. Even the shape of the "graphic" was meant to use the embroidery floss interconnecting things in the longest possible pieces to maximize reuse of the thread afterward. 
 
-### re: #2, Everything is connected
+### re: 2, Everything is connected
 
-_The Sustainabilitist Principles_ tried to visualize the threads between what I had been reading, what I had been thinking, and what I felt was important. It connected content from different decades, from different disciplines, together. It showed you where you could look for more, but also simplified and condensed a lot of disparate material into a clearer, more accessible format. Connecting dots, connecting areas of thought, letting a newcomer get further faster!
+_The Sustainabilitist Principles_ visualized what I had been reading, what I had been thinking. It connected content from different decades, from different disciplines. _The Sustainabilitist Principles_ showed you where you could look for more. It simplified and condensed a lot of disparate material into a clearer, more accessible format. 
 
-These important ideas don't just come from one place; time and space and location are all intertwingled and different thinkers and makers in different ways arrive at similar processes and useful principles. These principles then show up in different ways I've worked in the resulting 15 years.
+Connecting dots, connecting areas of thought, letting a newcomer get further faster!
 
-The sustainabilitist principles is the best place to start because, well, its the closest thing I've made to pure “sustainable graphic design.” And, the principles I outlined in _The Sustainabilitist Principles_ have influenced all the work I've produced since...
+Ideas never come from one place; time and space and location are all intertwingled and different thinkers and makers in arrive at similar processes and useful principles through different paths.
+
+So the content is interconnected; but also the form! The way _The Sustainabilitist Principles_ ended up visually is a form of connection too. 
+
+((Show _The Greenest Green_))
+
+_The Sustainabilitist Principles_ is the closest thing I've made to pure “sustainable graphic design.” And, the principles I outlined within have influenced all the work I've produced since...
 
 Now, Let's see how else everything is connected: where these principles show up in more recent works!
 
 ## Green Acres
 
-I was doing a variety of work with a contemporary art museum in Baltimore (The Contemporary…
+_Green Acres_ ended up being an example of "SGD looks the same."
+
+I was doing a variety of work with The Contemporary, an art museum in Baltimore …
 
 (show a lot of things??????))
 
-… and the director, Sue Spaid, had an exciting exhibition planned, with Artists using farming as their main form of practice and expression: _Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_. We designed a book for the exhibition, and to extend the "exhibition" of the ideas, as there are more works and way more explanation in the book than was possible to do in the galleries.
+… and the director, Sue Spaid, had an exciting exhibition planned, with Artists using farming as their main form of practice and expression: _Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_. We designed a book for the exhibition.
 
-I had a goal to make the book more "sustainable" — how to better represent ecological inventiveness in the design, fit form and content. But, in the end the only thing that made the production of this book "sustainable" was that it was printed on demand. We started with a very short initial run of books, as the audience was estimated to be small, and then printed more when necessary.
+I had a goal to make the book "sustainable." These were mainly sustainability focused artists, how could I better represent ecological inventiveness in the printed design? In the end the only thing that made the production of this book "sustainable" was that it was printed on demand.
 
-Design wise, the book was meant to be a critique of commercial farming — juxtaposing artistic "farmed" graphics over an extremely constrained grid based on aerial photography of commercial farm tracts...
+Visually, the book was meant to critique commercial farming — juxtaposing more artistic graphics over an extremely constrained grid based on aerial photography of commercial farmland. The book intends to say something different, but generally conforms to common standards of "good" modernist layout. Other than a minor production method improvement, it's the same … !
 
-So, its trying to visually tell you something different, but otherwise conforms to the common standards of "good" modernist typography and layout. Other than a minor production method improvement, it's the same as any book.
-
-As an everything is connected situation... lets jump back to my options for "what SGD looks like?" GA falls into the "It looks the same" category.
-
-There was a glimmer of something else — Reuse; reuse of a format! (or maybe "constraint" from _The Sustainabilitist Principles_ or "systems" ???).
-
-Sue had worked on an exhibition 10 years earlier called Ecovention, a word she coined short for "Ecological Invention." That book was an 8x8 square. So we made _Green Acres_ an 8x8 square as Sue saw _Ecovention_ and _Green Acres, along with another text for an artist Patricia Johanson, as a collection. And so they were made to share matching physical shape…
+There was a glimmer of something else though: Reuse of a format! (or maybe "constraint" or "systems" from _The Sustainabilitist Principles_ ???). Sue had worked on an exhibition 10 years earlier called _Ecovention_.That book was an 8x8 square. So we made _Green Acres_ an 8x8 square to match as a collection.
 
 ## Ecovention Europe
 
-A couple years later, Sue Spaid, now living in Belgium, has a new exhibition opportunity comes up. Its called _Ecovention Europe_ — these ecovention artists specifically working in Europe — and there was going to be another big catalog like GA.
+A couple of years later, Sue Spaid, now living in Belgium, gets a new exhibition opportunity. She calls it _Ecovention Europe_ — ecologically inventive artists specifically working in Europe  — and there was to be another catalog.
 
-In the interim since working on GA, I heard a lecture by the designer and author Sara De Bondt. One example Sara discussed was the _Radical Nature_ catalog her team designed for the Barbican in London. _Radical Nature_ was featured art and architecture responding to planetary changes. The studio wrote a printing manifesto as part of the research for the catalog's production.
+In the interim since _Green Acres_, I saw a lecture by the designer Sara De Bondt, where Sara discusses the _Radical Nature_ catalog her team designed for the Barbican in London. De Bondt's studio wrote a sustainable printing manifesto as part of the research for the catalog's production.
 
 ((show manifesto???))
 
-De Bondt's "manifesto" reminded me of _The Sustainabilitist Principles_; it got me to think again about what other ways design decisions could be made, how could I embrace some of my old ideas?
+De Bondt's "manifesto" got me thinking about what other ways design decisions could be made, how could I embrace some of my old ideas from say, _The Sustainabilitist Principles_?
 
-Through that lens I re-examined the design choices of _Green Acres_ For _Ecovention Europe_ … How might I make yet another 8x8 book, continuing a family of texts, and drastically improve the sustainability, or at least the sustainable aesthetics this time around. How could we re-approach the design of _Green Acres_, repurpose what we had done already?
+## Detour2: Vernacular Design?
+
+## Back to the work, again
+
+Re-examine the design choices of _Green Acres_ For _Ecovention Europe_ … 
+
+How might I make yet another 8x8 book, and drastically improve the sustainability (or at least the sustainable aesthetics) this time around? How could we re-approach the design of _Green Acres_, repurposing what we had done already?
 
 At this time I happened to be working on a project with a class around the 3Rs as design prompts (reduce, reuse, recycle). For _Ecovention Europe_ I decided to "Reduce" and "Reuse" my efforts on _Green Acres_.
 
+So …
+
 ### Reduce
 
-One of the items in De Bondt's printing manifesto is use less ink. The idea of "Using less ink" meant selecting colors more carefully and to use them more sparingly. No color adds up to more that 100% ink coverage. (_Ecovention Europe_ uses CMYK: and color palette swatches start at 100% pure C, M, Y, or K, and then are mixed in equal percentages to keep 100% or less total coverage: 50% + 50%; 33% + 33% + 33%; etc.).
+One of the items in De Bondt's printing manifesto is use less ink. The idea of "Using less ink" meant selecting colors more carefully and to use them more sparingly. 
 
-Another way I tried to reduce ink was in using bitmapped city maps as the decorative section markers. The appearance of a filled area is kept, but much less ink is used as compared to a grayscale variant.
+No color adds up to more that 100% ink coverage. (_Ecovention Europe_ uses CMYK: and color palette swatches start at 100% pure C, M, Y, or K, and then are mixed in equal percentages to keep 100% or less total coverage: 50% + 50%; 33% + 33% + 33%; etc.).
 
-Text columns in Green Acres ended only where a full paragraph ended to make a few things easier from a design perspective. Yes, this gave a ragged, formally-nice rhythm to text columns, but it was an inefficient use of space. With the layout of _Ecovention Europe_, I spent time reducing the amount of unused space, minimizing paper waste and superfluous decoration (In Green Acres, superficial decorative elements that looked nice but served no functional purpose were all over filling blank page areas.)
+Another way I tried to reduce ink was bitmapped city maps as the decorative new section markers. The appearance of a filled area is kept (relating back to a _Green Acres_ design choice), but much less ink is used as compared to a filled and full bleed grayscale or CMYK variant.
+
+Text columns in Green Acres ended where a full paragraph ended to make a few things easier from a design perspective. Yes, this gave a ragged, formally-nice rhythm to text columns, but it was an inefficient use of space. With _Ecovention Europe_, I spent time reducing the amount of unused space (this also minimized superfluous decoration — In _Green Acres_, superficial decorative elements that looked nice but served no functional purpose were all blank page areas.
 
 ### Reuse
 
-The grid for _Green Acres_ had a lot of conceptual reasoning invested into it, and so I reused the Green Acres page layouts: type choices, grid setup, etc. Sustainable designers routinely find novel ways to reuse materials, but I feel that there is little discussion for the possibility of reusing visual ideas and solutions, both as an exemplary form of reuse and as a useful design tool.
+The grid for _Green Acres_ had a lot of conceptual reasoning invested into it, and so I reused the page templates, type choices, grid setup, etc. 
+
+Sustainable designers routinely find novel ways to reuse materials, but I felt that there was little discussion for the possibility of reusing visuals and solutions.
 
 Printing on demand was a concept also reused.
 
-As a conceptual exercise, this was good. But, did it actually make much of a difference? In a book like this, there are a lot of images, yet the artworks don’t adhere to the same ink coverage rules.
+As a conceptual exercise, this was good. But, did it actually make much of a difference? In a book like this, there are a lot of images, and the artworks didn’t adhere to the same ink coverage rules.
 
-How could this be done differently and improved upon again next time? Would a different typeface save ink and space? Does then everything else stay the same? Are there other ways to handle image inclusion? Is there an alternative to making this book at all? (Should this exist? I didn’t ask myself that question before we began!).
+How could this be done differently and improved upon again next time? Would a different typeface save ink and space? Are there other ways to handle image inclusion? Is there an alternative to making this book at all? (Should this exist? I didn’t ask that question before we began!).
 
-I was not prepared to tackle all of these questions in _Ecovention Europe_, but I have continued exploring them with subsequent projects.
-
-## Vernacular!?
+- _Ecovention Europe_ is maybe in the "the same" category, but is it moving into the "innovative" or "doesn't exist" category? 
+- Where else does everything is connected fit in?
 
 ## I need something current!?!?!?
 
@@ -143,9 +154,7 @@ I was not prepared to tackle all of these questions in _Ecovention Europe_, but 
 
 ## Climate designers???
 
-## Designer as Connector
-
-## Whats the end!??? I don't know
+## Whats the end!???
 
 What does SGD look like?
 
@@ -239,11 +248,12 @@ We are in a post-environmental world, and need to expand our thinking outside of
 
 ±±±±±±±±±±±±±±±±
 
-> Modernism in graphic design has evolved from a progressive and rebellious ideology to a seductive and efficient, yet oppressively ubiquitous, visual language. -- Jerome Harris, Against, yet in the spirit of Modernism, 2019
+> Modernism in graphic design has evolved from a progressive and rebellious ideology to a seductive and efficient, yet oppressively ubiquitous, visual language. 
+> — Jerome Harris, Against, yet in the spirit of Modernism, 2019
 
 ## A Bibliography?
 
-- De Botton, Alain. _The Architecture of Happiness_. Vintage Books. New York, NY. 2006. #Alain de Botton #The Architecture of Happiness
+- De Botton, Alain. _The Architecture of Happiness_. Vintage Books. New York, NY. 2006.
 - Ehrenfeld, John and Hoffman, Andrew J. _Flourishing: A Frank Conversation About Sustainability_. Stanford University Press, Stanford, CA. 2013.
 - Sterling, Bruce. _The Last Viridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
 - Sara de Bondt, Insights Lecture Series, Walker Art Center, 2014. <https://www.youtube.com/watch?v=tUMh_UXc_dY>
