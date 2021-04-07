@@ -114,6 +114,7 @@ Through that lens I re-examined the design choices of _Green Acres_ For _Ecovent
 At this time I happened to be working on a project with a class around the 3Rs as design prompts (reduce, reuse, recycle). For _Ecovention Europe_ I decided to "Reduce" and "Reuse" my efforts on _Green Acres_.
 
 ### Reduce
+
 One of the items in De Bondt's printing manifesto is use less ink. The idea of "Using less ink" meant selecting colors more carefully and to use them more sparingly. No color adds up to more that 100% ink coverage. (_Ecovention Europe_ uses CMYK: and color palette swatches start at 100% pure C, M, Y, or K, and then are mixed in equal percentages to keep 100% or less total coverage: 50% + 50%; 33% + 33% + 33%; etc.).
 
 Another way I tried to reduce ink was in using bitmapped city maps as the decorative section markers. The appearance of a filled area is kept, but much less ink is used as compared to a grayscale variant.
@@ -121,6 +122,7 @@ Another way I tried to reduce ink was in using bitmapped city maps as the decora
 Text columns in Green Acres ended only where a full paragraph ended to make a few things easier from a design perspective. Yes, this gave a ragged, formally-nice rhythm to text columns, but it was an inefficient use of space. With the layout of _Ecovention Europe_, I spent time reducing the amount of unused space, minimizing paper waste and superfluous decoration (In Green Acres, superficial decorative elements that looked nice but served no functional purpose were all over filling blank page areas.)
 
 ### Reuse
+
 The grid for _Green Acres_ had a lot of conceptual reasoning invested into it, and so I reused the Green Acres page layouts: type choices, grid setup, etc. Sustainable designers routinely find novel ways to reuse materials, but I feel that there is little discussion for the possibility of reusing visual ideas and solutions, both as an exemplary form of reuse and as a useful design tool.
 
 Printing on demand was a concept also reused.
