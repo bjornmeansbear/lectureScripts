@@ -12,7 +12,7 @@ This talk consists of case-studies dealing with sustainability and its principle
 
 ## The Sustainabilitist Principles
 
-_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it coneveyed, while also disseminating them. It was a poster, that happened to also be a sculpture, and a novel concept.
+_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it conveyed, while also disseminating them. It was a poster, that happened to also be a sculpture, and a novel concept.
 
 _The Sustainabilitist Principles_ visualizes two important concepts:
 
@@ -23,7 +23,7 @@ We'll get back to this in a sec, but first a quick detour…
 
 ## What Does Sustainable Graphic Design Look Like?
 
-It's normal to talk about constructivists, modernists, conceptual minimalists, etc.; and know these as novel visual styles for their time and space. The avant garde visuals from these movements resulted from different ways of thinking. Modernism (for instance) was not about style for style’s sake, but style illuminating a novel theoretical position; style that was arrived at from a thought process, from a set of values, or from hypothesizing and experimenting.
+It's normal to talk about constructivists, modernists, conceptual minimalists, etc.; and know these as novel visual styles for their time and space. Avant garde visuals from these movements resulted from different ways of thinking. Modernism (for instance) was not about style for style’s sake, but style illuminating a novel theoretical position; style that was arrived at from a thought process, from a set of values, or from hypothesizing and experimenting.
 
 If "sustainability" requires different ways of thinking (some new, & also, returning to old ways!?), shouldn’t it carry with it some kind of new style (and/or reuse old ones!?)? We need a new new (or a new old; or an old remixed new???). Shouldn't there be something different aesthetically about sustainability? Designing for the welfare of all life is certainly a different mindset from designing for the corporate marketplace... do these things need to then look different?
 
@@ -54,16 +54,16 @@ But! Eventually, "Sustainable design does not exist" came to signify an alternat
 
 ## Back to the Work
 
-_The Sustainabilitist Principles_, as I Said before,visualizes two important concepts for this talk:
+_The Sustainabilitist Principles_, visualizes two important concepts for this talk:
 
 1. Sustainable Design does not exist.
 2. Everything is Connected.
 
 ### re: #1, Sustainable Design Doesn't Exist
 
-So in terms of not existing, TSP had a history. There were iterations, me looking at the books on my desk, trying to map connections, trying to write about and illustrate these principles and intellectual intermingling, and finally the end result.
+So in terms of not existing, TSP had a _The Sustainabilitist Principles_. There were iterations, me looking at the books on my desk, my trying to map connections, my trying to write about and illustrate these principles and interconnection, and finally the "poster."
 
-The final, resulting piece _was_ those actual books; my actual bookshelf. I didn't need to turn it into a book to write and explain and illustrate this! I needed to find a way to bring the right parts came together in the gallery to for "poster," and then *poof* everything would go back to its raw materials when the exhibition was over.
+The final, resulting piece _was_ those actual books from my actual bookshelf. I didn't need to turn it into a book to explain these principles and show this connection, I could do it with the objects themselves!! I needed to find a way to bring the right parts came together in the gallery to for "poster," and then *poof* everything would go back to its raw materials when the exhibition was over.
 
 So the books were my books. The screen printed definition placards, they were printed on title pages and front matter of found paperback novels to not affect their readability. The novels went back to the free book exchange where they were found afterward... Even The shape of the network was meant to use the embroidery floss connecting things  in the longest possible pieces to maximize reuse of the thread afterward.
 
