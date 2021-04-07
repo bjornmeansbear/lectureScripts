@@ -8,11 +8,11 @@ We sustainabilitists take over where the environmentalism ends, moving from the 
 
 In my practice, I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and even built a few digital tools… Regardless of the final forms, or if its client based or self-initiated, I like to treat all design projects as opportunities for intellectual inquiry and self-expression.
 
-This talk will be a couple of casestudies that specifically deal with sustainability; via constraint, aesthetics, vernacular, reuse, connection … and more generally We're going to think about what Sustainable Aesthetics might look like.
+This talk will be a couple of case-studies that specifically deal with sustainability; via constraint, aesthetics, vernacular, reuse, connection … and more generally We're going to think about what Sustainable Aesthetics might look like.
 
 ## The Sustainabilitist Principles
 
-_The Sustainabilitist Principles_ is a modular manifesto. It collected my set of "ideals" for how one should approach designing as a Sustainabilitist, the ways of thinking to create more sustainably as I had collected them in 2009. The goal of the piece was to create an object whose form directly emboded the principles, while also diseemenating them. It was a poster, that just happened to be a sculpture.
+_The Sustainabilitist Principles_ is a modular manifesto. It collected my set of "ideals" for how one should approach designing as a Sustainabilitist, the ways of thinking to create more sustainably as I had collected them in 2009. The goal of the piece was to create an object whose form directly embodied the principles, while also disseminating them. It was a poster, that just happened to be a sculpture.
 
 _The Sustainabilitist Principles_ is a good place to start as it visualizes two important concepts for this talk:
 
@@ -21,11 +21,11 @@ _The Sustainabilitist Principles_ is a good place to start as it visualizes two 
 
 ## What Does Sustainable Graphic Design Look Like?
 
-It's normal to talk about constructivists, modernists, post-modernists, conceptual minimalists, and know these as novel visual styles for their time. Avant garde visuals from these movements resulted from different ways of thinking. This is not about style for style’s sake, but style illuminating a novel theoretical position (style that is arrived at from a thought process, from a set of values, or from hypothesizing and experimenting).
+It's normal to talk about constructivists, modernists, post-modernists, conceptual minimalists, and know these as novel visual styles for their time. Avant Garde visuals from these movements resulted from different ways of thinking. This is not about style for style’s sake, but style illuminating a novel theoretical position (style that is arrived at from a thought process, from a set of values, or from hypothesizing and experimenting).
 
 If "sustainability" requires different ways of thinking (some new, but also, returning to some old ways!?), shouldn’t it carry with it some kind of new style (and/or reuse old ones!?)? We need a new new; or a new old new; or an old remixed new??? Regardless, shouldn't there be something different aesthetically?
 
-This thinking led me to this overarching question: “What does sustainable graphic design look like?" For me, it is meant to inspire my body of work; anything I made in my studio would be anaylzed through this lens -- does this look like sustainable graphic design?
+This thinking led me to this overarching question: “What does sustainable graphic design look like?" For me, it is meant to inspire my body of work; anything I made in my studio would be analyzed through this lens -- does this look like sustainable graphic design?
 
 I saw a few recurring themes in my own work:
 
@@ -36,9 +36,9 @@ I saw a few recurring themes in my own work:
    - A Pessimistic interpretation?
    - An Optimistic interpretation?
 
-((show lots of examples of my work as I say thiese things, quickly click through them))
+((show lots of examples of my work as I say these things, quickly click through them))
 
-"Sustainable design does not exist" initially was pessimistic. Is design really all just trash; design just creates waste so nothing is sustainable… Literally, sustainable design is not a thing, anything you are making is unmaking too much… I wasn't seeing useful opportunity from my other directions… ((Victor papanek there are some disciplines more dangerous? slide))
+"Sustainable design does not exist" initially was pessimistic. Is design really all just trash; design just creates waste so nothing is sustainable… Literally, sustainable design is not a thing, anything you are making is unmaking too much… I wasn't seeing useful opportunity from my other directions… ((Victor Papanek there are some disciplines more dangerous? slide))
 
 Eventually, "Sustainable design does not exist" came to signify this alternative way forward; it didn't exist because it was ephemeral! or because it reused other existing things in a new way! or that it left no trace! suddenly this started to feel like a prompt for yet more works! A useful constraint forward.
 
@@ -51,7 +51,7 @@ _The Sustainabilitist Principles_, as I Said before,visualizes two important con
 
 ### re: #1, Sustainable Design Doesn't Exist
 
-So in terms of not existing, TSP had a history. There were iterations, me looking at the books on my desk, trying to map connections, trying to write about and illustrate these principles and intellectial interminglings, and finally the end result.
+So in terms of not existing, TSP had a history. There were iterations, me looking at the books on my desk, trying to map connections, trying to write about and illustrate these principles and intellectual intermingling, and finally the end result.
 
 The final, resulting piece _was_ those actual books; my actual bookshelf. I didn't need to turn it into a book to write and explain and illustrate this! I needed to find a way to bring the right parts came together in the gallery to for "poster," and then *poof* everything would go back to its raw materials when the exhibition was over.
 
@@ -75,35 +75,35 @@ Now, Let's see how everything else is connected... where this work, these princi
 
 I was doing a variety of work with a contemporary art museum in Baltimore ((show a lot of things??????)), The Contemporary, and the director at the time, Sue Spaid, had an exciting exhibition: _Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_. Artists using farming as their main form of practice and expression. We designed a book for the exhibition, or I guess extend the "exhibition," as there are more works and way more explanation in the book than was possible to do in the galleries.
 
-There was an interest in making the book momre "sustainable" — how to better grasp the content inside in the design. The things that made the production of this book "sustainable" were that it was printed on demand — we had a very short initial run of books, as the audience was estimated to be small, and then printed more when necessary.
+There was an interest in making the book more "sustainable" — how to better grasp the content inside in the design. The things that made the production of this book "sustainable" were that it was printed on demand — we had a very short initial run of books, as the audience was estimated to be small, and then printed more when necessary.
 
 As an everything is connected situation... lets jump back to my options for "what SGD looks like?" GA falls into the "It looks the same" category.
 
 Design wise, the book was meant to be a critique of commercial farming — juxtaposing artistic "farmed" graphics over an extremely constrained grid based on aerial photography of commercial farm tracts...
 
-So, its trying to visually tell you something different, but otherwise conforms to the common standards of "good" modernist typography, etc... Other than a minorly improved production method, it's the same as any book...
+So, its trying to visually tell you something different, but otherwise conforms to the common standards of "good" modernist typography, etc... Other than a minor production method improvement, it's the same as any book...
 
-There is a little Reuse here at lesat — the format! Sue had worked on a book and exhibition earlier called Ecovention, a word she and her collaborator coined short for "Ecological Invention" > trying to categorize these new ways artists were working at the ecological and artistitc avant garde. That book was an 8x8 square. Sue saw these, along with another text for an artist Patricia Johanson, as connected, as a collection, so we made them all the matching physical shape, so that they "fit" together sensically...
+There is Reuse here however — the format! Sue had worked on a book and exhibition earlier called Ecovention, a word she and her collaborator coined short for "Ecological Invention" > trying to categorize these new ways artists were working at the ecological and artistic avant garde. That book was an 8x8 square. Sue saw these, along with another text for an artist Patricia Johanson, as connected, as a collection, so we made them all the matching physical shape, so that they "fit" together sensically...
 
 ## Ecovention Europe
 
-Then, a couple years later, Sue Spaid now living in Belgium, a new exhibition opporutniy comes up. Its called _Ecovention Europe_ and there was going to be another big catalog like GA... This would accompany a new exhibition in the netherlands of European Artists working in the ecological and artistic overlaps...
+Then, a couple years later, Sue Spaid now living in Belgium, a new exhibition opportunity comes up. Its called _Ecovention Europe_ and there was going to be another big catalog like GA... This would accompany a new exhibition in the Netherlands of European Artists working in the ecological and artistic overlaps...
 
-In the interim since working on GA, I heard a lecture by the designer and author Sara De Bondt. She had recently completed a catalog for the Barbican in London for a similar exhibition to Green Acres. As part of her studio's research leading up to the catalog's production they wrote a manifesto for how they were going to produce the catalog. It reminded me of the sustainabilitist principes; it got me to think again about what other ways design decisions could be made???
+In the interim since working on GA, I heard a lecture by the designer and author Sara De Bondt. She had recently completed a catalog for the Barbican in London for a similar exhibition to Green Acres. As part of her studio's research leading up to the catalog's production they wrote a manifesto for how they were going to produce the catalog. It reminded me of the sustainabilitist principles; it got me to think again about what other ways design decisions could be made???
 
-In embracing sarah's manifesto, modifying it a bit for our purposes, and then re-examining the design choices of Green Acres. Sue again was thinking this would be useful to design in the matching 8x8 book format again, adding to the collection. How could we re-approach the design of Green Acres? repurpose what we had done already? At this time I happened to be working on a project with one of my classes around recycling, and the 3Rs more generally as design prompts. For this book I too tried to Reduce and Reuse.
+In embracing Sarah's manifesto, modifying it a bit for our purposes, and then re-examining the design choices of Green Acres. Sue again was thinking this would be useful to design in the matching 8x8 book format again, adding to the collection. How could we re-approach the design of Green Acres? repurpose what we had done already? At this time I happened to be working on a project with one of my classes around recycling, and the 3Rs more generally as design prompts. For this book I too tried to Reduce and Reuse.
 
 Reuse: The grid for Green Acres had a lot of time and conceptual reasoning invested into it. Since Ecovention Europe is a sibling to Green Acres, we reused the Green Acres page layouts. The type choices, grid setup, etc. for this book are lifted from Green Acres and tweaked for the subtle new and different needs required for Ecovention Europe. Sustainable designers routinely find novel ways to reuse materials, there is little discussion for the possibility of reusing visual ideas and solutions, either as an exemplary form of reuse nor as a useful design tool.
 
-Reduce: One goal for the manufacturing of this book is to expend fewer materials than in Green Acres. The idea of "Using less ink" required me to select colours more carefully and to use them more sparingly. No colour in our section palettes adds up to more that 100% ink coverage. (The book uses CMYK: and colour palette selections all start at 100% pure C, M, Y, or K, and then are mixed in equal percentages to keep 100% or less total coverage: 50% + 50%; 33% + 33% + 33%, etc.). Another way I tried to reduce ink was by using bitmapped city maps as the decorative section markers. The feeling of a filled area is kept, but since many pixels end up being blank, much less ink is used. In Green Acres, I used some superficial decorative elements that looked nice but served no functional purpose — they merely took up room. I also ended columns only where a full paragraph ended to make a few things easier from a design perspective. And, while this gave a ragged, formally-nice rhythm to text columns, it was an inefficient use of space in the book. With the layout of Ecovention Europe, I spent time reducing the amount of unused space, thus minimising paper waste.
+Reduce: One goal for the manufacturing of this book is to expend fewer materials than in Green Acres. The idea of "Using less ink" required me to select colors more carefully and to use them more sparingly. No color in our section palettes adds up to more that 100% ink coverage. (The book uses CMYK: and color palette selections all start at 100% pure C, M, Y, or K, and then are mixed in equal percentages to keep 100% or less total coverage: 50% + 50%; 33% + 33% + 33%, etc.). Another way I tried to reduce ink was by using bitmapped city maps as the decorative section markers. The feeling of a filled area is kept, but since many pixels end up being blank, much less ink is used. In Green Acres, I used some superficial decorative elements that looked nice but served no functional purpose — they merely took up room. I also ended columns only where a full paragraph ended to make a few things easier from a design perspective. And, while this gave a ragged, formally-nice rhythm to text columns, it was an inefficient use of space in the book. With the layout of Ecovention Europe, I spent time reducing the amount of unused space, thus minimizing paper waste.
 
-As a conceptual exercise, this was good. But, did it actually make much of a difference? I don’t know yet. In a book like this, there are a lot of images, yet the artworks don’t adhere to the same ink coverage rules that I set for section colours and body text. One might also ask if I could achieve the look I want using only black, which would save a lot in terms of ink and clean-up over CMYK. Perhaps.
+As a conceptual exercise, this was good. But, did it actually make much of a difference? I don’t know yet. In a book like this, there are a lot of images, yet the artworks don’t adhere to the same ink coverage rules that I set for section colors and body text. One might also ask if I could achieve the look I want using only black, which would save a lot in terms of ink and clean-up over CMYK. Perhaps.
 
 How could this be done differently and better next time? Would a different typeface save ink and space? Are there other ways to handle image inclusion? Is there an alternative to making this? (Should this exist at all? I didn’t ask myself that question before we began.) While I was not prepared to tackle these questions for this book, I will continue exploring and attempting to resolve them with subsequent projects.
 
 ## I need something current!?!?!?
 
-## Signs Signalling Sustainability?
+## Signs Signaling Sustainability?
 
 ## BauErden?
 
@@ -129,7 +129,7 @@ What comes to mind when you hear the phrase “sustainable design?” Brown pape
 
 John Ehrenfeld states in the book _Flourishing_ “The key to doing something about sustainability is that you first have to say what you want to sustain.”
 
-Ehrenfeld wants to sustain that “all humans and other life should flourish” (pg 23).
+Ehrenfeld wants to sustain that “all humans and other life should flourish” (pg. 23).
 
 Using Ehrenfeld’s thinking, Sustainable Graphic Design is design made for clients that believe all life should flourish, design made to promote messages about sustainability-as-flourishing, and design made with materials and processes that promote and sustain the state of flourishing.
 
@@ -195,10 +195,10 @@ Some were fantastical; some were practical.
 
 - De Botton, Alain. _The Architecture of Happiness_. Vintage Books. New York, NY. 2006. #Alain de Botton #The Architecture of Happiness
 - Ehrenfeld, John and Hoffman, Andrew J. _Flourishing: A Frank Conversation About Sustainability_. Stanford University Press, Stanford, CA. 2013.
-- Sterling, Bruce. _The Last Veridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
+- Sterling, Bruce. _The Last Viridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
 - Sarah de Bondt reference?
 - Bruce Mau reference?
-- Against but in the spirit of modernism, jerome harris / https://www.youtube.com/watch?v=E4ygiodaY40
+- Against but in the spirit of modernism, Jerome Harris / <https://www.youtube.com/watch?v=E4ygiodaY40>
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -232,4 +232,4 @@ END: so what does sustainable graphic design look like? I'm still not completely
 
 ±±±±±±±±±±±±±±±±
 
-> Modernism in graphic design has evolved from a progressive and rebellious ideology to a seductive and efficient, yet oppressively ubiquitous, visual language. -- Jerome Harris, Against, yet in the spirit of Modernsim, 2019
+> Modernism in graphic design has evolved from a progressive and rebellious ideology to a seductive and efficient, yet oppressively ubiquitous, visual language. -- Jerome Harris, Against, yet in the spirit of Modernism, 2019
