@@ -118,14 +118,18 @@ One of the items in De Bondt's printing manifesto is use less ink. The idea of "
 
 Another way I tried to reduce ink was in using bitmapped city maps as the decorative section markers. The appearance of a filled area is kept, but much less ink is used as compared to a grayscale variant.
 
-Text columns in Green Acres ended only where a full paragraph ended to make a few things easier from a design perspective. Yes, this gave a ragged, formally-nice rhythm to text columns, but it was an inefficient use of space. With the layout of Ecovention Europe, I spent time reducing the amount of unused space, minimizing paper waste and superfluous decoration (In Green Acres, superficial decorative elements that looked nice but served no functional purpose were all over filling blank page areas.)
+Text columns in Green Acres ended only where a full paragraph ended to make a few things easier from a design perspective. Yes, this gave a ragged, formally-nice rhythm to text columns, but it was an inefficient use of space. With the layout of _Ecovention Europe_, I spent time reducing the amount of unused space, minimizing paper waste and superfluous decoration (In Green Acres, superficial decorative elements that looked nice but served no functional purpose were all over filling blank page areas.)
 
 ### Reuse
-The grid for Green Acres had a lot of time and conceptual reasoning invested into it. Since Ecovention Europe is a sibling to Green Acres, we reused the Green Acres page layouts. The type choices, grid setup, etc. for this book are lifted from Green Acres and tweaked for the subtle new and different needs required for Ecovention Europe. Sustainable designers routinely find novel ways to reuse materials, there is little discussion for the possibility of reusing visual ideas and solutions, either as an exemplary form of reuse nor as a useful design tool.
+The grid for _Green Acres_ had a lot of conceptual reasoning invested into it, and so I reused the Green Acres page layouts: type choices, grid setup, etc. Sustainable designers routinely find novel ways to reuse materials, but I feel that there is little discussion for the possibility of reusing visual ideas and solutions, both as an exemplary form of reuse and as a useful design tool.
 
-As a conceptual exercise, this was good. But, did it actually make much of a difference? I don’t know yet. In a book like this, there are a lot of images, yet the artworks don’t adhere to the same ink coverage rules that I set for section colors and body text. One might also ask if I could achieve the look I want using only black, which would save a lot in terms of ink and clean-up over CMYK. Perhaps.
+Printing on demand was a concept also reused.
 
-How could this be done differently and better next time? Would a different typeface save ink and space? Are there other ways to handle image inclusion? Is there an alternative to making this? (Should this exist at all? I didn’t ask myself that question before we began.) While I was not prepared to tackle these questions for this book, I will continue exploring and attempting to resolve them with subsequent projects.
+As a conceptual exercise, this was good. But, did it actually make much of a difference? In a book like this, there are a lot of images, yet the artworks don’t adhere to the same ink coverage rules.
+
+How could this be done differently and improved upon again next time? Would a different typeface save ink and space? Does then everything else stay the same? Are there other ways to handle image inclusion? Is there an alternative to making this book at all? (Should this exist? I didn’t ask myself that question before we began!).
+
+I was not prepared to tackle all of these questions in _Ecovention Europe_, but I have continued exploring them with subsequent projects.
 
 ## Vernacular!?
 
