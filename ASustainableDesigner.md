@@ -40,9 +40,9 @@ I have seen a few recurring “answers” in my work and work from the field:
    - A Pessimistic interpretation?
    - An Optimistic interpretation?
 
-((show lots of examples of my work as I say these things, quickly click through them))
+((Click through lots of examples of my work as I say these things))
 
-"Sustainable design does not exist" initially was a pessimistic "fourth way." Is design really all just trash? does design just create waste so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else. I wasn't seeing useful opportunity from my other directions; I was coming at this from a discouraged point of view.
+"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
 
 ((Victor Papanek there are some disciplines more dangerous? slide))
 
@@ -107,7 +107,7 @@ In the interim since working on GA, I heard a lecture by the designer and author
 
 ((show manifesto???))
 
- de Bondt's "manifesto" reminded me of _The Sustainabilitist Principles_; it got me to think again about what other ways design decisions could be made, how could I embrace some of my old ideas?
+De Bondt's "manifesto" reminded me of _The Sustainabilitist Principles_; it got me to think again about what other ways design decisions could be made, how could I embrace some of my old ideas?
 
 Through that lens I re-examined the design choices of _Green Acres_ For _Ecovention Europe_ … How might I make yet another 8x8 book, continuing a family of texts, and drastically improve the sustainability, or at least the sustainable aesthetics this time around. How could we re-approach the design of _Green Acres_, repurpose what we had done already?
 
