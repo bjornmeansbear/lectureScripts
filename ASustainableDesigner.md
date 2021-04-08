@@ -150,6 +150,19 @@ How could this be done differently and improved upon again next time? Would a di
 - _Ecovention Europe_ is maybe in the "the same" category, but is it moving into the "innovative" or "doesn't exist" category?
 - Where else does everything is connected fit in?
 
+## A carbon sequestering book / Carbon Sink Book
+
+Idea: A book printed in an ink that acts as a carbon sink — the book's text only shows up gradually; it has to absorb the carbon to become black!!??
+
+how does graphic designing remove carbon? can a book recycle plastic? what logo captures the most carbon? what typeface uses the least energy and/or ink? what aesthetic is the most decolonizing? whose bias am I perpetuating? does designing matter? is building a wetland better than building a website? is using solar power better than writing all this shit down?
+
+1. paper. Some alternative fiber paper; 50% recycled content; 50% permaculture grown prairiegrass fiber or something? reusing waste and practicing regenerative agriculture.
+2. Ink. This is the real special sauce. How can something be printed clear; then the composition of the ink absorbs carbon dioxide out of the air, stores the carbon, and slowly darkens to carbon black over time!?!?!?! Oh, and is this compostable at the end of its life as well?
+3. Cover. Again, cover needs to be compostable, recycled + permaculture fibers, and perhaps the type/image on the cover is just blind debossed?
+4. Binding. Perfect bind? use some sort of compostable glue? What else would need to be figured out?
+
+The climate is changing. What does that mean. Social climates, ecological climates, both. How are climate and weather related? how does graphic design show or make this all more understandable? is focusing on climate change even important? is it too big? too abstract? What's the perspective of Drawdown.org on that idea? How does Climate Designers fit into all of this? What framework or ideology should lead? What about AirMiners? as a community do they have any stronger organizing principle or concepts other than just "get carbon out of the atmosphere and into other sinks?" What is the minimum you need to learn to understand this? to have enough people grok this to actually change some behaviors? to change some social and cultural structures? What does a climate friendly museum look like? what does a climate friendly school look like?
+
 ## Signs Signaling Sustainability?
 
 Should this whole thing be signs signaling sustainability > the libre actions are one aspect of this? reuse is one aspect of this? This is the unifying feature; all these things can be shown to do something from my "Sustainabilitist Principles" project from grad school???
