@@ -45,7 +45,7 @@ These first three all the filters ad information room…
 4. SGD does not exist.
    - A Pessimistic interpretation?
    - An Optimistic interpretation?
-   -
+
 "Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
 
 ((Victor Papanek there are some disciplines more dangerous? slide))
@@ -95,7 +95,7 @@ I was doing a variety of work with The Contemporary, an art museum in Baltimore 
 
 (show a lot of things??????))
 
-… and the director, Sue Spaid, had an exciting exhibition planned, with Artists using farming as their main form of practice and expression: _Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_. We designed a book for the exhibition.
+… and the director, Sue Spaid, had an exhibition planned, with Artists using farming as their main form of practice and expression: _Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_. We designed a book for the exhibition.
 
 I had a goal to make the book "sustainable." These were mainly sustainability focused artists, how could I better represent ecological inventiveness in the printed design? In the end the only thing that made the production of this book "sustainable" was that it was printed on demand, and printed using recycled, unbleached paper.
 
@@ -150,13 +150,71 @@ How could this be done differently and improved upon again next time? Would a di
 - _Ecovention Europe_ is maybe in the "the same" category, but is it moving into the "innovative" or "doesn't exist" category?
 - Where else does everything is connected fit in?
 
-## I need something current!?!?!?
-
 ## Signs Signaling Sustainability?
 
-## BauErden?
+Should this whole thing be signs signaling sustainability > the libre actions are one aspect of this? reuse is one aspect of this? This is the unifying feature; all these things can be shown to do something from my "Sustainabilitist Principles" project from grad school???
+
+I like to call designs like this "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — turning each design opportunity into a sign signaling sustainability. Make tangible, make understandable something about climate change. This is doable no matter the project; no matter the prompt.
+
+So this sequestering book example focuses on "visualizing CO2". But, there are myriad other aspects of climate change and sustainability one might signal.
+
+## Where Else to get Inspired
+
+I am *drawn* to [Project DrawDown](https://www.DrawDown.org) as a framework for revealing opportunities for "signs signaling sustainability". Project DrawDown presents the most effective means for pulling carbon out of the atmosphere. Digging into all the "solutions" on Project DrawDown, the ways artists and designers might involve themselves is multitudinous. All kinds of work can be reframed as a "sign signaling sustainability" if you rethink the aims of a prompt so that it fits into an idea from Project DrawDown's table of solutions.
+
+### Reverberation Crosswalk
+
+Take for instance Graham Coreil Allen's *Reverberation Crosswalks*. On the surface, these are fun, brightly colored crosswalks — paint on cement and asphalt; not particularly innovative in the "new materials" or "direct carbon capture." But! looking at Project DrawDown solutions, *walkable cities* is the 50th overall reduction solution. Suddenly *Reverberations Crosswalks* signals a sustainable vector forward. The neighborhood around this school is more walkable. You can't not notice the crosswalks, hopefully this makes you more likely to walk yourself. This concept is cheap; fast; easily replicated; can be customized for region, culture, available materials, etc.; AND can help make more people walk in the city. Bam! Climate Designed.
+
+### Solar.lowtechmagazine.com
+
+Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazine's solar powered website signals how we might visualize energy usage; how we might enable new sytems of powering our tools; questions if we really need constant connection; and how aesthetic choices correlate to physical resources even in the digital sphere.
+
+### DC High Water Mark Project
+
+The DC water mark project visualizes increased flooding and water level rise — where these impacts will be felt by you in this place! The water level rings articulates to us "oh shit, this place might be underwater pretty frequently given our current projected future!" Then maybe we can act accordingly and redirect our present towards a future where that is no longer true. Without *seeing* your house or office or favorite park area submerged, even symbolically, you cannot envision an alternative.
+
+### Other
+
+- Improvisational Lamps?
+- Amager Bakke unmade vapor ring?
+- Print posters on found paper?
+
+## Future Possibles?
+
+These examples communicate additional information as key aspects of their design. They redirect culture towards better *future possibles.* And! this is a great place to work as a graphic designer.
+
+### The Futures Cone!?
+
+So, I need to actually produce something of substance, something of value. What do I have to offer? What can I write about coherently and succinctly? is that important or is just getting new and different ideas that point in utopian directions all that matters?
+
+((the Futures cone image!?!??!?!?!?!?!))
+
+## BauErden (Build Earth)
+
+[S029 Nasa earth again]
+
+Earthstronauts.
+
+The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design shall be created without first asking “does this need to exist?” -- “does this drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
+
+We need conscious​, cooperative effort between all artists, designers, politicians, craftspeople, scientists, farmers, parents, small business owners. A new design education must aid in this. How might a new pluralistic pedagogical approaches focus on the liminal; designers as connectors for all of these actors? For everything is connected.
+
+Designers must recognize anew and learn to grasp the composite character of “climate” as a holistic entity AND in its separate, interconnected parts (climate(s): natural, social, etc.? _the_ planetary climate? the earth? nature? the universe?). Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
+
+Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new processes, new ways of working, of making, and of seeing — again, pluralistic — are required.​
+
+We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between new interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
+
+Good luck.
 
 ## Climate designers???
+
+## Design a Days 2010
+
+## Free/Libre Design Explorations
+
+## A Permaculture Garden / Low Carbon Urban Homestead
 
 ## Whats the end!???
 
