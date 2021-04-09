@@ -121,8 +121,11 @@ The definition of sustainable graphic design is both an easy one and hard one. I
 
 Our current tools, ideas, and cultural systems aren’t setup to help us to understand this or to manufacture products in this vein. Part of figuring out what sustainable graphic design is, means we’ll also have to continue to decide what forms, tools, and new societal structures are required to realize it effectively (& help to design these too). Designers as sustainabilitists = designers as good human beings. :boom:
 
-[[ Still need something a bit more clear and really "concluding" here... ]]
+So what is Sustainable Graphic Design? Anything that visualizes the caretaking of our Spaceship Earth …
 
+[[ This ending sucks. Still need something a bit more clear and really "concluding" here... ]]
+
+[[ Where do my own works and brief sidetones/anecdotes on them fit in ]]
 
 ### Notes
 
@@ -139,6 +142,8 @@ Our current tools, ideas, and cultural systems aren’t setup to help us to unde
 ->->->->->
 
 ### Other bits and pieces:
+
+How to get to the climate designers? Is that important?
 
 What does design do? and what does it mean?
 
@@ -159,3 +164,44 @@ Each of us has the faculties to be critical. Every time you use something and ar
 Design relativity: Most graphic design solutions are relative: Ten graphic designers given the same request will come up with ten different solutions. Some might be “better” than others, but if the designers are sufficiently skilled, they will all be workable, usable solutions. Let’s presume this is a logo for something — maybe a bakery — each designer is likely to pick a different typeface or a different play on a loaf of bread or oven or wheat stalk to use. There isn’t a “right” answer. I find something frustrating about this. This makes me feel like what I do is magical, yet meaningless. It’s all relative — a different point of view yields a different outcome, yet we have no “speed of light” against which to measure or compare aesthetics. What I see in my mind when I hear a client say they want “simple and professional” solutions is likely to be different than that of another designer. On the one hand this is great — freedom and individuality really can reign. On another, it proves that most of the job of a designer is subjective and meaningless. Style is an irrelevant concern. If ten different people can come to ten different aesthetic conclusions for a single “problem” that doesn’t seem to me to say “there is definitive evidence that this solution matters…” I might pick one typeface, my friend Tony another, my friend Kim another, and my friend Amanda yet another. Any of the four could be made into a more than acceptable, simple, professional solution. This begins to seem to me arbitrary decision. Another 100 typefaces or symbols can be seemingly randomly chosen and still made to work. How does this show that what I do actually matters? When all choices are arbitrary, then how do you make a choice?
 
 Waste = Food: As a premise, "Waste = Food" has been most contemporaneously popularized through _Cradle to Cradle_.[^c2c] Michael Braungart and William McDonough want us to understand that our concept of waste is incorrect; we have a problematic relationship with waste. Nature produces no waste; outputs from one system are always inputs for another. Our current design and consumer cultures do not operate in this way. Karrie Jacobs points this out quite bluntly in her essay _Disposability, Graphic Design, Style, and Waste_: designers make garbage. Waste is just what we make -- our inputs have only one output, trash! And trash must be sent away; not used for making more design. Maybe we can change that.
+
+Are all these questions just judgmental? Is this once colossal ego trap???
+
+add to SSS: Bike Pool Noodle Hack https://www.are.na/block/4299163
+
+#### What Does Sustainable Graphic Design Look Like? A Thought Experiment with potential answers
+
+It's normal to talk about constructivists, modernists, conceptual minimalists, etc.; and know these as novel visual styles for their time and space.  Visuals from these movements came from different ways of thinking. Modernism (for instance) was not about style for style’s sake, but style illuminating a novel theoretical position; style that was arrived at from a thought process, from a set of values, or from hypothesizing and experimenting.
+
+If "sustainability" requires different ways of thinking (some new, & returning to old ways!?), shouldn’t it carry with it some kind of new style (and/or reuse old ones!?)? We need a new new (or a new old new; or a remixed old???). Shouldn't there be something different aesthetically about sustainability? Designing for the welfare of all life is certainly a different mindset from designing for the corporate marketplace... do these things need to then look different?
+
+Back to my overarching question: “What does sustainable graphic design look like?" For me, this inspired a whole body of work; anything I made should/could be analyzed through this lens -- does this look like sustainable graphic design?
+
+I have seen a few recurring “answers” in my work and work from the field:
+
+1. SGD looks the same.
+2. SGD looks eco-friendly.
+3. SGD looks innovative.
+4. SGD does not exist.
+   - A Pessimistic interpretation?
+   - An Optimistic interpretation?
+
+"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
+
+((Victor Papanek there are some disciplines more dangerous? slide))
+
+But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
+
+((Future cone!?)) ((Instead of problem solving, why not problem finding))
+
+#### BioMimicry
+
+- Nature runs on sunlight
+- Natures uses only the energy it needs
+- Nature fits form to function
+- Nature recycles everything (Waste = Food)
+- Nature rewards cooperation
+- Nature banks on diversity
+- Nature demands local expertise
+- Nature curbs excesses from within
+- Nature taps the power of limits
