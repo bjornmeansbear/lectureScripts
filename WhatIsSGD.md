@@ -138,7 +138,13 @@ Our current tools, ideas, and cultural systems aren’t setup to help us to unde
 
 ->->->->->
 
-Other bits and pieces:
+### Other bits and pieces:
+
+What does design do? and what does it mean?
+
+Sustainability as flourishing. What does this mean for designing? we strive for a context in which all life can flourish.
+
+Design and the welfare of all life. How does this change how design is practiced and defined?
 
 Graphic Design is different than other design disciplines in that so much of the work is ephemeral (printed stuff with short life spans or purely digital).
 
