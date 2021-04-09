@@ -6,7 +6,7 @@ Sustainabilitists take over where environmentalism ends, moving from the realm o
 
 ## Quick Background
 
-In my nearly twenty year role as graphic designer I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and built digital tools. Regardless of final forms, or if its client-based or self-initiated, I treat all design projects as opportunities for intellectual inquiry and self-expression.
+In my twenty year role as graphic designer I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and built digital tools. Regardless of final forms, or if its client-based or self-initiated, I treat all design projects as opportunities for intellectual inquiry and self-expression.
 
 I'm going to walk us through a few case-studies dealing with sustainability and its principles: constraint, aesthetics, vernacular, reuse, interconnection … and more broadly today I'll discuss "what Sustainable Aesthetics might look like." …
 
@@ -17,9 +17,6 @@ _The Sustainabilitist Principles_ is a modular manifesto; a collection of my ide
 _The Sustainabilitist Principles_ visualizes two important concepts:
 
 1. Sustainable Design does not exist.
-
-And
-
 2. Everything is Connected.
 
 We'll get back to this in a sec, but first a detour…
@@ -156,9 +153,9 @@ Idea: A book printed in an ink that acts as a carbon sink — the book's text on
 
 how does graphic designing remove carbon? can a book recycle plastic? what logo captures the most carbon? what typeface uses the least energy and/or ink? what aesthetic is the most decolonizing? whose bias am I perpetuating? does designing matter? is building a wetland better than building a website? is using solar power better than writing all this shit down?
 
-1. paper. Some alternative fiber paper; 50% recycled content; 50% permaculture grown prairiegrass fiber or something? reusing waste and practicing regenerative agriculture.
+1. paper. Some alternative fiber paper; 50% recycled content; 50% permaculture grown prairie grass fiber or something? reusing waste and practicing regenerative agriculture.
 2. Ink. This is the real special sauce. How can something be printed clear; then the composition of the ink absorbs carbon dioxide out of the air, stores the carbon, and slowly darkens to carbon black over time!?!?!?! Oh, and is this compostable at the end of its life as well?
-3. Cover. Again, cover needs to be compostable, recycled + permaculture fibers, and perhaps the type/image on the cover is just blind debossed?
+3. Cover. Again, cover needs to be compostable, recycled + permaculture fibers, and perhaps the type/image on the cover is just blind de-bossed?
 4. Binding. Perfect bind? use some sort of compostable glue? What else would need to be figured out?
 
 The climate is changing. What does that mean. Social climates, ecological climates, both. How are climate and weather related? how does graphic design show or make this all more understandable? is focusing on climate change even important? is it too big? too abstract? What's the perspective of Drawdown.org on that idea? How does Climate Designers fit into all of this? What framework or ideology should lead? What about AirMiners? as a community do they have any stronger organizing principle or concepts other than just "get carbon out of the atmosphere and into other sinks?" What is the minimum you need to learn to understand this? to have enough people grok this to actually change some behaviors? to change some social and cultural structures? What does a climate friendly museum look like? what does a climate friendly school look like?
@@ -181,7 +178,7 @@ Take for instance Graham Coreil Allen's *Reverberation Crosswalks*. On the surfa
 
 ### Solar.lowtechmagazine.com
 
-Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazine's solar powered website signals how we might visualize energy usage; how we might enable new sytems of powering our tools; questions if we really need constant connection; and how aesthetic choices correlate to physical resources even in the digital sphere.
+Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazine's solar powered website signals how we might visualize energy usage; how we might enable new systems of powering our tools; questions if we really need constant connection; and how aesthetic choices correlate to physical resources even in the digital sphere.
 
 ### DC High Water Mark Project
 
@@ -239,7 +236,7 @@ A “correct” style may be irrelevant when it comes to what sustainable graphi
 
 What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
 
-so what does sustainable graphic design look like? I'm still not completely sure, but working on it…
+so what does sustainable graphic design look like? I'm still not completely sure, but I'm still working on it…
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -255,9 +252,7 @@ Sustainable graphic designers must still make formal decisions. How does the sus
 
 Are there visual choices that are more sustainable?
 
-What form says “I believe that humans and all life should flourish?”
-
-Are aesthetics as they relate to sustainability even important?
+What forms says “I believe that all life should flourish?”
 
 ## Sustainability and Beauty
 
@@ -273,9 +268,20 @@ Only truly sustainable things — meaning objects and forms that inspire sustain
 
 Beautiful things ARE sustainable things, and vice versa.
 
+Burgeoning sustainabilitists wishing to de-clutter their lives may come across a piece by Bruce Sterling that echoes similar sentiments. Sterling outlines four criteria for sorting through the objects you own so as to decide what to keep and what to discard as a part of your new, sustainably designed life.
+
+- Beautiful Things
+- Sentimental Things
+- Utilitarian Things
+- Everything else.
+
+If an object in your possession fits into the first three categories (beautiful, sentimental, or utilitarian things), then it is worth keeping. If it falls into “Everything Else” you must be rid of it. Sterling is interested in these categories from the point of view that sustainabilitists should have the right stuff — right meaning the best functioning, most meaningful, prettiest stuff. By virtue of being objects that you really need or want to have around just by being so lovely to look at, these things rise above just plain detritus to become more valuable, more sustainable objects (even if it just means you replace them less often).
+
+When Alain de Botton talks about beauty in design and architecture, I think his “beauty” encompasses all of Sterling’s top 3 categories.
+
 But, beauty is in the eye of the beholder.
 
-This starts to explain why “what does sustainable graphic design looks like?” is such a hard question to answer.
+This starts to explain why “what does sustainable graphic design look like?” is such a hard question to answer.
 
 It also explains why Bruce Sterling finds the need to break his list of criteria for deciding quality in objects into four separate entities, and not just “beautiful things” and “everything else.” [[list those things???]]
 
@@ -319,6 +325,69 @@ This leads to this next diagram, more the philosophy of sustainability; the Mind
 
 We are in a post-environmental world, and need to expand our thinking outside of any one realm into the others… These are the stepping stones towards my next set of "things."
 
+±±±±±±±±±±±±±±±±±±±±±±±±±
+
+title: 'Reduce, Reuse, Recycle: Strategies for Designing?'
+theme: 'Waste = Food'
+
+Reduce, Reuse, Recycle[^3R] -- often referred to as the "3Rs" (Not to be confused with Reading, Writing, & Arithmetic) have been an important aspect of environmental stewardship since the seventies. Now that we find ourselves in a contemporary climate crisis, how can we use the 3 Rs as design strategies? How does "reduce, reuse. recycle" contribute to an evolving sustainabilitist design practice; not just personal actions in one's life.
+
+## Waste = Food
+
+To help frame and understand the 3Rs as a design aid, the concept of "waste = food" was employed. As a premise, "Waste = Food" has been most contemporaneously popularized through _Cradle to Cradle_.[^c2c] Michael Braungart and William McDonough want us to understand that our concept of waste is incorrect; we have a problematic relationship with waste. Nature produces no waste; outputs from one system are always inputs for another. Our current design and consumer cultures do not operate in this way. Karrie Jacobs points this out quite bluntly in her essay _Disposability, Graphic Design, Style, and Waste_: designers make garbage. Waste is just what we make -- our inputs have only one output, trash! And trash must be sent away; not used for making more design. Maybe we can change that.
+
+To internalize this students were given "Reduce, Reuse, Recycle" as a set of design prompts. Reduce helps us with the waste side of our equation. Reuse and Recycle help our previous waste become new food. How can our creative waste from one design process become food for others? Reduction asks to think about different ways of minimizing. Reuse looks at how to use what we have to do more. Recycle questions the regular way of manufacture. How do we utilize our materials in manufacturing more items. How do we take finished products back to raw materials for new designs?
+
+## R1: Reduce
+
+_Focus on strategies for reducing material and energy impacts._ Reduce means to minimize outputs, conserve inputs, utilize tact and strategy in the form, the content, and the quantities of objects.
+
+Our "reduce" exercise asked students to choose a poster or other project and think about how to "reduce" it. This could mean reducing its size, its color palette, its amount of content, etc. And how can you do that reduction in granular steps. Show us how that reduction plays out. How far can you reduce? do you have to make things at all? What are the impediments to reducing?
+
+- Reduce form.
+- Reduce content.
+- Reduce colors.
+- Reduce material.
+- Reduce energy.
+- Reduce choices.
+- Reduce size.
+- Reduce number of typefaces.
+- Reduce nodes on a vector path.
+- Reduce hierarchy.
+- Reduce [...]
+
+Project prompt: Bring a poster you have already designed. The files for the poster are a useful starting place. Iterate through as many kinds of reduction as you can think of. Can you gradually reduce the size of the poster? How small can a poster get before it stops being a poster? Can you gradually reduce the ink coverage? How about the ink colors? Gradually reduce the information/content itself? Create a matrix of reduction to show all the different ways you can literally and figuratively reduce a design. Think about what opportunities this gives you moving forward on this project and in others in the future.
+
+(Is minimalism the most "sustainable" aesthetic then?[^minimal])
+
+## R2: Reuse
+
+_Strategies for making solutions last longer and finding other uses when finished._ Reuse is a normal process in many fields. As graphic designers however, its not the most common methodology. We chose to apply the idea of material reuse to poster designing. students were asked to bring in old prints and we would make new aphoristic posters with or old work. Reuse focuses on materials in their present state. Reuse is using stuff as it is but for a new purpose. Reuse should constitute less work and less energy than recycling. Reuse ≠ Recycling. What are the impediments to reuse? What can we reuse in design? How can reuse be made conceptually useful? We reuse code all the time in digital projects; why not more 2D formal and visual elements? its not uncommon to reuse typefaces but why not other symbols, pictures, layouts, etc.?
+
+Reuse is an interesting idea for a graphic designer: If designer's do make so much waste, as Karrie Jacobs states; then there should always be plenty of physical ephemera to reuse. This also seems to me that it might allow for reduction -- if we are making more by hand; certain limitations exist, at least in terms of what is easily reproducible; the quantity of available forms; etc.
+
+Project prompt: Bring old prints and posters and mockups to class. Create an aphoristic poster that has a waste = food or other sustainability related message only made from the prints and posters we brought to class. We will literally reuse existing designs for this poster prompt. Make one poster during our time in class; make at least one more on your own outside of class.
+
+## R3: Recycle
+
+_Reclaim as much residual value as possible, prevent virgin materials and ideas from being needlessly extracted and used._ The important idea of recycling is that you take a material and return it to its raw state. This is fundamentally different than reuse. It is about getting a material back to a raw state. How does one explore the "raw materials" of graphic design? how does one return a poster or similar to its raw materials? Students collected past projects -- visuals, typefaces, etc. -- and we shared them all with each other. We then made new aphoristic posters recycling each other's "raw materials." What are the raw materials of a design that can be reclaimed to make design anew? Type? Color? Image? Shape?
+
+Return a manufactured, processed material back into a raw material. Recycling implies taking something back to an initial, raw, pure state and then creating fresh, new things from the "renewed" raw material. This can be high energy; high effort. When you can't reduce and you can't reuse then you recycle. It is meant to be a last resort. What are impediments to recycling? Can we make recycling conceptually useful?
+
+Project prompt: Create a central, shared folder or repository. Everyone must contribute "waste" digital files left over from past projects to the shared folder. Analyze what's in the folder, and begin to think what the raw forms of the "materials" of our shared folder are -- letterforms? color palettes? what? Create an aphoristic poster only made by recycling whatever you want from our shared dump of design "waste."
+
+## Conclusion
+
+When you recite the three R's, they are in an intentional order -- easiest to hardest; pre- to post-; low input to high input. Reduce should be the initial focus. In our waste = food equation; if we minimize waste; if we reduce waste; do we reduce the opportunity for future creative food? In general, that's probably not a concern since we are already over producing -- at least in ways that don't allow for sharing and reuse later. So, we reduce our initial wastefulness. Then the "waste" we do output can be much more easily seen as food instead of trash! Karrie Jacobs was onto something; but maybe she wasn't seeing this opportunity for cultural reuse; creative reuse.
+
+Reuse and Recycling are new areas to explore for the average graphic designer. You see reuse a lot in furniture, construction, art. Time to start seeing it in visual designing. Start to understand that waste = food, that everything is connected.
+
+Fin.
+
+[^3R]: This is also referred to as the "[waste hierarchy](https://en.wikipedia.org/wiki/Waste_hierarchy)"
+[^c2c]: Fully explained in Chapter 4: Waste = Food, pg. 92 from _Cradle to Cradle_ by Michael Braungart and William McDonough, 2002.
+[^minimal]: _MINIMALISM: AN OPTIMAL AESTHETIC FOR THE SUSTAINABLE DESIGN_ by Irina Sonia CHIM, Ioan BLEBEA
+
 ±±±±±±±±±±±±±±±±
 
 > Modernism in graphic design has evolved from a progressive and rebellious ideology to a seductive and efficient, yet oppressively ubiquitous, visual language.
@@ -334,3 +403,4 @@ We are in a post-environmental world, and need to expand our thinking outside of
 - Against but in the spirit of modernism, Jerome Harris / <https://www.youtube.com/watch?v=E4ygiodaY40>
 - Radical Nature, Art and Architecture for a Changing Planet, Friday 19 June—Sunday 18 October 2009; Barbican, London. <https://www.barbican.org.uk/whats-on/2009/event/radical-nature-art-and-architecture-for-a-changing-planet>
 - Jerome Harris, Against, but in the Spirit of, Modernist Graphic Design | Jerome Harris | 2019 Core77 Conference <https://www.youtube.com/watch?v=E4ygiodaY40>
+- Towards relational design, Andrew Blauvelt, https://designobserver.com/feature/towards-relational-design/7557/
