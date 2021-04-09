@@ -30,14 +30,9 @@ Dunne and Raby are proponents of “critical design,” or design that “provid
 
 One way we judge graphic design is on whether or not it is formally “good.” We currently use a set of criteria for formal goodness that are a part of the current systems we’re being critical of. The characteristics we base formal goodness on come from modernist ideals born out of the late 19th century through the middle of the 20th century. What started as avant grade art movements became something adopted by business, government, and general society as “good” style. Our sense of good or beautiful design then is biased towards these modernist ideals co-opted by the status quo. Perhaps those are no longer valid criteria for our sustainable graphic design to be judged on in terms of its formal correctness, or more succinctly, its beauty?
 
-In this new definition of graphic design, how do we define beauty?
+## In this new definition of graphic design, how do we define beauty?
 
-In The Architecture of Happiness, Alain de Botton writes: “To call a work of architecture
-or design beautiful is to recognize it as a rendition of values critical to our flourishing.
-A transubstantiation of our individual ideals
-in a material medium.”‡7 This would then seem that however our ideals — that all humans
-and life should flourish — can be materialized into graphic design will yield “beautiful”
-graphic design.
+In The Architecture of Happiness, Alain de Botton writes: “To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in a material medium.”‡7 This would then seem that however our ideals — that all humans and life should flourish — can be materialized into graphic design will yield “beautiful” graphic design.
 
 This then implies that for us as Sustainable designers, we must see the non-sustainable as the less than beautiful. Edwin Datschefksi calls this “the hidden ugliness of traditional products.”‡8 Basically, the non-sustainable is (& can only be) ugly.
 
@@ -72,3 +67,15 @@ That the welfare of all life is important is not relative. Then, that one thing 
 The definition of sustainable graphic design is both an easy one and hard one. It is easy in that sustainable graphic design is just design that sustains the welfare of all life. That is a short, direct sentence. Easy to describe. It is hard in that what actually constitutes graphic design that does sustain the welfare of all life? What is the je ne sais quoi that makes that sustainable design different, more correct, more capable of doing this sustaining?
 
 Our current tools, ideas, and cultural systems aren’t setup to help us to understand this or to manufacture products in this vein. So, part of figuring out what sustainable graphic design is, means we’ll also have to decide what forms, tools, and new societal structures are required to realize it effectively (& help to design these too). Designers as sustainabilitists = designers as good human beings. :boom:
+
+### Notes
+
+1. Flourishing: A Frank Conversation About Sustainability by John R. Ehrenfeld & Andrew J. Hoffman. Stanford Business Books; 1 edition (May 15, 2013). ISBN 978-0804784153
+2. Ibid
+3. Design and the Welfare of All Life by Bruce Mau from the collection Design Ecologies: Sustainable Potentials in Architecture: Essays on the Nature of Design edited by Lisa Tilder & Beth Blostein. Princeton Architectural Press; 1 edition (November 4, 2009). ISBN 978-1568987835
+4. Cradle to Cradle: Remaking the Way We Make Things, by Michael Braungart and William McDonough, North Point Press; 1st edition (April 22, 2002). ISBN: 978-0865475878
+5. Design Noir: The Secret Life of Electronic Objects, by Anthony Dunne and Fiona Raby. Birkhauser (2001). ASIN: B01NH07GBO.
+6. Ibid
+7. The Architecture of Happiness, by Alain de Botton. Pantheon; 1st edition (October 3, 2006). ISBN: 978-0375424434.
+8. The Total Beauty of Sustainable Products, by Edwin Datschefksi. Rotovision (May 2001). ISBN: 978-2880465452
+9. The Timeless Way of Building, Christopher Alexander. Oxford University Press (1979). ISBN: 978-0195024029
