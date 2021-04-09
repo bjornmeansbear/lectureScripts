@@ -205,3 +205,7 @@ But! "Sustainable design does not exist" came to signify an alternative vector; 
 - Nature demands local expertise
 - Nature curbs excesses from within
 - Nature taps the power of limits
+
+> When you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it. // (Christopher alexander again, this time from patter language)
+
+https://onluminousgrounds.wordpress.com/2010/04/24/the-quality-without-a-name-part-one/

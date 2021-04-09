@@ -34,14 +34,11 @@ I have seen a few recurring “answers” in my work and work from the field:
 1. SGD looks the same.
 2. SGD looks eco-friendly.
 3. SGD looks innovative.
-
-((Click through lots of examples of my work as I say these things))
-
-These first three all the filters ad information room…
-
 4. SGD does not exist.
    - A Pessimistic interpretation?
    - An Optimistic interpretation?
+
+((Click through lots of examples of my work as I say these things))
 
 "Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
 
@@ -240,61 +237,6 @@ so what does sustainable graphic design look like? I'm still not completely sure
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
-## A Place to Start
-
-John Ehrenfeld states in the book _Flourishing_ “The key to doing something about sustainability is that you first have to say what you want to sustain.”
-
-Ehrenfeld wants to sustain that “all humans and other life should flourish” (pg. 23).
-
-Using Ehrenfeld’s thinking, Sustainable Graphic Design is design made for clients that believe all life should flourish, design made to promote messages about sustainability-as-flourishing, and design made with materials and processes that promote and sustain the state of flourishing.
-
-Sustainable graphic designers must still make formal decisions. How does the sustainable designer concern themselves with the forms and aesthetics of a solution?
-
-Are there visual choices that are more sustainable?
-
-What forms says “I believe that all life should flourish?”
-
-## Sustainability and Beauty
-
-> “To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in material medium.” — Alain de Botton, The Architecture of Happiness, pg. 100
-
-In _The Architecture of Happiness_, Alain de Botton provides some insights useful in trying to solve aesthetic quandaries around sustainability and formal beauty.
-
-Beautiful design embodies and sustains the values you hold dear.
-
-Following Botton’s thinking, sustainable designers should see the non-sustainable as the less-than beautiful, even the ugly.
-
-Only truly sustainable things — meaning objects and forms that inspire sustainable ideals — should count as beautiful.
-
-Beautiful things ARE sustainable things, and vice versa.
-
-Burgeoning sustainabilitists wishing to de-clutter their lives may come across a piece by Bruce Sterling that echoes similar sentiments. Sterling outlines four criteria for sorting through the objects you own so as to decide what to keep and what to discard as a part of your new, sustainably designed life.
-
-- Beautiful Things
-- Sentimental Things
-- Utilitarian Things
-- Everything else.
-
-If an object in your possession fits into the first three categories (beautiful, sentimental, or utilitarian things), then it is worth keeping. If it falls into “Everything Else” you must be rid of it. Sterling is interested in these categories from the point of view that sustainabilitists should have the right stuff — right meaning the best functioning, most meaningful, prettiest stuff. By virtue of being objects that you really need or want to have around just by being so lovely to look at, these things rise above just plain detritus to become more valuable, more sustainable objects (even if it just means you replace them less often).
-
-When Alain de Botton talks about beauty in design and architecture, I think his “beauty” encompasses all of Sterling’s top 3 categories.
-
-But, beauty is in the eye of the beholder.
-
-This starts to explain why “what does sustainable graphic design look like?” is such a hard question to answer.
-
-It also explains why Bruce Sterling finds the need to break his list of criteria for deciding quality in objects into four separate entities, and not just “beautiful things” and “everything else.” [[list those things???]]
-
-To me, a nice hammer is functional, utilitarian, and beautiful. To you, it might just be functional.
-
-The paintings and drawings I find beautiful are what another might find ugly.
-
-The things I find sentimental are probably unique to me.
-
-Not everyone has the same idea of what should be sustained as not everyone thinks the same things are beautiful.
-
-Is there really no “correct” aesthetic choice?
-
 ## Visual Experiment
 
 Materials spoke too loudly, and everything looked “ReUsed” — some of the time in a negative way (purely from an aesthetic stand point). To the students, this proved problematic as
@@ -326,9 +268,6 @@ This leads to this next diagram, more the philosophy of sustainability; the Mind
 We are in a post-environmental world, and need to expand our thinking outside of any one realm into the others… These are the stepping stones towards my next set of "things."
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±
-
-title: 'Reduce, Reuse, Recycle: Strategies for Designing?'
-theme: 'Waste = Food'
 
 Reduce, Reuse, Recycle[^3R] -- often referred to as the "3Rs" (Not to be confused with Reading, Writing, & Arithmetic) have been an important aspect of environmental stewardship since the seventies. Now that we find ourselves in a contemporary climate crisis, how can we use the 3 Rs as design strategies? How does "reduce, reuse. recycle" contribute to an evolving sustainabilitist design practice; not just personal actions in one's life.
 
@@ -382,12 +321,6 @@ When you recite the three R's, they are in an intentional order -- easiest to ha
 
 Reuse and Recycling are new areas to explore for the average graphic designer. You see reuse a lot in furniture, construction, art. Time to start seeing it in visual designing. Start to understand that waste = food, that everything is connected.
 
-Fin.
-
-[^3R]: This is also referred to as the "[waste hierarchy](https://en.wikipedia.org/wiki/Waste_hierarchy)"
-[^c2c]: Fully explained in Chapter 4: Waste = Food, pg. 92 from _Cradle to Cradle_ by Michael Braungart and William McDonough, 2002.
-[^minimal]: _MINIMALISM: AN OPTIMAL AESTHETIC FOR THE SUSTAINABLE DESIGN_ by Irina Sonia CHIM, Ioan BLEBEA
-
 ±±±±±±±±±±±±±±±±
 
 > Modernism in graphic design has evolved from a progressive and rebellious ideology to a seductive and efficient, yet oppressively ubiquitous, visual language.
@@ -404,3 +337,6 @@ Fin.
 - Radical Nature, Art and Architecture for a Changing Planet, Friday 19 June—Sunday 18 October 2009; Barbican, London. <https://www.barbican.org.uk/whats-on/2009/event/radical-nature-art-and-architecture-for-a-changing-planet>
 - Jerome Harris, Against, but in the Spirit of, Modernist Graphic Design | Jerome Harris | 2019 Core77 Conference <https://www.youtube.com/watch?v=E4ygiodaY40>
 - Towards relational design, Andrew Blauvelt, https://designobserver.com/feature/towards-relational-design/7557/
+- [^3R]: This is also referred to as the "[waste hierarchy](https://en.wikipedia.org/wiki/Waste_hierarchy)"
+- [^c2c]: Fully explained in Chapter 4: Waste = Food, pg. 92 from _Cradle to Cradle_ by Michael Braungart and William McDonough, 2002.
+- [^minimal]: _MINIMALISM: AN OPTIMAL AESTHETIC FOR THE SUSTAINABLE DESIGN_ by Irina Sonia CHIM, Ioan BLEBEA
