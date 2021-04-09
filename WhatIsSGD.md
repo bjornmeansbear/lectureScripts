@@ -22,6 +22,16 @@ Instead of just reducing or minimizing resources, could we reuse or recycle? Is 
 
 This line of design problem solving is limited in its ability to exact meaningful change. It tackles end result outcomes; but doesn’t wholeheartedly embrace “that all life should flourish.” Negative effects can be minimized — but is just focusing on resource efficiencies enough? Making choices purely around resource use might make “less bad” regular graphic design, but it doesn’t necessarily make for sustainable graphic design.
 
+> ### Aside 1
+>
+> Reduction as a design strategy. Taking one starting point and attempting to reduce colors, forms, coverage, etc.
+>
+> Include Make/UnMake graphics?
+
+> ### Aside 2
+>
+> Sustainability. Experimental letterforms made using 000letter <http://kielm.land/>. playing around w/ idea of minimal line width and general scale for saving both space and ink coverage.
+
 ## Ideological, Critical, Beautiful
 
 Anthony Dunne and Fiona Raby write in their 2001 book Design Noir: The Secret Life of Objects that “all design is ideological, the design process is informed by values based on a specific world view.”‡5 If our world view is the welfare of all life, then how does that shift what and how we graphic design?
@@ -29,6 +39,18 @@ Anthony Dunne and Fiona Raby write in their 2001 book Design Noir: The Secret Li
 Dunne and Raby are proponents of “critical design,” or design that “provides a critique of the prevailing situation through designs that embody alternative social, cultural, technical, or economic values.”‡6 This is great for our purposes. Graphic design made for the welfare of all life is different than status quo design. So, sustainable graphic design is not just design that helps people and our planet, but design that is also critical of existing social, cultural, technical, AND economic structures (sort of all the options of the Dunne & Raby list, not just one or another at a time).
 
 One way we judge graphic design is on whether or not it is formally “good.” We currently use a set of criteria for formal goodness that are a part of the current systems we’re being critical of. The characteristics we base formal goodness on come from modernist ideals born out of the late 19th century through the middle of the 20th century. What started as avant grade art movements became something adopted by business, government, and general society as “good” style. Our sense of good or beautiful design then is biased towards these modernist ideals co-opted by the status quo. Perhaps those are no longer valid criteria for our sustainable graphic design to be judged on in terms of its formal correctness, or more succinctly, its beauty?
+
+> ### Aside 3
+>
+> Sustainabilitist design should be critical of the status quo. How does something visual do this?
+>
+> Include a design-a-day that fits this?
+
+> ### Aside 4
+>
+> The Bauhaus. One place to find graphic design “goodness.” This is one formal outcome from a set of ideals. But, does this offer us anything once taken to the realm of the sustainable? does this say anything about the welfare of all life?
+>
+> A bauhaus graphic of some kind?
 
 ## In this new definition of graphic design, how do we define beauty?
 
