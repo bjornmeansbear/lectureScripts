@@ -174,7 +174,7 @@ Enrolled in various green courses and acquired certification for green knowledge
 
 ### Amager Bakke Vapor Ring Rendering
 
-Copenhagen waste to energy plant is so clean it puffs just c02 and water vapro... Captures 1 ton of C02, then exhausts it as a smoke ring. Help you visualize this otherwise intangible!?
+Copenhagen waste to energy plant is so clean it puffs just c02 and water vapor... Captures 1 ton of C02, then exhausts it as a smoke ring. Help you visualize this otherwise intangible!?
 
 ### Climate Design Posters?
 
@@ -210,6 +210,24 @@ A “correct” style may be irrelevant when it comes to what sustainable graphi
 What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
 
 so what does sustainable graphic design look like? I'm still not completely sure, but I'm still working on it…
+
+## Example: End with the sustainabilitist principles???
+
+_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it conveyed, while also disseminating them. It was a poster, that happened to also be a sculpture, and a novel concept.
+
+Sustainable Design does not exist.
+
+"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
+
+But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
+
+_The Sustainabilitist Principles_ was the real example I've made of a design "not existing."
+
+_The Sustainabilitist Principles_ started out as me looking at the books on my desk, wondering where "sustainable" design lies within them… my trying to map connections between all these texts… my trying to write about and illustrate these principles I was garnering; the interconnections over time and space of similar ideals…
+
+The final, resulting piece _was_ the actual books from my actual bookshelf. I hadn't needed to make a book to explain these principles; it was doable with the objects themselves! Bring the right parts together in the gallery, and then *poof* everything goes back to its raw materials when the exhibition was over. Design that does not exist (beyond its necessity).
+
+The books were my books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The novels went back to the free book exchange where they were found afterward. Even the shape of the "graphic" was meant to use the embroidery floss interconnecting things in the longest possible pieces to maximize reuse of the thread afterward.
 
 ### Notes
 
