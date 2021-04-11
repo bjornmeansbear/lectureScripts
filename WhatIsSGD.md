@@ -42,13 +42,11 @@ Instead of just reducing or minimizing resources, could we reuse or recycle? Is 
 
 This line of design problem solving is limited in its ability to exact meaningful change. It tackles resultant outcomes from a resource perspective; but doesn’t embrace “that all life should flourish.” Negative effects can be minimized, but is focusing on resource efficiencies enough? Making choices around resource use might make “less bad”  graphic design, but it doesn’t necessarily make for _sustainable_ graphic design.
 
-## Green Acres
+### Example: Green Acres
 
-An example from my own work...
+_Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_ was a book and an exhibition that I worked on with the Curator Sue Spaid for the Contemporary Art Center in Cincinnati, OH. The exhibition featured artists using farming as their main form of practice and expression.
 
-_Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_ was a book and an exhibition that I worked on with Sue Spaid. The works featured artists using farming as their main form of practice and expression.
-
-I had a goal to make the book "sustainable." These were mainly sustainability focused artists, how could I better represent ecological inventiveness in the printed design? However, in the end the only thing that made the production of this book "sustainable" was that it was printed on demand, and printed using recycled, unbleached paper. My thinking was limited to this "try to minimize material or process damage" scope at the time.
+I had a goal to make the resultant book "sustainable" — these were mainly sustainability focused artists, how could I better represent ecological inventiveness in the printed design? However, in the end the only thing that made the production of this book "sustainable" was that it was printed on demand, and printed using recycled, unbleached paper. My thinking was limited to this "try to minimize material or process damage" scope at the time.
 
 Visually, the book was meant to critique commercial farming — juxtaposing artistic field graphics over a constrained grid based on aerial commercial farmland photography. But while the book intends to say something different, it generally conforms to common standards of "good" modernist layout. Other than a minor production method improvement, it's the same … !
 
@@ -63,12 +61,11 @@ Anthony Dunne and Fiona Raby write in their 2001 book _Design Noir: The Secret L
 > ### Aside 3
 >
 > Sustainabilitist design should be critical of the status quo. How does something visual do this?
->
 > Include a design-a-day that fits this?
 
-Dunne and Raby are proponents of “critical design,” or design that “provides a critique of the prevailing situation through designs that embody alternative social, cultural, technical, or economic values.”‡6 This is great for our purposes. Graphic design made for the welfare of all life is different than status quo design. So, sustainable graphic design is not just design that helps people and our planet, but design that is also critical of existing social, cultural, technical, AND economic structures (sort of all the options of the Dunne & Raby list, not just one or another at a time).
+Dunne and Raby are proponents of “critical design,” or design that “provides a critique of the prevailing situation through designs that embody alternative social, cultural, technical, or economic values.”‡6 So, sustainable graphic design is not just design that helps people and our planet, but design that should also be critical of existing social, cultural, technical, AND economic structures; since many of these things are harming all life, not helping them to flourish.
 
-One way we judge graphic design is on whether or not it is formally “good.” We would normally use criteria for formal goodness that are a part of the systems we’re critical of. The characteristics we base formal goodness on come from modernist ideals born out of the late 19th century through the middle of the 20th century. What started as avant grade art movements became something adopted by business, government, and general society as “good” style. Our sense of good or beautiful design then is biased towards modernist ideals co-opted by the capitalist status quo. Perhaps those are no longer valid criteria for our sustainable graphic design to be judged with in terms of its formal correctness, or more succinctly, its beauty?
+We judge graphic design on whether or not it is formally “good.” However, we use criteria for formal goodness that are part of the systems we need to be critical of. The characteristics we base formal goodness on come from modernist ideals born out of the late 19th through the mid-20th centuries. What started as a melange of avant grade art movements is now something adopted by business, government, and general society as “good” style. Mid-century modernism is so embedded in culture that the "rules" of good graphic designing are just the visual "rules" of modernism.‡6.5 Our sense of good or beautiful design is biased towards modernist ideals co-opted by the capitalist status quo. Are these  valid criteria for sustainable graphic design's formal correctness to be judged with? What new criteria are there for beauty in Sustainable Graphic Design?
 
 > ### Aside 4
 >
@@ -76,7 +73,15 @@ One way we judge graphic design is on whether or not it is formally “good.” 
 >
 > A bauhaus graphic of some kind?
 
-## In this new definition of graphic design, how do we define beauty?
+### Example: MICA Grad Zine
+
+While this doesn't completely abandon modernist design principles, this mailer for the MICA Graduate Admissions does use imagery, layouts, and a format more closely related to Zine culture. The printing structure was designed to minimize printing waste -- the front and back of this "poster" are printed all as one plate, so the press sheet goes through the press once, then is flipped over, and goes through the press again, voila. This means front and back of the pages were able to all be printed with one plate per color instead of two or more…
+
+### Example: Ecovention Europe
+
+I could also talk about how this book uses colors and space differently than Green Acres, and since it directly reuses the original grids and such can be "critical" even if it doesn't adopt new criteria of review!?
+
+## How do we define beauty?
 
 In _The Architecture of Happiness_, Alain de Botton writes: “To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in a material medium.”‡7 This would then seem that however our ideals (that all humans and life should flourish, remember) can be materialized into graphic design will yield “beautiful” graphic design.
 
@@ -167,17 +172,17 @@ so what does sustainable graphic design look like? I'm still not completely sure
 4. Cradle to Cradle: Remaking the Way We Make Things, by Michael Braungart and William McDonough, North Point Press; 1st edition (April 22, 2002). ISBN: 978-0865475878 / Fully explained in Chapter 4: Waste = Food, pg. 92
 5. Design Noir: The Secret Life of Electronic Objects, by Anthony Dunne and Fiona Raby. Birkhauser (2001). ASIN: B01NH07GBO.
 6. Ibid
+6. .5 Jerome Harris, Against, but in the Spirit of, Modernist Graphic Design | Jerome Harris | 2019 Core77 Conference <https://www.youtube.com/watch?v=E4ygiodaY40>
 7. The Architecture of Happiness, by Alain de Botton. Pantheon; 1st edition (October 3, 2006). ISBN: 978-0375424434.
 8. The Total Beauty of Sustainable Products, by Edwin Datschefksi. Rotovision (May 2001). ISBN: 978-2880465452
 9. The Timeless Way of Building, Christopher Alexander. Oxford University Press (1979). ISBN: 978-0195024029
 
 - _MINIMALISM: AN OPTIMAL AESTHETIC FOR THE SUSTAINABLE DESIGN_ by Irina Sonia CHIM, Ioan BLEBEA
-- Jerome Harris, Against, but in the Spirit of, Modernist Graphic Design | Jerome Harris | 2019 Core77 Conference <https://www.youtube.com/watch?v=E4ygiodaY40>
 - Sterling, Bruce. _The Last Viridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
 - Sara de Bondt, Insights Lecture Series, Walker Art Center, 2014. <https://www.youtube.com/watch?v=tUMh_UXc_dY>
 - Radical Nature, Art and Architecture for a Changing Planet, Friday 19 June—Sunday 18 October 2009; Barbican, London. <https://www.barbican.org.uk/whats-on/2009/event/radical-nature-art-and-architecture-for-a-changing-planet>
 - Towards relational design, Andrew Blauvelt, <https://designobserver.com/feature/towards-relational-design/7557/>
-
+- <https://www.contemporaryartscenter.org/exhibitions/2012/09/green-acres>
 ->->->->->
 
 > When you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it. // (Christopher alexander again, this time from patter language)
