@@ -336,7 +336,7 @@ Reuse and Recycling are new areas to explore for the average graphic designer. Y
 - Against but in the spirit of modernism, Jerome Harris / <https://www.youtube.com/watch?v=E4ygiodaY40>
 - Radical Nature, Art and Architecture for a Changing Planet, Friday 19 June—Sunday 18 October 2009; Barbican, London. <https://www.barbican.org.uk/whats-on/2009/event/radical-nature-art-and-architecture-for-a-changing-planet>
 - Jerome Harris, Against, but in the Spirit of, Modernist Graphic Design | Jerome Harris | 2019 Core77 Conference <https://www.youtube.com/watch?v=E4ygiodaY40>
-- Towards relational design, Andrew Blauvelt, https://designobserver.com/feature/towards-relational-design/7557/
+- Towards relational design, Andrew Blauvelt, <https://designobserver.com/feature/towards-relational-design/7557/>
 - [^3R]: This is also referred to as the "[waste hierarchy](https://en.wikipedia.org/wiki/Waste_hierarchy)"
 - [^c2c]: Fully explained in Chapter 4: Waste = Food, pg. 92 from _Cradle to Cradle_ by Michael Braungart and William McDonough, 2002.
 - [^minimal]: _MINIMALISM: AN OPTIMAL AESTHETIC FOR THE SUSTAINABLE DESIGN_ by Irina Sonia CHIM, Ioan BLEBEA

@@ -176,7 +176,7 @@ so what does sustainable graphic design look like? I'm still not completely sure
 - Sterling, Bruce. _The Last Viridian Note_. Nov 2008. ViridianDesign.org. January 2015. <http://www.viridiandesign.org/2008/11/last-viridian-note.html>
 - Sara de Bondt, Insights Lecture Series, Walker Art Center, 2014. <https://www.youtube.com/watch?v=tUMh_UXc_dY>
 - Radical Nature, Art and Architecture for a Changing Planet, Friday 19 June—Sunday 18 October 2009; Barbican, London. <https://www.barbican.org.uk/whats-on/2009/event/radical-nature-art-and-architecture-for-a-changing-planet>
-- Towards relational design, Andrew Blauvelt, https://designobserver.com/feature/towards-relational-design/7557/
+- Towards relational design, Andrew Blauvelt, <https://designobserver.com/feature/towards-relational-design/7557/>
 
 ->->->->->
 
