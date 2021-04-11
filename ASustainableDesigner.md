@@ -183,7 +183,7 @@ The DC water mark project visualizes increased flooding and water level rise —
 
 ### Amager Bakke Vapor Ring Rendering
 
-Copenhagen waste to energy plant is so clean it puffs just c02 and water vapro... Captures 1 ton of C02, then exhausts it as a smoke ring. Help you visualize this otherwise intangible!?
+Copenhagen waste to energy plant is so clean it puffs just c02 and water vapor   ... Captures 1 ton of C02, then exhausts it as a smoke ring. Help you visualize this otherwise intangible!?
 
 ### Climate Design Posters?
 
