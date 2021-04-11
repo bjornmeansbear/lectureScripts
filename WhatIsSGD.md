@@ -8,23 +8,23 @@ I've been looking at a lot of different things the last several weeks.
 
 ## A Place to Start
 
-In _Flourishing_, John Ehrenfeld writes that “The key to doing something about sustainability is that you first have to say what it is that you want to sustain.”‡1 So, to define sustainable graphic design we must first define what it is we are sustaining.
+In the 2013 book _Flourishing: A Frank Conversation about Sustainability_, John Ehrenfeld writes “The key to doing something about sustainability is that you first have to say what it is that you want to sustain.”‡1 So, to define sustainable graphic design we must first define what it is we are sustaining.
 
-Sustainable graphic design is then design in service of what you want to sustain (however, that means that if what we want to sustain is the status quo, then that is what sustainable graphic design is — hmmm). Ehrenfeld wants to sustain “that all humans and other life should flourish.”‡2
+As a quick aside, here are some definitions of sustainability… Most of them speak vaguely about looking out for the future, or conserving resources, or just being nice into the future, but they aren't clear about what is to be sustained, other than I guess whatever we think our current situations are.
 
-Bruce Mau has a similar description for the goals of Massive Change: “Our project is the welfare of all life as a practical objective.”‡3
+If sustainable graphic design is design in service of what we want to sustain — what's worth sustaining? (this means that if we want to sustain the status quo, then that is what sustainable graphic design is — hmmm!?). Ehrenfeld wants to sustain “that all humans and other life should flourish.”‡2
 
-In this line of reasoning sustainable graphic design is “graphic design in support of all life flourishing” — and sustainable graphic design becomes not just one fixed thing. Sustainable graphic design doesn’t solely rely on better materials or more socially conscious manufacturing. Those things are important, but graphic design framed this way now precludes certain types of projects and certain kinds of clients. Graphic design framed this way presumably morphs over time. Graphic design framed this way opens up the realm of possibilities for what a graphic design project is. Sustainable Graphic Design defined this way is different than status quo design. All life flourishing is not the traditional goal of business, culture, and design.
+Designer Bruce Mau actually has a similar description for the goals of _Massive Change_: “Our project is the welfare of _all life_ as a practical objective.”‡3
 
-Throughout art and design history, new thinking and new tools launched new aesthetic outcomes. If sustainable graphic design, graphic design for the welfare of all life, is different than regular design, it requires different ways of thinking and making. Sustainable graphic design potentially then carries with it different or even new styles/aesthetics.
+In this line of reasoning sustainable graphic design is “graphic design in support of all life flourishing,” or “graphic design for the welfare of all life.” Sustainable graphic design doesn’t then solely rely on better materials or more socially conscious manufacturing. Graphic design framed this way may preclude certain types of projects and certain kinds of clients. Graphic design framed this way will have to evolve over time — what is important today to help all life will presumably change by next year or in a decade. Graphic design framed this way opens up the realm of possibilities for what a graphic design project is. Sustainable Graphic Design defined this way is _different_ than status quo design. All life flourishing is not the traditional goal of business, culture, and design.
 
-[[ Are more Sustainability definitions useful here at all? more SGD definitions? where do some of my works fit in? ]]
+Throughout art and design history, new thinking and new tools launched new aesthetic outcomes. Sustainable graphic design, graphic design for the welfare of all life, requires different ways of thinking than other current designs. Sustainability brings with it all kinds of new technologies, new social structures, and new tools; so Sustainable graphic design should then carry with it the potential for different and new styles/aesthetics.
 
 ## What does our “different” kind of design look like?
 
-What visually comes to mind when you hear “sustainable graphic design?” Did you picture something in your mind when you heard it? Is there a particular aesthetic or a particular color? Green perhaps? Bamboo textures? A particular archetypal client? a farm perhaps? A particular feeling? A particular message? A particular set of symbols?
+What do you visually picture in your mind when you hear “sustainable graphic design?” Is there a particular aesthetic A particular color? A particular archetypal client? A particular feeling? A particular message? A particular set of symbols?
 
-What aesthetic is most sustainable? How do we answer this question? Is it even worth asking? What do we base our choices on: energy reduction? Better resource use? Instigating social change?
+What aesthetic is most sustainable? How do we answer this question? Is it even worth asking? And then what do we base our choices on: energy reduction? Better resource use? Instigating social change?
 
 > ### Aside 1
 >
@@ -32,15 +32,15 @@ What aesthetic is most sustainable? How do we answer this question? Is it even w
 >
 > Include Make/UnMake graphics?
 
-Is selecting a font that uses minimal ink the best way to select a font? Should a font’s or grid’s appearance matter as much as the energy and material and social ills it saves? Would a font that is more condensed and thus uses up less space (saving tons of paper over a print run and exposure to chemicals to the printers (I guess we should be spec’ing an inert ink as well (can we make our own inks from oak galls and iron ore?))) be better? Can we combine the two? The thinest, most condensed, lightest ink coverage font is the most sustainable? (This can easily be taken absurd lengths). How does this mesh with our earlier definition?
+Is selecting a font that uses minimal ink the best way to select a font? Should a font’s or grid’s appearance matter as much as the energy and material and social ills it saves? Would a font that is more condensed and thus uses up less space (saving tons of paper over a print run and exposure to chemicals to the printers (I guess we should be spec’ing an inert ink as well (can we make our own inks from oak galls and iron ore?))) be better? Can we combine the two? The thinest, most condensed, lightest ink coverage font is the most sustainable? This can easily be taken absurd lengths.
 
 > ### Aside 2
 >
 > Sustainability. Experimental letterforms made using 000letter <http://kielm.land/>. playing around w/ idea of minimal line width and general scale for saving both space and ink coverage.
 
-Instead of just reducing or minimizing resources, could we reuse or recycle? Is there a way to graphic design that uses old materials over and over again? Can we apply the Cradle to Cradle idea of waste = food‡4 to our graphic designing?
+Instead of just reducing or minimizing resources, could we reuse or recycle? Is there a way to graphic design that uses old materials over and over again? Can we apply the Cradle to Cradle cyclical idea of _waste = food_‡4 to our graphic designing?
 
-This line of design problem solving is limited in its ability to exact meaningful change. It tackles resultant outcomes mainly from a resource perspective; but doesn’t wholeheartedly embrace “that all life should flourish.” Negative effects can be minimized — but, is focusing on resource efficiencies enough? Making choices around resource use might make “less bad” regular graphic design, but it doesn’t necessarily make for _sustainable_ graphic design.
+This line of design problem solving is limited in its ability to exact meaningful change. It tackles resultant outcomes from a resource perspective; but doesn’t embrace “that all life should flourish.” Negative effects can be minimized, but is focusing on resource efficiencies enough? Making choices around resource use might make “less bad”  graphic design, but it doesn’t necessarily make for _sustainable_ graphic design.
 
 ## Ideological, Critical, Beautiful
 
@@ -153,7 +153,7 @@ So what is Sustainable Graphic Design? Anything that visualizes the caretaking o
 
 > When you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it. // (Christopher alexander again, this time from patter language)
 
-https://onluminousgrounds.wordpress.com/2010/04/24/the-quality-without-a-name-part-one/
+<https://onluminousgrounds.wordpress.com/2010/04/24/the-quality-without-a-name-part-one/>
 
 ->->->->->
 
