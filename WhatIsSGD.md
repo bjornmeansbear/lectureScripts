@@ -1,5 +1,13 @@
 # What is Sustainable Graphic Design?
 
+Some kind of intro needed!?!?!?!?!
+
+What ties all my work together?
+
+I've been looking at a lot of different things the last several weeks.
+
+## A Place to Start
+
 In _Flourishing_, John Ehrenfeld writes that “The key to doing something about sustainability is that you first have to say what it is that you want to sustain.”‡1 So, to define sustainable graphic design we must first define what it is we are sustaining.
 
 Sustainable graphic design is then design in service of what you want to sustain (however, that means that if what we want to sustain is the status quo, then that is what sustainable graphic design is — hmmm). Ehrenfeld wants to sustain “that all humans and other life should flourish.”‡2
