@@ -123,6 +123,8 @@ How does a sustainable object signal? What does a sustainable object signal? Wha
 
 [[ A GOOD PLACE TO TRY AND INSERT SIGNS SIGNALING SUSTAINABILITY IMAGES/THOUGHTS ??? ]]
 
+add to SSS: Bike Pool Noodle Hack <https://www.are.na/block/4299163>
+
 ## Conclusions?
 
 The definition of sustainable graphic design is both an easy one and hard one. It is easy in that sustainable graphic design is just design that sustains the welfare of all life. That is a short, direct sentence. Easy to write down. But, it is hard because, well, what constitutes graphic design that sustains the welfare of all life? What is the _je ne sais quoi_ that makes  sustainable design different, more correct, more capable of doing this sustaining?
@@ -149,43 +151,29 @@ So what is Sustainable Graphic Design? Anything that visualizes the caretaking o
 
 ->->->->->
 
-### Other bits and pieces:
+> When you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it. // (Christopher alexander again, this time from patter language)
 
-How to get to the climate designers? Is that important?
+https://onluminousgrounds.wordpress.com/2010/04/24/the-quality-without-a-name-part-one/
 
-What does design do? and what does it mean?
+->->->->->
 
-Sustainability as flourishing. What does this mean for designing? we strive for a context in which all life can flourish.
-
-Design and the welfare of all life. How does this change how design is practiced and defined?
-
-Graphic Design is different than other design disciplines in that so much of the work is ephemeral (printed stuff with short life spans or purely digital).
+### Other bits and pieces
 
 “how might graphic design be more sustainable in its form, processes, and ideals, not solely materials.”
 
-In car and building design choices made regarding fuel efficiency or energy usage have drastic impact on aesthetics. Certain shapes, materials, solutions, etc. must be chosen or omitted. What are graphic design’s corollaries? Should one look for the most energy efficient presses? The most energy efficient printing processes? What effect does that have on the look or feel of a poster? A passive home achieves the same outcomes — walls, roof, kitchen, shelter, storage, sleeping areas, etc. — as a regular home, with similar references (people seeing a picture will know it’s a “house”), but will be more sustainable and have a look and feel in alignment with its ideals. What is the “sustainable” equivalent of say a magazine or advertisement??? Will graphic design look “different” when made by people in a mindset affected by pondering these things?
+In car and building design choices made regarding fuel efficiency or energy usage have drastic impact on aesthetics. Certain shapes, materials, solutions, etc. must be chosen or omitted. What are graphic design’s corollaries? Should one look for the most energy efficient presses? The most energy efficient printing processes? What effect does that have on the look or feel of a poster? A passive home achieves the same outcomes — walls, roof, kitchen, shelter, storage, sleeping areas, etc. — as a regular home, with similar references (people seeing a picture will know it’s a “house”), but will be more sustainable and have a look and feel in alignment with its ideals. What is the “sustainable” equivalent of say a magazine or advertisement??? Will graphic design look “different” when made by people pondering these things?
 
-To make books we fell trees. To make an omelette break eggs. To power our cities and homes we level mountains. Each act of creation is also an act of destruction. Is this just entropy playing its role — that there is just only so much matter and energy? Or is there something special about how humans unmake the world around them in the process of societal “progress?” Does sustainable design honestly acknowledge this make/unmake duality? Does sustainability require minimizing the described unmaking? Can newer and more plentiful objects exist without unmaking everything around us?
+To make books we fell trees. To power our cities we level mountains. Each act of creation is also an act of destruction. Is this just entropy playing its role — that there is just only so much matter and energy? Or is there something special about how we humans unmake the world around us in the process of societal “progress?” Does sustainable design honestly acknowledge this make/unmake duality? Does sustainability require minimizing the described unmaking? Can newer and more plentiful objects exist without unmaking everything around us?
 
-Each of us has the faculties to be critical. Every time you use something and are vexed by failure or complication, try to voice the cause of the problem, at least internally. Conversely, when you find a tool or interaction painless and utterly intuitive try to figure out what might have transpired to make the transaction so easy. We must better understand all that is around us, and help each other to always improve. Too much is done without proper consideration. We are all critics.
-
-Design relativity: Most graphic design solutions are relative: Ten graphic designers given the same request will come up with ten different solutions. Some might be “better” than others, but if the designers are sufficiently skilled, they will all be workable, usable solutions. Let’s presume this is a logo for something — maybe a bakery — each designer is likely to pick a different typeface or a different play on a loaf of bread or oven or wheat stalk to use. There isn’t a “right” answer. I find something frustrating about this. This makes me feel like what I do is magical, yet meaningless. It’s all relative — a different point of view yields a different outcome, yet we have no “speed of light” against which to measure or compare aesthetics. What I see in my mind when I hear a client say they want “simple and professional” solutions is likely to be different than that of another designer. On the one hand this is great — freedom and individuality really can reign. On another, it proves that most of the job of a designer is subjective and meaningless. Style is an irrelevant concern. If ten different people can come to ten different aesthetic conclusions for a single “problem” that doesn’t seem to me to say “there is definitive evidence that this solution matters…” I might pick one typeface, my friend Tony another, my friend Kim another, and my friend Amanda yet another. Any of the four could be made into a more than acceptable, simple, professional solution. This begins to seem to me arbitrary decision. Another 100 typefaces or symbols can be seemingly randomly chosen and still made to work. How does this show that what I do actually matters? When all choices are arbitrary, then how do you make a choice?
-
-Waste = Food: As a premise, "Waste = Food" has been most contemporaneously popularized through _Cradle to Cradle_.[^c2c] Michael Braungart and William McDonough want us to understand that our concept of waste is incorrect; we have a problematic relationship with waste. Nature produces no waste; outputs from one system are always inputs for another. Our current design and consumer cultures do not operate in this way. Karrie Jacobs points this out quite bluntly in her essay _Disposability, Graphic Design, Style, and Waste_: designers make garbage. Waste is just what we make -- our inputs have only one output, trash! And trash must be sent away; not used for making more design. Maybe we can change that.
-
-Are all these questions just judgmental? Is this once colossal ego trap???
-
-add to SSS: Bike Pool Noodle Hack https://www.are.na/block/4299163
+Waste = Food: As a premise, "Waste = Food" has been most contemporaneously popularized through _Cradle to Cradle_ Michael Braungart and William McDonough want us to understand that our concept of waste is incorrect; we have a problematic relationship with waste. Nature produces no waste; outputs from one system are always inputs for another. Our current design and consumer cultures do not operate in this way. Karrie Jacobs points this out quite bluntly in her essay _Disposability, Graphic Design, Style, and Waste_: designers make garbage. Waste is just what we make -- our inputs have only one output, trash! And trash must be sent away; not used for making more design. Maybe we can change that.
 
 #### What Does Sustainable Graphic Design Look Like? A Thought Experiment with potential answers
 
-It's normal to talk about constructivists, modernists, conceptual minimalists, etc.; and know these as novel visual styles for their time and space.  Visuals from these movements came from different ways of thinking. Modernism (for instance) was not about style for style’s sake, but style illuminating a novel theoretical position; style that was arrived at from a thought process, from a set of values, or from hypothesizing and experimenting.
+Modernism (for instance) was not about style for style’s sake, but style illuminating a novel theoretical position; style that was arrived at from a thought process, from a set of values, or from hypothesizing and experimenting.
 
-If "sustainability" requires different ways of thinking (some new, & returning to old ways!?), shouldn’t it carry with it some kind of new style (and/or reuse old ones!?)? We need a new new (or a new old new; or a remixed old???). Shouldn't there be something different aesthetically about sustainability? Designing for the welfare of all life is certainly a different mindset from designing for the corporate marketplace... do these things need to then look different?
+Designing for the welfare of all life is certainly a different mindset from designing for the corporate marketplace... do these things need to then look different?
 
-Back to my overarching question: “What does sustainable graphic design look like?" For me, this inspired a whole body of work; anything I made should/could be analyzed through this lens -- does this look like sustainable graphic design?
-
-I have seen a few recurring “answers” in my work and work from the field:
+I have seen a few recurring “answers” to the question “What does sustainable graphic design look like?" in my work and work from the field:
 
 1. SGD looks the same.
 2. SGD looks eco-friendly.
@@ -196,24 +184,4 @@ I have seen a few recurring “answers” in my work and work from the field:
 
 "Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
 
-((Victor Papanek there are some disciplines more dangerous? slide))
-
 But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
-
-((Future cone!?)) ((Instead of problem solving, why not problem finding))
-
-#### BioMimicry
-
-- Nature runs on sunlight
-- Natures uses only the energy it needs
-- Nature fits form to function
-- Nature recycles everything (Waste = Food)
-- Nature rewards cooperation
-- Nature banks on diversity
-- Nature demands local expertise
-- Nature curbs excesses from within
-- Nature taps the power of limits
-
-> When you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it. // (Christopher alexander again, this time from patter language)
-
-https://onluminousgrounds.wordpress.com/2010/04/24/the-quality-without-a-name-part-one/
