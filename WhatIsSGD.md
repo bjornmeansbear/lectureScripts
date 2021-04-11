@@ -38,13 +38,23 @@ Is selecting a font that uses minimal ink the best way to select a font? Should 
 >
 > Sustainability. Experimental letterforms made using 000letter <http://kielm.land/>. playing around w/ idea of minimal line width and general scale for saving both space and ink coverage.
 
-Instead of just reducing or minimizing resources, could we reuse or recycle? Is there a way to graphic design that uses old materials over and over again? Can we apply the Cradle to Cradle cyclical idea of _waste = food_‡4 to our graphic designing? Via the "waste = food" concept, Michael Braungart and William McDonough want us to understand our culture's problematic relationship with waste. Nature produces no waste; outputs from one system are always inputs for another. However, our current design and consumer cultures do not operate in this way. Karrie Jacobs points this out quite bluntly in her essay _Disposability, Graphic Design, Style, and Waste_: designers make garbage. Our inputs have only one output, trash! And trash must be sent away; not locally used for making more design…
+Instead of just reducing or minimizing resources, could we reuse or recycle? Is there a way to graphic design that uses old materials over and over again? Can we apply the Cradle to Cradle cyclical idea of _waste = food_‡4 to our graphic designing? Via the "waste = food" concept, Michael Braungart and William McDonough want us to understand our culture's problematic relationship with waste. Nature produces no waste; outputs from one system are always inputs for another. However, our current design and consumer cultures do not operate in this way. Karrie Jacobs points this out quite bluntly in her essay _Disposability, Graphic Design, Style, and Waste_: designers make garbage. Our inputs have only one output, trash! And trash must be sent away; not locally used for making more design… How can our creative waste from a design process become food for other designs/design processes??
 
 This line of design problem solving is limited in its ability to exact meaningful change. It tackles resultant outcomes from a resource perspective; but doesn’t embrace “that all life should flourish.” Negative effects can be minimized, but is focusing on resource efficiencies enough? Making choices around resource use might make “less bad”  graphic design, but it doesn’t necessarily make for _sustainable_ graphic design.
 
 ## Green Acres
 
 An example from my own work...
+
+_Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_ was a book and an exhibition that I worked on with Sue Spaid. The works featured artists using farming as their main form of practice and expression.
+
+I had a goal to make the book "sustainable." These were mainly sustainability focused artists, how could I better represent ecological inventiveness in the printed design? However, in the end the only thing that made the production of this book "sustainable" was that it was printed on demand, and printed using recycled, unbleached paper. My thinking was limited to this "try to minimize material or process damage" scope at the time.
+
+Visually, the book was meant to critique commercial farming — juxtaposing artistic field graphics over a constrained grid based on aerial commercial farmland photography. But while the book intends to say something different, it generally conforms to common standards of "good" modernist layout. Other than a minor production method improvement, it's the same … !
+
+There was a glimmer of something else though: Reuse of a format! (or maybe "constraint" or "systems" from _The Sustainabilitist Principles_ ???). Sue had worked on an exhibition 10 years earlier called _Ecovention_. That book was an 8x8 square. So we made _Green Acres_ an 8x8 square to match as a collection.
+
+Do these choices make it "Sustainable Graphic Design?"
 
 ## Ideological, Critical, Beautiful
 
@@ -139,7 +149,15 @@ So what is Sustainable Graphic Design? Anything that visualizes the caretaking o
 
 [[ This ending sucks. Still need something a bit more clear and really "concluding" here... ]]
 
-[[ Where do my own works and brief sidetones/anecdotes on them fit in ]]
+What does SGD look like?
+
+I am currently inclined to believe that there is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist).
+
+A “correct” style may be irrelevant when it comes to what sustainable graphic design should look like.
+
+What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
+
+so what does sustainable graphic design look like? I'm still not completely sure, but I'm still working on it…
 
 ### Notes
 
