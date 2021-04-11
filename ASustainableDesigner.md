@@ -181,39 +181,13 @@ Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazin
 
 The DC water mark project visualizes increased flooding and water level rise — where these impacts will be felt by you in this place! The water level rings articulates to us "oh shit, this place might be underwater pretty frequently given our current projected future!" Then maybe we can act accordingly and redirect our present towards a future where that is no longer true. Without *seeing* your house or office or favorite park area submerged, even symbolically, you cannot envision an alternative.
 
-### Other
+### Amager Bakke Vapor Ring Rendering
 
-- Improvisational Lamps?
-- Amager Bakke unmade vapor ring?
-- Print posters on found paper?
+Copenhagen waste to energy plant is so clean it puffs just c02 and water vapro... Captures 1 ton of C02, then exhausts it as a smoke ring. Help you visualize this otherwise intangible!?
 
-## Future Possibles?
+### Climate Design Posters?
 
-These examples communicate additional information as key aspects of their design. They redirect culture towards better *future possibles.* And! this is a great place to work as a graphic designer.
-
-### The Futures Cone!?
-
-So, I need to actually produce something of substance, something of value. What do I have to offer? What can I write about coherently and succinctly? is that important or is just getting new and different ideas that point in utopian directions all that matters?
-
-((the Futures cone image!?!??!?!?!?!?!))
-
-## BauErden (Build Earth)
-
-[S029 Nasa earth again]
-
-Earthstronauts.
-
-The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design shall be created without first asking “does this need to exist?” -- “does this drawn down carbon from the atmosphere?” -- “does this re-balance natural systems?”
-
-We need conscious​, cooperative effort between all artists, designers, politicians, craftspeople, scientists, farmers, parents, small business owners. A new design education must aid in this. How might a new pluralistic pedagogical approaches focus on the liminal; designers as connectors for all of these actors? For everything is connected.
-
-Designers must recognize anew and learn to grasp the composite character of “climate” as a holistic entity AND in its separate, interconnected parts (climate(s): natural, social, etc.? _the_ planetary climate? the earth? nature? the universe?). Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
-
-Old styles and models for designing​ are not capable of producing the required new unity. Abandon them. New styles, new processes, new ways of working, of making, and of seeing — again, pluralistic — are required.​
-
-We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus between new interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
-
-Good luck.
+Printing thing after thing on the scrap paper left over in the RISO studio…
 
 ## Climate designers???
 
@@ -320,6 +294,41 @@ Project prompt: Create a central, shared folder or repository. Everyone must con
 When you recite the three R's, they are in an intentional order -- easiest to hardest; pre- to post-; low input to high input. Reduce should be the initial focus. In our waste = food equation; if we minimize waste; if we reduce waste; do we reduce the opportunity for future creative food? In general, that's probably not a concern since we are already over producing -- at least in ways that don't allow for sharing and reuse later. So, we reduce our initial wastefulness. Then the "waste" we do output can be much more easily seen as food instead of trash! Karrie Jacobs was onto something; but maybe she wasn't seeing this opportunity for cultural reuse; creative reuse.
 
 Reuse and Recycling are new areas to explore for the average graphic designer. You see reuse a lot in furniture, construction, art. Time to start seeing it in visual designing. Start to understand that waste = food, that everything is connected.
+
+±±±±±±±±±±±±±±±±
+
+> When you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it. // (Christopher alexander again, this time from patter language)
+
+<https://onluminousgrounds.wordpress.com/2010/04/24/the-quality-without-a-name-part-one/>
+
+->->->->->
+
+### Other bits and pieces
+
+“how might graphic design be more sustainable in its form, processes, and ideals, not solely materials.”
+
+In car and building design choices made regarding fuel efficiency or energy usage have drastic impact on aesthetics. Certain shapes, materials, solutions, etc. must be chosen or omitted. What are graphic design’s corollaries? Should one look for the most energy efficient presses? The most energy efficient printing processes? What effect does that have on the look or feel of a poster? A passive home achieves the same outcomes — walls, roof, kitchen, shelter, storage, sleeping areas, etc. — as a regular home, with similar references (people seeing a picture will know it’s a “house”), but will be more sustainable and have a look and feel in alignment with its ideals. What is the “sustainable” equivalent of say a magazine or advertisement??? Will graphic design look “different” when made by people pondering these things?
+
+To make books we fell trees. To power our cities we level mountains. Each act of creation is also an act of destruction. Is this just entropy playing its role — that there is just only so much matter and energy? Or is there something special about how we humans unmake the world around us in the process of societal “progress?” Does sustainable design honestly acknowledge this make/unmake duality? Does sustainability require minimizing the described unmaking? Can newer and more plentiful objects exist without unmaking everything around us?
+
+#### What Does Sustainable Graphic Design Look Like? A Thought Experiment with potential answers
+
+Modernism (for instance) was not about style for style’s sake, but style illuminating a novel theoretical position; style that was arrived at from a thought process, from a set of values, or from hypothesizing and experimenting.
+
+Designing for the welfare of all life is certainly a different mindset from designing for the corporate marketplace... do these things need to then look different?
+
+I have seen a few recurring “answers” to the question “What does sustainable graphic design look like?" in my work and work from the field:
+
+1. SGD looks the same.
+2. SGD looks eco-friendly.
+3. SGD looks innovative.
+4. SGD does not exist.
+   - A Pessimistic interpretation?
+   - An Optimistic interpretation?
+
+"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
+
+But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
 
 ±±±±±±±±±±±±±±±±
 
