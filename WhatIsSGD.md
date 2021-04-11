@@ -6,6 +6,14 @@ What ties all my work together?
 
 I've been looking at a lot of different things the last several weeks.
 
+I've been working since 2006 in and around sustainability.
+
+Sustainabilitists take over where environmentalism ends, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas, new hybrids — accept and deal with a constant flux between nature, society, economy — everything.
+
+In my twenty year role as graphic designer I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and built digital tools. Regardless of final forms, or if its client-based or self-initiated, I treat all design projects as opportunities for intellectual inquiry and self-expression.
+
+I'm going to walk us through a few case-studies dealing with "what Sustainable Aesthetics might look like." …
+
 ## A Place to Start
 
 In the 2013 book _Flourishing: A Frank Conversation about Sustainability_, John Ehrenfeld writes “The key to doing something about sustainability is that you first have to say what it is that you want to sustain.”‡1 So, to define sustainable graphic design we must first define what it is we are sustaining.
