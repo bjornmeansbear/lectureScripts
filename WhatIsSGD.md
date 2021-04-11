@@ -184,6 +184,10 @@ Enrolled in various green courses and acquired certification for green knowledge
 
 Copenhagen waste to energy plant is so clean it puffs just c02 and water vapor... Captures 1 ton of C02, then exhausts it as a smoke ring. Help you visualize this otherwise intangible!?
 
+### FreshPress Paper
+
+Eric Benson as part of his research at the university of Illinois is growing prairie grass and using agricultural grass for new paper fiber sources! These papers end up being very low carbon, or even carbon negative. In their footprints.
+
 ### Climate Design Posters?
 
 Printing thing after thing on the scrap paper left over in the RISO studio…
