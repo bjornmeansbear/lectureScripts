@@ -110,7 +110,7 @@ While a sequestering book isn't likely to exist anytime soon, even the *idea* of
 
 I like to call designs like this "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — turning every design opportunity into a sign signaling sustainability. Make tangible, make understandable something about climate change. This is doable no matter the project; no matter the prompt.
 
-So this seuqestering book example focuses on "visualizing CO2". But, there are myriad other aspects of climate change and sustainability one might signal.
+So this sequestering book example focuses on "visualizing CO2". But, there are myriad other aspects of climate change and sustainability one might signal.
 
 ## Where Else to get Inspired
 

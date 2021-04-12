@@ -255,6 +255,12 @@ Foam pool noodle rubber banded to a bike rack... That's real utilitarian graphic
 
 ### Carbon sequestering book!?
 
+As a concept, imagine a book. Now, when you open that book, all the pages are blank. But! what if they aren't blank — they're just not yet pigmented! What if by merely sitting in the air, your book slowly air captures carbon dioxide until the places that have been "printed" turn carbon black!
+
+I pitched this idea to Eric Benson: using his Fresh Press paper I wanted to start making books — carbon sequestering books. Prairie grass stores carbon in soil over time, his paper is an important part of the idea. Now to find ink to that direct air captures carbon too! The book text would slowly reveal itself as carbon was drawn into the ink.
+
+So this sequestering book focuses on "visualizing CO2" and how that relates to "the welfare of all life."
+
 ## Conclusion
 
 In prepping this lecture I was looking for the thread that connected my works together. That thread was this question, what does SGD look like, or what is SGD?! Everything I make is a continuous, evolving attempt at answering it.
@@ -269,23 +275,35 @@ What is Sustainable Graphic Design? Anything that visualizes the caretaking of o
 
 Anything that helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface
 
-±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-An example: Reduction as a design strategy. Taking one starting point and attempting to reduce colors, forms, coverage, etc. / Include Make/UnMake graphics?
-
-An Example: What conveys the feeling of sustainability semiotically? Does this feel sustainable? Are these indicative of sustainability other than just as signs we’ve prescribed this meaning to? // image: Graphic of windmills and trees and such // Does the way that this look signal sustainability? // image: Buckminster Fuller's world fair geodesic dome!
-
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+## Sustainable Design does not exist.
+
+"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
+
+But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
+
+### Example: the sustainabilitist principles???
+
+_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it conveyed, while also disseminating them.
+
+_The Sustainabilitist Principles_ started out as me looking at the books on my desk, wondering where "sustainable" designing lay within them… then trying to map connections between all these texts… then trying to write about and illustrate the principles; the interconnections over time and space of similar ideals… and then how to clarify access to the ideas for the next designer.
+
+The final output of this direction brought necessary pieces together in an intentional, but ephemeral, form for an exhibition, and then allowed for everything to go back to its initial state when that exhibition was over. I did not need to make yet another book or a poster series to explain these principles; the objects themselves could do it on their own! Design that does not exist. The books were my books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The novels went back to the free book exchange where they were found afterward. Even the shape of the "graphic" was meant to use the embroidery floss interconnecting things in the longest possible pieces to maximize reuse of the thread afterward.
 
 ### Example: Green Acres
 
-_Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_ was a book and an exhibition that I worked on with the Curator Sue Spaid for the Contemporary Art Center in Cincinnati, OH. The exhibition featured artists using farming as their main form of practice and expression.
+_Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots_ was a book and an exhibition that I worked on with my friend, Sue Spaid, for the Contemporary Art Center in Cincinnati, OH. Sue curated this exhibition, and it featured artists using farming as their practice.
 
-I had a goal to make the resultant book "sustainable" — these were mainly sustainability focused artists, how could I better represent ecological inventiveness in the printed design? However, in the end the only thing that made the production of this book "sustainable" was that it was printed on demand, and printed using recycled, unbleached paper. My thinking was limited to this "try to minimize material or process damage" scope at the time.
+The goal: make the resultant book "sustainable." These were sustainability focused artists, how could I represent their ecological inventiveness in the printed design?
 
-Visually, the book was meant to critique commercial farming — juxtaposing artistic field graphics over a constrained grid based on aerial commercial farmland photography. But while the book intends to say something different, it generally conforms to common standards of "good" modernist layout. Other than a minor production method improvement, it's the same … !
+Well, in the end the only thing that made the production of this book "sustainable" was that it was printed on demand, and used recycled, unbleached paper.
 
-There was a glimmer of something else though: Reuse of a format! (or maybe "constraint" or "systems" from _The Sustainabilitist Principles_ ???). Sue had worked on an exhibition 10 years earlier called _Ecovention_. That book was an 8x8 square. So we made _Green Acres_ an 8x8 square to match as a collection.
+My thinking was limited to this "try to minimize material or process damage" scope at the time.
+
+Visually, the book's design was about the juxtaposition of small art farms vs. giant commercial farms. These artistic field graphics over a constrained grid based on aerial commercial farmland photography wsa an attempt at this "criticality."
+
+While the book intends to say something different, it generally conforms to common standards of "good" modernist layout. Other than a minor production method improvement, it's the same … !
 
 Do these choices make it "Sustainable Graphic Design?"
 
@@ -295,36 +313,42 @@ While this doesn't completely abandon modernist design principles, this mailer f
 
 ### Example: Ecovention Europe
 
-I could also talk about how this book uses colors and space differently than Green Acres, and since it directly reuses the original grids and such can be "critical" even if it doesn't adopt new criteria of review!?
+A couple of years later, Sue Spaid, now living in Belgium, gets a new exhibition opportunity. She calls it _Ecovention Europe_ — ecologically inventive artists specifically working in Europe  — and there was to be another catalog.
+
+In the interim since _Green Acres_, I saw a lecture by the designer Sara De Bondt, where Sara discusses the _Radical Nature_ catalog her team designed for the Barbican in London. De Bondt's studio wrote a sustainable printing manifesto as part of the research for the catalog's production.
+
+((show manifesto???))
+
+De Bondt's "manifesto" got me thinking about what other ways design decisions could be made.
+
+Re-examine the design choices of _Green Acres_ For _Ecovention Europe_ …
+
+How might I make yet another 8x8 book, and drastically improve the sustainability (or at least the sustainable aesthetics) this time around? How could we re-approach the design of _Green Acres_, repurposing what we had done already?
+
+#### Reduce
+
+One of the items in De Bondt's printing manifesto is "use less ink." The idea of "Using less ink" meant selecting colors more carefully and to using them more sparingly.
+
+For ecovention, No color adds up to more that 100% ink coverage. (_Ecovention Europe_ uses CMYK: and color palette swatches start at 100% pure C, M, Y, or K, and then are mixed in equal percentages to keep 100% or less total coverage: 50% + 50%; 33% + 33% + 33%; etc.).
+
+Another way I tried to reduce ink was bitmapped city maps as the decorative new section markers. The appearance of a filled area is kept (relating back to a _Green Acres_ design choice), but much less ink is used as compared to a filled and full bleed grayscale or CMYK variant.
+
+Text columns in Green Acres ended where a full paragraph ended to make a few things easier from a design perspective. Yes, this gave a ragged, formally-nice rhythm to text columns, but it was an inefficient use of space. With _Ecovention Europe_, I spent time reducing the amount of unused space (this also minimized superfluous decoration — In _Green Acres_, superficial decorative elements that looked nice but served no functional purpose were all blank page areas.
+
+#### Reuse
+
+Sustainable designers routinely find novel ways to reuse materials, but I felt that there was little discussion for the possibility of reusing visuals and solutions.
+
+The grid for _Green Acres_ had a lot of conceptual reasoning invested into it, and so I reused the page templates, type choices, grid setup, etc.
+
+Printing on demand was a concept also reused.
+
+#### EE Analysis?
+
+As a conceptual exercise, this was good. But, did it actually make much of a difference? In a book like this, there are a lot of images, and the artworks didn’t adhere to the same ink coverage rules.
+
+How could this be done differently and improved upon again next time? Would a different typeface save ink and space? Are there other ways to handle image inclusion? Is there an alternative to making this book at all? (Should this exist? I didn’t ask that question before we began!).
 
 ### Example: ICFP Booklet Generator
 
 Here's a utilitarian design solution that could be considered sustainable. The real "design" here is that a web app can output all this conferences materials as a printable PDF, bypassing tons of time in InDesign typesetting it all manually. This is a fairly simple thing, but is project for a client helping with important social sustainability issues... It's not drop dead beautiful, and its certainly not sentimental, but it solves a problem in a clear, repurpose-able way and saved a lot of hours.
-
-### Example: Design for farms? CF2T? FiveSeeds? Whom else?
-
-### Example: Form <> Content <> Context / Economy <> Society <> Nature!?
-
-Do I need to explain some graphics really clearly???
-
-### Example: My sustainability icons?
-
-### Example: The Greenest Green?
-
-### Example: the sustainabilitist principles???
-
-_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it conveyed, while also disseminating them. It was a poster, that happened to also be a sculpture, and a novel concept.
-
-Sustainable Design does not exist.
-
-"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
-
-But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
-
-_The Sustainabilitist Principles_ was the real example I've made of a design "not existing."
-
-_The Sustainabilitist Principles_ started out as me looking at the books on my desk, wondering where "sustainable" design lies within them… my trying to map connections between all these texts… my trying to write about and illustrate these principles I was garnering; the interconnections over time and space of similar ideals…
-
-The final, resulting piece _was_ the actual books from my actual bookshelf. I hadn't needed to make a book to explain these principles; it was doable with the objects themselves! Bring the right parts together in the gallery, and then *poof* everything goes back to its raw materials when the exhibition was over. Design that does not exist (beyond its necessity).
-
-The books were my books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The novels went back to the free book exchange where they were found afterward. Even the shape of the "graphic" was meant to use the embroidery floss interconnecting things in the longest possible pieces to maximize reuse of the thread afterward.
