@@ -6,11 +6,13 @@ I'm going to try and present you with a handful of different arguments and defin
 
 ## Quick background
 
-In my twenty year role as graphic designer I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and built digital tools. Regardless of final forms, or if its client-based or self-initiated, I treat all design projects as opportunities for intellectual inquiry and self-expression.
+In my twenty year role as graphic designer I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and built digital tools. Regardless of final forms, if its client-based or self-initiated, I treat all my designs as opportunities for intellectual inquiry and self-expression.
 
 ## Define Sustainability? Define Sustainabilitists?
 
 Sustainabilitists take over where environmentalism ends, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas, new hybrids — accept and deal with a constant flux between nature, society, economy — everything.
+
+Sustainability charts…
 
 ## A place to start
 
@@ -63,15 +65,17 @@ Sustainable Design = Beautiful Design
 
 How can both of these concepts be true?
 
-It's not a new idea that beauty isn't the same for everyone
-
 > “there are as many styles of beauty as there are visions of happiness”
 > — Stendhal
+
+It's not a new idea that beauty isn't the same for everyone
 
 > "Beauty in things exists merely in the mind which contemplates them."
 > — David Hume's Essays, Moral and Political, 1742
 
-## Ideological, Critical, Beautiful
+What new or objective criteria are there for beauty in Sustainable Graphic Design?
+
+Ideological, Critical, Beautiful
 
 > “all design is ideological, the design process is informed by values based on a specific world view.”
 > — Anthony Dunne and Fiona Raby, _Design Noir: The Secret Life of Objects_
@@ -80,20 +84,18 @@ If our world view is “the welfare of all life,” how does that shift what and
 
 Dunne and Raby are proponents of “critical design,” design that “provides a critique of the prevailing situation through designs that embody alternative social, cultural, technical, or economic values.”
 
-Sustainable graphic design is not just design that helps people and our planet, but design that should also be critical of existing social, cultural, technical, AND economic structures.
+Sustainable graphic design should be critical of current social, cultural, technical, AND economic structures.
 
-The criteria for "beauty" are part of the systems we need to be critical of. The characteristics we base formal goodness on come from modernist ideals born out of the late 19th through the mid-20th centuries, which subsequently have been adopted by business, government, and general society as “good.”
+And, the criteria for "beauty" are part of the systems we must be critical of.
+
+Contemporary formal goodness has evolved from modernist ideals born out of the late 19th through the mid-20th centuries and western traditions, which subsequently have been subsequently adopted by business, government, and general society as “good” style.
 
 > Mid-century modernism is so embedded in culture that the "rules" of good graphic designing are just the "rules" of modernism.
 > — Jerome Harris
 
-Our sense of good or beautiful design is biased towards modernist ideals; these do not necessarily lead to all life flourishign.
+Our sense of good or beautiful design is biased towards these modernist ideals; the same formal and conceptual ideals; as we can see around us, these concepts do not lead to all life flourishing.
 
-What new criteria are there for beauty in Sustainable Graphic Design?
-
-## Other Ways To Define "Beauty"?
-
-Bruce Sterling outlines four criteria for sorting through our lives' objects:
+Bruce Sterling outlines four criteria for organizing objects:
 
 - Beautiful Things
 - Sentimental Things
@@ -102,21 +104,17 @@ Bruce Sterling outlines four criteria for sorting through our lives' objects:
 
 If an object falls into one of the first three categories (beautiful, sentimental, or utilitarian), keep it. If it falls into “Everything Else” be rid of it (or never make it to begin with!).
 
-“beauty” in these previous contexts encompasses all Sterling’s "keep" points; everything else is the not beautiful, the un-sustainable.
+I think “beauty” in these previous contexts encompasses all Sterling’s "keep" points. Sterling's everything else is the not beautiful, the un-sustainable.
 
-To me, a hammer is utilitarian AND beautiful. To you, it might just be functional. The paintings, drawings, and houseplants I find beautiful are what another might find ugly. The things I find sentimental are probably unique to me.
+To me, a hammer is utilitarian AND beautiful. To you, it might just be functional. The paintings, drawings, and houseplants I find beautiful are what another might find ugly. The things I find sentimental are probably unique to me. This is okay.
 
-This is okay.
+There will be enough overlaps between beauty, utility, and sentimentality that some common ground can be found.
 
 Sustainable graphic design’s "look" must take it’s cue from this: Anything that helps promote the flourishing of nature’s interconnected systems will look correct.
 
-That doesn’t require a particular style, material, or typeface
-
 Whether a viewer is turned on by the pure beauty or the utilitarian functionality of a solution matters not, what matters is what is communicated.
 
-## Biomimicry
-
-Alternately, we can turn to something else entriely. The tennants of Biomicry as as follows:
+That doesn’t require a particular style, material, or typeface
 
 - Nature runs on sunlight.
 - Nature uses only energy it needs.
@@ -128,53 +126,147 @@ Alternately, we can turn to something else entriely. The tennants of Biomicry as
 - Nature curbs excess from within.
 - Nature taps the power of limits.
 
-This doesn't imply a style, an aesthetic, but it does give us criteria to judge formal fitness from.
+Biomimicry's tenants don't imply a style, or an aesthetic, but they do give us criteria to judge formal fitness from.
+
+Sustainable aesthetics visualize good ethics
+
+Designers as sustainabilitists = designers as good human beings.
+
+> “There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named.  It is never twice the same, because it always takes its shape from the particular place in which it occurs.”
+> — Christopher Alexander
+
+The qualities that promote the welfare of all life are, like the quality without a name, ineffable.
+
+And like the quality without a name, aesthetics that correspond with all life flourishing, shift and change with different contexts.
+
+A wild garden, a cathedral, a monarch butterfly, a thriving farmers market.
+
+Instead of attempting to nail things down literally or concretely, a “feeling” needs to be found instead, or a pattern that can be applied
+
+How might we go about realizing in form how we have aligned ourselves philosophically?
+
+Semiotics: What aesthetics or forms convey a feeling of sustainability?
+
+No aesthetic direction is without expression. Forms convey certain meanings. Typefaces impart different feelings. Images have different intents.
+
+Viewers refer to visual solutions as feeling cold, sterile, corporate, warm, homey, etc.
+
+Is there then a visual solution that conveys “sustainability?”
+
+What about conveying the feeling of "all life flourishing?"
+
+The aesthetic tropes that return when one does a web search for "sustainable aesthetics" or "green graphic design" do  not necessarily convey the feeling of sustainability.
+
+Certainly just turning something green does not correspond with the welfare of all life.
+
+When we say that design communicates what we really mean is that design signals clearly and cleverly.
+
+How should a sustainable object signal? What should a sustainable object signal?
+
+What signals are the best signals for the welfare of all life?
+
+Signs Signaling Sustainability
+
+How do we turn every design opportunity into a sign signaling sustainability?
+
+Make tangible, make understandable something about climate change. This is doable no matter the project; no matter the prompt. There are myriad other aspects of climate change and sustainability one might signal.
+
+This is an opportunity to find the "context" for which "beauty" becomes apparent in a design without resorting to superficial styling.
+
+Amager Bakke Vapor Ring Rendering
+
+A concept that was never made; but that sent me down this direction: Copenhagen waste to energy plant is so clean its exhaust stack puffs only CO2 and water vapor. Upon capturing 1 ton of CO2, exhausts it as a smoke ring. Help you visualize this otherwise intangible!? (Bjarke Ingels Group)
+
+Reverberation Crosswalks
+
+Graham Coreil Allen's _Reverberation Crosswalks_ are fun, brightly colored crosswalks. Paint on cement and asphalt; _Reverberations Crosswalks_ signals a sustainable vector forward. The neighborhood around this intersection is now more walkable. You can't not notice the crosswalks, they're utilitarian if nothing else. They contribute to life flourishing in the city. This concept is cheap; fast; easily replicated; can be customized for region, culture, available materials, etc.
+
+Solar.LowTechMagazine.com
+
+Low Tech Magazine's solar powered website signals how we might visualize energy usage; how we might enable new systems of powering our tools; questions if we really need constant connection; and how aesthetic choices correlate to physical resources even in the digital sphere.
+
+DC High Water Mark Project
+
+The DC water mark project visualizes increased flooding and water level rise — where these impacts will be felt by you in this place! The water level rings articulate "oh shit, this place might be underwater pretty frequently given our current projected future!" Maybe then we can act accordingly and redirect our present towards a future where that is no longer true. Without *seeing* your house or office or favorite park area submerged, even symbolically, you cannot envision an alternative.
+
+Tattfoo Tan, *S.O.S. Steward*
+
+Enrolled in various green courses and acquired certification for green knowledge. To flaunt new found titles, created merit patches to be worn on gray coveralls and wear it during events and gardening session. <http://tattfoo.com/sos/SOSGreenStewardship.html>
+
+FreshPress Paper
+
+Prairie grass and agricultural waste for new paper fiber sources! These papers end up being very low carbon, or even carbon negative, in their footprints.
+
+Are these all objective criteria to then count these solutions as beautiful? I certainly count them as sustainable.
+
+Climate Design Posters?
+
+Printing thing after thing on the scrap paper left over in the RISO studio…
+
+Bike Pool Noodle Hack
+
+Foam pool noodle rubber banded to a bike rack... That's real utilitarian graphic design.
+<https://www.are.na/block/4299163>
 
 ## Conclusion
 
-In prepping for this lecture I was trying to find the threads that tie my works together. That thread was this question, what does SGD look like, or what is SGD?! Everything I make is an attempt at answering it.
+In prepping this lecture I was looking for the thread that connected my works together. That thread was this question, what does SGD look like, or what is SGD?! Everything I make is a continuous, evolving attempt at answering it.
+
+The definition of sustainable graphic design is easy and hard. Sustainable graphic design is any visual design that sustains the welfare of all life. Sustainable graphic design is hard because, well, what constitutes graphic design that sustains the welfare of all life? What is the _je ne sais quoi_ that makes sustainable design different, more correct, more capable of doing this sustaining?
+
+Our current tools, ideas, and cultural systems aren’t setup to help us to understand this or to manufacture products in this vein. Part of figuring out what sustainable graphic design is means we’ll also have to continue to decide what forms, tools, and new societal structures are required to realize it effectively (& help to design these too).
+
+There is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist).
+
+What is Sustainable Graphic Design? Anything that visualizes the caretaking of our Spaceship Earth, in any way large or small.
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 ## A Place to Start: Define Sustainable Graphic Design
 
-In the 2013 book _Flourishing: A Frank Conversation about Sustainability_, John Ehrenfeld writes “The key to doing something about sustainability is that you first have to say what it is that you want to sustain.”‡1 So, to define sustainable graphic design we must first define what it is we are sustaining.
+> The key to doing something about sustainability is that you first have to say what it is that you want to sustain.
+> — John Ehrenfeld, _Flourishing: A Frank Conversation about Sustainability_
 
-Here are some definitions of sustainability… Most of them speak vaguely about looking out for the future, or conserving resources, or just being nice into the future, but they aren't clear about what is to be sustained, other than I guess whatever we think our current situations are.
+To define sustainable graphic design we must first define what it is we are sustaining.
 
-If sustainable graphic design is design in service of what we want to sustain — what's worth sustaining? (this means that if we want to sustain the status quo, then that is what sustainable graphic design is — hmmm!?). Ehrenfeld wants to sustain “that all humans and other life should flourish.”‡2
+Here are some definitions of sustainability…
 
-Designer Bruce Mau actually has a similar description for the goals of _Massive Change_: “Our project is the welfare of _all life_ as a practical objective.”‡3
+If sustainable graphic design is design in service of what we want to sustain — what's worth sustaining? (this means that if we want to sustain the status quo, then that is what sustainable graphic design is — hmmm!?).
 
-In this line of reasoning sustainable graphic design is “graphic design in support of all life flourishing,” or “graphic design for the welfare of all life.” Sustainable Graphic Design defined this way is _different_ than status quo design. All life flourishing is not the traditional goal of business, culture, and design.
+Ehrenfeld wants to sustain “that all humans and other life should flourish.”
 
-Throughout art and design history, new thinking and new tools launched new aesthetic outcomes. Sustainable graphic design requires new and different thinking. Sustainability brings with it all manner of new technologies, new social structures, and new tools. And if that's the case then sustainable graphic design should then carry with it the potential for different and new styles/aesthetics.
+Designer Bruce Mau has a similar description for the goals of _Massive Change_: “Our project is the welfare of _all life_ as a practical objective.”
 
-Is selecting a font that uses minimal ink the best way to select a font? Should a font’s or grid’s appearance matter as much as the energy and material and social ills it saves? Would a font that is more condensed and thus uses up less space (saving tons of paper over a print run and exposure to chemicals to the printers (I guess we should be spec’ing an inert ink as well (can we make our own inks from oak galls and iron ore?))) be better? Can we combine the two? The thinest, most condensed, lightest ink coverage font is the most sustainable? This can easily be taken absurd lengths.
+So, sustainable graphic design is “graphic design in support of all life flourishing,” or “graphic design for the welfare of all life.”
 
-Instead of just reducing or minimizing resources, could we reuse or recycle? Is there a way to graphic design that uses old materials over and over again? Can we apply the Cradle to Cradle cyclical idea of _waste = food_‡4 to our graphic designing? Via the "waste = food" concept, Michael Braungart and William McDonough want us to understand our culture's problematic relationship with waste. Nature produces no waste; outputs from one system are always inputs for another. However, our current design and consumer cultures do not operate in this way. Karrie Jacobs points this out quite bluntly in her essay _Disposability, Graphic Design, Style, and Waste_: designers make garbage. Our inputs have only one output, trash! And trash must be sent away; not locally used for making more design… How can our creative waste from a design process become food for other designs/design processes??
+Sustainable Graphic Design defined this way is _different_ than status quo, or "regular," cultural production. All life flourishing is not the traditional goal of business, culture, and design.
 
-This line of design problem solving is limited in its ability to exact meaningful change. It tackles resultant outcomes from a resource perspective; but doesn’t embrace “that all life should flourish.” Negative effects can be minimized, but is focusing on resource efficiencies enough? Making choices around resource use might make “less bad”  graphic design, but it doesn’t necessarily make for _sustainable_ graphic design.
+Throughout art and design history, new thinking and new tools launched new aesthetic outcomes.
 
-## Sustainable aesthetics visualize good ethics
+Sustainable graphic design requires new and different thinking. Sustainability brings with it all manner of new technologies, new social structures, and new tools.
 
-How might we go about realizing in form how we have aligned ourselves philosophically?
+Sustainable graphic design should then carry with it the potential for different, new styles/aesthetics.
 
-“There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named.  It is never twice the same, because it always takes its shape from the particular place in which it occurs.”‡10
+Is selecting a font that uses minimal ink the best way to select a font? Should a font’s or grid’s appearance matter as much as the energy and material and social ills it saves? Would a font that is more condensed and thus uses up less space (saving tons of paper over a print run and exposure to chemicals to the printers) be better? Can we combine the these? The thinest, most condensed, lightest ink coverage font is the most sustainable? This can easily be taken absurd lengths.
 
-Perhaps the issue here is that the qualities that do promote the welfare of all life are, like the quality without a name Alexander presents, ineffable. And like the quality without a name, the aesthetics that correspond with this, the graphic design visuals that might show the welfare of all life shift and change with different contexts. A wild garden, a cathedral, a monarch butterfly, a thriving farmers market. So instead of attempting to nail things down literally or concretely, a “feeling” needs to be found instead?
+This line of design problem solving is limited in its ability to exact meaningful change. It tackles resultant outcomes from a resource perspective; but doesn’t necessarily embrace “the welfare of all life.” Negative effects can be minimized, but is focusing on resource efficiencies enough? Making choices around resource use might make “less bad” graphic design, does it make for _sustainable_ graphic design.
 
-(Page 6 of notes have a lot of things to think about on this one in particular space wise.......... )
+Is there a way to graphic design that uses old materials over and over again?
 
-## Semiotics: What aesthetics or forms convey a feeling of sustainability?
+Can we apply the _Cradle to Cradle_ cyclical idea of _waste = food_ to our graphic designing?
 
-Forms are chosen to convey certain meanings. Typefaces impart different feelings and intents. No aesthetic direction is without expression. Viewers refer to visual solutions as feeling cold, sterile, corporate, warm, homey, etc. Is there then a visual solution that can convey the feeling of “sustainability?” that can convey the feeling of all life flourishing?
+Via the "waste = food" concept, Michael Braungart and William McDonough want us to understand our culture's problematic relationship with waste.
 
-A search for sustainable aesthetics online uncovers leaves, green things, brown things, wood things, bamboo things… These aesthetic tropes come back again and again, but this does not necessarily convey the feeling of sustainability, certainly just turning something green does not correspond with the welfare of all life.
+Nature produces no waste; outputs from one system are always inputs for another. Our current design and consumer cultures do not operate in this way.
 
-Design communication happens in a single direction — from the designed piece to the viewer. In this way, it isn’t really communication, it is signaling. Signaling what is supposed to be happening. (A tea kettle whistles to let you know it is ready; the user has no communication back with the tea kettle). When we say that design communicates what we really tend to mean is that design signals clearly and cleverly. We mean it in a one directional, semiotic sense.
+> designers make garbage.
+> Karrie Jacobs,  _Disposability, Graphic Design, Style, and Waste_
 
-How does a sustainable object signal? What does a sustainable object signal? What signals are the best signals for the welfare of all life?
+Our inputs have only one output, trash! And trash must be sent away; not locally used for making more design…
+
+How can creative waste from a design process become food for other designs/design processes? Is this a way to achieve beauty?
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 ### Example: Green Acres
 
@@ -210,68 +302,7 @@ Do I need to explain some graphics really clearly???
 
 ### Example: The Greenest Green?
 
-## Signs Signaling Sustainability
-
-I like to call designs like this "Signs signaling Sustainability." This is the real opportunity for Designers taking climate action — turning every design opportunity into a sign signaling sustainability. Make tangible, make understandable something about climate change. This is doable no matter the project; no matter the prompt. There are myriad other aspects of climate change and sustainability one might signal.
-
-### Reverberation Crosswalks
-
-Take for instance Graham Coreil Allen's *Reverberation Crosswalks*. On the surface, these are fun, brightly colored crosswalks — paint on cement and asphalt; not particularly innovative in the "new materials" or "direct carbon capture." But! looking at Project DrawDown solutions, *walkable cities* is the 50th overall reduction solution. Suddenly *Reverberations Crosswalks* signals a sustainable vector forward. The neighborhood around this school is more walkable. You can't not notice the crosswalks, hopefully this makes you more likely to walk yourself. This concept is cheap; fast; easily replicated; can be customized for region, culture, available materials, etc.; AND can help make more people walk in the city. Bam! Climate Designed.
-
-### Solar.lowtechmagazine.com
-
-Distributed Solar Photovoltaics is also on Drawdown's list. And Low Tech Magazine's solar powered website signals how we might visualize energy usage; how we might enable new systems of powering our tools; questions if we really need constant connection; and how aesthetic choices correlate to physical resources even in the digital sphere.
-
-### DC High Water Mark Project
-
-And you don't have to just signal "sustainable" things from DrawDown... that's just an easy way to get started.
-
-The DC water mark project visualizes increased flooding and water level rise — where these impacts will be felt by you in this place! The water level rings articulates to us "oh shit, this place might be underwater pretty frequently given our current projected future!" Then maybe we can act accordingly and redirect our present towards a future where that is no longer true. Without *seeing* your house or office or favorite park area submerged, even symbolically, you cannot envision an alternative.
-
-### Tattfoo Tan, *S.O.S. Steward*
-
-Enrolled in various green courses and acquired certification for green knowledge. To flaunt my new found title in the form of a merit patch on my gray coverall and wear it during events and gardening session. I'm intrigue by the certification of knowledge and the power that was bestow by the agency that gave the certificate. Partly propelled by the thirst of knowledge and partly to sustain the endurance of going to classes and community service requirements of these courses. (<http://tattfoo.com/sos/SOSGreenStewardship.html>)
-
-### Amager Bakke Vapor Ring Rendering
-
-Copenhagen waste to energy plant is so clean it puffs just c02 and water vapor... Captures 1 ton of C02, then exhausts it as a smoke ring. Help you visualize this otherwise intangible!?
-
-### FreshPress Paper
-
-Eric Benson as part of his research at the university of Illinois is growing prairie grass and using agricultural grass for new paper fiber sources! These papers end up being very low carbon, or even carbon negative. In their footprints.
-
-### Climate Design Posters?
-
-Printing thing after thing on the scrap paper left over in the RISO studio…
-
-### Others???
-
-- *Climates: Architecture and the Planetary Imaginary*
-  - Neil Donnelly, 2016. The interior paper gets gradually thinner from the beginning to the end, conveying scarcity and depletion through the materiality of the book. One could easily see something like this in reverse, perhaps a book about sea level rise has its paper get thicker as the book progresses? (<https://neildonnelly.net/#climates>)
-- Improvisational Lamps?
-- Bike Pool Noodle Hack <https://www.are.na/block/4299163>
-
-## Conclusions?
-
-The definition of sustainable graphic design is both an easy one and hard one. It is easy in that sustainable graphic design is just design that sustains the welfare of all life. That is a short, direct sentence. Easy to write down. But, it is hard because, well, what constitutes graphic design that sustains the welfare of all life? What is the _je ne sais quoi_ that makes  sustainable design different, more correct, more capable of doing this sustaining?
-
-Our current tools, ideas, and cultural systems aren’t setup to help us to understand this or to manufacture products in this vein. Part of figuring out what sustainable graphic design is, means we’ll also have to continue to decide what forms, tools, and new societal structures are required to realize it effectively (& help to design these too). Designers as sustainabilitists = designers as good human beings. :boom:
-
-So what is Sustainable Graphic Design? Anything that visualizes the caretaking of our Spaceship Earth …
-
-[[ This ending sucks. Still need something a bit more clear and really "concluding" here... ]]
-
-What does SGD look like?
-
-I am currently inclined to believe that there is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist).
-
-A “correct” style may be irrelevant when it comes to what sustainable graphic design should look like.
-
-What comes to mind when you hear the phrase “sustainable design?” Brown paper? Soy Ink? Bamboo? Reuse? Is there a particular aesthetic? Is there a particular kind of client? Is there a particular product? Is there a particular visual trope or look or feel? How about a particular message? A particular manufacturing process?
-
-so what does sustainable graphic design look like? I'm still not completely sure, but I'm still working on it…
-
-## Example: End with the sustainabilitist principles???
+### Example: the sustainabilitist principles???
 
 _The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it conveyed, while also disseminating them. It was a poster, that happened to also be a sculpture, and a novel concept.
 
