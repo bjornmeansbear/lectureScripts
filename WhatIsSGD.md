@@ -255,8 +255,6 @@ Sustainability brings with it all manner of new technologies, new social structu
 
 Should Sustainable graphic design then carry with it the potential for different, new styles/aesthetics?
 
-An example: Selecting a font: Is selecting a font that uses minimal ink the best way to select a font? Should a font’s appearance matter as much as the energy and material and social ills it saves? Would a font that is more condensed and thus uses up less space (saving tons of paper over a print run and exposure to chemicals to the printers) be better? Can we combine the these? The thinest, most condensed, lightest ink coverage font is the most sustainable? This can easily be taken absurd lengths. And this line of design problem solving is limited in its ability to exact meaningful change. It can be Critical Design, critiquing the status quo. And it tackles resultant outcomes from a resource perspective; but doesn’t necessarily embrace “the welfare of all life.” Negative effects can be minimized, but is focusing on resource efficiencies enough? Making choices around resource use might make “less bad” graphic design, does it make for _sustainable_ graphic design? //////// An Example: Goes with above stuff... Sustainability. Experimental letterforms made using 000letter <http://kielm.land/>. playing around w/ idea of minimal line width and general scale for saving both space and ink coverage.
-
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 Nature produces no waste; outputs from one system are always inputs for another. Our current design and consumer cultures do not operate in this way.
@@ -271,6 +269,8 @@ Our inputs have only one output, trash! And trash must be sent away; not locally
 Can we apply the _Cradle to Cradle_ cyclical idea of _waste = food_ to our graphic designing? How can creative waste from a design process become food for other designs/design processes? Is this a way to achieve beauty?
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+An example: Selecting a font: Is selecting a font that uses minimal ink the best way to select a font? Should a font’s appearance matter as much as the energy and material and social ills it saves? Would a font that is more condensed and thus uses up less space (saving tons of paper over a print run and exposure to chemicals to the printers) be better? Can we combine the these? The thinest, most condensed, lightest ink coverage font is the most sustainable? This can easily be taken absurd lengths. And this line of design problem solving is limited in its ability to exact meaningful change. It can be Critical Design, critiquing the status quo. And it tackles resultant outcomes from a resource perspective; but doesn’t necessarily embrace “the welfare of all life.” Negative effects can be minimized, but is focusing on resource efficiencies enough? Making choices around resource use might make “less bad” graphic design, does it make for _sustainable_ graphic design? //////// An Example: Goes with above stuff... Sustainability. Experimental letterforms made using 000letter <http://kielm.land/>. playing around w/ idea of minimal line width and general scale for saving both space and ink coverage.
 
 An example: Reduction as a design strategy. Taking one starting point and attempting to reduce colors, forms, coverage, etc. / Include Make/UnMake graphics?
 
