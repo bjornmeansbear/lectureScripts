@@ -1,12 +1,6 @@
 # What is Sustainable Graphic Design?
 
-Some kind of intro needed!?!?!?!?!
-
 What ties all my work together?
-
-I've been looking at a lot of different things the last several weeks.
-
-I've been working since 2006 in and around sustainability.
 
 Sustainabilitists take over where environmentalism ends, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas, new hybrids — accept and deal with a constant flux between nature, society, economy — everything.
 
@@ -14,11 +8,11 @@ In my twenty year role as graphic designer I've designed books, record sleeves, 
 
 I'm going to walk us through a few case-studies dealing with "what Sustainable Aesthetics might look like." …
 
-## A Place to Start
+## A Place to Start: Define Sustainable Graphic Design!
 
 In the 2013 book _Flourishing: A Frank Conversation about Sustainability_, John Ehrenfeld writes “The key to doing something about sustainability is that you first have to say what it is that you want to sustain.”‡1 So, to define sustainable graphic design we must first define what it is we are sustaining.
 
-As a quick aside, here are some definitions of sustainability… Most of them speak vaguely about looking out for the future, or conserving resources, or just being nice into the future, but they aren't clear about what is to be sustained, other than I guess whatever we think our current situations are.
+Here are some definitions of sustainability… Most of them speak vaguely about looking out for the future, or conserving resources, or just being nice into the future, but they aren't clear about what is to be sustained, other than I guess whatever we think our current situations are.
 
 If sustainable graphic design is design in service of what we want to sustain — what's worth sustaining? (this means that if we want to sustain the status quo, then that is what sustainable graphic design is — hmmm!?). Ehrenfeld wants to sustain “that all humans and other life should flourish.”‡2
 
@@ -26,11 +20,11 @@ Designer Bruce Mau actually has a similar description for the goals of _Massive 
 
 In this line of reasoning sustainable graphic design is “graphic design in support of all life flourishing,” or “graphic design for the welfare of all life.” Sustainable graphic design doesn’t then solely rely on better materials or more socially conscious manufacturing. Graphic design framed this way may preclude certain types of projects and certain kinds of clients. Graphic design framed this way will have to evolve over time — what is important today to help all life will presumably change by next year or in a decade. Graphic design framed this way opens up the realm of possibilities for what a graphic design project is. Sustainable Graphic Design defined this way is _different_ than status quo design. All life flourishing is not the traditional goal of business, culture, and design.
 
-Throughout art and design history, new thinking and new tools launched new aesthetic outcomes. Sustainable graphic design, graphic design for the welfare of all life, requires different ways of thinking than other current designs. Sustainability brings with it all kinds of new technologies, new social structures, and new tools; so Sustainable graphic design should then carry with it the potential for different and new styles/aesthetics.
+Throughout art and design history, new thinking and new tools launched new aesthetic outcomes. Sustainable graphic design requires new and different thinking. Sustainability brings with it all manner of new technologies, new social structures, and new tools. And if that's the case then sustainable graphic design should then carry with it the potential for different and new styles/aesthetics.
 
 ## What does our “different” kind of design look like?
 
-What do you visually picture in your mind when you hear “sustainable graphic design?” Is there a particular aesthetic A particular color? A particular archetypal client? A particular feeling? A particular message? A particular set of symbols?
+What do you visually picture in your mind when you hear “sustainable graphic design?” Is there A particular color? A particular archetypal client? A particular feeling? A particular message? A particular set of symbols? A particular aesthetic?
 
 What aesthetic is most sustainable? How do we answer this question? Is it even worth asking? And then what do we base our choices on: energy reduction? Better resource use? Instigating social change? (Minimalism is the mots sustainable aesthetic!?)
 
