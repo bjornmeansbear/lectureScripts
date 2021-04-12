@@ -1,8 +1,6 @@
 # What is Sustainable Graphic Design?
 
-My lecture today is called "What is sustainable graphic design?"
-
-I'm presenting you with a melange of arguments and definitions to help curate a space where visual designing and sustainability overlap meaningfully. I'm going to walk us through some theories and a few case-studies dealing with "what Sustainable Aesthetics might look like." We'll talk materials, aesthetics, forms, processes, semiotics, and philosophies.
+My lecture is called "What is sustainable graphic design?" I'm presenting you with arguments and definitions to help curate a space where visual designing and sustainability overlap meaningfully. I'm going to walk us through some theories and a few case-studies dealing with "what Sustainable Aesthetics might look like." We'll talk materials, aesthetics, forms, processes, semiotics, and philosophies.
 
 ## Quick background
 
@@ -12,13 +10,13 @@ Sustainability has also been a key aspect of my work. I was making biodiesel, co
 
 ## A place to start
 
-The sustainabilitist principles.
+The sustainabilitist principles?
 
 ## Define Sustainability? Define Sustainabilitists?
 
 Sustainabilitists take over where environmentalism ends, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas, new hybrids — accept and deal with a constant flux between nature, society, economy — everything.
 
-Sustainability charts…
+Sustainability charts… The triple bottom line - separate but additive; and then Economy within Society within Nature — holistic; what buckminster fuller was talking about when he said we live on "spaceship earth"
 
 ## Sustainabilitist Aesthetics
 
@@ -47,11 +45,7 @@ Designer Bruce Mau has a similar description for the goals of _Massive Change_: 
 
 So, this is what we'll use as our definition of Sustainable Graphic Design for the remainder of the talk:
 
-sustainable graphic design is “graphic design in support of all life flourishing,”
-
-or
-
-“graphic design for the welfare of all life.”
+sustainable graphic design is “graphic design in support of all life flourishing,” or, “graphic design for the welfare of all life.”
 
 ## Sustainable Graphic Design is DIFFERENT
 
@@ -277,7 +271,7 @@ Anything that helps promote the flourishing of nature’s interconnected systems
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
-## Sustainable Design does not exist.
+## Sustainable Design does not exist
 
 "Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
 
@@ -299,9 +293,7 @@ The goal: make the resultant book "sustainable." These were sustainability focus
 
 Well, in the end the only thing that made the production of this book "sustainable" was that it was printed on demand, and used recycled, unbleached paper.
 
-My thinking was limited to this "try to minimize material or process damage" scope at the time.
-
-Visually, the book's design was about the juxtaposition of small art farms vs. giant commercial farms. These artistic field graphics over a constrained grid based on aerial commercial farmland photography wsa an attempt at this "criticality."
+Visually, the book's design was about _critical design_; the juxtaposition of small art farms vs. giant commercial farms. These artistic field graphics over a constrained grid based on aerial commercial farmland photography was an attempt at this "criticality."
 
 While the book intends to say something different, it generally conforms to common standards of "good" modernist layout. Other than a minor production method improvement, it's the same … !
 
