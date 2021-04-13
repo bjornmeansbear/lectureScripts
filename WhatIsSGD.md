@@ -12,6 +12,30 @@ Sustainability has also been a key aspect of my work. I was making biodiesel, co
 
 The sustainabilitist principles?
 
+The sustainabilitist principles is an inflection point.
+
+It's also an "asnwer" to a question we'll be looking at today: What does SGD look like?
+
+## What does SGD look like?
+
+This question has fascinated me.
+
+design, art, these tend to be about making beautiful things for making beautiful things' sake. But these days, graphic design, particularly sustainable graphic design, sure makes beautiful things still, but its much more likely about making things for a reason BEYOND pure beauty.
+
+So, SGD maybe looks the same? maybe it looks eco-friendly? maybe it looks to the ambitious freezer?
+
+Form! the formal! making one's ideas manifest in stylized objects.
+
+Form <> Content <> Context
+
+Form is visuals, beauty, the steroetype of form first!
+
+Content is critical, it pressures form to rethink itself. There are other ways of defining beauty or for output
+
+Context is whatever else is going on -- the quality without a name ???
+
+These match to economy, society, nature???
+
 ## Define Sustainability? Define Sustainabilitists?
 
 Sustainabilitists take over where environmentalism ends, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas, new hybrids — accept and deal with a constant flux between nature, society, economy — everything.
