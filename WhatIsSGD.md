@@ -10,49 +10,41 @@ Sustainability has also been a key aspect of my work. I was making biodiesel, co
 
 ## A place to start
 
-The sustainabilitist principles?
-
 The sustainabilitist principles is an inflection point.
-
-It's also an "answer" to a question we'll be looking at today: What does SGD look like?
-
-## Sustainable Design does not exist
-
-"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
-
-But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
 
 ### Example: the sustainabilitist principles???
 
-_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it conveyed, while also disseminating them.
+_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal: create an object whose form embodied the principles it conveyed.
 
-_The Sustainabilitist Principles_ started out as me looking at the books on my desk, wondering where "sustainable" designing lay within them… then trying to map connections between all these texts… then trying to write about and illustrate the principles; the interconnections over time and space of similar ideals… and then how to clarify access to the ideas for the next designer.
+_The Sustainabilitist Principles_ started out as the books on my desk, I was wondering where "sustainable designing" lay within them… mapping connections between these ideas… then writing about and illustrating the principles; the interconnections over time and space of similar ideals… finally, how to clarify access to the ideas for the next designer.
 
-The final output of this direction brought necessary pieces together in an intentional, but ephemeral, form for an exhibition, and then allowed for everything to go back to its initial state when that exhibition was over. I did not need to make yet another book or a poster series to explain these principles; the objects themselves could do it on their own! Design that does not exist. The books were my books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The novels went back to the free book exchange where they were found afterward. Even the shape of the "graphic" was meant to use the embroidery floss interconnecting things in the longest possible pieces to maximize reuse of the thread afterward.
+The final output of this direction brought necessary pieces together in an intentional, ephemeral form for an exhibition. I did not need to make another book or a poster series to explain these principles: the objects themselves could do it if put together correctly! The books were my actual books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The embroidery floss interconnecting things was used in the longest possible pieces to maximize reuse of the thread afterward.
+
+So, this was what I felt was my first really successful piece of "sustainable graphic design." It was also my sort of final "answer" to a question in grad school that we'll be looking at today: "What does Sustainable Graphic Design look like?"
 
 ## What does SGD look like?
 
-This question has fascinated me.
+This question continues to fascinate me.
 
-design, art, these tend to be about making beautiful things for making beautiful things' sake. But these days, graphic design, particularly sustainable graphic design, sure makes beautiful things still, but its much more likely about making things for a reason BEYOND pure beauty.
+As a grad student I had works that I felt fell into 3 main kinds of answers, and then a 4th wild card...
 
-So, SGD maybe looks the same? maybe it looks eco-friendly? maybe it looks to the ambitious freezer?
+- Sustainable Graphic Design Looks The Same
+  - Good design is good design. If you pick the right materials or processes sustainable design doesn't need to look or be any different.
+- Sustainable Graphic Design Looks Eco-Friendly
+  - Clearly wearing one's environmental and social activism on one's sleeve. Renewable energy, plant motifs, brown paper, natural dyes, etc.
+- Sustainable Graphic Design Looks Innovative
+  - Sustainability brings with it new ways of thinking, new tools, new technology; and so visuals should be new and innovative too…
+- Sustainable Graphic Design Does Not Exist!
 
-Form! the formal! making one's ideas manifest in stylized objects.
+## Sustainable Design does not exist
 
-Form <> Content <> Context
+"Sustainable design does not exist" was at first pessimistic. Is design all just trash? does design create waste period, so nothing is sustainable? Anything we make is unmaking so much else; so all design is unsustainable.
 
-Form is visuals, beauty, the stereotype of form first!
-
-Content is critical, it pressures form to rethink itself. There are other ways of defining beauty or for output
-
-Context is whatever else is going on -- the quality without a name ???
-
-These match to economy, society, nature???
+But! "Sustainable design does not exist" came to signify an alternative; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! that it was part of a vernacular process! suddenly this felt like a prompt for new works; new questions! A useful constraint for future work.
 
 ## Define Sustainability? Define Sustainabilitists?
 
-Sustainabilitists take over where environmentalism ends, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas, new hybrids — accept and deal with a constant flux between nature, society, economy — everything.
+Sustainabilitists take over where environmentalism left off, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas, new hybrids — accept and deal with a constant flux between nature, society, economy — everything.
 
 Sustainability charts… The triple bottom line - separate but additive; and then Economy within Society within Nature — holistic; what buckminster fuller was talking about when he said we live on "spaceship earth"
 
