@@ -14,7 +14,21 @@ The sustainabilitist principles?
 
 The sustainabilitist principles is an inflection point.
 
-It's also an "asnwer" to a question we'll be looking at today: What does SGD look like?
+It's also an "answer" to a question we'll be looking at today: What does SGD look like?
+
+## Sustainable Design does not exist
+
+"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
+
+But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
+
+### Example: the sustainabilitist principles???
+
+_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it conveyed, while also disseminating them.
+
+_The Sustainabilitist Principles_ started out as me looking at the books on my desk, wondering where "sustainable" designing lay within them… then trying to map connections between all these texts… then trying to write about and illustrate the principles; the interconnections over time and space of similar ideals… and then how to clarify access to the ideas for the next designer.
+
+The final output of this direction brought necessary pieces together in an intentional, but ephemeral, form for an exhibition, and then allowed for everything to go back to its initial state when that exhibition was over. I did not need to make yet another book or a poster series to explain these principles; the objects themselves could do it on their own! Design that does not exist. The books were my books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The novels went back to the free book exchange where they were found afterward. Even the shape of the "graphic" was meant to use the embroidery floss interconnecting things in the longest possible pieces to maximize reuse of the thread afterward.
 
 ## What does SGD look like?
 
@@ -28,7 +42,7 @@ Form! the formal! making one's ideas manifest in stylized objects.
 
 Form <> Content <> Context
 
-Form is visuals, beauty, the steroetype of form first!
+Form is visuals, beauty, the stereotype of form first!
 
 Content is critical, it pressures form to rethink itself. There are other ways of defining beauty or for output
 
@@ -294,20 +308,6 @@ What is Sustainable Graphic Design? Anything that visualizes the caretaking of o
 Anything that helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-## Sustainable Design does not exist
-
-"Sustainable design does not exist" was first a pessimistic "fourth way." Is design all just trash? does design create waste period, so nothing is sustainable? Or, literally, sustainable design is not a thing: anything you are making is unmaking so much else.
-
-But! "Sustainable design does not exist" came to signify an alternative vector; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! suddenly this felt like a prompt for new works; new questions! A useful constraint going forward.
-
-### Example: the sustainabilitist principles???
-
-_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal was to create an object whose form directly embodied the principles it conveyed, while also disseminating them.
-
-_The Sustainabilitist Principles_ started out as me looking at the books on my desk, wondering where "sustainable" designing lay within them… then trying to map connections between all these texts… then trying to write about and illustrate the principles; the interconnections over time and space of similar ideals… and then how to clarify access to the ideas for the next designer.
-
-The final output of this direction brought necessary pieces together in an intentional, but ephemeral, form for an exhibition, and then allowed for everything to go back to its initial state when that exhibition was over. I did not need to make yet another book or a poster series to explain these principles; the objects themselves could do it on their own! Design that does not exist. The books were my books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The novels went back to the free book exchange where they were found afterward. Even the shape of the "graphic" was meant to use the embroidery floss interconnecting things in the longest possible pieces to maximize reuse of the thread afterward.
 
 ### Example: Green Acres
 
