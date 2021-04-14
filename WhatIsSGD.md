@@ -10,15 +10,15 @@ In my twenty year role as graphic designer I've designed books, album covers, ma
 
 _The Sustainabilitist Principles_ is a modular manifesto; a collection of the ways of thinking to sustainably design as I considered them in 2009. The goal: create an object whose form embodied the principles it conveyed.
 
-_The Sustainabilitist Principles_ started out as the books on my desk, I was wondering where "sustainable designing" lay within them… mapping connections between these ideas… then writing about and illustrating the principles; the interconnections over time and space of similar ideals… finally, how to clarify access to the ideas for the next designer.
+_The Sustainabilitist Principles_ started out as the books on my desk, I was wondering where "sustainable designing" lay within them… mapping connections between ideas… writing about repeating principles… the interconnections over time and space of similar ideals… how to clarify access to the ideas for the next designer.
 
-The final output of this direction brought necessary pieces together in an intentional, ephemeral form for an exhibition. I did not need to make another book or a poster series to explain these principles: the objects themselves could do it if put together correctly! The books were my actual books. The screen printed definitions, they were printed on title pages and front matter of found paperback novels. The embroidery floss interconnecting things was used in the longest possible pieces to maximize reuse of the thread afterward.
+The final output of this direction brought necessary pieces together in an intentional, ephemeral form for an exhibition. I did not need to make another book or a poster series to explain these principles: the objects themselves could do it if I put them together correctly! The books were my actual books. The screen printed definitions, they were printed on the front matter of found paperback novels. The interconnecting embroidery floss was used in the longest possible pieces to maximize reuse of the thread afterward.
 
-So, this was what I felt was my first really successful piece of "sustainable graphic design." It was also my sort of final "answer" to a question in grad school that we'll be looking at today: "What does Sustainable Graphic Design look like?"
+This was what I felt was my first successful piece of "sustainable graphic design." It was also my final "answer" to a question in grad school: "What does Sustainable Graphic Design look like?"
 
 ## What does SGD look like?
 
-This question continues to fascinate me. Alongside the Sustainabilitist principles, I had works that I felt fell into 3 main kinds of "answers" — and then a 4th wild card...
+This question continues to fascinate me. Alongside the Sustainabilitist principles, I had works that I felt fell into 3 types "answers" — and then a 4th wild card...
 
 - Sustainable Graphic Design Looks The Same
   - Good design is good design. If you pick the right materials or processes sustainable design doesn't need to look or be any different.
@@ -30,14 +30,9 @@ This question continues to fascinate me. Alongside the Sustainabilitist principl
 
 ## Sustainable Design does not exist
 
-> Designers make garbage.
-> — Karrie Jacobs,  _Disposability, Graphic Design, Style, and Waste_
-
 "Sustainable design does not exist" was at first pessimistic. Is design all just trash? does design create waste period, so nothing is sustainable? Anything we make is unmaking so much else; so all design is unsustainable.
 
 But! "Sustainable design does not exist" came to signify an alternative; it didn't exist because it was ephemeral! because it reused existing objects in a new way! that it left no trace! that it was part of some continuous vernacular process! suddenly this was a prompt for new works; new questions; new directions! A useful constraint for future work.
-
-Now for some definitions.
 
 ## Define Sustainability & Define Sustainabilitists
 
@@ -48,8 +43,6 @@ When I talk about sustainability, I'm talking about these mindsets.
 - Nested: Economy within Society within Nature
   - holistic; what buckminster fuller was talking about when he said we live on "spaceship earth"
   - If you frame everything this way, you can't accidentally leave out a kind of sustainability.
-
-Sustainabilitists take over where environmentalism left off, moving from the realm of the environment into all realms. We must allow our designs, strategies and methodologies to evolve and adapt to new ideas, new hybrids — accept and deal with a constant flux between nature, society, economy — everything.
 
 ## Picturing Sustainabilitist Aesthetics
 
@@ -200,14 +193,6 @@ Foam pool noodle rubber banded to a bike rack... That's real utilitarian graphic
 ### Cradle To Cradle
 
 The cradle to cradle books are signs signaling sustainability. C2C is a "technical" nutrient -- the entire book is made to be taken back into a production process -- the pages are plastic, the ink reclaimable. The Upcycle is instead a biological nutrient, made to decompose and return to the cycles of nature. Paper, ink, binding, is all made to biodegrade…
-
-## A Final Idea: Carbon sequestering book!?
-
-As a concept, imagine a book. Now, when you open that book, all the pages are blank. But! what if they aren't blank — they're just not yet pigmented! What if by merely sitting in the air, your book slowly air captures carbon dioxide until the places that have been "printed" turn carbon black!
-
-I pitched this idea to Eric Benson: using his Fresh Press paper I wanted to start making books — carbon sequestering books. Prairie grass stores carbon in soil over time, his paper is an important part of the idea. Now to find ink to that direct air captures carbon too! The book text would slowly reveal itself as carbon was drawn into the ink.
-
-So this sequestering book focuses on "visualizing CO2" and how that relates to "the welfare of all life."
 
 ## Conclusion
 
