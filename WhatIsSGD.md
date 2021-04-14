@@ -1,16 +1,14 @@
 # What is Sustainable Graphic Design?
 
-This lecture is called "What is sustainable graphic design?" I'm presenting arguments and definitions to help curate a space where visual designing and sustainability overlap meaningfully. I'm going to walk us through some theories and a few case-studies dealing with "what Sustainable Aesthetics might look like." We'll talk materials, aesthetics, forms, processes, semiotics, and philosophies.
+This lecture is called "What is sustainable graphic design?" I'm attempting to curate a space where visual designing and sustainability overlap meaningfully. I'll walk us through some theories and a few case-studies dealing with "what Sustainable Aesthetics might look like."
 
 ## Quick background
 
-In my twenty year role as graphic designer I've designed books, record sleeves, magazines, logos, websites, exhibition graphics, and built digital tools. Regardless of final forms, if its client-based or self-initiated, I treat all my designs as opportunities for intellectual inquiry and self-expression.
+In my twenty year role as graphic designer I've designed books, album covers, magazines, logos, websites, and built digital tools. Regardless of final forms, if its client-based or self-initiated, I treat all my designs as opportunities for intellectual inquiry and self-expression.
 
 ## The sustainabilitist principles
 
-The sustainabilitist principles as an inflection point.
-
-_The Sustainabilitist Principles_ is a modular manifesto; a collection of my ideals for designing as a Sustainabilitist; the ways of thinking to create sustainably as considered in 2009. The goal: create an object whose form embodied the principles it conveyed.
+_The Sustainabilitist Principles_ is a modular manifesto; a collection of the ways of thinking to sustainably design as I considered them in 2009. The goal: create an object whose form embodied the principles it conveyed.
 
 _The Sustainabilitist Principles_ started out as the books on my desk, I was wondering where "sustainable designing" lay within them… mapping connections between these ideas… then writing about and illustrating the principles; the interconnections over time and space of similar ideals… finally, how to clarify access to the ideas for the next designer.
 
@@ -199,7 +197,9 @@ Prairie grass and agricultural waste for new paper fiber sources! These papers e
 Foam pool noodle rubber banded to a bike rack... That's real utilitarian graphic design.
 <https://www.are.na/block/4299163>
 
-### Cradle To Cradle.
+### Cradle To Cradle
+
+The cradle to cradle books are signs signaling sustainability. C2C is a "technical" nutrient -- the entire book is made to be taken back into a production process -- the pages are plastic, the ink reclaimable. The Upcycle is instead a biological nutrient, made to decompose and return to the cycles of nature. Paper, ink, binding, is all made to biodegrade…
 
 ## A Final Idea: Carbon sequestering book!?
 
