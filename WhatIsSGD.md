@@ -75,18 +75,20 @@ Should a font’s appearance matter as much as the energy and material and socia
 > “all design is ideological, the design process is informed by values based on a specific world view.”
 > — Anthony Dunne and Fiona Raby, _Design Noir: The Secret Life of Objects_
 
+Anthony Dunne and Fiona Raby write in their 2001 book Design Noir: The Secret Life of Objects that “all design is ideological, the design process is informed by values based on a specific world view.” If our world view is “the welfare of all life,” how does that shift what and how we graphic design?
+
 Anthony Dunne and Fiona Raby are proponents of “critical design,” design that “provides a critique of the prevailing situation through designs that embody alternative social, cultural, technical, or economic values.”
 
-If "all life flourishing" is not the goal of business, culture, and status quo design, Sustainable graphic design must be critical of current social, cultural, technical, AND economic structures. All life flourishing is not the traditional goal of business, culture, and design.
+Sustainable graphic design is not just design that helps people and our planet, but design that is also critical of existing social, cultural, technical, AND economic structures; since many of these things are harming all life, not helping them to flourish.
 
-The visual criteria for "formal goodness" or "beauty" are part of the systems we must be critical of.
+We judge graphic design on whether or not it is formally “good.”  But, we use visual criteria for "formal goodness" or "beauty" are part of the systems we must be critical of.
 
-Contemporary formal goodness as adopted by business, government, and general society as “good” style evolved from late 19th through mid-20th centuries western art traditions.
+Contemporary formal goodness evolved from late 19th through mid-20th centuries western art traditions.
 
 > Mid-century modernism is so embedded in culture that the "rules" of graphic designing are just the "rules" of modernism.
 > — Jerome Harris
 
-Our purely formal concepts from Modernist Capitalism do not lead to all life flourishing (it's usually the opposite!).
+The formal concepts from Modernist Capitalism do not lead to all life flourishing (it's usually the opposite!).
 
 We need new criteria for what formal goodness or "beauty" now are for Sustainable visual output!
 
@@ -101,6 +103,12 @@ Visually, the book's design was meant to be _critical design_; the juxtaposition
 While the book intends to say something different, it conforms to common standards of "good" modernist layout. Other than a minor production method improvement, it's the same … ! Is it Sustainable Graphic Design?
 
 ## A Descent Down the black hole that is Beauty
+
+In The Architecture of Happiness, Alain de Botton writes: “To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in a material medium.” This would then seem that However our ideals are materialized into graphic design yields “beautiful” graphic design.
+
+This then implies that Sustainable designers must see the non-sustainable as the less than beautiful. Edwin Datschefksi calls this “the hidden ugliness of traditional products.”‡8 Basically, the non-sustainable is (& can only be) ugly.
+
+Beauty will align with your values. A design is both sustainable AND beautiful when its form declares that humans and all other life should flourish. Is there a style, aesthetic, or form says this?
 
 > “To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in material medium.“
 > — Alain de Botton, The Architecture of Happiness
@@ -250,15 +258,8 @@ Design critic Bruce Sterling outlines three criteria for objects worth making, o
 - Sentimental Things
 - Utilitarian Things
 
-Perhaps “Beauty” encompasses all three of Sterling’s criteria for sustainable design. Because these are all ways to assign "value" to something.
-
-I might find a hammer utilitarian AND beautiful. To you, that hammer might just be utilitarian. The paintings, drawings, and houseplants I find beautiful you may find ugly. The things I find sentimental are probably unique to me.
-
-But! we now have something objective to measure: utility — do you find a thing to work; and something individually knowable: sentimentality. There is not merely an external, abstract "beauty" …
-
 > “There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named. It is never twice the same, because it always takes its shape from the particular place in which it occurs.”
 > — Christopher Alexander
 
 The qualities that promote the welfare of all life are, like the quality without a name, ineffable. And like the quality without a name, aesthetics that correspond with all life flourishing will shift and change with different contexts.
 
-Beauty and value are intertwined.
