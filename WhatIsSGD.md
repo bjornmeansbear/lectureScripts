@@ -228,27 +228,6 @@ As a conceptual exercise, this was great. But, did it make much of a difference?
 of course your questions,
 but here's a google doc, what are your values???
 
-±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-
-In prepping this lecture I was looking for the thread that connected my works together. That thread was this question, what does SGD look like, or what is SGD?! Everything I make is a continuous, evolving attempt at answering it.
-
-The definition of sustainable graphic design is easy and hard. Sustainable graphic design is any visual design that sustains the welfare of all life. Sustainable graphic design is hard because, well, what constitutes graphic design that sustains the welfare of all life? What is the _je ne sais quoi_ that makes sustainable design different, more correct, more capable of doing this sustaining?
-
-There is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist).
-
-Anything that helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface.
-
-So, now I ask again, what comes to mind when you hear “Sustainable Graphic Design?” Something that is truly beautiful. Perhaps elegant? Perhaps constrained? Perhaps Vernacular? Perhaps reused? Perhaps eco-friendly? But always beautiful.
-
-## Picturing Sustainabilitist Aesthetics
-
-What comes to mind when you hear the phrase “sustainable graphic design?”
-
-- Is there a particular style?
-- Is there a particular client?
-- Is there a particular material?
-- Is there a particular visual trope? a color? a pattern?
-- Is there a particular message?
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
