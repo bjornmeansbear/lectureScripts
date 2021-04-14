@@ -84,9 +84,7 @@ Sustainable Graphic Design defined this way is _different_ than status quo, or "
 
 “different” throughout western art and design history has often correlated with new thinking and new tools and those subsequently launched new aesthetic outcomes.
 
-Sustainability brings with it all manner of new technologies, new social structures, new tools.
-
-Should Sustainable graphic design then carry with it additional new forms and aesthetics? how does “the welfare of all life” shift what and how we graphic design?
+Sustainability brings with it all manner of new technologies, new social structures, new tools. Should Sustainable graphic design then carry with it additional new forms and aesthetics?
 
 ### An example: Selecting a font
 
@@ -124,22 +122,18 @@ While the book intends to say something different, it conforms to common standar
 
 ## A Descent Down the black hole that is Beauty
 
-Sustainable designers should see the non-sustainable as the less-than beautiful.
-
-If your design doesn't account for the welfare of all life, whatever the external aesthetics that wrap it, your design is ugly. Edwin Datschefksi calls this “the hidden ugliness of traditional products.”
-
-But, how do you define beauty? is there a sustainable kind of beauty?
-
 > “To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in material medium.“
 > — Alain de Botton, The Architecture of Happiness
 
-Alain de Botton thinks that Beauty will align with one's values. Then, however our ideals are materialized into graphic design yields “beautiful” graphic design.
+Alain de Botton thinks that Beauty's perception aligns with one's values. However our ideals are materialized into graphic design yields “beautiful” graphic design.
 
 Sustainable design’s form declares “humans & all life should flourish.” / If those are the values we want to align with, then beautiful design’s form declares “humans & all life should flourish.
 
 A design is both sustainable AND beautiful when its form declares that humans and all other life should flourish.
 
 Sustainable Design = Beautiful Design
+
+If your design doesn't account for the welfare of all life, whatever the external aesthetics that wrap it, your design is ugly. Edwin Datschefksi calls this “the hidden ugliness of traditional products.” — You are missing a component of holistic "beauty."
 
 > Beauty is in the eye of the beholder
 > — Margaret Wolfe Hungerford, Molly Bawn, 1878
@@ -156,70 +150,15 @@ It's not a new idea that beauty isn't the same for everyone
 > "Beauty in things exists merely in the mind which contemplates them."
 > — David Hume's Essays, Moral and Political, 1742
 
-So is there a way around this? What new or objective criteria might there be for beauty in Sustainable Graphic Design?
+Beauty = intrinsic value. What's valuable to you!?
 
-## Is beauty even a useful concept?
+Beauty = Value
 
-Design critic Bruce Sterling outlines three criteria for objects worth making, owning, and keeping:
+Value = Good Ethics
 
-- Beautiful Things
-- Sentimental Things
-- Utilitarian Things
+Good Ethics = All Life Flourishing
 
-Perhaps “Beauty” as described thus far really encompasses all three of Sterling’s criteria.
-
-I might find a hammer utilitarian AND beautiful. To you, that hammer might just be utilitarian. The paintings, drawings, and houseplants I find beautiful you may find ugly. The things I find sentimental are probably unique to me.
-
-But! we now have something objective to measure: utility — do you find a thing to work; and something individually knowable: sentimentality. There is not merely an external, abstract "beauty" …
-
-Maybe we need something with even more criteria to help us?
-
-Biomimicry is a practice that learns from and mimics the strategies found in nature to solve human design challenges
-
-- Nature runs on sunlight.
-- Nature uses only energy it needs.
-- Nature fits form to function.
-- Nature recycles everything.
-- Nature rewards cooperation.
-- Nature banks on diversity.
-- Nature demands local expertise.
-- Nature curbs excess from within.
-- Nature taps the power of limits.
-
-Like Sterling's criteria, Biomimicry's tenants don't imply a style, or an aesthetic, but they do give us some objective criteria to judge formal fitness from.
-
-## Cyclical Systems?
-
-Nature produces no waste; outputs from one system are always inputs for another. Our current design and consumer cultures do not operate in this way.
-
-Michael Braungart and William McDonough call this concept "waste = food." Through it, Braungart and McDonough want us to understand our culture's problematic relationship with waste. We see raw materials, we turn them into things, and then they go away when we're done.
-
-Can we apply the _Cradle to Cradle_ cyclical idea of _waste = food_ to our graphic designing? How can creative waste from a design process become food for other designs/design processes? Is this a way to achieve beauty?
-
-## Sustainable aesthetics visualize good ethics
-
-> “There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named. It is never twice the same, because it always takes its shape from the particular place in which it occurs.”
-> — Christopher Alexander
-
-The qualities that promote the welfare of all life are, like the quality without a name, ineffable.
-
-And like the quality without a name, aesthetics that correspond with all life flourishing will shift and change with different contexts.
-
-A wild garden, a cathedral, a monarch butterfly, a thriving farmers market.
-
-Instead of attempting to nail things down literally or concretely, a “feeling” needs to be found instead, or a pattern that can be applied.
-
-## Semiotics: What aesthetics or forms convey a feeling of sustainability?
-
-No aesthetic direction is without expression. Forms convey certain meanings. Typefaces impart different feelings. Images have different intents.
-
-Viewers refer to visual solutions as feeling cold, sterile, corporate, warm, homey, etc. What visual solution then conveys the feeling of "all life flourishing?"
-
-The aesthetic tropes that return when one does a web search for "sustainable aesthetics" or "green graphic design" do  not necessarily convey the feeling of sustainability. Certainly just turning something green does not correspond with the welfare of all life. What then causes a design to communicate this?
-
-When we say that design communicates what we really mean is that design signals clearly and cleverly — it sends you a message in one direction, from the object to you.
-
-How should a sustainable object signal? What should a sustainable object signal? What signals are the best signals for the welfare of all life? Is there a style, aesthetic, or form that signals "all life should flourish" the most clearly?
+What is a good ethical thing that you value? if we achieve that, it doesn't matter what it looks like, it will be beautiful!
 
 ## Signs Signaling Sustainability
 
@@ -260,6 +199,8 @@ Prairie grass and agricultural waste for new paper fiber sources! These papers e
 Foam pool noodle rubber banded to a bike rack... That's real utilitarian graphic design.
 <https://www.are.na/block/4299163>
 
+### Cradle To Cradle.
+
 ## A Final Idea: Carbon sequestering book!?
 
 As a concept, imagine a book. Now, when you open that book, all the pages are blank. But! what if they aren't blank — they're just not yet pigmented! What if by merely sitting in the air, your book slowly air captures carbon dioxide until the places that have been "printed" turn carbon black!
@@ -270,27 +211,17 @@ So this sequestering book focuses on "visualizing CO2" and how that relates to "
 
 ## Conclusion
 
-In prepping this lecture I was looking for the thread that connected my works together. That thread was this question, what does SGD look like, or what is SGD?! Everything I make is a continuous, evolving attempt at answering it.
+What does sustainable graphic design look like? it doesn't matter.
 
-The definition of sustainable graphic design is easy and hard. Sustainable graphic design is any visual design that sustains the welfare of all life. Sustainable graphic design is hard because, well, what constitutes graphic design that sustains the welfare of all life? What is the _je ne sais quoi_ that makes sustainable design different, more correct, more capable of doing this sustaining?
+I used to be hung up on the visual aesthetics. I wanted sustainable things to LOOK DIFFERENT to have their own aesthetic… but what I've learned is that that doesn't matter. The way things look
 
-Our current tools, ideas, and cultural systems aren’t setup to help us to understand this or to manufacture products in this vein. Part of figuring out what sustainable graphic design is means we’ll also have to continue to decide what forms, tools, and new societal structures are required to realize it effectively (& help to design these too).
-
-There is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist).
-
-What is Sustainable Graphic Design? Anything that visualizes the caretaking of our Spaceship Earth, in any way large or small.
-
-Anything that helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface
-
-So, now I ask again, what comes to mind when you hear “Sustainable Graphic Design?” Something that is truly beautiful. Perhaps elegant? Perhaps constrained? Perhaps Vernacular? Perhaps reused? Perhaps eco-friendly? But always beautiful.
-
-±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+I'll leave you with two more example from my own work. These are ways to make the pieces more sustainable based on my values …
 
 ### Example: MICA Grad Zine
 
 All of the image and typographic resources are open source or public domain. The printing structure was designed to minimize printing waste -- the front and back of this "poster" are printed all as one plate, so the press sheet goes through the press once, then is flipped over, and goes through the press again, voila. This means front and back of the pages were able to all be printed with one plate per color instead of two or more… All of these ideas together, do they add up to a beautiful design? a sustainable design?
 
-### Example: Ecovention Europe
+### A Final Example: Ecovention Europe
 
 Fast forward from Green Acres. Sue Spaid, now living in Belgium, has a new exhibition opportunity: _Ecovention Europe_, ecologically inventive artists working in Europe, and there is another book.
 
@@ -309,3 +240,115 @@ Text columns in _Green Acres_ ended at full paragraphs breaks to make editing ea
 I even tried to reduce decision making through reuse. The grid for _Green Acres_ had a lot of conceptual reasoning invested into it, and so I reused the page templates, type choices, grid setup, etc.
 
 As a conceptual exercise, this was great. But, did it make much of a difference? How could this be done differently and improved upon again next time? Is there an alternative to making this book at all? (Should this exist? I didn’t ask that question before we began!)
+
+### SOME FINAL SLIDE WITH A QUESTION OR WHATEVER
+
+of course your questions,
+but here's a google doc, what are your values???
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+In prepping this lecture I was looking for the thread that connected my works together. That thread was this question, what does SGD look like, or what is SGD?! Everything I make is a continuous, evolving attempt at answering it.
+
+The definition of sustainable graphic design is easy and hard. Sustainable graphic design is any visual design that sustains the welfare of all life. Sustainable graphic design is hard because, well, what constitutes graphic design that sustains the welfare of all life? What is the _je ne sais quoi_ that makes sustainable design different, more correct, more capable of doing this sustaining?
+
+Our current tools, ideas, and cultural systems aren’t setup to help us to understand this or to manufacture products in this vein. Part of figuring out what sustainable graphic design is means we’ll also have to continue to decide what forms, tools, and new societal structures are required to realize it effectively (& help to design these too).
+
+There is no single way that sustainable graphic design looks, nor a single “correct” way that it is made (what materials it might be, or what processes it includes can be easily sorted into good, bad, ugly, less bad, etc. — but one golden solution does not exist).
+
+What is Sustainable Graphic Design? Anything that visualizes the caretaking of our Spaceship Earth, in any way large or small.
+
+Anything that helps promote the flourishing of nature’s interconnected systems will look correct. That doesn’t require a particular style, material, or typeface
+
+So, now I ask again, what comes to mind when you hear “Sustainable Graphic Design?” Something that is truly beautiful. Perhaps elegant? Perhaps constrained? Perhaps Vernacular? Perhaps reused? Perhaps eco-friendly? But always beautiful.
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+Henry:
+
+Lecture philosophy: TLO/ELO - WHAT ARE THE BUCKETS?
+
+philosophy and anti-philosophy
+
+Retina typeface for space saving!?
+
+Aesthetics:
+
+Material - how something is produced, production, authorship
+- The Signs
+- The Substrate
+
+(how does this play into digital nature?)
+
+Modes - Kinds of authorship
+
+I get hung up on REUSE and RECYCLING is a mode of production!?
+
+Ownership: to be more humanistic is to give up creative ownership
+
+For a better society, I don't care about owning this design.
+
+Utilitarian design
+
+Vernacular design
+
+Minimalist design
+
+Imperfection in design is more humanistic
+
+Utopian society ≠ helvetica
+
+Philosophy / Anti-philosophy
+
+Aesthetics: Materiality and Modes / Production and Authorship
+
+start with "what is sustainable design" end with "why not sustainable design" -- don't you want to live in this more humanistic, or planet-istic, society?
+
+Humans, planet, flourishing -- shouldn't there be more personality in design?
+
+±±±±±±±±±±±±±±±±±+
+
+## Is beauty even a useful concept?
+
+Design critic Bruce Sterling outlines three criteria for objects worth making, owning, and keeping:
+
+- Beautiful Things
+- Sentimental Things
+- Utilitarian Things
+
+Perhaps “Beauty” encompasses all three of Sterling’s criteria for sustainable design. Because these are all ways to assign "value" to something.
+
+I might find a hammer utilitarian AND beautiful. To you, that hammer might just be utilitarian. The paintings, drawings, and houseplants I find beautiful you may find ugly. The things I find sentimental are probably unique to me.
+
+But! we now have something objective to measure: utility — do you find a thing to work; and something individually knowable: sentimentality. There is not merely an external, abstract "beauty" …
+
+Maybe we need something with even more criteria to help us?
+
+Biomimicry is a practice that learns from and mimics the strategies found in nature to solve human design challenges
+
+- Nature runs on sunlight.
+- Nature uses only energy it needs.
+- Nature fits form to function.
+- Nature recycles everything.
+- Nature rewards cooperation.
+- Nature banks on diversity.
+- Nature demands local expertise.
+- Nature curbs excess from within.
+- Nature taps the power of limits.
+
+Like Sterling's criteria, Biomimicry's tenants don't imply a style, or an aesthetic, but they do give us some objective criteria to judge formal fitness from.
+
+the animals that care most about the other animals tend to flourish more than any other animals. // Survival of the Most Cooperative – A Reflection on The Biology of Belief
+
+## Sustainable aesthetics visualize good ethics
+
+> “There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named. It is never twice the same, because it always takes its shape from the particular place in which it occurs.”
+> — Christopher Alexander
+
+The qualities that promote the welfare of all life are, like the quality without a name, ineffable.
+
+And like the quality without a name, aesthetics that correspond with all life flourishing will shift and change with different contexts.
+
+Instead of attempting to nail things down literally or concretely, a “feeling” needs to be found instead.
+
+Beauty and value are intertwined.
