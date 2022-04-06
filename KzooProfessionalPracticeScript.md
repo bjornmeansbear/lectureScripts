@@ -30,16 +30,17 @@ So, I graduated, and the thing that seemed like it sort of hit the mark of my in
 
 ## Floating around…
 
-I have worked a lot of different jobs
-  - glass factory
-  - landscape foreman
-  - record label merch table sales
-  - cookware salesperson
-  - book designer
-  - making biodiesel
-  - website developer
-  - farmer
-  - professor
+I have worked a lot of different jobs:
+
+- glass factory
+- landscape foreman
+- record label merch table sales
+- cookware salesperson
+- book designer
+- making biodiesel
+- website developer
+- farmer
+- professor
 
 I've done a lot of different things. And I think there are a couple of threads that run through all of them... the things I find interesting, the things I find meaningful — namely a sense of environmental and social responsibility... I do find it somewhat of a struggle to always make "work" align with one's ideals — I have to say this is an advantage of professoring...
 
