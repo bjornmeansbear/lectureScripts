@@ -4,6 +4,31 @@
 
 ---
 
+Hello.
+
+Nice to meet you all virtually.
+
+I'm Kristian Bjornard, I graduated from Kalamazoo in 2003. I was originally a physics major, but switched my senior year and instead graduated as an art major.
+
+I subsequently got my MFA in graphic design out here in Baltimore at the Maryland Institute College of Art in from 2007–2009 ... and now teach design and sustainability courses at MICA as a full time faculty...
+
+I've worked as a landscaper, a book designer, and a cookware salesperson... I've made biodiesel, built websites, repaired bikes... I helped my wife run a farm, I've created novel systems with the dutch government, and I spent a couple of years going to rock clubs 5 of 7 evening each week … I've done a lot of things, and almost none of them I ever really knew how to do before I just did it …
+
+That's been the big trend across all my ventures — just figuring them out as I go along.
+
+What has been important to me has mainly been what ideologies or values can be reflected in what I do — maybe a different way to say that is how do current beliefs or interests I have point towards what opportunities are next. I've just sort of let my interests lead me to the next thing — and full honesty, I'm sort of floundering right now, but that's because I don't seem to be able to synthesize my interests, passions, beliefs, values, right now........... TMI
+
+What o I actually want to talk about?
+
+Climate Designers? The Sustainabiltist?
+The Libre Designer?
+
+---
+
+> “Capitalism is the _legitimate_ racket of the ruling class” / -- Al Capone
+
+---
+
 ## Hello
 
 Hello. I am Kristian Bjornard. I graduated from Kalamazoo in 2003. I subsequently got my MFA in graphic design out here in Baltimore at the Maryland Institute College of Art... and now teach design and sustainability courses at MICA as a full time faculty...
