@@ -1,0 +1,1323 @@
+But I appreciate everybody for coming out here.
+Of course, on behalf of the Department of Art and Art
+History and the FAFRA and the fine arts he is,
+we have a pleasure to have Christian D'Ornard.
+Christian will introduce himself a little bit,
+but he is the head of the Undergraduate Department
+for Graphic Design at the Maryland Institute College of
+Art.
+Today, we're going to talk a little bit about copywriting.
+If you can, give a round of applause for Christian.
+OK, so my talk today is called Copyright Commons
+and Creativity.
+And in the spirit of open sharing, if you for some reason
+want to follow along on your device,
+this QR code will take you to the presentation.
+And then you can get it at the end also.
+But that didn't give you time to actually scan it.
+That's like a professor trick.
+Say, hey, does anybody have any questions?
+And then before anyone can ask questions,
+you just start doing the next thing.
+So you don't ever have to answer any.
+Just kidding.
+I totally don't do that.
+OK, so I'd like to start all my presentations this way.
+The current CO2 in the atmosphere,
+according to the NOAA's lab in Hawaii,
+is that we are now at 426 parts per million CO2.
+The optimal safe amount, according
+to how we have liked living on Earth,
+is 350 parts per million.
+So we have a lot of work to do to draw down some carbon fairly
+rapidly in the coming years.
+Like Henry said, I teach and work at the Maryland Institute
+College of Art in Baltimore.
+I'm the chair of graphic design and, well,
+chair of the design departments there.
+I recently was told I'm in charge of architecture
+and industrial design now, too.
+And we're a small private art school
+where we try to merge art and design as much as we can
+and give students a pretty wide set of ways
+to explore their creative production
+that they want to explore.
+My own work, I do through a studio that I call Work.
+This is meant to be a joke because my last name, Bjornard,
+has a J in it that no one knows how to pronounce.
+So I thought, why not name my studio a way
+that people might not understand?
+And I do a lot of book and publication projects,
+identities, web and app design.
+But my new set of things that I've been exploring
+is more at the intersection of how
+just our everyday actions in the world
+can still be like graphic design.
+They can signal the kind of change that we want to see.
+And so this project is called Spontaneous Lamp.
+We needed a lamp to cantilever out over our dining table.
+And my wife has been looking at all these things.
+And I was like, what if we just made a lamp?
+And even better, what if I made the lamp out
+of the refuse that's just already around our house?
+So I took a bucket I had in the basement,
+wandered around the neighborhood collecting rubble and debris,
+went across to the park and cut down some bamboo
+from an invasive bamboo thicket, and then with a lamp cord
+that I already had cobbled together this lamp.
+And I think it worked out.
+And I've been doing that now every time.
+Wherever I can, how do we make something
+where the parts we have come together to do the action?
+And then more importantly, when that requirement is over,
+that the things can go back to being the materials they were
+before.
+A sort of more intense version of this
+is a project I started with some colleagues
+called People Processing Plastic.
+And we've been exploring how, with lo-fi methods,
+can we basically recycle plastic ourselves.
+So we built some lo-fi melting ovens and presses
+and have been making big sheets of HDPE
+and seeing how we can use them on a CNC machine
+or what other ways can we mold them or play around with them.
+And again, it's more of a performance
+than an intent of making a bunch of objects to sell.
+But how through showing people how recycling works,
+can we demonstrate perhaps why it doesn't make sense
+to do single stream recycling and send plastic away?
+Or that we don't need to make any new plastic.
+All the plastic we could ever need has already
+been made if we would only actually reuse it or remake it.
+And so even our little sign in the background
+shows that we take these six pack rings,
+we press them into things, they turn into this material.
+And I think one other aspect of this
+is we treat a lot of things as disposable now in culture.
+And this is something like number two plastic,
+which is what we use, is often discarded.
+But it's one of the most indestructible things
+that we make.
+It doesn't really make sense that it would be discarded.
+It's easy to reuse.
+It has a bunch of really good properties
+where you can make it safe for use in food.
+It holds up in UV light, so it doesn't degrade outside.
+Anyway, how can we take something
+that we're treating as trash and make it something valuable
+again?
+And then I had this idea talking to a colleague who's
+making paper from prairie grass.
+And so the paper is technically carbon negative paper.
+The prairie grass draws down more carbon
+and keeps it in the soil because you can just
+cut the prairie grass, and the prairie grass keeps growing
+to make the paper.
+And so I was like, well, that's really cool.
+How can we make the entire book a carbon sink?
+And so I've been talking to some engineers
+at Johns Hopkins University about is there
+some way to find something that I could put into an ink where
+over time, it took carbon out of the atmosphere
+and turned the ink black while the book just
+sat on your desk.
+And so you'd have to be patient before you could read the book.
+It turns out that most things that
+are capable of breaking that carbon oxygen bond
+are incredibly caustic.
+And so far, there's not a solution
+to this that is safe to sell people.
+But these are the kinds of things
+that I've been thinking about as a designer now.
+And I think it exemplifies this idea that design is also
+a tool that we can use to ask and answer questions
+and that it isn't something that has
+to be used in the service of a client,
+that there's all kinds of self-expression ways
+that the tools of design are available for us to use.
+So we're going to start talking about copyright now.
+And just my legal caveat is that I am not a lawyer.
+So this is not legal advice.
+This is just I've researched these things,
+and this is how I understand them to work.
+If you are in a real copyright problem space,
+you should ask a lawyer.
+You shouldn't count on my having told you
+the correct information.
+I'm not making up anything or lying to you,
+but yeah, I'll give you the caveat.
+OK, so I'm going to tell you two stories to get started.
+One's called The Myth of the Author.
+In the land of creativity lived authors,
+magical beings who could pull down original creations
+from the ether and give them form.
+Authors then protected these powerful creations,
+locking them away in their towers like Rapunzel,
+and only through their permission,
+granted by giving them offering or some kind of sacrifice,
+would authors allow their creations to be accessed.
+Authors were powerful magicians, and that even
+upon their death, their protective wards
+didn't immediately fade.
+It would take at least 70 years for their magic
+to finally wear off, for their towers
+to crumble, and their creations to enter back out
+into the world.
+However, authors have kept working on ways
+to extend their protections and keep their creations
+to themselves forever.
+That's like a pessimistic view of authorship.
+OK, this is the myth of the commons to go along with that.
+So in the beginning, culture was always free.
+The lands brimmed with possibility,
+and there existed a utopian ideal called the commons.
+The commons was no ordinary place.
+It was a boundless field where all knowledge, resources, art,
+and innovation flowed freely, unencumbered by walls or gates
+or protections of any kind.
+It was said that within the commons,
+anyone could take what they needed,
+build upon what they found, and then give back
+their creations for others to do the same.
+Harmony and abundance reigned, for there
+was no mine or no yours, only the collective ours.
+OK, so these are sort of extremist tales of authorship
+versus the public domain.
+But I think they're useful to sort of frame the context,
+because there is a real binary between things
+that we want to protect with copyright,
+and things that suddenly become the public domain
+and then have no protections at all.
+But obviously, the reality is blurrier and grayer
+that we actually live and work in between those.
+So I'll try to sort of, in more detail,
+explain the copyright version, what's
+happening with copyright, what happens when copyright expires
+and we enter into the public domain,
+and then how can we, as creative producers,
+if you want to, find ways where we
+can work in the gray space between those binaries.
+OK, so to sort of preemptively describe
+one aspect of copyright, this is Mickey Mouse.
+Does anybody know what's special about this Mickey Mouse?
+That you can barely see.
+It's open source, yeah.
+What?
+It's from Steamboat Willie.
+It's from Steamboat Willie.
+And what does that mean?
+It's now part of public domain.
+It's in the public domain now.
+You can use Mickey Mouse however you want,
+but only this version uses Mickey Mouse.
+So any Mickey Mouse that is in here
+is a Steamboat Willie clip.
+I clipped it out of Steamboat Willie.
+Steamboat Willie was the first cartoon
+that Disney produced that used Mickey
+Mouse as the main character.
+It was also the first mainstream use
+of syncing sound and animation together.
+If you haven't seen it, you can go to Wikimedia Commons
+and watch it 10,000 times, if you want,
+and not worry about infringing anyone's copyright.
+OK, so copyright.
+Copyright is a fairly new invention, predominantly
+of European invention.
+The first place to really officially say
+they were protecting the rights of authors was England.
+And that was in 1710.
+And basically, authors were getting
+tired of publishers printing as many copies
+as they wanted of their books.
+And so they worked to try to empower the rights of authors
+over the power of publishers.
+In 1787, when the United States removed itself from England,
+part of the freedoms that we said we needed
+was the freedom to control our intellectual property.
+That led to the first US Copyright Act in 1790.
+The Founding Fathers made sure to prefer
+the rights of American authors over other authors.
+The way that copyright law works today
+is based on what's called the Berne Convention, which
+first was written in 1886.
+And it created the first international copyright law,
+where a bunch of different countries
+sort of agreed to adhere to the same minimum standards
+of intellectual property protection.
+And that's now been the document that
+has continued to be added onto and had
+more and more signer countries sign onto.
+So today, the Berne Convention is
+managed by the United Nations.
+And almost every single country that's
+part of the United Nations has agreed
+to the minimum protections that are in the Berne Convention.
+That is that you as an author, and I'm
+going to keep saying author, because that's
+what's written in all of the legal documents.
+And if you look at what time these things started
+getting figured out, the main people
+we were working with who were making cultural production that
+could be reproduced were authors.
+So it was about written documents and printed
+documents.
+But now author refers to anyone who makes a creative work.
+So it could be an actual writer, but it could be a painter.
+It could be a photographer.
+It could be a developer who's writing code.
+It could be a filmmaker.
+It can be other weird kinds of new experimental things
+that we're just sort of figuring out.
+All of these things now count as authorship,
+making any of these things.
+We'll get into that a little bit more.
+But then the US has done a bunch of things
+on their own that have extended the Berne Convention
+within the United States.
+So in 1976, we extended the time that copyright
+could be protected from 28 years to 50 years.
+And then from 50 years to 70 years
+after the death of the author.
+And then in 98, there are two main things happened.
+One was that the term extension happened
+even longer for anonymous and corporate works.
+This was called the Mickey Mouse Protection Act.
+This is actually, according to the old US copyright law,
+when Steamboat Willie should have gone into public domain.
+But Disney, I sound like I hate Disney.
+They're an easy bad guy in all this.
+Disney, through Sonny Bono, got the Mickey Mouse Protection Act
+passed, which extended copyright protection
+to 95 years for anonymous or corporately authored works.
+So that Steamboat Willie just entered the public domain
+because of this law.
+Anyway, so copyright is a bunch of laws that basically say,
+you as a producer of intellectual property
+can decide who gets to make reproductions
+and in what ways they reproduce them.
+And so it's technically a useful thing for all of us
+as cultural producers.
+It also says, since the Berne Convention in 1886,
+that as soon as you author a thing,
+you own the intellectual property of it.
+You don't have to register it.
+You don't have to do anything else.
+Just by putting it out into the world,
+you're now the owner of that intellectual property.
+There's a wrinkle in the United States
+where, if you want to sue somebody
+for infringing your copyright, you
+have to have registered the copyright of that thing.
+That's sort of like a side note.
+In other countries, that's not the case.
+In France, who really loves giving authors
+protection over their work, there's
+nothing you have to do, no registration or anything.
+You can just immediately be litigious
+if you see anyone doing anything with your work
+that you don't like.
+So this is the diagram of how copyright sees
+creative production working.
+You have some idea, like chairness
+is an idea out in the world.
+And you know you need to sit on something.
+And so you're inspired.
+You use your creativity.
+You have a gesture to take your idea and turn it into form.
+And then if you've made an original unique creation,
+you get to claim copyright of that thing.
+So Mickey, in our diagram here, has just
+invented shaker chairs.
+Congratulations, Mickey.
+One thing that copyright is really clear on,
+though, is that ideas aren't copyrightable,
+but expressions of ideas are what's copyrightable.
+So you having an idea isn't enough to be able to claim
+copyright of something.
+You can't see a chair and be like, yeah,
+but I thought of chairs.
+You can't make a chair that you're
+infringing my copyright.
+No, you have to have also made a chair
+to claim infringement.
+And the infringement has to be about
+that specific original unique creation, that specific chair.
+So so far, I haven't made any copyright infringements,
+but I'm about to.
+So here's four unique chair gestures,
+four unique gestures that have resulted
+in four different original unique creations, all of which
+are three of which are still protected by copyright.
+So we've got the Ames' side chair, right chairness.
+To that is one unique expression.
+This is called the Oketerra chair
+by some of my friends in Baltimore.
+That's a different unique expression of chairness.
+This is Felipe Stark's ghost chair,
+which is a unique expression of chairness,
+although it's actually not unique.
+It's based on the Louis XVI chair design.
+But it counts as a unique expression
+because that chair design, the Louis XVI chair,
+was in the public domain.
+And so he can make a new interpretation of that chair
+without needing to ask anybody's permission
+and then now own copyright of that expression of that chair.
+And then this is the Rietveld chair,
+which you've probably seen in our history class
+if you've covered De Stijl.
+And this is in the public domain now.
+So you can make a copy of this chair if you want.
+In fact, a friend of mine who has a wood shop,
+he just got asked to make like 100 of these
+for this like resort in the Hamptons.
+And I was like, oh, did you know this is like
+the public domain famous chair design?
+He's like, no, they just sent me the chair.
+Told me to make it.
+Anyway, so okay, so that everybody get like,
+you got an idea, you make a unique creation,
+and then you can claim copyright of that unique creation.
+Is that clear so far?
+Okay, so we're Mickey and we've got our unique chair,
+but we only can protect this chair design for our life
+plus 70 years afterwards.
+So the estate of Mickey Mouse can keep protecting
+this chair design for up to 70 years.
+And once you like hit that threshold,
+you like just like pass through the barrier
+into the public domain.
+So as soon as like that time limits up
+on January 1st the next year,
+that design is then in the public domain
+and free for everybody to use.
+So copyright has this like very clear binary
+when things are protected or they're not
+and there's no like in between
+or like fading off of protection over time.
+It's just like it is protected
+and then it isn't protected.
+So here's an example of how things go from protected to not
+and some other nuances that come along with that
+when we think about how copyright law describes
+how you get ownership and control over your idea.
+So Henry Matisse died in 1954.
+That means that 2024 was 70 years after his death.
+So every drawing, every print, every painting
+that Matisse's hands produced are now in the public domain.
+So that means I can show you this photo
+the portrait of Madame Matisse
+also known as the Green Stripe.
+And it's not a copyright infringement to show you this
+or is it?
+It's like a philosophical question.
+Did you take the photo?
+No.
+Does that matter?
+Do you think?
+Yeah.
+Yeah, because that would be like a unique expression
+of the idea.
+I mean, it would be a new creative work
+because it was a photograph.
+In this context, that's important
+because it's in the public domain
+but only as of last week.
+So if I had taken that photo two weeks ago
+it would have been a copyright infringement
+because it still would have been in copyright
+and it didn't ask to take the photograph
+and that counts as a reproduction.
+But now that it is in the public domain
+taking a photograph of it means I now,
+I don't own, I can't claim ownership over the paintings
+but I can claim ownership over the photo of the painting.
+But also if you're using it in an educational sense
+doesn't it not count as copyright infringement?
+We'll get to that in a second but no, it doesn't.
+It's still a infringement.
+Okay, so I didn't take that photo
+but I went to the website of the museum
+that owns the painting, the National Museum of Denmark.
+And as of last week they now say
+that this photo is for free use.
+So when the painting went into public domain
+they switched over to the rights of their photos
+of the works to also be in the public domain.
+And that's like a nice thing
+that a lot of museums and libraries do
+since they mostly believe in open access
+to information and to cultural content.
+But technically whoever photographed this
+for the state's museum owned the copyright.
+And the museum themselves decided to like
+probably ask the photographer as part of the contract
+to take the stuff that they weren't gonna keep the rights
+and the museum needed the rights
+because you can transfer the copyright.
+And then now that this one is in public domain
+they decided to switch over the rights
+also to the public domain.
+And so you can now use this photo also however you want.
+You just go to, what is it, smk.open, what an easy URL.
+And you can download any of the Denmark,
+National Museum of Denmark's artworks
+that are in the public domain.
+Okay, so what else might constitute a copyright violation?
+Has anybody ever reposted a meme
+without looking up where the image and the meme came from?
+You're all copyright infringers.
+Has anybody ever tweeted something
+where you just excerpted some text from somewhere
+and didn't pay attention, didn't care where it came from
+but just posted it out to the ether?
+Copyright infringers.
+Did you ever look up an image on Google Images
+and then include it in something
+without paying attention to where it came from
+or asking anybody for permission?
+Copyright infringers.
+So basically like all these things we do every day
+that don't really seem like a big deal
+are all technically illegal in the eyes of copyright.
+And it's just up to the holders of that copyright
+to decide if they're gonna do something about it or not.
+In most cases it's like not a big enough deal
+that if they want to bother to do something about it
+or there's just like too many to pay attention to.
+But under the eyes of copyright law,
+every single one of those things is illegal
+and can be prosecuted.
+And why you should care is that
+each time you infringe a copyright
+you can be liable for up to $150,000 per time.
+Per time.
+Per time.
+So if you like used 10 images
+that you just randomly found in a design project
+and all 10 of those people were like,
+hey, like you're infringing my copyright
+by including this thing in a reproduction
+that you didn't ask me about.
+Every single one of them you could potentially owe $150,000.
+And so this, I think this will answer your question
+about educational use.
+Often people say, but it's fair use.
+And fair use is like a myth.
+Fair use is something that can only be proved
+as a defense in court and it's decided by the judge
+that's overseeing the court case.
+It's not something that you can declare ahead of time
+except for in a very limited set of circumstances
+that have been, have had like legal cases
+over and over again about them.
+Documentary filmmaking has a lot of like fair use law
+that's sort of like you can be pretty safe
+in doing X, Y, or Z.
+If you've like are using clips
+that are only in service of the story
+you're trying to tell
+or you're using a certain amount of time with these things.
+But again, you can still be sued by those people
+and you still have to argue in court
+that you're like adhering to a fair use doctrine
+and not just like using the thing.
+The one other place where fair use shows up all the time
+where you probably won't ever be brought to court
+is like quoting things in papers or in essays.
+The idea that you like quote something and you cite it
+as long as the quote that you're doing
+is sort of like in the purpose
+of what you're trying to explain
+is you're probably never gonna be taken to court over that
+unless you've quoted like 10 pages in a row of something
+and it like is telling the story
+that you're trying to tell yourself.
+One other place is news.
+If you're doing things for the purpose of news
+or for like reporting for like conveying facts,
+if the thing that you're excerpting
+just as conveying the fact that you're trying to convey
+that is considered a fair use
+that has like enough legal history
+that you're not gonna be in trouble.
+Another caveat to that is like facts aren't copyrightable
+but the like pros around the facts could be copyrightable.
+Like a cooking recipe isn't copyrightable
+but the language in which you explain
+how to cook the recipe is copyrightable.
+So that's why you might find,
+a lot of cookbooks are like,
+oh, this is so-and-so's tomato sauce recipe
+and they just like verbatim copied the recipe,
+like use these ingredients
+and then they write their own explanation
+of how you actually cook that thing
+and that's how like the cookbook industry survives.
+Okay, I had compressed a lot of legalese into a few minutes
+so I'm gonna move on from copyright
+to then like the kind of counterpoint,
+the commons or the public domain.
+And so the commons is an idea and it encompasses,
+oh, there we go, it encompasses all the things
+that we collectively use or collectively own
+or collectively sort of want to preserve for our future.
+In the past, this usually referred to things like
+the woods and the fields and the streams and the air
+and the mountains and the oceans
+but it increasingly includes all kinds
+of other cultural production things as well.
+And the Nobel Prize winning economist, Elinor Ostrom,
+she won her Nobel Prize for her work around the commons.
+She would tell you that the commons
+isn't just those resources
+but it's like the self-governing systems that humans create
+to preserve and protect and extend those resources.
+And so like a cultural commons is a thing
+that fits into Elinor Ostrom's idea
+and the public domain is sort of like
+in the way that copyright thinks
+about what the cultural commons is.
+Elinor Ostrom, when you hear about the commons,
+the main thing that especially
+like a neoliberal economist would tell you
+is they'd love to tell you the story
+of the tragedy of the commons,
+which is this idea that like, if we have shared space,
+there will be bad actors that will take more from that space
+than that space can maintain
+and that eventually the commons will be destroyed
+by those bad actors.
+You can actually see that playing out in reality right now
+that all these companies have externalized the cost
+of environmental extraction and human labor extraction
+and the world is a worse place,
+although statistically the world is a better place.
+But the world is a worse place for that.
+Elinor Ostrom would say that
+that isn't the tragedy of the commons,
+that is people not following the rules
+of the self-governing commons
+and people are playing by a different set of systems
+that ignore the idea of the commons.
+And if you want to know more about that,
+Elinor Ostrom is both a Nobel Prize winning economist
+and somebody who's good at explaining things.
+So I'd highly recommend all of her writing and thinking.
+Okay, so the public domain, like I said,
+is a subset of the commons.
+And when things exit copyright,
+so we've hit that death of the author date,
+we've hit the 70 years or we've hit the 95 years
+after production for things like corporate authored works,
+these things enter the public domain
+and they are just like magically now free
+for us to do whatever we want with.
+You can use them however you want,
+you can make your own things and redistribute them,
+you can take pieces of them and make derivative works,
+you can take the characters and make your own storylines
+that use those same characters,
+you can take the literal animations
+and make your own storylines,
+you can just screen the films as many times as you want
+to whomever you want.
+It's like a pretty cool place
+if you want to make stuff to draw from.
+One other way that things enter the public domain
+is not everything has to hit that threshold
+to enter the public domain.
+Some governments, particularly the US government,
+if they've made, if the US government has made something
+like a written document, a photograph,
+and it doesn't need to be classified or protected
+for some other important reason,
+it immediately enters the public domain.
+So this photo is a NASA photo,
+which means the US government photo.
+This is taken by the Apollo 17,
+the Apollo 17 crew in 1968.
+So technically, it is a commercially authored work,
+and so it would have like 95 years upon creation
+to be in the public domain.
+But as soon as they took it, it was a public domain image.
+That actually didn't happen until 1977.
+So at the time, it was still protected.
+So in 1977, it became a public domain image
+when we updated our copyright law.
+This has now become the most used image on Earth.
+The most used image on Earth is an image of Earth.
+Isn't that kind of cool?
+And the main reason is that it's been in the public domain.
+It was sort of like fairly immediately in the public domain
+and was the first picture of the Earth
+and remained being one of the few pictures
+of the whole Earth, even to this day.
+There's not a ton more.
+So it continues to be used.
+I think the other thing that's nice about it
+is that it's kind of centered on the ocean
+in between Africa and South Africa and Antarctica.
+And so it doesn't feel like it's trying to be
+about one place being more important than someone else.
+To me, it's like a nice image of the Earth that way, too.
+Okay, sorry, that was a digression.
+Okay, so here's an example of how we can draw
+from the public domain, and then it's ruining it.
+That's up to you.
+You can decide if enclosure of the public domain
+is bad or not.
+So again, Disney's just like an easy villain.
+They're not really the worst people on Earth.
+So Snow White came out in 1937.
+It was the first full-length animation that Disney made.
+This is still under copyright, so this is an infringement
+that I'm using these stills of Snow White.
+They based it on a Grimm Brothers tale,
+and that at the time was already in the public domain.
+So there was no reason you couldn't use that
+for whatever you wanted.
+But now, the Disney version of Snow White
+is under copyright still for 10 more years.
+And so you can't make anything that seems
+like the Disney Snow White.
+You can't make your Snow White wear a dress like this.
+You can't name the seven dwarves the same names.
+Any other little things that they tweaked
+about the story of Snow White, you need to make sure
+that you don't do that when you tell your story of Snow White.
+You have to base it on still the Grimm Brothers tale
+or some other older version of Snow White
+that is in the public domain.
+And so this to me is like a weird kind of enclosure.
+In the commons, when it was physical space,
+there's talk of how you can close the commons
+by literally walling off space that used to be public
+and making it private instead.
+And you can do this intellectually
+from the cultural commons as well.
+And I think the entirety of most of Disney's oeuvre
+is doing this.
+You take a public domain story, you take a known folktale
+from somewhere on Earth, and you turn it
+into your property.
+And then you litigiously enforce not being able
+to copy it by anyone else, including daycare centers.
+And I have an intellectual ethical problem with this.
+It's not illegal, but it just seems disingenuous to me.
+Because I think the point of drawing on the public domain,
+the point of drawing on the commons
+is that you also want to embrace copying and remixing
+and iteratively changing things.
+So if I want to make stuff this way,
+I needed to look for other places
+other than just the public domain
+and the rules of copyright to think about
+how my work could still be protected
+and live in the world in a coherent way
+that wasn't just the public domain,
+but that didn't have all the restrictions of copyright
+so that other people could do things
+without having to ask me all the time.
+So one place that really has lived this way
+since the birth of the software industry
+is this idea of FLOSS, or Free Libre Open Source Software.
+The proponents of Libre versus Open Source
+will argue that you shouldn't lump them all together
+because they're ideologically different,
+but for the context of how they work as the commons,
+they culturally sort of work the same way.
+And this sort of vein of software
+rose out of this guy Richard Stallman
+and his work in the 80s on a program called GNU.
+And Stallman worked at the MIT Artificial Intelligence Lab
+and this has like a graphic design connection
+because it revolves around a printer.
+And they got a printer from Xerox
+and it was one of the first printers
+that you could network in an office.
+And so anywhere they were in the lab,
+they could print to this printer.
+But it had this like annoying bug
+where if there was an error,
+it wouldn't tell anyone that there was an error
+and it would just like stop printing.
+And then anyone else who sent a print
+would just be like waiting to be like,
+ah, why didn't my print come out yet?
+And there was no way to find out what was wrong.
+And so Stallman like asked Xerox for the source code
+and he wrote his own new program to add to it
+that would then like alert your terminal
+that there was a print error
+so that you could go resolve it on the printer
+and then get your thing to print.
+And so like a year later, Xerox sends them the new version
+because they're about to start selling these printers.
+And Stallman's like, ah, this error is,
+there's still this annoying print error.
+Can I have the source code again?
+And they're like, no, we're selling this now.
+And so this is like closed, this is proprietary software.
+We're not sharing this anymore.
+And my interpretation of the story is Stallman is so mad
+by this that he quits his job and says,
+I'm never using proprietary software ever.
+I'm only gonna use software that I can edit the source code.
+And then he finds out that AT&T might do the same thing
+with Unix, which is like the operating system
+that they're using.
+He's like, I can't use Unix anymore.
+We have to write our own operating system.
+And so they write GNU, which stands for
+GNU is not Unix.
+Anyway, and so he is ideologically around this idea
+of like real freedom and that like,
+he doesn't care that the software costs money.
+He only cares that you have access to the source code.
+He'll pay for your software,
+but when he pays for your software,
+he just wants the code so that he can fix it
+if he needs to.
+Just like if you buy a car, historically,
+if you bought a car, you could fix your own car.
+If you bought a toaster, you could fix your own toaster.
+He wanted to like, you bought this code,
+you should be able to fix your own code.
+Anyway, so GNU then starts the GNU public license,
+which basically is a software license which says,
+you can do whatever you want with this code,
+but if you build anything on top of this,
+you have to share your code also.
+You can use anything we've done as a starting place
+as long as you keep sharing your things moving forward.
+Okay, so that is the 80s and then by the end of the 90s,
+right, like computers are taking off.
+This guy Eric Raymond gets really impressed by Linux,
+the operating system Linux and Linux basically took
+most of the code of GNU
+and just built a new kernel to run all,
+to basically be the brain of the operating system.
+Eric Raymond was surprised,
+Eric Raymond's also a developer and is like using Linux
+and he's like, how did Linux get so good so fast?
+It's only been out for a few years and he finds out
+that it's just like started by this guy
+Linus Torvald in Finland who was a hacker
+and he started posting on a user,
+like an internet chat forum that he was like working
+on this kernel to better run GNU
+and other people were like, oh, I would like to use that too.
+Can I help you work on it?
+And they were just like this collected group of people
+sharing code over the internet,
+were like magically able to make an operating system
+faster and better than like Windows at the time.
+And this sort of blew Eric Raymond away
+and he wrote this essay called
+The Cathedral and the Bazaar,
+which basically just outlines this like sharing culture
+and that like the cathedral model would be Microsoft
+saying here's our plan and everyone has to work
+along this timeline to make this giant end plan
+versus the bizarre model,
+which is like this random group of people,
+each just solving the thing they wanna solve
+and by sharing all those solutions together,
+sort of like rapidly build a similar thing or a better thing
+and so what we think of as open source software today
+is really based on like Eric Raymond's explanation
+of how Linus Torvald and the Linux hackers
+put Linux together.
+He convinced Netscape to sort of like work this way
+so that's why like Netscape became open source
+and he also wrote a different license
+than the GNU public license,
+which he thought the main reason that corporations
+hadn't bought into GNU was that it said you had to share
+all the stuff that you made afterwards
+and that he was more interested in open source
+because you could share things and like rapidly fix things
+so he helped write this license called the MIT license,
+which basically just says as long as you credit
+where you got this code,
+you can do anything you want afterwards,
+including close off your source.
+So he basically wrote like a public domain software license,
+which Richard Stallman didn't like
+and that's like the divide between free Libre software
+and open source software is that like Libre software
+you have to share virally
+and open source software you can enclose,
+but it's still about sharing at least ostensibly.
+Okay, one last software connection
+to like cultural production as an artist or designer,
+this guy Garth Brathwaite who works for Adobe,
+he was working on an open source web project
+called Brackets, which was like a coding program
+and they were, he had come from more of a developer,
+background was like developers get how to share a code,
+like why do designers have such a hard time
+sharing design files and things?
+And so he realized that like one of the issues
+with design things is that there's often like some client
+that specifically wants to show people that
+and that you don't want everyone else to have replicated
+the thing that you're showing,
+but that there's still ways that we could like share
+how we made things or the failures that led us
+to the success that would still kind of like open up
+the cultural space of production
+and even if it wasn't sharing your logo files,
+it would still be sort of like helping other people
+improve faster or sort of like helping improve
+the cultural production design landscape as a whole.
+Okay, I elaborated more than I meant to
+on some of these things, so let me catch my breath.
+Okay, so I got into open source software
+and then it really reminded me of just like,
+it didn't seem like it was different.
+It seemed like it embraced the ideas that like we embrace
+as regular participants in culture,
+that you see things that you like,
+you see things that work
+and you want to reproduce those things.
+You don't want to have to like ask somebody for permission
+or like pay for access.
+You want to just like do that thing
+and the real history of making stuff
+is much more that model of like common designs
+by common people for common needs
+and when somebody solved something,
+you don't solve it again.
+You just like use what your neighbor did
+for solving that thing.
+When I was in grad school,
+I read this book called How Buildings Learn.
+This is a copyright infringement.
+By the way, I took this photo,
+but I didn't ask for permission to reproduce the cover,
+so copyright infringement.
+Another one will check.
+Okay, so I read this book in grad school
+and Stewart Brand outlines basically that like
+the way that buildings become good buildings,
+he's like, turns out Stewart Brand
+is really against like architect design buildings
+because they're often like single purpose
+and like don't work, they don't evolve well.
+You can't like add things on to them.
+You can't change them.
+You can't move things around in them.
+In this book, at least this is his hot take.
+Stewart Brand historically has been one
+for like people doing stuff themselves
+and so this book,
+which was my first entryway into Stewart Brand,
+like I said, describes building,
+the best buildings as being things
+that like have evolved over time
+and that when like a neighbor figures out
+how to add a shed to the side of their Cape Cod house
+and it like looks nice and stays standing up
+and keeps the water out,
+that like the other neighbors add that thing on
+and so like as a whole,
+there's sort of like a design language
+that an area builds over time
+where like successful things are repeated
+and the unsuccessful things are ignored,
+but there's like cultural memory
+and so you like can tell people that like
+we tried that already, like do this other thing instead
+and again, that feels like useful thinking
+as a cultural producer that wants to share
+and like iterate with others.
+Some of the other things Stewart Brand's contributed
+to culture, he started this thing
+called the Whole Earth Catalog,
+which is basically like the internet in a book
+from like 1969 and so if you wanted to like
+put solar hot water heat on your geodesic dome
+on your hippie commune,
+it was the book for you, for sure.
+He also, anyway.
+So from open source, from these ideas
+of like vernacular design
+and sort of like libertarian DIY hippie culture,
+where everybody sort of like wanted to help each other
+through like mutual aid and interesting production,
+I think we can kind of think about making stuff different,
+like makers, developers, curators,
+we can help maintain and share the culture that we make
+in hopes that like more makers, developers, curators,
+et cetera, like do more stuff with that
+and like contribute their things back
+and we don't have to just wait
+for the commons to come around,
+we can just like actively all be participating.
+Okay, so if we want to do this with our work,
+then what's the best way to start doing that today?
+Richard Solomon calls this copyleft,
+the idea that you're like purposefully sharing
+and making other people share.
+I thought it'd be funny to call it copy wrong.
+So if you want to copy wrong,
+then the best place for us to look
+is this organization called Creative Commons.
+And they were started by a lawyer, Lawrence Lessig,
+who just felt that like the binary of copyright protection
+and open public domain was like too extreme.
+And we as creators needed more ways
+to like keep control over intellectual property,
+but immediately let it be used and shared
+in that sort of like open source way.
+So they have a bunch of different licensing options.
+If you want to go through all of them,
+they're easy to find on their website.
+My favorite one is the CC by SA,
+this stands for Creative Commons by Attribution,
+share alike.
+So that means like if I license one of my photos
+or designs as CC by SA, anyone who comes across it,
+as long as they link back to me
+or like attribute it in text somewhere back to me
+and then share their files or their image
+or whatever they make with it the same way,
+they don't have to ask me for permission.
+They've done their diligence by like following
+the instructions according to Creative Commons.
+And so they have other versions
+that are like more or less lenient,
+like just by attribution or by attribution,
+but like no commercial works or no derivative works.
+So like I have a book called Copy This Book
+about copyright law by this Belgian guy.
+And his entire book is licensed Creative Commons
+by Attribution, no derivatives,
+because he wants the book to be shared,
+but he doesn't want people to like cut it up
+or rewrite it or do anything else with it,
+but he doesn't care that you like give it away
+to other people for free.
+Creative Commons has tried to make this easier too
+by building this sort of form to help you decide
+what license works.
+So they basically ask you questions about like,
+do you want Disney to use your thing?
+Do you want people to link back to you?
+And how you answer it, it just tells you then
+like which license you need to list
+as your Creative Commons license.
+One other one they have is the CC0 license,
+which just says you immediately put your thing
+in the public domain.
+So it doesn't have to wait for your death plus seven years.
+It's just like immediately in the public domain.
+That's a cool, that's awesome to do that,
+but I think it's smarter to like keep control over it
+and do things like the share,
+like where you force other people to share.
+That might mean that some people don't use your thing,
+but it also means that like the people that do,
+you're like helping make culture more open
+as opposed to like letting it be free,
+but immediately enclosed.
+Okay, if you want to find stuff,
+like you've decided you want to do this
+and your things are now licensed this way,
+but you want to find other people's things,
+there's a handful of sites that are really easy
+to find things on.
+This is called Openverse.
+It was actually started by Creative Commons,
+but now is run by Automattic,
+the company that makes WordPress,
+which is like one of the main open source
+content management systems for websites.
+This, you just search for what you're looking for
+and it will find videos, audio files, or images
+and then tell you what license they are
+and link you to like where you need to go
+to like download it if they can't make it easy
+to download themselves.
+Flickr also has an area called the Commons
+where they do this.
+They've mostly partnered with like libraries and museums
+to put public domain works on Flickr.
+This one's called Open Art Images.
+As far as I can tell, this is just like run by a developer
+who's into this stuff.
+It searches a lot of these same places,
+like art museums in Europe and North America,
+libraries, college, and university collections.
+What's weird is like a lot of these draw in the same sources
+but like searching each one returns different results,
+even though they're like searching ostensibly
+a lot of the same things.
+If you want the coolest interface
+for a Creative Commons public domain work,
+this is called public.work and it's run
+by this new company called Cosmos,
+which is basically trying to make like a Pinterest
+for designers thing.
+But they built this cool interface
+for browsing public domain work, so that's cool.
+Raw Pixel, which is a company that sells stock photos
+and also runs a sort of like Canva,
+Adobe Express online poster maker thing,
+has this like huge public domain section.
+And something that's cool that they've done
+is that they've actually bought some works themselves,
+like books of wood prints, wood block prints and stuff,
+and have made their own like super high res fancy scans
+of them, so like they have some of the best images.
+Like this is the start of a William Morris library
+and they bought one of the like William Morris pattern books
+and then like cut it up and scanned all the things
+themselves and you can get like 5,000 pixel wide scans
+of these like old William Morris, anyway.
+They put a lot of work into it,
+which ostensibly actually means they didn't have
+to make them public domain,
+because these were in the public domain.
+They reproduced them and edited them themselves.
+They could have cleaned copyright over them,
+but they decided to keep them unenclosed
+and made them public domain again.
+And then Unsplash doesn't have a creative commons license
+or public domain license.
+They've written their own Unsplash license,
+which they're a startup.
+They have sort of like a software startup kind of mentality.
+So their Unsplash license,
+it sounds a lot like the MIT software license.
+It just says, you can download these,
+use them for whatever you want.
+You can use them for any purpose.
+You don't have to ask for permission,
+though we hope that you attribute it.
+The only thing you can't do is sell them
+or like make your own service
+that also distributes photos to people with these things.
+So this is like a pretty good place
+to get pretty nice modern photos also.
+Okay, Google Fonts has Open Type.
+All of their fonts are licensed,
+in the last decade are licensed
+with what's called the Open Font license,
+which we don't have time to get
+into the potential objective problems with that license,
+but they use the Open Font license,
+which means you can do a lot of stuff with them.
+My favorite open source typeface foundry
+is this French one called Velveteen.
+The other cool thing with a lot of these open source images
+and typefaces is that because they're open,
+they're free to access,
+a lot of people build their own ways to interface with them.
+So this is called Badass Librefonts by Women.
+And so this woman, Lorraine Ferter in Belgium,
+who's a proponent of open culture
+and also social equity,
+specifically curated this list of women made fonts
+and they're all open source also.
+So that's a cool thing.
+This is my own collection on Arena of open source fonts.
+That QR code will take you to this if you want that.
+I've spent a lot of time working on finding things.
+So there's some things in here that you can't find easily
+unless you've accidentally stumbled upon them
+in the deep dark corners of the internet.
+Okay, too many things.
+Okay, there are then some groups
+that actively try to promote the public domain
+and freeing culture and participating
+in the cultural commons.
+One of the best ones is this site, Public Domain Review,
+and they do an amazing job of publishing collections
+of images, but also explaining where the images came from
+and that kind of, okay.
+Archive.org is another place to look.
+They maintain this thing called the Prellinger Archive.
+This guy, Rick Prellinger, has collected a lot of film.
+He also believes that culture should be free.
+So he's worked with Archive.org to get everything
+that he has that can legally be up on there on Archive.org.
+So if you're looking for film resources,
+that's a good place to start.
+Okay, I think I'm kind of running out of time.
+Okay, I am into these things because I don't want
+to be constrained by the status quo
+or the sort of only what's possible or what's expected.
+And Don and Robbie like to talk about how design,
+you can use design to be critical or to be speculative
+and sort of challenge the agendas around us.
+And I think that trying to find ways to protect your work
+but also open it up or to rely on these other open sources
+is a nice way to sort of fight against the kind of entropy
+of everyone doing the same thing and using the same images.
+I mean, I listed Unsplash as a resource,
+but if you do a little quick perusal of the internet
+and any Squarespace or Wix site, it's like 98% likely
+that they have the same 20 Unsplash images
+as the splash header of their website
+because it's a free thing and they have an EPI
+and so all these other places just sort of link in
+to some of these things.
+But I'll tell you where they don't link into
+is old etchings from 19th century books
+that you can only find through like really esoteric searches
+on Flickr.
+And so I'm, anyway, I'm into that.
+And if you are too, I'd love to talk to you more about it.
+So that's the end for now.
+Good talk.
+Thanks.
+Okay, once again, that's the code to the talk.
+I know it's six o'clock.
+So you have to go, I totally understand.
+We are gonna stay five or 10 minutes.
+We get to get up and leave, I totally understand.
+But is there any questions before we leave?
+I got too excited.
+Yeah.
+Have you had any of your own work infringed
+for money?
+Yeah, yeah.
+I have some posters I made in grad school.
+You can buy on Amazon, and just some random person
+sells them on cups and stuff.
+And I mean, I was like, oh, that's kind of,
+I thought it was humorously funny,
+because I wasn't going to make any money from those things.
+So seeing a random stranger found them and was like,
+this should be on a cup for sure, just seemed amusing.
+But since then, that wasn't an infringement,
+because those weren't licensed in any particular way.
+Almost anything that isn't a client project,
+if it's on the internet somewhere,
+like on Flickr or on my own site,
+it has been licensed as some derivative of Creative Commons.
+So it wouldn't be surprising now to see that.
+But yeah, it has happened to me.
+Do we have anything else before we conclude?
+OK, let's get another round of applause for Christian.
+Thank you guys for coming out tomorrow.
+Christian will be giving a workshop on this stuff.
+There's 25 people signed up.
+If you've already emailed Sandy, if you
+didn't get a confirmation, if you're still part of it,
+I have your name on a list.
+If there's still five or so more slots,
+so if you haven't signed up and you're here today
+and you would like to come and work with us,
+tomorrow between 10 and 2, we will be in room 273.
+We're going to start promptly at 10 o'clock then.
+If there's nothing else, then Christian and I
+will stick around for a minute.
+But I hope you guys have a great rest of the weekend
+and a great start to the semester.
+Thank you.
+Thanks, everybody.
+Thank you.
+I like your utilitarian dress.
+Oh, yeah.
+I wear it like a snow suit.
+It's a little warm, you know?
+Thank you.
+I think it's 10 to 2, so it starts in the morning.
+No, we should have everything prepared for everybody.
+We're basically going to use public domain.
+I mean, like a clip art book of public domain.
+We're going to make new little visual stories.
+It takes a little bit of time to turn into a work
+and you can decide how you're going to do it.
+So we'll be clear with the copyright.
+It's already set up.
+It's still going on.
+It's just going on.
+Thank you, guys.
+Thank you, guys.
+I'm really excited for you.
+Thanks for your time.
+I want to go back through that and follow up with some.
+I'm really excited for you.
+You guys have a good rest of the weekend.
+Thank you.
+Thank you.
+I can't believe it.
+Yeah.
+I just asked because my dad had a screen print company.
+In the 80s, we had guest jeans completely ripped off
+of design, like 100% of that.
+It was sold in Hawaii and no one said, guest jeans.
+I'm thinking, shit, here's the guest.
+And my dad's company was this small.
+And so they just did.
+It's his system.
+I'm just curious.
+Because I'd be pissed if a big company just ripped it off
+to do the same thing and just compete.
+We have, I mean, the graphic design
+doesn't have it so much.
+But I've had some students from our illustration
+department two weeks ago, and they're students still.
+And they were like, hey, Urban Outfitters is selling a shirt
+with basically my designer.
+I'm like, you definitely need to figure out what you do about
+that.
+Here, go talk to Maryland lawyers for the arts
+and see if they can help you.
+Because Under Armour is on the show.
+Urban Outfitters definitely can pay you.
+Yeah.
+Well, on the other side, he had a designer rip off
+a photographer and take pictures of deer
+and these blue-dirt shirts for browning firearms.
+And so the designer ripped that off.
+And then we got sued for it.
+And it could have been like $500,000,
+but it was only $50,000.
+The photographer copyrighted it as a book, as a collection,
+rather than individual images because they ripped up
+pretty bad.
+But it's still like, so I always tell students,
+don't steal anything from money.
+You're putting it out in the world that way.
+Well, I think I skipped that part.
+But even if you do like a drawing,
+I mean like the Shepard Fairey's Obama poster,
+the piece in that infringement was like,
+even though he technically transformed it,
+it was still like obviously recognizable.
+So like doing a drawing in the photo.
+It doesn't matter if you alter it that much.
+Thanks again.
+Yeah, I know that was great.
+But I was just curious if you had that on your own side.
+Yeah, I sued these guys for this.
+It's different when it's this little thing.
+It's a big-ass company that's making bank off your work.
+Yeah.
+Like I said, it was like, there were a few of my things,
+but it was all like the same person just selling random
+things.
+Like coffee mugs.
+I doubt they've sold any of these.
+I don't think they'll be worth doing anything about this.
+They might have bought a cup of coffee over there,
+but it's not like they're paying their mortgage.
+Awesome.
+Thanks for your school year.
+Nice to meet you.
+Yeah.
+It's a lot better, isn't it?
+Yeah.
+As I said, it takes about three or four years.
+Three or four years.
+Three to five years.
+That's one spot where I like to pull a couple of those.
+And then you've got your start in your career doing
+that first or second.
