@@ -37,6 +37,8 @@ Hello. I am Kristian Bjornard. I graduated from Kalamazoo in 2003. I subsequentl
 
 I was originally a Physics major at K, and between a conversation with Dr. Barth in differential equations, and then some experiences I had while on study abroad I had the revelation that I didn't actually enjoy what I was doing… So, I had my advisor change my major, and when I started Senior year in the fall I was an art major instead!
 
+Sort of humorously, the types of project ideas I have for myself now would benefit from my physics classes as much if not more than my art and design practice… solar power, plastic melting and recycling machinery, etc…
+
 ## Stuff I made
 
 I made work like this… these sort of pop-art-y portraits; some portrait and found object photography…
