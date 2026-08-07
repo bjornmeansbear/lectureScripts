@@ -1,0 +1,1182 @@
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+hey everybody we still have people showing up but um we'll get started here in just a second
+um in the background i just have some screen recordings i made of just trying out some
+different free libre or open source design software um so what's on the screen right now is um
+scribus which is a page layout program um i'll just see if in the next couple minutes
+a huge group of other people show up before i sort of launch in but um we'll get rolling in just a
+second
+okay anything else
+okay
+okay
+okay
+okay
+okay
+okay
+all right
+all right
+well welcome everybody to our uh
+we're nearing the end of micah graphic design summer camps so welcome to the libra graphics one
+uh my name is christian bjornard
+um
+um
+um
+um
+um
+um
+uh
+um
+um
+uh
+um
+um
+um
+um
+um
+um
+um
+um
+um
+uh
+um
+um
+uh
+um
+um
+um
+um
+um
+um
+um
+um
+um
+um
+um
+um
+um
+um
+the
+there are not restrictions on
+on how you can
+on how you might choose to use
+um
+the tool
+or the image
+or
+um
+the font
+or the software
+or
+or whatever
+and so
+i'll get into defining it a little bit more in a second
+but i just kind of wanted to give you the background on how i kind of
+found myself interested in these things and uh
+sort of like came to invent the persona of the libre designer
+so we were making websites we found this tool called drupal
+that um
+was a content management system that let us
+uh sort of like
+download and extend this thing
+um
+the way that we wanted to
+and there was this whole community of people
+working on making it better together
+and i hadn't
+in my life
+experienced that outside of just like a community of friends before
+and so it was kind of amazing that this community of people across the globe
+could be all working on this one web content management system together
+and that as a designer even if i couldn't do
+that much development i could still contribute
+ideas in terms of theme building and figuring out semantics for how we implemented html and css things
+and that just was sort of amazing and then um a few years later i found myself researching
+um
+different aspects of sustainable design and got really interested in vernacular design which means the the common design of a place
+um and so it really felt like my interests in sustainability and design and design and community building were sort of like coalescing in this open source community i'm just sort of was interested in figuring out how designers how designing could embrace those things more fully
+um
+in lieu of a slide deck, I have just a bunch of random links. So I'm going to try to just share
+my screen and kind of bop between different giant piles of Google tabs. So if something's weird or
+you're not seeing what I think, what it seems like I'm talking about, try to alert me in the chat or
+raise your hand in the participant window or something and I'll be paying attention to that.
+Okay, so let's share. Oh no, that's still playing.
+Okay. There's also an open source project called Etherpad, which was the precursor to most of the
+Google documents that we use today. I have kind of a live one up right now. And if you're interested
+in testing out something while we're talking, you can jump in there. This is a dynamic editing tool
+where as anyone go accesses the URL and starts typing, you have your own color that just starts
+showing up. So if you have like notes you want to take or questions you want to ask, we could also
+sort of play around there as well. I see there's some people in there using it already. So that's
+kind of cool. Okay, so we got Drupal. As I sort of learned, as I learned more about open source,
+I found a couple of interesting anecdotes that really sort of made me wonder why more designers
+didn't know about these things. And so I'll just go through a couple of key things that kind of lay the
+groundwork for what we're going to talk about. And then also just like interesting things that you
+might want to look into more on your own. So there's a famous computer scientist named Donald
+Knuth. And he has a famous book set of books called The Art of Computer Programming. And they're kind of
+considered to be some of the best computer programming books that still get referenced today.
+And so the first edition of his book came out in the era of metal typesetting still. And so it was
+typeset with a linotype and hand composed. And so all of the like math equations and figure texts and
+computer code that was typeset was all really beautifully typeset by people that really knew what
+they were doing and took a lot of care. He got the proofs for his second book, and it was
+photo typeset instead of metal typeset. And it was so bad, it offended him. And he decided he was going
+to write a computer program to typeset things instead, because he figured he could do better
+as a writing his own computer program than this manuscript he saw looks like. And so he invented this
+thing called tech, which is spelled T-E-X. And today, I'm sure I will confuse all of you many times with
+words that are pronounced one way, and perhaps don't look like they should be pronounced that way.
+But this is a program that, you know, he started working on in 1978. And to this day, still works.
+And anyway, it's a program that you mark up a document sort of like you mark up an HTML page where
+you have plain text with tags signifying like key aspects of the text. And then there's a set of
+instructions that will basically tell that text how to display. And it's so cool. So I highly recommend
+looking into it. It's the kind of thing that I'm like, always surprised that more designers don't know
+about because if you just want to typeset plain documents, it's a really beautiful, easy way to typeset said documents.
+Going along with it, he also created this font called metafont. And what's interesting to me is that
+there's a lot of of excitement and action around variable fonts right now, meaning like a font that has
+different axes that you can adjust. And so one font file can actually produce a whole bunch of different
+fonts. But the whole idea of metafont that Donald Knuth had, all the way back when he started
+tech in the 70s, was that there'd be sort of like one master set of instructions that could draw every
+single font you might need. And anyway, this was one of the things that took him a really long time
+to work on. But it's also a really cool thing to learn more about. It's pretty hard to play around
+with if you're not too computer savvy. But there's a cool project by Dexter Sinister where they made a
+logotype that uses the instructions for metafont to sort of redraw itself all the time. And there's a
+couple of cool instances you can find where people have have used this. But the sort of way that variable
+fonts are moving today are embracing a lot of these same ideas. So you can find a lot of things to play
+around with now that are kind of similar too. But so that's like, these were both free tools that
+Donald Knuth wrote and gave away, partially because his belief was just that the ideas that he had,
+he was just sort of a conduit for and they should belong once they were put out in the world, they kind
+of belonged to everyone. They weren't really his ideas. So he sort of predates anything being called
+free or libre or open source. But it's a cool tie in with design. And then the real meat of
+opens free libre open source comes with this gentleman named Richard Stallman, who
+unfortunately, in the last couple of years has sort of fallen from from grace, he's turned out to
+to have some opinions that are pretty, pretty bad, and has frustrated some people with some misogynist
+comments and other things. So we will focus on his ideas, not the man because he did start all of these,
+these things. And so again, this is a sort of graphic design related issue that starts this whole thing
+off. Stallman and his colleagues at MIT have a printer that Xerox has given them. And the printer has an
+issue where when the, when it does, when there's an error printing, it doesn't have a way to sort of alert
+the person who has a print in the queue that their print isn't going to come out. So they got all of
+the people in his MIT AI lab were getting frustrated going to the printer and like not having there be
+anything and not having no way to know what was working or what was wrong. So he called up Xerox and
+they, he asked if you could have the source code to this printer. And they send him the source code,
+he edits it, he fixes this issue. And their printer now can like alert them when their print is actually
+ready. So they go get it only when there's a print waiting for it. About a year later, this is the early
+80s. So this is 1983, 1984. Xerox replaces the printer with the new version. And at this point,
+they're getting ready to start trying to sell these printers to offices and things like that. And so
+Stallman notices that it has the same issue. They hit print and it doesn't have any way to tell you
+if your print, um, error. So he calls up Xerox again to say, Hey, you guys gave me the source code
+last time. Can I, can you share the code with me again? And they say, no, we can't share the code.
+We don't do that anymore. Um, tough luck. And Stallman hangs up the, okay, this is slight
+hyperbole. So just bear with me, but Stallman sort of hangs up the phone and flies off the handle and
+says like, if I, you know, I refuse to live in a, in a world where people don't share their code.
+So I'm quitting my job and I'm starting a software company that only makes free software. And he says
+free meaning freedom. Like he wants the ability to add things and edit things and change things in the
+source code, just like he wanted to do with this printer. He wanted to fix it. And he wasn't let
+allowed to, cause he couldn't get the source code. Um, so presumably that isn't the only thing that
+launches them into this. I think he sort of sees that, you know, all these different programs that
+he and his, uh, developer peers rely on or are helping build are ending up in the hands of people
+like Xerox and AT&T and are becoming proprietary instead of things that are sort of shared and worked
+on by like all of these, um, originators of a lot of these ideas. And so he's trying to protect that
+kind of sharing, um, mentality that developers had with each other. Um, and so, uh, he, he declares this
+free software and he has these four, um, he has these four fundamental freedoms that are very important.
+And, um, you see there are four freedoms, but he counts like a computer. So it starts with freedom zero.
+Um, you should be able to run a program how you wish for any purpose. You should be able to study a
+program, uh, figure out how it works and change it as you see fit. Um, and you need the source code
+as a precondition for this. The third freedom is that you should be able to redistribute copies
+of that. Um, and the last freedom is that if you've modified versions, you should also be able to
+distribute your modified versions so that the whole community benefits from your changes. And so freedom
+zero is sort of like that you shouldn't infringe on the freedom of the user to use the program
+how they wish. And the other three freedoms are sort of, you shouldn't infringe on the freedom
+of the user who isn't finding your, who, well, I guess, who is finding your code helpful so that he
+can help other people. They can help other people with it, or that if it's not that helpful that they
+can fix it and then share the fixed thing with the people, uh, who might also benefit from it. So this
+is kind of the golden rule of, of software, according to the free software foundation via the originate,
+originating with Richard Stallman. Okay. So, uh, poor typesetting makes somebody want to create some
+free software to share with everyone. A bad printer makes somebody want to share free software with
+everyone. And then, um, uh, the, like I said before about, um, vernacular building, um, I had been
+struggling for a while after having read this book, how buildings learn, which sort of describes this
+process in which, uh, buildings over time evolve with the needs of a user, um, to sort of map it to a thing
+that I felt like related to my design practice. And when I sort of started getting into the open source
+things, like I said, with Drupal, this, this sort of became clear that, that this was describing an
+open source design process and that, uh, vernacular buildings evolving over time or, uh, textile patterns
+evolving over time, or the way that baskets are weaved in a specific place evolving over time,
+we're all sort of examples of how a design practice could embody these sort of community practices
+that the, that free Libre open source have.
+It's had to be added all over the building.
+If you're interested in the book, how buildings learn, uh, the BBC did a documentary about it and
+you can find them all in super brands, YouTube. I'll put a link to that in our, um, ether pad and stuff also.
+Okay. The last thing that, that you can just read online, if you're interested in this, um,
+there's a guy, Eric Raymond, uh, who he's responsible for the open source part of free Libre open source.
+And I promise that this introduction is almost over. Um, but so he gets so interested in how GNU,
+which is the operating system that Richard Stallman starts and Linux, which is a, uh, a kernel that created
+an operating system around like added to GNU, created an operating system, how they got developed by these sort of
+small numbers of people distributed around the earth, just sharing code with each other, that he, uh,
+investigates it more and writes this essay called the cathedral and the bizarre.
+And this essay is foundational in this shift from free and Libre or like free software meeting freedom
+becoming open source software. And so what Eric Raymond finds is that the process of, of sharing these things
+actually means that you can more rapidly develop a stable product because the people that you share
+the code with that you're editing, um, are, are smart, um, skilled users who actually like care about your
+project. And even if they don't, they, they might find problems that you're having, or they also might know
+the answer to problems that, that your program is having. And so by sort of involving them all in
+a community, you sort of like create really short links between people that notice problems and people
+that can solve problems. And so Eric Raymond finds that GNU and Linux in general, uh, evolve much faster
+and are much more stable than compared to windows, the windows operating system. And so the cathedral in his
+analogy is, um, traditional proprietary software where there's this plan and everyone just follows the
+plan and the managers sort of tell people down the chain, what plan, what parts of the plan to follow.
+Um, and you sort of work on things. And at the end, everybody comes back and tries to fix all the
+things that are still not working. Right. And the bizarre is this sort of community of,
+of hackers who are, um, just sharing only partially working code all the time, but because they're
+always working on it together. Um, a lot of people find problems really fast. And because they're sharing
+the code, a lot of people get the fixes really fast. So you, um, you sort of like stop the duplication
+of labor because you share things so quickly. Um, anyway, he, he realizes that this is something that
+probably would be interesting to Silicon Valley. Um, but that Silicon Valley neoliberals are just like,
+not going to be interested in this idea of, of, of freedom and, um, like the, the rights of the user
+being a really important part of the conversation. So he kind of focuses on the, the, you share your
+code because more people work on it and it gets better faster and he needs to shed the free libre
+language. Um, and so he kind of gets a group of people together and they rename this all open source
+instead. Um, and we'll get into the real differences in a, in a second, but this is just sort of like the
+foundational information that if you look up this stuff online, these are sort of the key things
+that lead to free libre open source being a, um, a set of things. Okay. Um, so boring background,
+uh, hopefully mostly over, have I lost anyone yet? Does anybody have any questions?
+I saw somebody asked if there will be links to all these things. Yeah. I will make sure that
+if they aren't already they'll all be documented, um, at the end of today. Anything else?
+Um, let's see, you should be able to unmute yourself. So if you do have a question at any time, um, please feel free to unmute and interrupt me.
+Um, I, I have the, to, to just give you too much information. I have sort of the Buckminster Fuller problem
+where, you know, he was famous for these lectures. He would give like six hours straight lectures. So I
+will try, I will obviously not be going that long, but I will just get rolling and not stop. So feel free to
+interrupt me at any, at any time that somebody has a question. Okay. So background out of the way.
+Let's see what's next. We've got the four freedoms. We talked about that.
+Okay. So, um, it's easy to find examples of software out in the world. Um, and as a designer,
+it's actually really easy to find examples of like, uh, design for the web that embraces these, uh, liberated ideas. Okay. Sorry. I don't think I said this. Um,
+but when Richard Stallman was started talking about free software, he used the word free, um, because in English we have
+an annoying array of words that the same word has multiple meanings. So he called this software free software. And he specifically meant free as in free speech, not free as in, uh, free.
+Um, like not having a price. And so in, um, uh,
+uh, the Europeans that got into this early on really noticed that this was, uh, confusing. And so decided to solve this problem by using the word libre, which literally only means free as in freedom.
+And that you could then say libre, not gratis. Um, so libre meaning that you are liberated, that the software is liberated and it's not gratis, meaning it's not necessarily free as in price.
+And so that's a real key distinction that gets argued about a lot on the internet, um, regards to these things is that no one who makes free or libre or open source software is against it being paid for.
+They are against you not being able to do what you want with the program or with the, uh, the, the, the object. Um, and so there's a bunch of examples of companies that have found ways to charge money for software that you could ostensibly download the source code and, uh, for free, um, and make your own version of the program. Um, but if you want sort of like their support or their particular, uh, extra things,
+extra things they've added to the program, you need to, you like buy it from them.
+The best example of this, um, is a company called red hat, which was for a really long time.
+The, the sort of one big successful company in the open source world.
+And they made a particular flavor of, of the new Linux operating system called red hat. Um, and to this day, it's still one of the most used distributions for running web servers.
+And then they make a version called fedora that is for desktop computers. And so there, um,
+um, you can download those things for free, but you can also pay red hat for support for your red hat server, um, installation so that if you have a problem, you have somebody you can call to help you figure out the issue.
+Um, and to be honest, they're much more helpful than, uh, the people at Microsoft or Apple are in my experience. But, um, anyway, so that's one example of just like the, the thing costs money.
+Technically like you can pay for service related to the software, even though the software itself, the source code is free to download and to build, uh, without having to pay anyone.
+Um, in graphic designing though, there's not a lot of clear cut, like print design things.
+The best example that I've found is a project that the AIGA did with the, the U S department of transportation, um, in the seventies.
+And it was called symbol signs. And the AIGA actually has a page about it still on their website, AIGA.org slash symbol signs. And so the DOT, the U S department of transportation,
+there's more and more highways and freeways being built all over the country, connecting, um, all these different parts of, of the, of the United States and cutting across state lines.
+And the department of transportation was sort of realizing that, that letting individual communities and individual states,
+kind of make signs, uh, signage themselves was becoming a real problem because the, there were a lot of different ways.
+They were made a lot of different symbols that would get used.
+And there wasn't one coherent language across all of the, all of the roadways.
+So they partnered with the AIGA to say, Hey, is there, can we make one uniform package of symbols that do that have all the things we need for interstate road signage that we can then just give to all of the, uh, different offices so that everyone has the same stuff.
+Um, to make signs with, um, to make signs with.
+And so, uh, what we ended up with was this symbol signs project.
+And it, uh, in the early seventies was sort of around 30 signs.
+And by the end of the seventies, they had added a few more.
+So it sort of top topped out at the time at 50 symbols.
+And they were pretty, they're pretty biased to the time period.
+So you'll notice that they, um, you know, don't have anything more than just male and female signage, but these are in the public domain.
+So you can take these and, um, just at, you know, use them to build new symbols off of, if you decide that you're not, you're not left with enough in this, um, in this set of things.
+Anyway, so AIGA dot symbol signs seems to me like a good example of how, uh, this isn't even a new idea in graphic designing.
+Like we've been thinking in the past or just like, how do we, um, how do we work with, uh, this sort of, uh, sharing, sharing ideology as part of, of our practice.
+Okay.
+Um, what we're going to walk through now is, um, a sort of array of ideas from, and techniques and tools from easy and easy to implement to, um, extreme and ideological, um, and perhaps utopian to implement.
+Um, so, uh, I guess just sort of like, uh, a content warning for the rest of, of the talk, I will probably rail on neoliberal capitalism a little bit.
+Um, and we'll probably, I'll probably also mention, uh, Marx or Henry George, or a handful of other, um, uh, different kinds of, of ideological thinkers, um, that sort of provide alternative ways of understanding how political economies work.
+Um, as opposed to the, the one kind of standard neoliberal one that we seem to believe is the only one right now.
+Um, I think, I don't know why I thought licensing would be a good thing to start with, but maybe this is just a good thing to, to help you understand some different things we've already talked about.
+Um, just like everything else I'm going to show you today.
+Um, there are a lot of similar, but different versions of all these things.
+And this, this goes down even to the license that people will, uh, release things with.
+And so the, the, the main difference between if something is free or Libre, and if something is open source, mainly comes down to the license that that thing is given.
+The ideology is kind of similar in the idea that you want people to be able to take, to take code or an image or whatever, and, and use it however they want.
+But, um, the Libre or free licenses focus on, um, sort of making more things later also be free and liberated.
+And the open source licenses focus on letting the thing be saleable in the easiest way possible.
+And so they're, they're kind of split between, um, permissive licenses, which are the open source licenses and, um, extreme licenses, which are the, the sort of Libre licenses.
+And so there's things like the Apache license, the BSD license, the GNU public license, these kinds of things say that if you're going to use this, this code or this image or this font or whatever, you have to also share your source code.
+Uh, the thing that you include this in has to also be shared.
+And then things like the MIT license, which is the most commonly used open source license says you can do whatever you want with this.
+And all you have to do is, is, is include this license document and say that you've got this part of your code from our code, but you don't have to share all the rest of your code, um, with anyone else.
+Um, and so this was also something that Eric Raymond was kind of seeing that like to get big business to buy into open source.
+They weren't going to want to make their code, um, available to everyone.
+Um, and of course that really bothered Richard Stallman and the other free software people.
+And it still does to this day.
+They're very clear on their webpage that they aren't open source, that they have problems with open source.
+Um, and they are free software.
+Um, but in general, anyway, the, it comes down to like what license the thing has.
+And then beyond just the sort of, um, GPL or, um,
+Um, the Apache license is also a really commonly used one that is fairly, um, liberal, but it's sort of like seen as less biased than the GPL.
+Um, there's also some art and, um, like copyright specific things like the, the licenses mainly have to do with software or like programs or, um, uh, code.
+And then like copyright and some other licenses have more to do with, um, uh, creative works like writing or, uh, designs, that kind of thing.
+So there's, um, uh, the public domain, which we'll get into in a second.
+Um, but that's an important aspect if you're using, uh, texts or images and not software that those things might be in the public domain.
+Um, which means that they're either old enough or like were intentionally just said that they could be used by anyone.
+And you don't even have to reference where you found them.
+If it's public domain, you, it's just available to be used by everyone.
+Um, and often that's referred to as the, the commons to the, the commons applies to more than just necessarily creative works.
+It could apply to physical space or, or other things, but, um, it's something else that's that we'll get into in a second.
+And then there's also things like the free art license, which try to take the language from things like the GNU public license and apply it to a creative works instead.
+Um, um, and the other thing that you might want to look for is a creative commons licensing and I'll explain what that is in a second too.
+So, um, that's just when you, when you start looking for projects in these, in these realms, uh, the license that the thing has becomes important.
+Um, and this also is, is important because, um, there's a lot of things that are free as in price that are not free as in freedom.
+Um, so I don't know if, if anybody had ever downloaded fonts from like DA font or something in their past lives, but there's a lot of fonts that you can download that are free to download, but they have like all these constraints on how you can use them.
+Or even trial fonts from, um, certain foundries, you can download them for free and use them.
+But if you use them in a client project, you're breaking the licensing agreement.
+Um, so that, that just means it's not an open license.
+It's not, um, a free Libre open source license.
+Uh, we'll get into that more.
+We get to fonts.
+Okay.
+Um, so on to things to do if you want to liberate your practice.
+So I have, I just sort of decided that due to, um, the interest that I have this desire for sustainability, which for me, I tried to define as the welfare for all life.
+Um, that part, part of how I've learned about socio cultural production is through just, um, being able to, um, uh, sort of survey the things around me and use them how I want and put them together into new forms that I find interesting or useful.
+Um, and when we look at history of, of cultural artifact production, that's sort of like in general, how humans have made stuff in our, in our past.
+So I've been interested in just thinking of like, how can I slowly adapt my design processes to sort of embrace that community sharing.
+Um, and so, like I said, we're going to go from the easiest things to the hardest things, and there's advantages to each of these things.
+And there's also some disadvantages to some of these things, depending on how you like to work.
+So I think the thing that's easiest to immediately start liberating are the images that you choose to use in projects.
+The reason this is the easiest, in my opinion, is that it requires changing nothing else about your practice or about the tools that you use other than just where you choose to look for imagery.
+And then it has some advantages in that, you know, many of the times that the places that provide open licensed imagery and graphics and icons also are either actually also free as in free price, or very cheap, because it doesn't cost a lot to get those images by the people who are supplying, supplying them.
+Um, you also, you know, if you're using Adobe Creative Cloud, they don't, Creative Cloud doesn't care where the JPEG you put into InDesign or, or, or Illustrator came from.
+So, um, you know, you just, it's, these are all plug and play with those things still.
+And often your clients probably don't care where the images came from as long as they like the images that you picked, um, or that you can explain why the images or the graphics are, um, go with their, the sort of context and content of their, their projects.
+Um, they also might enjoy it because you might end up saving them money, um, which, you know, clients usually like also.
+So many of you probably have already found this page before, but unsplash.com is one of the sort of more common places to find free, um, images.
+They even say right here, the internet source of freely usable images.
+And so every image that's on unsplash has an open license.
+They, they, they've written their own license here.
+Um, but basically that you can use them for free.
+You can use them for any commercial or non-commercial purpose, and you don't even need permission.
+You don't even actually have to attribute it.
+They just prefer that you would be friendly and say, you got this from unsplash and it's by X photographer.
+Um, the thing that they won't let you do is sell them, which makes them different than a lot of the open source licenses, which the new public license, for example, says you can still sell things.
+Even if you include other people's GPL license stuff in it.
+Um, so does the MIT license and you can't make your own service that also gives away unsplash photos, but otherwise you can do pretty much anything that you want with them.
+Um, this unsplash has become so pervasive that, you know, well.
+They have a lot of images.
+It's really easy to just see unsplash images all over the internet, especially now that Squarespace in their default image, uh, adding an image section just links you to unsplash to start looking for images to your site.
+So all the new, um, uh, Squarespace sites are littered with unsplash phones, but this is a really great place to find really great high res.
+Um, uh, images that sort of adhere to a contemporary, um, photographic standard, you know, they, they look like photos you would expect to be finding for a client.
+Um, there's a couple of other sites like this one called pixels and they sort of like aggregate free images from other services.
+Um, there's a company called raw pixel who makes, they, they have some free images.
+They also have a paid level that sort of like pays for their free level of things.
+And then they have this cool public domain section where they've, um, basically, you know, like used spare time of the staff to go look for cool old books or things like that.
+And then scan them at really high resolution and clean up the photos.
+So you get these amazing images, um, that are pretty breathtaking to, to look at and, you know, be there in the public domain, which means in, in America that they have to be at least 75 years old.
+So they're kind of from a different era for the most part, which, um, sometimes can be, make them look very old and out of date, but other times can make them really easy to repurpose and sort of apply your own meanings and metaphors too, because they're just sort of out of regular context.
+Um, so I've, I've really enjoyed this section of the raw pixel site, just because they they've done such a nice job of scanning a lot of these photos.
+Um, many of these, you can find also on some of my other references here, like the flicker commons, um,
+The flicker commons is basically an aggregate of a bunch of, uh, um, United, uh, places in the United States and, um,
+Europe, uh, museums, cultural institutions, university libraries that are just uploading old photos and book scans from their archives.
+Um, and so it's a cool place to just find interesting patterns or, um, cool tight old type specimen things.
+Um, and I use it a lot for, um,
+Various, various things with, with clients.
+Um, and, you know, oftentimes you can download something like this and clean it up so that you can use that as a repeating pattern yourself, or there's all kinds of fun things to do to play around with these things.
+Um, so I really liked that flicker.com slash commons.
+And like I said, I'll, I'll make sure these links are all available at the end if they aren't somewhere else already.
+Um, and then flicker also has a search where you can just search for photos that have been labeled as creative commons.
+And so creative commons is, um, uh, an idea where,
+Uh, the sort of people behind creative commons have sort of seen that the, that are the way cultural production is happening.
+Um, be increasingly becomes locked into proprietary ownership of, of, of creative work due to like the increasing strength of copyright protections, um, particularly in the United States and in certain parts of Europe.
+Um, and so they're trying to sort of create alternative ways for people to license their cultural and creative works.
+Um, so that they can be more easily shared and built upon and remixed with.
+Um, so anyway, flicker has a way that you can search things that people have just tagged their things as creative comments.
+And there's different levels of creative commons that, that we can look at in a second.
+Um, but you can even use Google image search to search for these things.
+So if you do a search in Google images underneath tools,
+Um, underneath tools, you can pick, um, that it is labeled for reuse with modification, which is the same, which sort of corresponds to a couple of levels of creative commons, uh, licensing.
+Um, but you can see an image of mine shows up right here.
+Um, that, um, is labeled as creative commons, uh, reuse and modify modification.
+Um, so it's even possible to find these things just with a regular Google image search.
+Um, you don't have to go to even a separate tool.
+Um, other than photos, there's sites like undraw.co who host open licensed, um, blob people illustrations in the kind of like new startup webpage, uh, does style.
+Um, and the, there's a woman who runs this and just like when she's bored, she draws things and has just been uploading them now for a couple of years.
+And so these are all SVGs that you can download that have layers.
+And, um, because of their open license, you can download them and then you can, you get all the layers in the SVG.
+And so you can take it apart and use just components, you know, like you could download this and just use the, the human person with their sign and like, forget this.
+And then put something else like a frowny face on the sign instead of a smiley face.
+And that's all within the permissible use of the image.
+So it can, um, another reason to do this is it might, you might have an idea and you might be able to find something that's like 80% of the way to your idea.
+And so it's much faster and easier to sort of adapt somebody else's drawing than to have to redraw the whole thing on your own.
+So, um, another place if you're looking for sort of more iconic vector things is the noun project.
+It's called just as public domain.
+And so you can, uh, you can search for something and you, you get, uh, it returned something.
+I have a pro account, which means that anything on here, I can just download and use, but if you're not logged in, it will tell you what, what you need to do to use it.
+And many of the things, like I said, are public domain and it just says you can download it and no big deal.
+Um, some of them are just like, you just have to attribute it to the person and that's the way that you pay for using it.
+Um, and then you can kind of edit it as you see fit.
+And then, uh, other ones are sort of locked in less you pay, but once I, once you pay, uh, maybe this is another example of it's, it's sort of free as in freedom, but not as in price is like you can pay for a non project account.
+Um, but now I can download this as an SVG and I can sort of tweak it and take it apart and use the pieces, um, as I see fit, um, through being a paid customer.
+Okay.
+Okay.
+And then even creative commons itself has a search that sort of searches a whole bunch of different things for stuff that's labeled creative commons.
+Okay.
+All right.
+So, uh, the creative commons license is useful.
+I guess, once we get to the end and we talk about sharing your own work, um, you can kind of use this to generate a kind of creative license for your work.
+Um, so if you go to creative commons, click on share your work, it will walk you through, um, what the different licenses mean.
+Um, and so if we want to make the most liberated license that we can, we want to allow adaptations of our work to be shared.
+Yes.
+Uh, or no.
+Um, or yes, as long as others share, that means that you sort of like infect other people's cultural production and sort of ask them to also be forced to not force, but volunteer to share by using your thing.
+They're volunteering, uh, to share their thing as well.
+And then you can allow commercial people to use it or not.
+This is cool.
+If you're forcing people to, if you're asking people to share and you're allowing commercial uses, you're now trying to get commercial enterprise to want to share its work.
+And so this is called now the attribution share like international license.
+Um, and it's considered a very liberal free culture license.
+If you say like, I don't want adaptations and I don't want commercial uses, um, people can use your thing without doing anything to it and no one can use it in a, in a paid and it says right here, this is not a free culture license.
+You don't let people sort of freely build on the culture you're helping produce.
+So if you're interested in creative commons that is, um, attributes and share like that is a free cultural license.
+Now you can also just do creative commons CC zero, which is a way to just say this work is, is a public domain work, um, without needing to, to sort of go through the normal processes.
+And at least in the West that things take to sort of like automatically become public domain on their own, which are usually the life of the creator plus 75 or longer years, depending on what place you happen to live.
+Um, and in the United States, if it's the, if it's a work of a commercial interest.
+Um, it is, can be, can be 120 years before something becomes public domain that say a commercial interest like Disney, uh, created.
+Um, now we won't get into complaining about commercial copyright, but for our purposes, if we can focus on free cultural licenses that ask other people to share.
+I think that's an improvement over public domain because if I make all of my things public domain, no one has to attribute them to me.
+They can just use them.
+This sort of says like, I made this to begin with and other people are doing things with it.
+So there is this connection to sort of like who started it and where did it go.
+And if everyone else is being asked to, if you use this, that you share things the same way, you kind of have an interesting chain of custody of like how.
+How a piece of culture has evolved over time through who started it in different directions.
+And I think that's just a really interesting, cool idea that like helps us see how things really are made and helps connect people together as opposed to just sort of being a mysterious wonder that things cultural artifacts exist.
+So, um, if you want to read more about these ideas in terms specifically of like copyright and intellectual property as it relates to a designer.
+So, um, I highly recommend this book called copy this book by this lovely gentleman, Eric Shriver, and his friend and partner, Lorraine Ferter.
+So, um, they've been to Micah a few times to talk about this book and to do some workshops that were also about free open source public domain kinds of things there.
+They're part of what also inspired me to be interested in these things.
+So, um, this is a great book.
+It is creative commons, uh, share alike license so you can actually literally just make a photocopy of this book.
+So if you find someone that has it, you could photocopy their book and, uh, it's within the legal use of the license.
+Um, all right.
+Any questions so far?
+So that's imagery places you can find imagery and why you might want to try some of them.
+Um, like I said before, I particularly like some of the old, um, uh, old public domain image images mainly because they're, they're sort of removed from their context.
+And I can, uh, have a lot of leeway with like the way that I give them new meanings or the way that I use them myself.
+Um, in the wrong way in the background here is, uh, a bunch of bird images from an old Audubon bird guide.
+And, um, here, this globe that's telling us that we're at 416 parts per million CO2 in the atmosphere is a NASA photograph of the earth.
+Um, and something that's interesting in the United States is that for the most part, if the U S government pays for a cult, a creative work to be created and it isn't classified, it usually becomes public domain.
+So there's a lot of famous photos, um, um, that were paid for during like the works progress administration or like that NASA has made that as soon as they were made, they were just usable by people.
+So, um, um, I'll have to, I'll, I'll show this later, maybe if there's time at the end, but sort of like most used photo on earth is a photo that the U S government paid for, uh, during the work progress administration.
+Um, just because it's, it's free and access.
+And access.
+Okay, great.
+There's a great question, uh, from Elizabeth about where, or how would you go about giving attribution to people?
+If you use these sources?
+Um, great question.
+If you are using them in a design project, the, the easiest way to attribute them is to just do a little photo or graphic byline, um, somewhere on the page that you're using them, or like at the end of, of the book.
+Um, where you list the figures that you use, you can like list these images came from this place, um, in a magazine spread.
+Um, it's not uncommon in a commercial magazine anyway, to have to give a credit to photographers, um, who have provided photos on a given page.
+So I often will just do it the same way.
+I would be attributing credit to a professional paid photographer.
+I'll just have a little, um, tiny type somewhere in the gutter or like underneath the image that just says that it came from Flickr commons, that it was from the image, uh, the internet archive, or that it was from.
+The library of Congress or something like that.
+Um, places like unsplash.
+Let me go back to unsplash.
+If we like choose to download this image.
+Uh, it, it wants to help us understand.
+Oops.
+Oops.
+It just gives us this credit and you could just copy that.
+And like I said, in like tiny type underneath an image or at the end of a chapter or whatever sort of list that you had got this from someone.
+Um, it's my habit that even if it's a public domain image, I tried to give as much attribution as I can just to help.
+Um, keep that like chain of custody of where this image came from as part of the process, because I think that's a key part of, of liberating your design is that you are sort of free.
+Not only with the resources that you use because they're then like easy to share.
+Um, and easy to build upon, but that you also try to be free and transparent with like how you made the thing.
+And so that it's a public domain image that doesn't have to be attributed attributing it is sort of just a nice gesture to help other people learn about how they could find those things too.
+Um, there's another great comment from Leslie Lou about that.
+If you download stuff from unsplash, they often have the, the photographer's name as part of the URL, which makes it easy to remember, um, how to accredit them correctly.
+Cool.
+All right.
+Anything else about.
+Image resources.
+We could spend two hours talking about every single one of these things.
+And I'm going to mention.
+So, um, I'll try to keep rolling along a little faster.
+Okay.
+We're going to quickly go over some font resources now.
+So images are really easy to, uh, to include.
+Um, and I think the next easiest thing to sort of jumped into is, is fonts because again, you don't have to really change your workflow.
+You can still use them all in the Adobe creative cloud set of tools.
+They work with the auto desk set of tools.
+They will work with all the regular system things.
+Uh, it's just sort of like the licensing of the fonts is different.
+Um, and even Adobe fonts actually include a bunch of open source fonts in fonts.adobe.com.
+So you can just turn them on in Adobe fonts.
+Um, and I'm not logged in.
+I can't show you crap.
+Uh, hold on one second.
+Anyway, you can turn them on in Adobe fonts.
+And then they're just like magically on in your pro your Adobe programs.
+Okay.
+So many things to log into.
+Oh no, duo.
+Okay.
+Uh, now this is the reason that Adobe fonts has a bunch of free font or Libre fonts already in it is partially because, um, they themselves have a bunch of free fonts.
+Um, is partially because, um, they themselves have actually paid for some, um, open source fonts to be created.
+Um, there's, uh, source sands.
+There's, um, a couple of others that Adobe themselves has, has paid for, but because of the licensing of open source fonts, uh, many of the fonts that are on Google fonts, um, Adobe can just include on fonts.adobe.com.
+So Volcorn is actually on Google fonts, but Adobe just has it here and you can just turn it on.
+Um, droid syrup.
+You can just turn on later.
+You can just turn on.
+These are all open source.
+Um, all open source fonts.
+Doesn't want to find that.
+Um, these two called liberation sans and serif.
+Um, these were designed to, um, they were designed by red hat.
+The company I was talking about earlier is one of the, the examples of how you could pay for open source software.
+Um, they made liberation sans and serif and mono, uh, as just, just like Microsoft made.
+Arial to sort of match Helvetica.
+Um,
+Um,
+letter with wise liberation sans is designed to be a replacement for aerial or Helvetica for the open source world.
+And liberation serif is the same for, um, uh, times it just would match character width.
+So you could, if you switch to that font, you wouldn't change the rest of the document.
+Um, anyway, so those things are just things you can turn on in Adobe and you're magically running without having to do anything without even having to download anything.
+So it's pretty cool.
+Um, now my favorite new, uh, new old resource is Google fonts for open source fonts.
+The main reason is that, um, I, I really like some of the people who are in charge at Google fonts these days.
+Um, David Crossland helps manage things there and he's really interested in variable fonts and they seem to be doing a lot of cool things.
+And so now there's a lot of fonts that are using, um, variableness on Google fonts.
+Um, and what's cool about that is it, it, there, there was kind of a, a stigma in, in open or free or Libre fonts for awhile that they like weren't necessarily as good as, uh,
+uh, paid, paid, paid fonts.
+And this would often be because there would be like not a lot of weights or they wouldn't always have a lot of characters or they might be missing some key, uh, useful typographic attributes like small caps or, uh, different kinds of figures or things like that.
+That, that seems to be going away.
+Uh, but now that there's this sort of push towards variable fonts, most of the fonts that come up when you click show only variable fonts on Google fonts have tons of weights and have like light through black and italics.
+Um, this one's got light through black and italic.
+Um, this one's got light through black and italic.
+It's very cool.
+Um, there's a lot of, of different kinds of, uh, of styles, a lot of different kinds of weights.
+Um, and then something that's interesting about the whole world of open source fonts that what's cool about fonts is that when they're, when they're open, when they're liberated, you usually can download the font files themselves for free.
+But you can download the source code of the font for, to, to mess around with it.
+And so if you have a font editor, like, you know, you can use Robo font or you, maybe you downloaded an open source font editor, like font forge.
+Um, you can actually access the, the, the, um, the letter form files and you can edit the letter forms yourself.
+So if it's missing a character that you need, you could draw it yourself or add it.
+If it is missing a weight, you could customize it and make the weight that you were missing.
+Um, if you're working on with, for a client and you have a sort of custom logo type project, you could use an open font as a starting place and sort of like customize a whole typeface based on the custom characters that you made for their logo type.
+Um, and it gets, can get you a lot further, much faster than say, um, having to do it all from scratch or having to pay extra to a proprietary foundry for those kinds of things.
+Um, the other cool part about Google fonts is that you can, uh, easily with any fonts that are on here, you can download and use on your computer.
+Or you can use on a website.
+Um, and so it makes it much easier to match type in a print project and in a digital or like an app or web project, um, using a font from Google fonts, as opposed to something where you might have to pay a much, much more expensive license to use things.
+Um, uh, across mediums.
+And again, I'm talking, uh, I seem to be giving this a lot of props towards it's free as in priceness.
+To me, that's not as important as a sort of like accessibility.
+Um, if you want to use, you know, if you, if your client needs the fonts, you don't, you can download these and just give them to them and not worry if you're breaking a user license agreement, sharing a font with a colleague or a client or something like that.
+Um, that's an advantage also, um, uh, the open font library is where a lot of these things started.
+A lot of what was on Google fonts to begin with were things from the open font library.
+So this is still a page that has a lot of open source type on it.
+Um, and then there's a lot of people doing sort of interesting projects like this one called beautiful web type where, um, this is just fonts from Google fonts.
+That this particular designer thinks are really great fonts and, you know, would be like happy to use anyway, not just because they're free or open.
+Um, and that shows up in other projects like use and modify where again, somebody sort of like aggregated a bunch of different open, open fonts, um, in one place to kind of like find them easily.
+Um, or projects like, um, badass Libre fonts by, uh, women, which, uh, again, just sort of like aggregates a whole bunch of fonts with like one particular way of organizing them.
+Um, and these are just fun things to immediately start using as well as, as sort of like fork and edit for your own purposes.
+If you wanted to, um, I particularly enjoy fonts from Velveteen.
+Who's a, an open Libre type foundry in France, as well as the league of movable type who, um, uh, started a lot of open source font stuff in the United States, at least, um, about 10 years ago.
+Um, some of their fonts were some of the very first, uh, web, uh, waf, uh, the web open font format, uh, fonts.
+Um, okay.
+So something that's cool that open fonts, uh, allow for, uh, the league of movable type.
+Had a font called railway that came out.
+One of the very first fonts that they released.
+And it came only in this light weight.
+Um, but because the code was on GitHub, uh, GitHub is, if you haven't used it before, it is a sort of website where people host open source code.
+And it gives you a way to, to sort of like build a community around your code.
+Um, it's sort of a one hosted place for your code to live that everyone else can send, um, updates and pull updates back and forth from.
+Um, it also, anyway, has an interface for you being able to sort of take one person's code and, and fork it into your own account, um, in an easy, in an easy way.
+So anyway, so the code was up and somebody decided that they wanted to make more weights of it.
+And so now on Google fonts, the railway that's on the league of movable type site is only one weight.
+And the railway that's on Google fonts is, um, uh, nine weights plus italics.
+Um, and then the, the, the, the, the, the, the sort of array of people that now worked on it are also listed.
+Um, uh, here, like it can be more, more information can be found originally at legal mobile type, but also in Paul impolari.com.
+And it sort of lists like that, it started with Matt McCurney.
+And then these other people also worked on it, uh, several years later, it's just like a cool little community of people built around just one typeface.
+And, and you could sort of like add yourself to that community by using it on your own projects and then sharing back just things you made with it or, uh, adding things to it yourself, you know, or like converting it into yet another different display version than just a dot version.
+Anyway, so I, I find that really interesting.
+It has a lot of opportunities for, uh, work with clients for customization for making your own, um, fonts for an identity project, um, that, you know, are, are faster and easier to make and create.
+Okay.
+Um, any questions.
+And like I said, feel free to unmute yourself and ask them with your voice.
+It does not have to be with text.
+I, um, actually was wondering, and this is the timing couldn't be actually more perfect.
+I recently got into Marxism and neoliberal, just like an entire like mess.
+And I was wondering, do you have any tips on like how to be more transparent in your documentation, for example, or I guess like present presenting your own coursework, for example, online, especially on social media.
+Like for, like for how, like trying to explain how you created something or like what references you, you have in the piece that you're working on.
+What do you mean by, by transparency?
+Yeah.
+I think more so like, I guess, ideation, but also, um, just like being less, I guess, territorial over resources.
+You know, I've realized that people kind of hoard resources.
+And it's a thing that I think that also happens in, um, like, I guess the more professional sphere, because people like there's like this, sorry, I'm kind of going off topic, but there's like this whole networking, um, focus on like, you know, yeah.
+Just aggregating all these people that, you know.
+Yeah.
+Yeah.
+Is there like a more liberated, I guess, kind of way that you would advise us to go about that?
+Yeah.
+Okay.
+Great question.
+Um, I guess, I mean, my opinion is that, um, this is like a reason that designers don't open source.
+Is there is this idea that, that, um, it's, it's a sort of modernist, uh, mythology that there are these single individual creative geniuses that invent, uh, you know, like formal solutions totally on their own without any connection to, um, sort of like the, the history that, or the context that came before them or like led to them.
+Um, having that insight or that sort of like beautiful form creating magical moment.
+Um, and so to me, the main way to fight that is to sort of like, just acknowledge that there is no socio cultural artifact that was invented with no context, you know, like it wasn't nothing that even.
+Nothing anyone's made was ever just a lightning strike that nothing existed like it before, or that there were no other ideas that influenced that thing being made.
+And it just creates a pretty story to, to like, not have to account for like all the footnotes that led to somebody making something.
+So I just try to like my personal opinion is that I am fine just sharing like everything that I've made.
+And so I'll get to this a little bit more depth later, but, um, and all of my new projects, if the client isn't opposed to this, if they're my own project or for a client project, um, I'm just going to start making the, the code for the, like the, any of the files, any of the code, whatever.
+Um, for the project, um, a get repository so that you could just like see how I made it or what I made.
+Um, and that there might be things that have to be protected or, or saved because they're like actual intellectual property of the company and not necessarily mine.
+Um, but I think sort of like using that methodology, you can say like, here's, here's like images I got, here's the sort of like visual research I did to explore this project.
+And here's the, my references for, for this thing.
+And the, the, the tools that, you know, here's the tools that I use to make all these different things.
+And part of that is like, you can see because of the files themselves, but part of that is also just trying to like, um, when you have the chance to explain as much of your process as you can.
+Sure. Yeah. Thanks. That kind of clears things up. I just, um, sorry. Yeah. I've just been thinking about modernism and recently what's been happening also politically. I've just been thinking about this a lot. Yeah. This is, this has really been helpful. Thanks.
+Great. Um, any, anyone else? Thanks Leslie for that question. Okay. Um, okay. So we've got imagery. We know where to look for imagery that, that is liberated. We know where to look for fonts. And, and I will also say that, um, none of these are, are complete lists. Um, if, if, uh,
+if, uh, if you look up like free or Libre or open source fonts, you can find a lot more resources than what I've shown you today. These are just like easy starting places. Um, but fonts and images, like I said, are really easy to just like immediately jump into and start using.
+And we'll get into the heart of things now. And so I'm just going to like really quickly run through all of the software that you could download to, um, do some of the things that you might be doing with the Adobe creative suite. Now, the caveat to remember for any other software that you download, including like not just open source, but like proprietary software is if you're used to using the Adobe creative suite. Um, you need to, to, to reframe.
+What other software is going to get you, um, for the, in, in the first place that none of these are just like replacements or alternatives for any one particular program. They're just like additional options that might do some of the same things. Um, and that also like the resources that go into making.
+The Adobe creative suite and things like the autodesk suite of software are like crazy ton, you know, like tons of money and man hours go into making those things. So even if you have, uh, problems with a lot of them, they're like amount of features and, and things that they have are kind of like unprecedented, uh, in a lot of other places, just because of the time.
+Like man, man, hours and dollar amounts that have gone into the research and development of them. That said, it's pretty amazing how much, uh, many of these open free Libre programs do given that they're usually made by a handful of people who are like volunteering their time for the most part to work on them. Okay.
+Okay. So if you want to, if you want to liberate your practice into software, you have a lot of options. You have way more options than you do, um, in the proprietary software world, but I'm going to give you the ones that are like most likely to be what you probably would be looking for. Um, the program that I cannot recommend enough to people is blender.
+If you have not ever downloaded blender and tried it. Well, that's great because the newest version 2.8 is like the most amazing program you'll probably ever use. So you're starting at a good point. So download blender or blender is, is a 3d rendering.
+And animating tool that also happens to do like motion graphics and video editing and a few other things. Um, if you are tired of, of struggling with cinema 4d or like you're out of school and your license doesn't work anymore for cinema 40. You don't want to buy it. Blender.
+Is the answer you've been waiting for. Um, if you wanted to have one singular place to do motion graphics and 3d rendering and don't want to jump back and forth between after effects and cinema 4d, then I would also recommend that you try blender. Um, it's amazing.
+There's also like a bunch of really good tutorials blender guru on YouTube. I find quite, uh, fun to watch his videos, even if I'm like not making them in blender. It's just like fun to watch him make stuff. So anyway, I recommend that blender. Um, for photo editing, the most commonly referenced one is the GNU image manipulation program. Um,
+Um, it has a really hard to use interface. So there are actually some people who have forked it and have some new versions. Uh, this one's called glimpse so far. It's not working on Mac yet, but if you choose to use a Linux or a windows computer, um, you can download glimpse. It like has all the features of, of the new image manipulation program, but has a little bit nicer user interface, um, and a much less obnoxious name.
+Um, for sort of like photo management, dark table seems to be one that I, I see talked about a lot. There's a lot of other ones, but dark table in my experience, like looks nice and is pretty easy to use. If you want, if you need photo management or image management, um,
+Um, inkscape is a fantastic vector drawing program. Um, it has a new version. It's finally a version one. And along with that, it actually finally has a real Mac.
+Um, so it has a Mac installer now that runs in, um, that just runs in regular Mac OS. Uh, in the past, it booted into something called X courts, which was, uh, um, emulator for the X windows environment. Um, which meant that it used like windows key bindings and had a bunch of bugs running in an emulator. Um,
+Um, and so it's much nicer to use now that it's has a native Mac installer.
+Um, it also has a really cool tool, which I'll, um, I guess I'll open it and I'll show you the tool in a second. I will come back to that. Um, there's also some other programs that kind of like don't have a corresponding exactly program. This one called Krita is a really lovely, um, painting and drawing program.
+Um, you know, it's like a lot of stuff that you might do in Photoshop or in Illustrator, but Krita kind of can be a place that you do it instead. Um, and then there's other things just like don't exist, uh, except for in the open source world.
+So there's a lot of generative programs like node boxes and node based generative program, um, where you like basically can make functions that draw things by connecting boxes together. Um, if you need page layout, Scribus is the main page layout, um, like desktop publishing program.
+It has a bunch of things that it's, that are really cool about it. And then a bunch of other things that if you're used to using InDesign make no sense, but it's sort of more of, of to, to me seems more of like, uh, I've been trained.
+I've like used InDesign so long that I can't like the muscle memory won't go away.
+So I find it hard to use if you're not like already brainwashed into like using InDesign, it might be a lot easier to learn than it's been for me so far.
+Um, draw bot is another generative drawing program. It is a Python based it's, it's, I guess you could compare it to processing, but it uses Python instead of processing sort of JavaScript like language.
+Um, and it's made by the same people that, uh, make Robo font.
+So it was actually made to like help teach type designers, Python that they would then use in Robo font.
+Uh, but this was like an easier way to learn about using Python to draw shapes than just jumping right into Robo font was.
+So it can be a really fun thing to use. Um, I've seen a couple of people using it to make slide decks.
+And so you like write the code to make the slide and then it generates out all your slides that those seem like cool things to use it for that.
+Like there isn't a way to do that if you're not looking in this like free Libre open source world.
+Um, cause maybe there's not like a bunch of people that want to buy that.
+But there are some people that want to use that. And of course, processing, which I know a lot of students use at Micah, but it's an open source project.
+Um, so it falls into here. There's also some cool image.
+Programs that like aren't programs. This one called image magic is, um, a bunch of command line.
+Uh, it's software that you operate through the command line. So you open the terminal and you can run image magic commands in the terminal.
+And so basically you can run. It's basically like Photoshop actions, like take this image, change its size, make it a PNG instead of a JPEG.
+And you just type that out as commands. And like it magically just like happens in your, in the finder that like that image shows up now, or, uh, I've been using it to take.
+And like, uh, with one line of code, I can like have a, a PDF and turn it every, every page of the PDF into an image just sort of like auto magically.
+Um, and it's like so much faster and easier than trying to open the thing in, in Acrobat to do that.
+Um, ghost script is a scripting language kind of like image magic, but it's for doing PDF actions instead of image actions.
+Um, and then what you find is that many of these other programs like, uh, GIMP and Inkscape and Scribus actually use image magic and ghost scripts as part of them.
+Uh, to like save PDFs out or to process some of the image processing that they're going to be doing.
+So these open projects end up sort of being included in other open projects as well.
+Um, if you're interested in font design, there's, uh, some open source font tools.
+You can download, uh, font forge, which is a, a pretty fully featured one that's been being worked on for a while.
+Um, or a sort of like newer lighter, a little bit easier to get going.
+One is called bird font.
+Um, uh, there's also just like other things you might be needing to do like screen recording or live streaming, that kind of stuff.
+Uh, OBS is one that a lot of people use and it has, um, because it's open, it also has been forked.
+And so like other streaming companies have their own versions of OBS that you can download that like specifically talk to their services.
+Um, if you're tired of using zoom, I know we're using zoom today.
+I was hoping to actually use Jitsi meat.
+Um, but, uh, I was not able to get some of the things working that I wanted to have working, unfortunately.
+Um, but you could try this instead of, instead of zoom.
+Um, there's also like the Libre office project.
+So you can replace all of your Microsoft products if you need to.
+And programmers developers are often already using open source software.
+Like if you use a visual studio code, it is an open project.
+Um, Adam, which a lot of people used to use was an open source project.
+Adobe used to have an open source coding, uh, app called brackets, which doesn't seem like they really support that much anymore.
+Um, there's a new open source video editing program called olive that, uh, is still in like an alpha release, but you can download it and use it and like help them make it better.
+If you like, feel like you need, uh, a mostly working program to sort of help make working.
+Um, and even things that like might be getting more advanced, but like CAD tools and things like that.
+There's often free or open source versions of those, um, audio editing.
+There's audacity, our door.
+And then for video playback, there's VLC.
+And they're also working on a nonlinear video editing program as well.
+Um, so for any need that you might have, it is possible to find an open tool, uh, a Libre or open source tool to cover that need.
+Um, but just don't think of them as like replacements for Adobe because they might not do all of the things that the Adobe program you're trying to replace it with does.
+Um, and it might also do just like other things that that program doesn't do.
+So, uh, for example in Inkscape, there's this cool drawing tool called the spiral spline tool.
+Um, so if I pick the pen and then I pick the spiral spline, uh, version of the pen.
+Um, this is a drawing tool that, um, has a sort of like a different set of math equations that it uses for drawing vector paths.
+And we'll try to make a continuous curve between every point, uh, unifying all the points that you draw.
+Um, and it was originally created as its own standalone program by, um,
+His name is escaping me right now, but I will, I'm sure I'll unfortunately remember later who, who was working on fonts and wanted something that would like let him draw fonts.
+The, the subtle curves of letter forms more quickly and easily without having to fill so much with all of the, uh, the, the grabbers on the, on the vector nodes.
+Um, sorry, streaming video and zooming and running Inkscape all the same time.
+Isn't, isn't friendly to the rendering, but there, I made this lovely blob question mark.
+Um, and you know, it's just like all those curves are just rounded and there's, there's no way to so quickly and easily make just like a blob.
+In any other program.
+And I love it so much.
+And then what's cool is that because that spline tool is actually its own standalone GNU public license program.
+Um, the spline tool is in font forge.
+Also, they were able to just include it.
+Um, and since they're GPL licensed.
+Um, it asks that you share the code of your program if you include it.
+And so Inkscape is also a GPL licensed open project and font forge is also an open project.
+So their code is available.
+And so they were able to include the spiral spline tool without having to develop it themselves.
+Whereas illustrator Adobe would have to open the illustrator code to be able to include the spiral spline, uh, tool as it, as it just exists already in the world.
+Um, so they'll have to just make their own version.
+If they, um, if they see fit, the cool part is because the spline tool is open, you can study it and figure out how it works and write your own version, you know, like sort of engineer your own version of it if you wanted to.
+Okay.
+Um, any questions on programs you should look for.
+there'll be a list of those two, uh, that I'll share with everyone.
+And like I said, there, there's a lot more than this.
+Um, for, for most tasks that you might try, you can find several, like there's many vector drawing programs.
+You can find there's many photo editing programs you can find.
+Um, but the sort of advantage of these to me is particularly in this new world we're living in that, that is trying to be able to do.
+It's trying to deal much more with, um, sort of who has access to what and who's precluded access to things because of, um, you know, various structural racist and sexist issues.
+Um, many of, of these, while they aren't always more accessible in terms of participating in the community, they are often more accessible in terms of just being able to download and get to work.
+And not only because they're, they're, uh, the source is open and you can just download it and make it work because they'll also work on a much wider array of computers.
+Um, Oh, there's a question about, uh, UI prototyping.
+Um, so far there haven't been a lot of, of good ones that I've found, but there is one that shows promise at least the last time I checked on it, that it had some people working on it.
+Um, it's called Akira and it was still being worked on, but it was designed in the same sort of vein as like sketch or XD or Figma.
+Um, I would also say that Figma while that the, the, the, the literal app of Figma isn't open source.
+Uh, it uses a lot of open source parts though, and that they're like ideology and practice for how Figma should work is pretty open.
+Um, including that they have this kind of like open community, uh, where you can share files with each other.
+And, um, that to me is like a really cool aspect of that, of Figma as a, as a program.
+Um, and if you haven't tried Figma before, I would highly recommend that you try it.
+It's like one of the best vector drawing experiences I've, I've ever had.
+They actually have a pretty unique, uh, take on vector paths where like any node can have like many points connecting to it, which to me has always been something that I've found annoying in many vector programs.
+Where, uh, anyway, that they do really nicely.
+So the whole thing itself isn't completely open, but they have kind of like an open source mindset to how a lot of the things work.
+Um, so I wouldn't be totally opposed to people wanting to use Figma, even as the library designer.
+Yeah.
+Good, good point.
+See, Lee, that, that many times, uh, aspects of open code or like an open code base are because a specific person or a specific group of people have a need that isn't being served by anything, by anything else.
+And it, you know, might be a really important need, but that like some larger company doesn't see as a, as a sort of like profitable place to put effort.
+Um, and so this, I think is also important from the way that I, like I said, I kind of got into some of these ideas from the perspective of vernacular designing and that, that, that idea that a design can be tied to a specific time and space or a specific subculture of people.
+Um, right. Like Adobe wants to, wants to sell in every creative person access to the creative cloud.
+Whereas the people that make Scribus might have a specific user base of desktop publishers in mind for who might want to use Scribus, whereas like Adobe thinks that like every person who's doing desktop publishing should probably use InDesign.
+Um, and so that kind of like ability to sort of have niche or subgroups of people have their own version of a program is pretty cool.
+Um, and to me is like more honest to how, uh, we create things and, and also fits the, some sustainability conceptual things I'm, I'm interested in, in terms of like, um, you know, like nature often has.
+The same general systems are in place in almost all of nature, but each kind of ecosystem, each habitat has sort of like different actors that do the different aspects of like what's important inside of a whole ecosystem.
+So you can see open source software as like a way to do that from a creative production standpoint too.
+We have ideas, we need to make them into forms, but there might be different tools or different communities of people that, that have, um, that want to find different ways to sort of like make that translation from idea to form.
+Okay.
+Okay.
+We're nearing the end here.
+Does anybody have any other questions or like, uh, larger points of discussion or are you interested in finding out how you can start using Linux on your computer instead of Mac OS or Windows?
+Okay.
+Okay.
+So we're ready.
+We're ready for Linux.
+For GNU Linux.
+Okay.
+So first, if you want to decide to use GNU Linux, you have to decide which of the 1300 distributions.
+That you're going to pick from.
+Okay.
+Okay.
+So first, if you want to decide to use GNU Linux, you have to decide which of the 1300 distributions that you're going to pick from.
+This is the beautiful, uh, craziness that the Libre open source community can bring.
+Uh, like I was talking about in terms of like how, you know, nature might have many ways of, of solving the same problem in a different ecosystem.
+There's many flavors of Linux for like the different proclivities you have for how your computer should work.
+Or how you want your, your operating system to work or like how free you really want your environment to be.
+Um, anyway, so I've actually, uh, I haven't tried all, all the flavors of Linux yet, but just as like a design experiment as a way to sort of like, well, maybe I can help other designers decide if they want to like fully abandon their tech overlords and try things from the, the open community.
+Um, I've tried a bunch of different distributions just to see like what ran things better, what worked on more kinds of computers, uh, that in the ways that I wanted it to work.
+Um, and then the thing that gets pretty crazy when you get into the actual, like open software is you, um, you know, you, you don't just pick an operating system.
+You can also pick the like desktop environment that, that you look at once you've picked the version of Linux.
+And most of the desk of the desktop environments work on most of the distributions of Linux.
+So you can kind of like mix and match things in a lot of different ways.
+And what I sort of found interesting is that as a designer.
+That.
+Like I never really was able to design my computer.
+Very much.
+If I was like using windows or using a Mac OS.
+Most of the designs been decided for me.
+And while it's like in my taste.
+Most of the time.
+Um, sometimes I want to change stuff or like, maybe I do want to have my own icons and not apples icons and you can't really do that very easily.
+So.
+And anyway, you, there's a whole bunch of flavors of Linux and they range from sort of like super.
+Intensely free to like basically almost proprietary.
+Uh, depending on like how much you, you want.
+Um, a lot of the flavors are based on Debian.
+Um, so I have one computer running like a totally raw plain version of Debian.
+Um, the most commonly used one, if you just like ask the internet, what I might try, um, is probably Ubuntu.
+Um, and it is pretty easy to just get running on almost any computer without very much effort from, from you.
+So this could be a good way to start if you really wanted to just try.
+There's a, this new one called pop OS, which has a lot more graphic friendly features by this company called system 76.
+It's also making like laptops and desktop computers.
+So if you want an open computer, um, you can buy theirs, um, to run your open operating system on.
+Um, if you're like a little more techie, uh, there's like our clinics and then Manjaro, which is like a little bit easier to install and use version of our clinics.
+Um, that, um, anyway, has a bunch of other features where things are kind of like always continuously updating.
+And it's not really like versions of the operating system.
+Um, in my experience, uh, on my computer in my office at Micah, I have open SUSE running and it's been the easiest one to get all the peripheral things working on like the vinyl cutter, um, and a bunch of other stuff.
+Um, so it's, it's been like really useful to like use the vinyl cutter from my computer running Linux, even if you can't get illustrator to print to the vinyl cutter anymore in our, in our work lab.
+Um, uh, I've also used Fedora on one computer.
+It is really pretty easy to get going.
+Um, and if you want like extreme, uh, differentness, there's also just like weird things you can try like this one called easy OS, which, um, looks like it came from like 1992, but you can just run it off a flash drive and boot any computer from the flash drive into easy OS.
+And it's just sort of like a fun way to just try something totally different than you're used to.
+And if, if we think about like design wanting to create, um, better experiences for people, especially if we're getting more and more into like designing user interfaces and, um, uh, applications and things on screens.
+Like most of us use the same tools all the time.
+We like are using Apple computers.
+We're using iPhones.
+We're using iOS.
+We're using Mac OS.
+And we're probably biased to like those things being the good way of doing things.
+And so when we design our own experiences, we're often like not thinking very far outside of those experiences that we've already, uh, tried in, in those particular, in our like everyday use of our digital objects.
+The cool part about trying out all these different Linux distributions and Linux desktop environments is that some of them are crazy.
+Some of them it's like, I don't understand why somebody would make this work this way.
+And it's an, it's amazing.
+It's so fun to try crazy stuff.
+Um, because it gives you this sort of perspective on is what is what I'm saying is good, good because it's actually objectively good.
+Or is it good because it's the only thing I've ever used.
+And so these other things are just bad because I like, don't, I'm not familiar with them.
+Um, and is familiarity really what we're talking about or sort of like comfort really what we're talking about when we say that a piece of software or an operating system or something is good.
+So if you pick an operating system, you can then also pick a kind of interface.
+There's things like GNOME, which are meant to sort of be pretty fully featured like Mac OS or Windows and like have an interface that you're kind of familiar with and all the tools that you kind of expect to have.
+And there's some like lighter desktops like X F C E, which I I've been really liking because I can customize a lot of how it works, which as a designer sort of feels like a kind of advantage.
+Like I can design a lot of it.
+And then there's even sort of like more extreme things that are just called window managers that basically just like pop up things into windows and you can just decide how your screen gets split up into differing.
+Uh, large and small windows and I'm using that on one of my computers and it's become sort of like my default way of.
+Of you use it's like my default preference now is like window managers trump total desktop environments in terms of my proclivities as a designer.
+Anyway, so it's just like fun. I like never thought that there were these other ways to like make interfaces and just like there's this huge tree of Linux distributions.
+There's also a sort of like huge array of a visual interfaces that you can try.
+Um, and again, these are just like fun ways to experiment with, um, I don't know, like alternative realities to digital environments.
+Um, there's also then a bunch of people that make laptops or computers specifically that like ship with Linux on them or like friendly to installing Linux upon.
+Uh, increasingly Apple computers are like not friendly to installing Linux on.
+Um, but like companies like system 76 make a bunch of computers that just shipped to you with Linux on them.
+There's a new company in, uh, Silicon Valley called purism and they're really focused on security.
+Um, and so their computer has like physical switches to turn on and off the microphone and the Bluetooth and the video camera so you like know it's off.
+Um, if you're paranoid about safety thing or just like care about digital safety.
+Um, KDE is a front end environment and now they're making their own laptop sort of like more of a designer laptop.
+Um, and there's anyway, a bunch of companies that make stuff.
+And like I said, because many of these programs will run on, on slower, less advanced hardware.
+There's even companies making, um, sort of like really low end computers that can do a lot if you run a minimal version of GNU Linux.
+Um, and the sort of versions of these graphics programs that are designed to run on us on a lower end machine.
+So this is a, an arm 64 processor, which is a much, um, a sort of lesser processor compared to like the, the core, um, like the I nines or I sevens or whatever that we're used to in our Mac books.
+Um, but it'll do a lot with just a bare bones GNU Linux install on it, even though it has like really pretty low specs.
+This is the pine book.
+Um, there's also things like the raspberry PI, which are these small computers that are easy to kind of like mess around with and low risk to, to try things on.
+Um, or even people that like make a laptop enclosure for the raspberry PI, uh, which can be fun to sort of play around with.
+Um, or my favorite is just that you can like buy any old PC laptop and like probably be able to get your, like some weird Linux thing running pretty quickly.
+Um, so I just have an old ThinkPad that I have been testing a bunch of stuff on.
+Um, and anyway, it's just sort of fun to play around with and like low cost and low risk to try.
+Okay.
+So you could go as far as to change your entire operating system.
+The advantage to that is you can buy a really cheap laptop and basically freely, uh, install all of the software tools you need to do all the design work you need to do.
+The sort of humorous disadvantage to all of this is that while all these things are open, you will like find that you will not be able to collaborate with other designers.
+So, uh, you know, like when I, I have these repositories of projects I worked on that I've used Scribus and Inkscape and whatever to like make all the work for.
+And while they can, while anyone else can use the fonts that are in there and the images that are in there, they can't always open the like Scribus file and like edit it because they don't have Scribus.
+Okay.
+Now the advantage to some of these, um, many of these open source programs use a file format that isn't that that is often open if possible.
+So like SVG, which Inkscape saves to, um, is an open file format that actually Adobe helped create.
+Um, and so, uh, a lot of things will be able to read and edit SVG, but Scribus has its own file format that it saves, which it can only open in the graphic, uh, program to like edit it using the graphic interface.
+But it's really an XML file type and XML stands for extensible markup language.
+Um, and so it's really a text file.
+Um, and so it's really a text file.
+So even though Scribus, you can't necessarily open a Scribus file in InDesign, you can open a Scribus file in a text editor.
+And then you can actually see all the pages as discrete, uh, text objects.
+I was going to try to show it to you, but, uh, it's not that important.
+Anyway, and you can edit the file, like just through like a tech, like with VS code or with Adam or just with plain, like a text edit on your Mac.
+Um, and the next time you opened it in Scribus, like the pages you added or the text that you changed, whatever will be edited.
+It's like pretty cool.
+Um, so, uh, any questions.
+I'll just give you my conclusion.
+If there's not any other questions and that might lead to a little Q and a at the end.
+And I know we're on the clock till nine.
+I'm happy to hang around a little bit longer.
+If anyone wants to talk more.
+Um, okay.
+So.
+Even if nothing else, I don't think you have to, um, fully abandon the proprietary software world.
+I think what free Libre open source gets you in terms of access to tools is an extension of it extends your ability to make things.
+Um, it gives you other ways to create form that like might not exist in any other place, except for in these little, uh, Libre open pockets.
+Um, and even.
+If it's a program that like isn't that much different than its counterpart in.
+Um, with from Autodesk or from Adobe or somebody, it might have just different ways that it chooses to do the same things, which just might help you, um, either find new forms or like have other fun accidents or just like try things differently.
+Um, and I, um, there, there's a quote from Anthony Dunn and Fiona Robbie from one of their essays about speculative design where they, where they talk about how speculative design is a parallel practice to, um, status quo design that kind of challenges the, the status quo.
+Um, and if you sort of want to, so that that's, that's done Robbie and my sort of like extension of that is if you really do want to challenge the status quo.
+Um, with design, you, you probably can't fully do it if you're using the status quo tools to make your designs.
+Because they've have baked into them the ideologies of, of neoliberalism, uh, as part of the tool to, to me, even just like opening an Adobe program.
+It's showing you what it thinks you should make with that Adobe program, right?
+They pick a graphic and have chosen a specific graphic to show you that supposedly was made with after effects or InDesign or whatever.
+And it just like, while you're waiting for your program to load, you're being shown like what they expect you to make with that program.
+Um, and I guess that just like bothers me in the same way that, that Richard Stallman was bothered by the, his print queue, not, uh, like not being able to fix the print queue issue.
+Like I don't want to be shown or told what to make with the tools that I am using as a designer.
+Um, and so that's, that's sort of like why I like having access to these extensions is that they just provide more ways to try things and test things.
+And while I am increasingly trying to use them exclusively, they're just a nice place to go have a respite, uh, from like the things I'm forced to use for many of my client projects.
+Um, anyway, so if these things interest you, um, a few things that you can do besides just switching programs is you could just share as much of your process as possible.
+That could be like writing tutorials for how you make stuff.
+That could be like literally, um, you know, like you give a lecture and you give everybody the script to your lecture or the script that you wrote.
+And then didn't follow hardly at all.
+Um, or maybe, you know, like, uh, you want to share, um, you know, this is a webpage I work on.
+It's just on GitHub.
+You could, um, they probably don't know that it it's just on GitHub, but they're not really worried about somebody stealing any of their code because it's just an HTML website.
+And you can actually just download all of the code, uh, from the website anyway.
+Because it's just a plain text website.
+Um, and then, you know, like lectures I work on or small projects where they're, um, like I worked on a book cover recently where the, the client said they didn't need the files afterwards and they weren't going to share them with anyone else.
+They just needed a PDF to be able to send to the printer.
+So I just used Inkscape and Scribus to make the thing because I knew like, it didn't matter if anyone else didn't have Scribus on their computer.
+It just, I could send them, uh, the PDF and everything was fine.
+Okay.
+Question.
+Sorry.
+Any tools you've built or synthesized from open source software crude programs that feel like a homemade DIY solution.
+And then an add on question, particular coding languages that are useful for implementing more of these tools, or is it a grab bag like a bunch of numbers.
+Um, in terms of my own practice.
+Um, I've been, I've been trying to work on some like web to print things.
+And so I have been using some like open source JavaScript libraries to, uh, like, uh, bindery.js, um, that will like compile an HTML page into, uh, printable along.
+It'll compile like a long HTML page into printable pages.
+Um, and so I've been able to like extend that with like hacking together a bunch of other, uh,
+Uh, web technology things like, you know, you use HTML and CSS to design the page.
+And then, uh, maybe you use some other open content management system like, uh, uh, uh, Pelican or Jekyll or something to like turn markdown files into the webpage, which then you use bindery to turn into a printable PDF.
+And so there are some like cool ways to kind of like play around, um, with like these little.
+Uh, mini programs that do just like one or two things.
+Um, and then I'm fine.
+I find myself in like, uh, the, on the computer with all these other tools like, uh, node box and inkscape and things like that, that, um, I'm much more likely to jump around between programs to do like little things in each program.
+Um, partially maybe because I like haven't figured out how to do everything in every program yet, since I'm sort of like unlearning a lot of Adobe muscle memory to like relearn new things in these other programs.
+But it's just sort of like fun, more fun to jump around between them.
+Um, particularly because some of them like share SVGs much more easily than, um, Adobe programs might.
+Um, and then in terms of like what kinds of programming languages you might want to learn.
+If, if you actually want to participate with, um, programming on, for software things like, uh, Python, or it seems like a lot of new things are being written in rust for, um, like the graphic persuasion.
+Um, are good, um, in terms of like web stuff, like JavaScript is still king of the, of the web.
+Um, and so there's all kinds of things that are like open app or open web projects that if you know, JavaScript, you can really easily extend or participate in.
+Does that answer both of your questions?
+All right.
+So I think like the main reason that people choose not to do this.
+Let me unshare.
+I'll look you directly in the eye.
+All of you.
+Uh, the main reason that people, I think choose not to do a lot of this is that, um, a, we foolishly in art and design school show you only the proprietary tools, right?
+We like teach you the Adobe creative suite, or we like teach, uh, the, the industry standard programs.
+And so there's like a chicken and the egg problem.
+Like, are these things, the industry standard, because they're the best thing to use for doing these, uh, jobs.
+Or are these things industry standard because everyone who goes into the industry has been taught how to use them before they went into the industry.
+And so if we think about a school, uh, like Micah, who, you know, is potentially facing a terrible budget crisis due to, um, COVID-19 like almost all schools will be in the coming months and year or years.
+Uh, does it make sense to spend a small fortune on proprietary software like the Adobe creative suite when we could be filling computer labs with free libre open source software instead.
+You know, that's just the thing to think about.
+I would say that I would, I think, you know, we don't need the Adobe creative suite.
+We don't need to teach you all Adobe creative suite.
+We could just have computers with random stuff on them and everybody just figures it out.
+And then you would fit, you would have those things out in the world afterwards.
+And, and it, you know, can you make a PDF that you can send to a printer?
+Can you edit a photo that can be used in a layout?
+Can you draw a vector drawing?
+It doesn't matter what tool you use to do those.
+Just like, it doesn't matter what pencil you choose to use to draw a pencil drawing, or you get to choose what pencil paper combination you want to make a drawing with.
+Like why don't I get to get to get to choose the program software computer combination when I make a design project.
+Um,
+So,
+you know, like why else designers don't, don't do this.
+I think we're often.
+I think we're often that will the mythology for designers being these sort of creative geniuses means that you don't really want to show people how the sausage is made to use that kind of reference like what what Libre designing does is that it sort of like opens the recipe.
+You can see how a design goes from nothing to something, and that means it's repeatable.
+The same way that like a food recipe is repeatable if you can give people the instructions for how to do a thing, they can often figure out how to do it themselves and substitute or customize it for their particular need.
+And I think.
+And I think the sort of history of contemporary designing being a service industry where we're providing somebody something that's supposed to be a work of of genius makes it sort of scary to give away how you arrived at that beautiful final.
+Sort of like ephemerally special thing, but something that like I find interesting in the world of cooking is that oftentimes the at least right now in this time and space, the places that are known as the like most interesting restaurants in the world.
+Like.
+Like Rene Redzepi and his Noma restaurant or places places like that are often sometimes the most likely to explain everything that they do to be so good.
+And to me, that seems interesting, like you could be the best and show everyone how you're the best and it doesn't make you less the best.
+If anything, it makes them like more known as being the best because people are sort of like in awe that like they can put together these things and do them well and repeatedly and source all the things they're trying to source the way they source them.
+So, yes, Sarah Stern in the chat here says Noma's fermentation book explains everything and it's the best and it's true they they sort of like have spent deck, you know, like years or decades figuring out some of these things and they just like wrote it all down.
+Like here's exactly what we do.
+And like you can buy the book from us.
+And for the most part.
+While technically, yes, you could follow all their instructions.
+It's like some of the things are probably highly unlikely that you can actually do yourself, even though they've shown you how to do them.
+So I don't think we like totally need to be afraid that if we show everyone how we design the great things that we design that they'll just be like replicated and stolen and like lose all of our ability and skill.
+I think you'll like the likelihood is that you're more well known and more successful by like sharing all of your skills and abilities, and that we like help each other all be even better, as opposed to like toiling away in individual struggle all the time.
+Okay.
+Okay.
+Okay.
+Okay.
+That's the official end of my, I don't know, stroll, conversational stroll.
+So I appreciate all of your time and listening.
+Um, and like I said, if anyone wants to hang out and just ask more questions, I'm happy to stay on as long as people are interested.
+Um, 3d modeling.
+Uh, and yes, blender is not the best for, uh, super accurate.
+Modeling that you need to be sent out.
+There are some other CAD programs, um, that can do some of this stuff.
+Uh, one that I linked to is Libre CAD.
+Um, it's limitation is that it's really for making like two dimensional schematic drawings.
+So you could make all the elevations of a, of a thing, but you can't necessarily make a fully featured 3d model.
+Um, there is the OBJ file format, which is an open 3d file format.
+Um, and unfortunately, unfortunately off the top of my head, it's escaping me.
+What the handful of, of programs are, but several of the 3d printer companies who make open source 3d printers have their own 3d print software to drive those printers.
+That is also open source.
+Um, and so the idea that like the printer would be open source so that you could, uh,
+make, you can download the files that you need to print the parts that you need for the 3d printer.
+So if you get one 3d printer, you can then make like infinity 3d printers.
+It's sort of like, I guess the idea, like you buy one and then you can extend it or fix it as it breaks.
+Um, but, but anyway, there are, there are several options for 3d printing, uh, or at least 3d models that are good for printing.
+Okay, there's a question about where can we read more about why and how to open source.
+Um, uh,
+I highly recommend
+a lot of the foundational texts on gnu.org and the free software foundation.
+Um, in terms of, of sort of like outlining an ideology for why it's useful to participate in, uh, like a shared cultural exchange.
+Um, the
+gentleman that helped start
+Um,
+creative commons
+Uh, Lawrence lesig is his name.
+Um,
+he has many books about this topic from a creative works perspective, like from a, uh, writing, um, photography design kind of perspective.
+So Lawrence lesig, uh,
+many of his books, like I said, are about this.
+That's a good place to look.
+Um,
+Um,
+and then there's a couple of documentaries.
+Uh,
+everything is a remix.
+Um,
+gets into like how.
+In terms of cultural production.
+Uh,
+much of what we take for granted as, uh, like how works are created like music, movies, even like folk tales, things like that.
+Uh,
+Are people taking different influences from different places and kind of like smashing them together in interesting ways to create new stuff.
+So that's a good documentary that kind of like explains a lot, uh, in a pretty short window of time.
+Um, and I can link to some more things, uh, in the materials I send later.
+All right.
+What else?
+Anything else?
+Um,
+feel free to email me.
+If you have any more questions.
+Uh,
+my Micah email is kbjörner.mica.edu.
+If you care more about privacy and you want to have an encrypted email conversation, you can email me at björnmeansbear@pm.me.
+Um, and you can find me on some social media as björnmeansbear.
+I've been increasingly kind of like abandoning, uh, my accounts, but I think Twitter and Instagram.
+I still occasionally am on.
+Oh, Tavishi, uh, posted everything as a remix link for people.
+Um, but any other, anyone else have any questions or want to converse?
+Yeah.
+I have like another question actually.
+Um,
+Yeah.
+I've just been making, I've been working on a research project that actually kind of talks
+about remix culture.
+And this is like very unrelated to our open source dialogue.
+But I wonder how you feel about memes and how people like, you know, they make memes and
+then sometimes they're shared so widely that you don't know who's the original person.
+Yeah.
+I mean, well, I think that is how works normally kind of get created.
+Um, right.
+Like the whole idea of a, of a, of a, of a folk song, for example, like an American folk song,
+there's this great line in the, the, ah, crap.
+Anyway, this idea that like, it's never new, it's never old.
+It's just a folk song.
+And like, you don't really need to know who the originator of the song was.
+It's just like a song that we all can access and, and know and play in our own way.
+Um, I think that's actually like the, the way, uh, creative works really kind of are supposed
+to work that they, they get out there and people are able to kind of spin them and craft
+them and format them to their, to their need.
+And it isn't important necessarily who really originated it because the meaning can like
+adapt and change that way also.
+And that's good sometimes because like it can.
+Like get new meanings and like travel into new spaces, but it can also be a negative because
+there's like not a way to hold somebody accountable if the thing is like being used negatively.
+Um, but anyway, I, to me, it's, uh, it's like the, an, an ultimate form of vernacular, uh,
+culture that like, it just loses its connection to who created and just like becomes everyone's.
+I think that's a beautiful utopian, uh, dream for a creative work.
+Sure.
+Yeah.
+Thanks.
+I think I was, um, I was at the cryptographic conference and they were talking about, um,
+the historical background of type.
+And I was just wondering, yeah, like, I guess you can design something, but you really can't.
+Um, I guess like dictate how people are going to use that because you honestly don't have
+much control in that context.
+Yeah, definitely.
+Uh, yeah, we'll send the, the recording, uh, of this out to everyone.
+It'll be both on YouTube and just as a file that you can download.
+Uh, Risa asks, how do you stay optimistic and inspired, especially now, uh, during continued
+COVID lockdown, do I seem particularly optimistic and inspired?
+It's like, I don't know.
+I have a lot of fun doing things like, um, talking to people, even if it's sort of like
+just projecting out at, at you.
+Um, uh, but I, I know I've been trying to work on a lot of things.
+Uh, my wife and I have two small kids.
+We have a seven month old and a four year old, and that's like been the hardest part of the
+last couple of months is just like my four year old needs to like be out doing stuff.
+And like all the things we would normally go do, uh, we can't do.
+So little things like this were a really exciting, fun way to kind of like be in a different mental
+space for a while and get out of that and trying to apply some of these ideas to my own work.
+And to my classes, um, which, you know, we've all been trying really hard as faculty to kind of
+figure out new ideas and processes and techniques for classes.
+Um, a lot of which, you know, should probably also be open source.
+So like all faculty everywhere can, uh, help each other improve their classes.
+Um, or all students can help each other improve their, their work.
+Um, so anyway, just trying to think about those things has helped me, has helped me stay.
+Uh, at least in little bursts, energized and optimistic.
+Good question. Thanks.
+What else?
+Is anybody else?
+Did anybody show up to this expecting something that we didn't talk about yet though, that you weren't touched upon?
+Um, not to like make everyone listen to some other diatribe, but
+I'm happy to like go back over something or show you, show you something else or, uh, say good night.
+Also, if people are ready for that.
+Um, let's see.
+There's a question.
+Has your created creativity manifested in an unexpected way during the pandemic?
+Um, I've been doing a lot of, um,
+um, of gardening.
+Uh, my wife and I decided we were going to
+change part of our yard into this small fruit orchard.
+So we've been working on that.
+And, um,
+that's been a really interesting way to think about like, how is my design practice?
+How does it, how can it be like beyond just, uh,
+uh, the, the, what traditional graphic formal design is?
+How is like a gardening project also part of my design practice?
+And like both, can I focus on it in the same intense way?
+Like what are the context and the content and how do I like craft the form to fit those contexts?
+But also like when, what do I learn from the natural world through this gardening project?
+And how does that sort of go back into my studio form making?
+Like how is my design, my like formal graphic design process become more like a permacultural farming process?
+That to me is, has been something I've been thinking a lot about over the last couple of months that I never really thought I would, uh, be thinking so hard about.
+All right, thank you for all of you who are, uh, saying that you found this to be a good introduction.
+So I hope you find some ways to try some of these things or show them to your colleagues or students or anyone else.
+Um, I appreciate being able to share it with you.
+Cause like I said, this, these things started out as a personal interest became a class.
+And now I've sort of like, feel like I've become kind of a champion for a lot of these things.
+And, um, anyway, I hope they help a lot of you.
+I think in our, you know, like in our present, when it can be hard to find work or there's a lot of future uncertainty,
+having access to like the, a wider array of things and knowing that there's a community of people like that might want to share and help you.
+Um, it's just, you know, like a good human, uh, feeling good interpersonal human feeling to have right now.
+Even if we're all stuck in bedrooms by ourselves or basements, which I'm in my, I'm literally underground for this talk right now, since it's about underground design things.
+Um, all right, well, I appreciate all your time.
+Like I said, please feel free to email me if you have anything else you want to talk about.
+Um, and I'll make sure that everything I linked to, um, or mentioned, uh, gets sent to all of you, or, or at least will be in that Git repository that you can all still have access to.
+Um, but I'll try to just send it as an email to everyone on the list.
+Um, and so.
+Please enjoy the rest of your week.
+Thanks for spending your Monday night with me or Monday morning, depending on where you are.
+Um, and I look forward to seeing at least some of you, um, in a few weeks.
+Adios.

@@ -1,0 +1,549 @@
+okay so um yeah so you heard about some things about copyright so far today and um i thought i
+would give you a a some sets of things to think about that fit into the way that copyright law
+and licensing laws work in um the legal world but create an alternative opportunity for making
+new works upon old works right like the main thing that you probably heard about from a lawyer was how
+you might infringe on copyright and thus be like legally legally at um be responsible for like
+legal damages in legal speak which usually means you have to like pay back uh royalties for using
+something or whatever well there's a whole school of thought about how creative works
+um the history of creative works are that you build upon previous creative works and that a sort of like
+interesting thing is usually are interesting not because somebody like magically invented a new idea
+that no one had ever had before but that you saw all the like good ideas that had existed and like
+added one tiny thing on top of on top of that um so i'm going to talk about a realm of software
+called the uh free or libra or open source software uh sort of movement and this is abbreviated a couple
+different ways you might see it you might see hear people talk about free software you might hear people
+talk about open source software um you might see this abbreviated as floss like f-l-o-s or f-l-o-s-s um and sometimes it has a slash between free and libra and so libra is a european name for free software and in spanish it means like free as in freedom and that's why they've chosen to call it libra or i guess it's not just spanish in french and latin it also means free as in freedom and it's to
+to like make sure that it's not confused with free meaning that it doesn't cost anything um so we'll get to that in a second though um so first i'm going to give you like a little bit of background on just like why people decided to make these things and then oh shoot i'll give you a little heads up on how we can use them in the present to like make design being graphic designers more interesting or at least change the way that we graphic design
+uh and if we have time uh and if we have time uh we'll do a couple things okay and i'll try to talk fast so my computer doesn't go to sleep i guess i could change that energy
+okay okay so there's a couple of graphic design connections the very first well so computer
+software in general was built by the history of computer software is the history of people sharing
+stuff with each other um like early computers from you know like the 40s 50s 60s 70s until the early 80s
+there's only a handful of people that really like made stuff for computers and they were all mostly
+like researchers or um developers who were like inventing this stuff so it was important that they
+like shared the code that they came up with because um little innovations that people made like benefited this
+entire community of people that were working on like inventing how computers worked and inventing computer
+software period so um donald knuth is a pretty famous software uh computer scientist he uh is best known for
+this book that he wrote which is which is basically just the it's called the oh my god my brain um anyway
+it's like a key computer science book about making software and it's a multi-volume set um and he's also a quite
+um an interesting uh christian and he believes that creative works um uh particularly like important things like
+math and stuff like that are kind of like things we access that um humans access from god and so things
+like computer software and math shouldn't be owned by people because god like gave us access to these
+things so all of the software donald knuth ever made is like we would now consider open source software he
+doesn't care if anybody uses it and builds upon it because he thinks it's there for us all to use and
+build upon um so anyway uh he uh the graphic design connection here is he invented this thing called
+metafont um and also this typesetting program called tech it's spelled t-e-x but it's pronounced tech this
+is a slew of annoying computer related things where words aren't necessarily pronounced the way that
+you think they should be pronounced because somebody decided to be clever so tech pronounced spelled t-e-x anyway
+he uh wrote this book about computer science in this like early 60s that got published and it when it got
+published the first edition it was typeset by people using linotypes and so it was like metal typeset by like real
+professional typesetters and then uh the like by the late 70s it had sold out and they were reprinting
+it and he had updated it with some new computer stuff that existed that hadn't existed before
+and he gets the proofs back from the publisher and he's like looking through them and he's just says
+like oh my god this is so horribly typeset like why the hell is this so horribly typeset
+and it turns out that it had been photo typeset not like actually hand typeset and so photo typesetting
+was a new invention at the time in the 70s and this was like instead of having to print having to actually
+like make lines of metal type with a line of type you had a a photographic negative and you could project
+light through the photographic negative and then you would like build your um build your sentences and
+then pages that way the the disadvantage was this like it um didn't have the fineness of control in
+terms of like if you were making small type or big type you're making it all from one negative and so
+like things didn't look quite as sharp or crisp as he was expecting and it also had a bunch of
+problems with like mathematical figures and um other kinds of special characters because the the matrixes
+in some of these uh photo photo types like didn't have as advanced of um didn't have all as many
+characters sometimes but also like didn't have as fine of control over like where things went on a on a
+page anyway it bothered him so much that the typesetting was so crappy he was like i can write
+a computer program that will typeset this thing better and so he wrote tech and he unfortunately
+took him a while to make it work the way he wanted so it didn't he didn't get it done in time to like
+re-reprint the second edition of his book um but it was like led him like this poor typesetting led
+him on this crusade to make a better typesetting tool so um it's actually kind of fun to use uh it
+it is set up to work kind of like html like you have your type and then you put tags around it and
+the tags tell the processor what to do with the type um and then it like makes it a beautifully typeset
+document for you as the output and um to go along with this he needed a better font that could like
+do all the things he needed a font to do so he also wrote a font program called metafont that like
+can draw vector fonts and it was the first um sort of like vector font program and this first sort of
+like really great typesetting program and so a lot of like graphic designing on computers is thanks
+or at least like the thinking around it is thanks to to down um anyway so those programs though are open and
+have always been and so the sort of like first the first open source font is metafont and it's sort of
+like pre um predates a lot of the the open source font stuff that's been happening the last decade
+anyway he's a really interesting guy a bunch of the videos that he made in like the late 70s or the i
+guess the mid 80s when he when tech first came out he was a professor at princeton and he made all these
+videos showing people how to use tech and like use other aspects of computers um so if you're interested
+those are all online you can watch them uh on youtube and if you know like want to learn about
+computer science from like one of the most famous computer scientists that's like kind of an
+interesting way to do it okay i've talked too long about that i didn't mean to talk that much about
+so um he sort of again like i said has this badly typeset book and sort of gets into making typesetting
+tools um and then some time passes in in in this in this arena um but what happens what starts happening is
+programs go start going from being like made by a few people sharing their their computer code to being
+made by companies like ibm and stuff like that and like they're selling things now and they don't
+actually want to just give their code out anymore to people so um jump us forward a decade to the to
+like 1983 at mit and this is another graphic design sort of like tangential story richard stallman who's a
+computer um computer programmer working at the artificial intelligence lab at mit in the early 80s
+he is trying to print something one day and he he hits print he waits like 45 minutes because you know
+this is like the 80s um and he walks to the printer and it like hasn't printed his thing and he's like
+what the fuck is wrong like this printer never works god damn it so he calls xerox and he says
+can you please send me the source code to the printer because i need to fix it your printer sucks
+so they send him the source code he fixes it the bug uh it turns out there's a bug where when there
+was an error uh in the print queue it would just like crash the crash the printer and not print any of
+the things much less the thing you were hoping to print so he basically ends up like fixing the bug and at
+least tells the printer to like alert the terminal that sent the print command that their that their
+print isn't going to work and to like send it again or fix the problem um so then a few years like
+a year or two later they get sent a new version of this printer by xerox and it still has the same
+bug in it they like decided not to not to like include his fix and he gets he like is furious and he
+calls xerox again and says please like send me the new source code you guys still have this annoying
+problem with your printer and they say oh we don't share a source code anymore sorry and like hang up
+the phone because you know again it's the 80s they have to call each other you can't just email email
+these things so anyway this like infuriates richard stallman so much that he says i refuse
+to work on computer code that won't be shared with everyone and he's sort of like talking to his peers
+at mit and they are like i i mean it's kind of the way that code is going though like all these people
+are trying to sell this stuff now they don't really want to share their code with us and if we were
+working on stuff with them it's probably like not going to be shareable either and he says well i refuse to
+do that so i'm going to start a new um a new uh software i'm going to start a new operating system
+that only includes software that anyone can use for whatever they want to use it for and so he um
+like quits his job mit lets him keep his office even though he quit working there and so he actually
+like since he's not making any money anymore like lives in his office for the next couple of years
+while he works on this project but but he's like i'm starting a new operating system i'm going to call
+it gnu so that it's not even though the word in you know is pronounced new if you've ever seen this
+before like the g is silent he's like i want to call it we're going to call it gnu with a hard g so
+you don't get confused about my new software it's gnu software it's not just new software um and gnu
+stands for gnu is not unix it's a recursive acronym where the g stands for the word and then the word
+is in the action you know gnu not unix um because it's based on unix but it was open and free so anybody
+could edit it and use it because unix is actually owned by at&t and so it was proprietary you couldn't
+just do whatever you wanted with units um anyway so he starts gnu it's an operating system and it's all
+the core programs that you need to make software so it's got like text editors and um protocols for
+talking to the internet and things like that um and so he starts this in september of 1983 and then
+he and a handful of people keep working on this and keep developing it and they end up with enough stuff
+that they can at least as computer programmers themselves do all the things they need to do
+um with totally free software and he specifically calls it free software and he says it's free as in
+freedom not free as in free beer that's like how he kind of like phrases it to his developer buddies
+um but it it's like in english english it's confusing and people constantly are like oh but it means it's
+free and it has to like have no cost and he's like i don't care if the things cost money i just care
+that if i get a program even if i have to buy it that i can do whatever i want with it and have access
+to the source code and then i'm you're not like um infringing on my liberties by like keeping me from
+being able to do whatever i want to do with this program like if i want to fix a bug i should be able
+to fix a bug in the program even if i bought it from you anyway the downside to what they've got going
+on is that there's like not that many people working on this and um it doesn't like work easily on
+on a lot of computers or for like not these um sort of like handful of developers and so in the
+early 90s this guy linus torvald who's a computer science student in finland like wants a project to
+work on and so he decides to build a kernel and a kernel is like the main piece of software that talks
+that basically like does the communicating between like all the actual parts of your computer and then
+the like computer software itself so he writes this kernel it ends up being called um linux or linux
+depending on like who you hear to say it um it's like linux and unix put together um so linux is
+probably the better way to say it and he built he writes it so that it like talks to gnu the operating
+system um and so linux is the kernel and gnu is the whole like family of software around it and they
+finally have um a program that you can install on any computer and then run any computer with free
+software um or liberated software um now the way that linux got built was also one of the like first
+really complicated projects that got built by a distributed group of people around the world
+and this guy eric raymond who's american um an american computer programmer like found it really
+fascinating that like a small handful of people from who like have never met each other and just like
+only have helped each other over like internet connections could have made something so interesting
+and complicated and that worked so well and that got fixed so rapidly um that he likes decides to research
+it um at the time this is like the late 90s um and at the time windows was windows 97 was the sort of
+current version of windows and it was like horribly bug-ridden and they were trying to come up with
+the next version of windows and they kept just like delaying and delaying and delaying and delaying and
+delaying and so he was like how can this like group of ragtag weirdos make something that's better
+than the richest software company on earth like that doesn't make any sense right so anyway so he
+researches it and he writes this book or writes this essay called the cathedral and the bizarre where he
+compares the sort of methodology and process of these linux guys which is you have all your code open
+and you share it with anyone who's interested in working on it and that model actually ends up
+creating the environment where problems get fixed really fast because the people who have access to
+the code are also the people that like are using it for the things that they like need to use it for
+so they encounter the problems and they tell the group of people who's also doing this that like hey
+i found this problem and then it's highly likely that somebody in that group of people can figure out
+how to solve that problem and then they like reshare the fixed solution with that whole group and like
+really quickly the the software gets better faster than it would if you just sort of have like people
+assigned to work on things over in like an external room um anyway so he compares he calls that like
+linux model the bizarre model and the sort of proprietary regular building model the cathedral model where
+you say this is what we're building and we just work towards what we're building and then if there's problems
+then we like fix them at the end and fix them at the end and fix them at the end and the bizarre is
+sort of like it's chaos a little bit like organized chaos and things just sort of like get fixed and redistributed as
+as possible this is important that this is the sort of like time period this is happening because this is also sort of um
+the internet isn't just the thing that academics use anymore at this point this is like
+regular people have access to the internet pretty regularly by the end of the 90s so he sort of points
+out that this is like a thing that couldn't have happened necessarily at an earlier time and it's
+sort of an interesting methodology that we could all adopt moving forward so eric graham becomes like a
+uh a and i don't know what i'm trying to say he like really pushes this idea out on american sort of like
+corporate software culture and um the net um netscape which is now like mozilla and firefox they've
+they got really they found his point of view really interesting and are we're the first big american
+software company to decide to like make their programs open source and it's sort of like thanks
+to eric raymond's essay and also the name open source this idea of like uh
+naming these things open source as opposed to free software was also sort of part of eric raymond's
+plea to american software companies um and he started the open source foundation with a couple of other
+people basically um to take to there's a bunch of different things i can get to in a little bit if
+it's useful um but they basically like rebranded the idea of free software to make it like more appealing to
+capitalist overlords and like taking out the free as in freedom and like the idea that you are um like for a
+philosophical or ethical reason like liberating your tools so that anyone can edit them and and fix um
+make them useful for their purposes and focus on the like idea that the o by opening the sort your source
+code you can more efficiently find and fix bugs and like improve things more rapidly and they sort of
+focus on that side as like a thing that would appeal to um to companies and not just appeal to uh you know
+like idealist academic developers um or like libertarians um so if you experience open source software
+which you probably you all do on a daily basis even if you don't know that you do you experience it in the
+the the eric raymondized open source way probably like um if you use if you ever use github
+um those are almost those are all open source projects that are on there but also just like the
+stuff you use that powers the internet is all mainly like free or open source like wordpress the content
+management system is open source um a bunch of websites now use this framework called react to like render
+things into the browser that's um maintained by facebook and it's an open source project um
+and um a lot of the fonts that you see shown to you are open source as well um but thanks to google
+so the present like open source-ness has won but like libra-ness hasn't necessarily won so all this
+code is open and available to you um but there's like a key difference between what like eric raymond
+and the open source people accomplished and what like richard stallman set out to do and it has to do with
+um like the licensing um like the licensing and what an end user is able is required to do with the thing
+by using it um so the normal license that most open source things use is called the mit license
+and the mit license says you can do whatever you want with this program um and you can use it however
+you desire and all you have to do is say that you included this you're either using this or included
+this module in your program and like link to our like mit license file that says like that we're that
+that's set in like you've attribute sorry you've attributed this part of your program to us who
+like made this piece that's either a module in your greater program or like is mainly the real program
+in and of itself um so i would say the majority of projects on something like github are using that mit
+license and it's also there's a bunch of different licenses if you look up open source licenses there's
+probably like as many open source licenses as there are like open source projects there's tons of them
+um but most of them are of the sort of like mit persuasion which is called the permissive license
+which basically says as i already stated you can use this however you want you just have to like
+attribute it to us that this part or this whole piece is like you didn't make it up you just are
+including our thing and like somehow get people back to our thing um so that's like open source you can
+use it you can do whatever you want you can look at the code you can help work on it but you can
+include it in a proprietary thing um stallman's idea right of this like all things should be liberated and
+uh it's based on his idea of four freedoms which are that um a person should be able to get the source
+code and use the program then for whatever they want um so like my purchasing software from you
+shouldn't like preclude a use of the software um the other freedoms basically sort of say like because
+um if i like this thing i should be able to like modify it for my specific need and sort of like
+customize it which means again you need sort of like access to this to the source code um but i should
+also be able to like give people my modified source code because i might have fixed something that you're
+not ever going to fix like person that originated this software so i should be able to like let other
+people have the source code that i've changed um and you can't like keep me from doing that please
+um and his last part was that like when i've distributed my modified thing um people should be
+free to then do all those things that you've that that i've said with that new stuff i've now distributed
+um so since he wanted to make sure that the things he made um or the things that his group of gnu uh
+folks made uh would sort of like perpetuate that openness that freeness of the tools he had a much
+more extreme license that's now just called the gnu public license but it basically says you can do
+whatever you want with this but you have to let people do whatever they want with the thing that
+you use this for and so it basically was like a virus that infects the source code and forces all future
+source code to also like be shared in the same way um so like a gnu license thing you can't use to make a
+closed source tool you have to you could like look at it and study it and learn from it and then like
+write your own sort of like replica of it but you can't include already written code in the thing that
+you're not going to also share with other people if the thing is gnu public licensed um and so that
+to me is kind of like the interesting part that that sort of got lost in the like let's let's make like
+let's get open source uh on people's minds is that um like does it matter how open the things are if
+people are still using them in closed things that like might be cool or interesting but don't let
+you see how they work like dropbox is a really good example if you use dropbox
+dropbox if you like look at the little dropbox menu on your computer it'll say like we use open
+source projects and link you to a list of all the open source modules or plugins that they use to make
+dropbox work but you you can't like download the actual dropbox tool software source code to see how
+dropbox actually works you can only see how all the little parts they sort of put together work
+and to me that sort of like seems kind of unfair like you guys got to take advantage of all this effort
+but you're like not gonna share with us the little bit of sauce you kind of put on top because it's not
+like they did a crazy you know if they're using hundreds of other people's modules and plugins
+and like you know that's a lot of lines of code of other people's stuff they probably haven't done
+that equivalent amount of work to like make dropbox work they're like mainly utilizing a lot of other
+people's efforts that have credit in a link somewhere but like we should get to wouldn't it be cool if we
+got to benefit from dropbox's work also or those other people got to benefit from dropbox work maybe
+that's just purely idealism i don't know okay so those are software licenses mit license can new public
+license there's also the apache license which is like the new one in that like if you use this code you
+have to share your code um and then there's a whole ton of permissive licenses in the vein of mit that
+sort of say use this forever you want just like attribute it but you can make your thing closed and
+proprietary we don't care just like make sure that the part that you're using that is mit or whatever
+is referenced um those are great for software but they're not necessarily like that useful from
+a graphic design standpoint because those are about licensing tools and we make things that are
+copyrighted so it's not exactly the same but there's a whole family of copyright licenses built on a
+similar ideology called creative commons and i don't know if did uh in the talk earlier did anybody did
+he talk about creative commons okay so creative commons is a way of licensing you're affecting the
+copyright of the things that you're making and it has to do with copyright and attribution um and there's a whole
+sort of variety of them if you go to creativecommons.org um there's kind of like a chooser that helps you
+figure out what license to use for your um there's a picker that lets you figure out how what license to use
+um but it basically ranges from people can use this however um can use it as is without changing it
+and just like attributing it but it can still be used in any thing um so like do you want adaptations to be
+shared yes or no or yes as long as others share alike so this is allow adaptations of your work to be
+shared yes that's the mit permissive sort of version like yeah they can use it but they don't have to
+then like their thing can still be a closed thing no means you can't adapt it at all so it can be included
+but it has to like stay in its original form so that would be like a lot of authors
+writing authors will like creative commons their text but no adaptations so you can like include
+the entirety of a text and like use it in a textbook or use it in a magazine but you have to just like
+use it as it was written correct um and then yes as long as others share alike so you can adapt it but
+you have to then share your thing the same way this is like what i'm into so like yeah i'll share my
+stuff with anyone but if you use my stuff you have to share your stuff with anyone and let others adapt
+it also um and then our commercial license uh commercial uses um okay and you could say yes or no for
+commercial uses so that's like these five options um sort of create a huge family of potential creative
+commons licenses like yes it can be adapted and yes it can be commercially used or yes it can be
+adapted but it can't be commercially used so that means like i could use it as a professor but i couldn't
+use it as a freelance graphic designer if it says no commercial uses um anyway so if you're like interested
+in this i want to learn more it's useful to like click through all these things and sort of see how
+those all play out anyway i'm used i'm interested in yes as long as others share alike and yes commercial
+uses are okay because that hopefully like infects capitalism with sharing and i think that is useful
+um because again if you like look at human human history and like how art and culture or culture in
+general has been built it's because we you know like you can't own culture necessarily and so
+everybody's free to like see interesting things and use them in from the past or from like around them
+or just from a different place on earth and then like use it the way they want to in the in the present
+um okay so if you say yes as long as they share alike and yes commercial uses this is the license the
+creative commons license it's the attribution share alike 4.0 international creative creative commons
+license if you want like no adaptation and no commercial uses it's the attribution non-commercial no
+derivatives 4.0 license and then this also tells you um creative commons i think is cool in that they like
+grade the licenses and so this says this is not a free culture license and so free a free culture license
+means that it won't allow for people to build upon your thing and they're trying to like help people
+understand openness and not and not open so my like attribute but share alike is pretty is
+pretty open but it does like force openness upon the next person um just by just by attribution is like
+pretty liberated and then doesn't even like force the next person to make their thing liberated and then
+this last one the cc0 is just that you're saying i the way that copyright works did uh did did the lawyer
+talk about the years of like death of an author plus 70 did he talk about that yeah yeah okay so
+death of the author plus 70 automatically things go into the public domain that means if you're the author of a work
+you don't have any way to declare something public domain actually according to like regular copyright
+law it's just like death of the author plus 70. so the creative commons zero license is a way to
+declare that a thing is public domain that's the point of it um i don't actually like that because
+if it's public domain people can do whatever they want and they don't have to share so if i'm alive
+and i can control this i'm going to force people to share their stuff because i want to be able to build
+things on top of other interesting cultural things so i want like people that think that my things are all
+are interesting cultural things to also be forced to share their things if they're going to build upon
+my things because i don't really care about my things being built upon um i really just care that like
+we stop um sort of foolishly owning things so closely like intellectual things so closely anyway
+okay i got i talked about that more than i wanted to more than i intended to not more than i wanted to
+because i really wanted to talk about all these things all the time um okay so the other place that's
+sort of a weird a weird place is font are fonts so fonts are not copyrightable because they are
+determined to be a tool and tools you can't like you can't like um intellectually own this is useful
+because just think if if if a font was copyrightable like the actual like shapes of a font of a letter
+forms of a font were copyrightable and you typeset a book with it every letter would be
+a use of that copyrighted thing and so you would have to you know there are copyright laws aren't
+really set up to deal with like that many uses in a in a in a in a thing um but anyway so like if you
+types of something you would have to like ask for permission to use that font to typeset the thing
+and that we've decided isn't a useful way for culture to work um so here's a little
+tidbit for you that the font designers don't want you to know they don't own a copyright on the shapes
+of the letters so you can just trace any font you want and like make your own font with that with those
+tracings because the shape of the letter forms isn't copyrightable now because fonts are now computer
+software the actual computer code that makes the font is ownable and copyrightable which is why you have
+to pay a license or buy like the software of a font and that was actually a really like useful thing for
+for fonts like digital fonts made making money from fonts a lot easier actually for type designers
+and made like stealing of fonts a little bit even though it's like easier it's harder because it's
+easier to prove that the because it's a vector
+file um there's like specific nodes that draw a letter form and if you just copy
+the actual like vector outline and paste it the code would be the same and that would like prove that
+you had stolen that code um whereas if you like just redrew the font even if it's the exact same
+outline but you like drew it with different points it's no longer the same code so you're like not
+stealing stealing the code anymore um anyway the this no one was really like that worried about this
+like i said meta font from the 70s is kind of like the only open source font for a lot of time like
+linux had a few because there weren't like a lot of people using linux and most of them were software
+developers who were like working in a terminal like just looking at monospaced fonts they like weren't
+really that concerned that there were only a handful of of open or free or libra fonts to use but when
+this started becoming a big deal was when people started having ways to use custom fonts on the web
+and you couldn't include this the co like you the way that fonts on the web work is that you need to
+be able to like link to the font file so that the web browser can load the font data to show the font that
+you want it to show because you've paid a license to use a font in a specific way which is probably
+like on your computer for one one user on one machine you couldn't put that font file on a web browser
+that then like many people might access or even worse like technically could probably download
+um so people started making open source fonts to make web type better because then it didn't matter if
+people had access to the font files or not because it was open source um anyway the license that most fonts
+use is this sill open font license um and sill is an international um international organization that like works on
+like typesetting and language projects and stuff um so they in the early 2000s had a handful of typefaces
+they were working on that um were trying to be more internationalized and like have more characters and
+stuff like that and so they were open sourcing their fonts to like be able to access a wider pool of font
+designers to be able to like create more create these fonts that had a lot of characters that would be
+really take a really long time for a single person to work on but like if there was a group of people
+making all the characters it might like happen faster um so then like a person in a language that wasn't
+represented in the font could design characters they could like fill in the holes for the accents that were
+missing or the special characters that were missing um anyway so they came up with this like special open
+font license that since then um a lot of the open font projects have just decided to use as their license um and
+so google fonts then is a venue for open source fonts at first it was just free fonts like free as in
+no cost fonts so like fonts that you could download from like dot fonts and places like that
+would show up in the old older incarnations of google fonts but since um i don't know the like
+late like 2009 2010 they've been like investing in wider families of fonts to be created and like more
+languages of fonts to be created so they're run by this guy dave crossland he sort of like helps run google
+fonts and he um came from a free software background and also like a free typeface background or libra libra
+font because he's a british guy so he calls it he calls them libra fonts instead of free fonts um
+but so this is a good if you just want like the easiest place to start using liberated graphic design
+stuff in your workflow just like downloading some fonts from google fonts is like the easiest fastest way
+to start doing it um and these are um any new one that's added to google fonts all they all have to be
+still ofl licensed and they all have to have their source code published on github so like um not every
+font that's on google fonts you can find the source code for because like i said some of them either like
+we're free as in just like they didn't cost anything um or we're are open source but we're just made by
+somebody at some time in some place and like their source code wasn't necessarily well it was open it
+wasn't just like shared on some general platform any of the new ones all you can just go to github and
+the google fonts github account just like lists all the fonts and you can like find the source code to
+almost every new uh google font font um anyway uh i'm digressing again so that's a good way to get
+started um and then the current show that's up in the gallery if you want to call it that is based on
+this website badass libra fonts by women um and this list is just you know it's all libra fonts that are
+you know you can find the source code for and you can just use in whatever way that you want now
+i said before that stallman meant free as in freedom and not free as in cost
+um and so he doesn't the open source software and free software isn't predicated on this idea that you
+have to give it away like that you have to give this software away for free but it ends up often being free
+as in cost because it's like if you can download the source code like why would i make somebody pay
+for this um i think that that's like a missed opportunity i think people like aren't choosing
+to find clever ways to be paid to make this stuff even if the source code is free like a font for
+example many of you might not want to download the source code and open font forge and like render out
+a font if you want to use it you might just want to like buy an open tour and you know like buy it as
+an otf file so like why not charge a couple bucks or like 20 bucks to download the otf file and then just
+like make the source code free still and then if you wanted to you could download the source code and build
+the font yourself but if you didn't want to do that and you just wanted to use the font two seconds later
+you could like pay 25 bucks you know i think there's like opportunities that we're missing
+to make money and still like liberate tools um okay the other thing
+uh so historically there's a lot of software that's made this way and there's even a lot of like graphic
+design software that's made this way um but it doesn't usually get used by graphic designers
+people that use it are mostly um like developers or computer programmers or like home hobbyists who
+don't want to spend hundreds of thousands of dollars on like adobe creative suite but still want to like
+make things that you would make with adobe creative suite so there are a bunch of tools that if you
+decided tomorrow that you wanted or today after this talk because i've inspired you so much to like
+liberate your work um you could you can replace a bunch of the tools that you have with free tools
+or liberated tools um and there's also the other advantage to like looking into this realm of software
+is that um there's a bunch of tools that don't exist in like proprietary places that somebody made because
+they needed it and just like knew how to make software uh that does a bunch of things that you can't do
+otherwise so uh inkscape is a vector drawing program that's like uh does a lot of the things that adobe illustrator
+does um it's based on the svg file formats everything you make in it is saves out as svg which stands
+for scalable vector graphics which interestingly adobe helped invent in the late 90s but has like not
+really supported very well ever since they helped invent it in fact you can't import an svg into indesign
+to like display it as a vector graphic it is an xml text file format so when you drag an svg onto
+indesign it shows you the text of the of the file and like chooses to interpret it as a text file as
+opposed to a graphics file which i tell you what is infuriating um because i like love using open
+things so i've been trying to use them in as many ways as possible and that i can't use svgs in indesign
+because they're vector graphics is so frustrating so i filed a bug and a request feature request and like
+150 other people have like also like thumbs up to this request and so uh adobe help says that they're
+working on svg support in indesign finally now so we'll see maybe one of these days it'll be in there
+anyway illustrator does let you like edit and save svgs but it's the only tool that does it in the adobe world
+anyway so inkscape um does vector stuff and it's um like kind of frustrating to use because it
+anyway it doesn't matter it's not important gimp stands for gnu image manipulation program and that's
+the photoshop replacement um there's a bunch of other image tools but gimp is the one that happens to have
+um has kind of like the biggest base of developers that have worked on it and they've done a lot to
+make it usable by photoshop people so like a lot of the ways that things work and the names of things
+are similar to photoshop so it's like pretty easy to switch to if you wanted to try scribus is a page
+layout program and i've been like trying to use it a lot it's like kind of frustrating and hard to use because
+it just like doesn't do a bunch of things that adobe indesign does or does them in like totally weird
+ways that i have a hard time figuring out but it's like maintained by like five people and in design
+potentially has like an office building of people working on it so you have to like weigh those things
+into into some of these programs right like most of these are people that are just doing the thing
+because they think that they need that thing and they're working on it as opposed to a bunch of like
+you know um automatons who are just being forced to work on something because they like happen to have
+gotten a job at a company that makes that thing um okay and then there's in this list it's missing a
+few like i for some reason didn't include blender blender is a 3d rendering um animation program that is
+actually really awesome um and it's paid for in part by a grant by the dutch government so they have like
+a staff of people that get paid a real software development wage to work on it and they even like
+fund make cool things with blender experiments where you can like apply for a grant from blender to like
+get a stipend to make a thing with blender because they like want to inspire people to use free software
+and make cool stuff um so that one's really cool to play with if you want to do like cinema 4d kind
+of things or after effects kind of things it's like lives in that animation 3d rendering kind of world
+um if you want to work on fonts there's things like font forge and true font um and then there's like
+google fonts which i talked about if you want to just download some fonts to use um you can look
+around on github there's a bunch of people that have posted other kinds of fonts on there
+if you're looking for imagery um my favorite place to go find images is flicker.com commons
+and it's a bunch of different organizations that have that have just posted public domain imagery
+onto flicker um so a lot of it's like scans from old books that are from like the eight you know like
+victorian era and they've scanned all the etchings from the book and have like included them just as
+mostly high-res files that you can download there's also a lot of stuff from like nasa and the library
+of congress because um government entities in the united states anything that's produced that isn't
+classified is public domain so anyone that's ever produced anything in a government u.s government office
+that wasn't like i said wasn't classified is a is a public domain creative work which means that even
+like famous photographers who made stuff as part of the like wpa projects in like the 50s and or
+30s through the 50s like walker evans photos that he took for the u.s government are public domain
+images um and so there's some of these things that you see over and over again you're like oh that's why you
+see them over and over again is because they're like owned by the u.s government and they're just
+photos that can be can be used um there's a couple of like new entries into this realm too there's this
+greek woman who is an illustrator and she just publishes a drawing or two every day on undraw.co and
+you can just use them forever you want they're just like open licensed um they kind of they're like
+crappy versions of the sort of like startup culture vector drawings of people doing just like
+worky looking things um but if you you know like need free artwork you can go look at it and they're
+sbgs so you can download it and also like just use part of it if you want to use part of it or like
+redraw parts of it if you want to do that because they're just free open license
+um unsplash's photos drawbot is made by these guys in the netherlands it's like um
+kind of like processing it's to teach you how to write python and then it like draws things so you
+can like learn how to write python but like in a visual editor way as opposed to like making
+computer software you can make graphics um processing something that you might have run into before
+um open frameworks um node box which i skipped over which is like my favorite program i've ever used
+ever it's this amazing it's sort of like processing or everything else
+in terms of that it makes it lets you write programs for drawing things but it uses a node-based editor
+so you like double click and you can add a function node
+so i'm going to make this rectangle a five pixel by five pixel rectangle and then i made a grid that's
+10 by 10 and it's um like 500 pixels wide by 500 pixels tall and then i can just combine them
+and now i have a grid of tiny little rectangles but then if i change this rectangle
+they all change in real time anyway that's like obviously a super basic way to use this
+but it lets you build these like complicated uh information graphics or there's also a way to
+like animate things so you can like tell it tell it to use a frame counter and then tell the frames to
+count up and so things can change over time um and so stuff that's like programmatic drawing the way
+that you might use processing or something but it's like you don't have to like learn a bunch of coding
+syntax you just have to like understand how functions work together and it gives you a way to like even
+learn that because you just sort of like drag things together and like it either does or doesn't draw
+things so if you like do something that's not supposed to do it just doesn't draw anything and you can
+figure out how to deal with that okay um anyway so uh i talked for too long my apologies but uh
+i was going to tell you all to just like try some of these things today maybe the next project
+that you work on you like look for an image on flicker commons or you decide to like try to use a
+a google font for something um or like the there's a french type foundry called velveteen that has a
+bunch of really really cool fonts you know i mean cool however you decide to define cool they at least
+look trendy and current if that matters to you um i've been really into this so i've also been like
+making git repositories for all the new projects that i start um if the client doesn't care if their
+things get shared so like these slides for this presentation are just a git repository that you
+could like download and or fork for your own purposes if for some reason you wanted to like
+give a version of this talk you can like have my slides
+uh they are in scribus unfortunately so you have to download scribus to like open them and edit them
+i mean i guess there's also saved as a pdf so you can just have the pdf if you want um but one other
+advantage to some of these tools is that they use file formats that are open so and even if they're
+not an open file format like the like scribus is the only thing that opens and edits scribus files
+technically but they're still an xml file so if you open the scribus file in not scribus but like a text
+and then i'll i'll be done just let me show you this one last thing because i just think it's so exciting
+like oh god what did i do where's the remote control who's got it
+oh no
+welcome to the app oh my god
+oh it must be underneath here yeah there it is okay sorry it was hidden under a piece of paper
+this is a scribus file it tells you the swatches in the file right here and you could then like
+you know copy that for something but it also tells you like here here um are my master pages if i had
+made them and then down here there's just page objects which like include the images used on that
+page and like the actual text used on that page and it's an xml file an xml is built on the same kind
+of markup idea that html is like the ml is markup language just like the ml and html is markup language
+but the x stands for extensible so it means that you can use whatever tags you want as long as there's a
+starting tag and an ending tag it sort of like sees that as a way to understand what's in between there
+so you can edit your layout in a text you don't need a gui to edit your layout you can like edit it
+in any any computer period which is kind of cool you don't even need the software that made the thing
+to edit the thing you can't do that with the indesign file have you ever opened an indesign file or
+even like a photo uh illustrator file in a text editor before anyone you tried doing that before maybe
+let's just look at the difference and then you can go to whatever the next thing is
+which i'm sure won't be as interesting as this just kidding i don't that sounds rude i don't mean that to
+be rude i'm just so excited about this that like what the fuck is that
+that's not helpful that doesn't tell you anything about anything like why are there all these links
+here who are these people why are they in my file you know what i mean like you don't have any control
+over what's in there or why it's there or who put it there but describe this thing you can just see
+what's there and if i if i wanted to know i can email the five guys that worked on it to ask them like
+why the hell it's like that and if they can't answer it some other person in the like scribus forum might
+be able to answer it and that's like what those are the kinds of things that happen when you've like
+opened up access to all the things is the people that care about the thing are the people that like
+help support the thing um so last thing node box the node box forums aren't run by the two guys that
+write and maintain node box they're run by just a guy a random guy in california that likes using
+node box and he works for oracle he doesn't even like he makes proprietary software for oracle but
+in his spare time he just like plays around with node box and i asked him i asked the question one
+day because i was like i'm doing this thing and i feel like i had to repeat the same thing a hundred
+times and i got i have to imagine there's some way to like make a sub function that just like does this
+thing over and over again instead of me having to like have made it for every single letter of the
+alphabet that i was trying to include and he was like yeah if you just give me your file i'll like
+fix it for you and show you how to do it right and so i like made a form post i posted my things
+he like 20 minutes later edited it and like reposted my files and was just like here i fixed your thing
+oh and by the way there's these other things you could learn how to do in this program too and i was
+like oh my god like i've tried to find help for adobe things like that and nobody nobody adobe's like
+yes send me your file i'll fix it for you right like that's not that's not how that works um but
+this realm that is how those things work you know it the downside is it's like they might expect
+that you they overestimate your abilities right the community like overestimates your ability to do
+things which sort of like forces you to try harder actually as opposed to like just presuming you're
+an idiot that like doesn't know how to do anything um anyway okay go to your next thing if you want to
+talk to more about this ever just like my office is right there come bang on the door or find me
+uh you can also just email me or you can look at my things on github if you want and uh and fork
+them and ask me you can send me your files and i'm happy to help to help look at them with you
+thank you christian bye like that was a great presentation but i have a question so why does google
+do google books um the the
+my my like pessimistic answer for you is that it helps them learn more about people and so they can sell
+more google ads you know like a of an internet that looks prettier means more people are going to use
+the internet more often and that means like more google ads also because because when you use google
+fonts if you use their api to like access them they're linking from a google server so google then learns
+something about everyone that loads a google font um so by like including google fonts uh the way they
+want you to include them by like linking to google servers like i said you like inadvertently tell
+them about every person that visits your website the same the same way that like google analytics
+same way that google analytics does too right it's like yeah here we're going to like tell you this
+useful information about people that visit your website but we're also going to learn anonymized data about
+all these people that visit your website so it again it's just like if they've got if they're logged into
+a google account and they've got like cookies enabled like visiting sites with google fonts probably like
+tells them more about you you know and like lets them show you more targeted ads or whatever
+so i'm sure like if you ask dave crossland he's not so
+pessimistic about like how google fonts uses data about people but that's my sort of uh a prettier
+internet is a internet used by more people and that benefits google no matter what
+but you can just download them and then you uh you can include them on your website even if you've
+downloaded them and like put them on your server because they're all open font license so you don't have to
+access google servers to utilize them on your webpage once you've downloaded them if that
+yeah that makes sense changes anything for you thank you oh this was a great talk i have a few
+questions but um are you going to be in your office like tomorrow i've got class most days tomorrow
+okay but um i'll be around thursday okay i think i'll stop by this oh my name is mia by the way
+mia yeah nice to meet you oh yeah my name is amanda by the way amanda i see you i see you working all
+the time i'll show you an email because i also have a few questions about some of the classes you're
+okay cool yeah
+uh you guys will be seniors yeah you guys will be seniors next fall i teach advanced design one
+which is like the required senior studio um in the fall i'm i'm i'm um i'll also be teaching
+a class outside in gfa called sustainability for sustainability and climate change for artists
+and designers um i'm just i'm filling in for the guy that normally teaches that because he's on sabbatical
+but um that's open for anyone i mean so if sustainability is an interest that's like a
+useful class for anyone to take cool yeah thank you this one yes yeah cool all right
+so

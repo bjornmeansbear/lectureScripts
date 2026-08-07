@@ -1,0 +1,4625 @@
+Should I see if this works?
+What is that?
+It just works for me?
+Linux for the win!
+I think Alice looks more like, well I don't know, what do I mean?
+But Jill's big is like at the 90th percentile, and Alice is like at the 5th percentile, and Alice is like at the 5th percentile.
+Oh yeah, here's the thing.
+So yeah, they do get along surprisingly though.
+That's a good one.
+Don't worry, the pointer does work.
+You think so?
+No, that's fine, that's fine.
+My joke is that she looks like her.
+That's the right room.
+She looks like...
+She looks like she looks like she looks like she looks like she looks like she looks like...
+Yeah, sure.
+Yeah, sure.
+So, the one who says his spouse is...
+Yeah, I know.
+Yeah, sure.
+Yeah, I do think he's gonna have a question.
+Which I'm pretty excited.
+Yeah, and he's very big, I don't think he understands his own power.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+So this is like Eric as well.
+Mm-hmm.
+What is Eric as well?
+He's riding a lot.
+Yeah.
+Oh.
+Oh.
+Oh, this is great.
+Oh.
+Where did we go to Sam?
+We should see Sam.
+Yeah.
+Ready to...
+Ready to put...
+Put Linux on your...
+On your MacBook.
+Yeah, for a ride.
+The newest versions...
+The way that it's set up...
+Like the security chip is set up...
+Yeah.
+Compared to the other chip.
+It doesn't allow...
+Yeah.
+It doesn't allow...
+Yeah.
+It doesn't allow...
+I mean, it's like...
+Yeah.
+It's like...
+Partially for like actual security reasons.
+Yeah.
+Partially.
+It's like...
+Partially.
+It's like...
+A jerk.
+All right.
+Should I...
+Should I...
+Should I go?
+You don't need to introduce me.
+All right.
+Should I, should I, should I go?
+You don't need to introduce me, that's okay.
+Hopefully everybody knows who I am.
+Okay, so, Kiel gave us a lovely talk,
+super focused on one specific project
+with a lot of different interesting outcomes.
+I'm going to give you the opposite talk
+about everything with really broad, vague
+constraints and borders and not outcomes.
+So I want to convince you to,
+I'm going to, I was going to explain to you
+the journey into free Libra open source software
+that I've been going on for the last year and a half,
+approximately.
+So my talk's called Floss Daily.
+But it's funny because it's free Libra open source software.
+And so I think maybe like a better title for this kind of project
+is the Libra designer.
+And this is kind of a character I have been embodying.
+The designer is trying to liberate his workflow or her workflow,
+their workflow.
+And it hinges on this idea of what free and non-free tools are.
+So if I talk about free in terms of software or whatever,
+I don't mean that it's free in that it costs no money.
+I mean that it is free and that it is liberated,
+that it gives you freedom.
+And so when I say that something is non-free,
+it means that it has shackled its user into subservience
+to the creator of that tool.
+So pretty much, at least as graphic designers
+working in a traditional print workflow,
+we're like completely subservient to all the tools
+that we choose to use, the hardware, the software.
+We're all like locked in to like not being able to do anything
+besides sort of like what Apple and Adobe
+think we should do with their things.
+So I'm going to present to you an alternative way of working
+and thinking that like allows you to be liberated
+instead of chat.
+Okay.
+So this is going to be a little stream of consciousness.
+I apologize.
+I'm trying to condense a lot of different things
+into a few minutes of speaking.
+So just bear with me.
+I've been thinking about these things a lot,
+but last spring I ran an elective
+called Special Topics in Graphic Design Open Source.
+And the premise for the class was that
+we didn't really have projects,
+but nobody could use anything.
+Nobody could use any Adobe or Apple products
+to make work in the class.
+It quickly turned out that you couldn't use Apple products
+was too complicated because the like Linux computers
+that I had for everyone to use
+were not usable by most people.
+So as long as you were running open source software
+on your Apple,
+then it was okay to use that to make stuff in the class.
+I mean, we explored a lot of different things.
+Students made fonts.
+Some people just tried to like remake projects
+they had made in Cinema 4D or After Effects
+or something using Blender.
+And there were a lot of different ways
+people experimented in the class.
+And then I gave a lecture over the summer
+at an AIDA conference about this
+that unfortunately only three people came to,
+so I didn't really convince very many people
+at the AIDA conference.
+But hopefully I can convince all of you
+that some of these things hold some merit.
+So in my own work,
+I've been trying to switch to using Linux
+as my operating system.
+So I'm giving this talk using GNU Linux
+and all of the slides I made using Scribus
+and Nodebox and Inkscape
+and a handful of other things.
+And all the fonts are open source fonts.
+This is called the GNU Grotesque.
+It's actually a funny...
+Anyway, whatever.
+So the way that I kind of got into this
+was through Libra fonts.
+And so Libra fonts are...
+Libra is the way the Europeans have decided
+to call the free software movement.
+And there's kind of this division
+between people that are into free Libra software
+versus people that are into open source software.
+Because open source is the American capitalist version
+of liberated software.
+where it's liberated so that the work can be distributed
+and we can make things faster
+and solve technical capitalist problems faster.
+Not because we care about the freedom
+of the users of people.
+So this is a real divisive issue
+for the originators of free Libra software
+that their ideas were corrupted by capitalism.
+Anyway, so I got into this from Libra fonts
+and this was like almost over 10 years ago
+I was sort of thinking of this like
+if I'm making battery design
+an interesting sustainability
+and there's this overlap
+like what are kind of design tools
+that fall into that overlap?
+And I had at the time
+like come across a couple of interesting
+free font projects.
+Ellen had also just recently written
+a free font manifesto
+which was sort of inspired by that actually.
+And so I was using this font called Gentium
+and Gentium at the time was unique
+in that they had every character
+for all the Latin alphabet based languages
+and there wasn't a font
+there wasn't a not really expensive font
+that you could buy
+that had like Greek
+and all the Cyrillic and everything in it.
+So from a sustainability standpoint
+if we were about like
+using graphic design
+to actually help people
+having fonts that like everyone
+at least with Latin alphabet languages
+could use
+seemed like a way that graphic design
+was like actually
+improving people's situations.
+So that's sort of like
+the way I first kind of accessed these ideas.
+and then it's sort of been percolating
+since then
+and then I had this class opportunity
+so when I started researching
+for to run this class
+actually Dave Crossland
+had come last fall
+and I talked to him a lot about
+like free fonts
+and open source software and stuff
+so he also partially inspired
+the class running
+but I found this talk
+by a designer at Adobe
+named Garth Brathway
+who sort of posed this question
+like why have developers
+latched onto open source software
+but like graphic designers
+still really haven't
+and the main way that I think
+we all interface with open source
+or like free software
+is like on the web
+almost everything that powers the internet
+is a like free
+or open source project
+like PHP
+JavaScript
+HTML
+CSS
+those are all
+open source
+projects
+and designers
+like aren't adverse
+to using those
+and developers
+certainly aren't adverse
+to using those
+like what about
+like making print graphic design
+like keeps designers
+from being interested in that
+and what about
+like the tools that we use
+like why aren't we capable
+of accessing
+like open source tools
+because even if you
+if you like use brackets
+or get
+or add them
+to write code with
+those are open source projects too
+that's like a distributed group
+of people
+like volunteering their time
+to work on it
+anyway
+so why do developers do that
+and not designers
+so I was trying to use this class
+as a way to investigate that
+and also sort of like
+deciding to use my own practice
+as a way
+to investigate that
+so as I like
+started going down
+this road
+I started researching
+the history
+of
+the sort of
+open source
+software movement
+and it starts mainly
+with this one guy
+Richard Stallman
+who
+this is a
+tangentially graphic
+design related
+story
+he got this
+he worked at MIT
+in the artificial
+intelligence lab
+and they had
+a Xerox printer
+one of the first
+printers Xerox made
+they had like
+sent to their lab
+to use
+because they were like
+these are
+savvy tech dudes
+they'll use our printer
+and help us figure out
+what's wrong with it
+and so there was this
+problem
+with the prints
+with the printer
+where
+you would hit print
+and it would take like
+minutes or hours
+for things to print out
+on this thing
+so you'd like
+set your timer
+and like go to check
+on your prints
+and your print
+wouldn't be there
+and Richard Stallman
+was like so frustrated
+by this that he like
+wrote his own program
+that he installed
+on the printer
+he was able to like
+edit the software
+of the printer
+to like message you
+when your print
+was actually done
+so that you could go
+do something about it
+or you would then
+know that there was
+a problem
+when you like
+never got messaged
+about your printer
+so then a couple
+years later
+Xerox like sends
+them the new version
+of their printer
+and it still has
+this like big bug
+in it that like
+they never
+they never did anything
+about like it
+not telling you
+that it screwed up
+or that there was
+like a print queue
+ahead of you
+and so Richard Stallman
+like calls up Xerox
+and is like
+hey can you send me
+the source code
+for the printer
+I want to like
+fix it again
+since you guys
+can't do it
+yourselves
+and they're like
+we don't give
+the source code
+to anyone anymore
+and so he like
+flies off the handle
+he gets so mad
+that he decides
+that he like
+won't use software
+that you can't
+access the source code
+to ever again
+and quits
+his job at MIT
+this is like
+for real
+he quits his job
+at MIT
+and he's like
+you guys are ruining
+software
+and starts the GNU project
+where he says
+we're going to build
+an open source
+operating system
+oh sorry
+he doesn't use open source
+we're going to build
+a free operating system
+where the users
+are free
+to do whatever
+they want
+and it's going
+to be amazing
+and will somebody
+donate computers
+and stuff to me
+so I can work on it
+sorry
+anyway so
+he's still like
+the guy to ask
+about these things
+he's kind of amazing
+whether or not
+you agree with him
+he is just like
+a smart weirdo
+crazy person
+who like
+writes prolifically
+and does interesting talks
+and he has a net worth
+of like two million dollars
+also I like
+looked it up
+because he isn't against
+selling software
+he's just against
+removing people's access
+from the software
+that's also like
+an important thing
+to remember about
+like free
+Libra
+open source
+it's like
+it's not about
+everybody having to do things
+as a volunteer
+it's about that you
+like don't preclude
+options for people
+once they've
+paid for your thing
+or your services
+okay sorry
+I got a little distracted
+by my love
+for Richard Scalman
+so let me just like
+just try to skip forward
+a little bit
+so his whole thinking
+is based on this idea
+that he's sort of
+thinking about the golden rule
+and like do unto others
+as you want them
+to do unto you
+so he's quoted
+over and over again
+saying some version of this
+that if he likes a program
+he needs to be able
+to share that program
+with other people
+that like that program
+so I think we need to
+start thinking about this
+from like a design perspective
+if you like designs
+then you should be able
+to share those designs
+with like other people
+that like those designs
+and he wrote
+as part of this
+sort of like manifesto
+for free software
+he wrote this
+these sort of
+four main freedoms
+that users should have
+and so
+I've been trying to think
+like how
+do we
+adapt these
+from like a design
+perspective
+but
+yeah
+you should be able
+to run a program
+however you want to
+that you can then
+study how the program
+was made
+and works
+and like
+either be able
+to learn from that
+so you could write
+your own programs
+better
+or that you can like
+tweak it
+so you can make it
+do something
+that it like
+wasn't intended to
+or isn't doing well
+to begin with
+and then the other two
+are sort of like
+the interesting
+added freedoms
+in that
+you should be able
+to redistribute
+the things
+yourself
+particularly
+if you've like
+edited or changed
+because like
+what you've changed
+might like
+improve somebody
+else's life
+in a way that
+like Xerox
+isn't able
+to improve
+their life
+so
+all of
+sort of
+Stallman's
+Libra software
+things
+and the kind of
+particularly like
+European versions
+of Libraness
+that have evolved
+since then
+are sort of
+built on these
+ideas
+that like
+the sort of
+free exchange
+of tools
+and ideas
+needs to happen
+to like
+really like
+interestingly
+improve things
+and it's
+to me
+I've like
+been really
+in love with
+this
+because I'm
+also like
+in love
+of vernacular
+building
+and it just
+feels like
+the way you
+build a Cape Cod
+house
+right
+it's like
+no one
+no one
+person like
+owns the way
+that you build
+a Cape Cod
+house
+you just like
+build your
+version
+and if you've
+done something
+cool
+then like
+your neighbor
+is like
+oh I'm
+going to add
+that cool
+thing
+to my
+Cape Cod
+house
+too
+and it
+just like
+you know
+propagates
+out
+it doesn't
+mean that
+the builder
+didn't get
+paid to
+build the
+Cape Cod
+house
+though
+so that's
+like
+how I've
+been
+trying to
+think of
+design
+but I
+but I
+also
+those ideas
+have
+academic
+benefits
+if you
+can
+download
+a
+program
+and
+study
+how
+it
+worked
+you
+can
+potentially
+learn a lot
+about
+different kinds
+of things
+like
+as graphic
+designers
+if you
+can
+download
+a font
+and look
+at all
+the
+individual
+glyphs
+of a font
+which
+actually you
+can do
+anyway
+if you
+just
+open up
+an open
+type
+font
+in
+robo font
+you can
+look at
+all
+the
+shapes
+of
+all
+the
+glyphs
+also
+but
+if you
+download
+these
+open
+source
+fonts
+they
+have
+a lot
+of
+other
+files
+that
+you
+can
+also
+get
+that
+tell
+you
+a lot
+more
+about
+how
+they
+put
+the
+thing
+together
+but
+it
+also
+means
+that
+you
+can
+legally
+change
+it
+you're
+not
+breaking
+a
+user
+agreement
+by
+opening
+the font
+and actually
+looking
+at it
+and changing
+it
+so
+that's
+something
+that might
+help
+in a
+type
+not worry
+if people
+share
+it
+afterwards
+that's
+valuable
+but
+if you
+could
+download
+people's
+files
+for
+interesting
+design
+projects
+and see
+how
+they
+actually
+set
+those
+files
+up
+there's
+a lot
+of
+interesting
+stuff
+that
+starts
+happening
+that
+to me
+seems
+interesting
+and I
+also
+sort of
+think
+vernacularly
+this
+has a
+benefit
+to it
+just
+that
+why
+can't
+we
+just
+build
+off
+the
+things
+other
+people
+have
+already
+been
+doing
+why
+do
+we
+always
+have
+to
+have
+a
+unique
+interesting
+different
+solution
+every
+time
+for
+some
+of
+these
+things
+another
+way
+that I
+think
+this is
+this guy
+if you
+want to
+follow
+someone
+who is
+much
+well
+I find
+him to
+be much
+wiser
+and smarter
+than me
+and much
+better
+open source
+evangelist
+also
+this guy
+Eli
+Hewer
+he's a
+typographer
+and math
+student
+in New York
+so he
+is
+he's a
+big
+arguer
+of
+open
+source
+fonts
+but
+he
+proposed
+this idea
+that
+proprietary
+software
+presumes
+that you
+don't know
+how to
+use it
+and don't
+know what
+you're
+doing
+and so
+they're
+trying to
+dumb it
+down
+and make
+it as
+easy as
+possible
+for the
+most
+people
+to be
+able
+to use
+and
+that
+Libra
+software
+presumes
+that you
+are like
+an expert
+in programming
+and like
+all these
+goofy
+computery
+things
+and
+it
+forces you
+to like
+build your
+own
+capacity
+and
+like
+have
+some
+self
+led
+learning
+and that's
+actually
+good
+like
+forces
+people
+to
+extend
+themselves
+and learn
+more
+and get
+better
+and more
+than just
+like
+I'm
+better
+at
+drawing
+a font
+but I'm
+also
+better
+at
+making
+the
+font
+better
+at
+knowing
+the
+ecosystem
+of
+tools
+required
+to
+actually
+produce
+fonts
+or posters
+or whatever
+and that
+is a really
+beautiful idea
+from like
+a pedagogical
+perspective
+I think
+that we
+are like
+teaching people
+not just
+to use
+a tool
+but to
+build
+and extend
+the tools
+that they
+need
+to do
+the thing
+they're trying
+to do
+in the first
+place
+I'll tell
+you that
+this is
+super true
+super true
+that
+everyone
+who you
+talk to
+are like
+oh what
+what Linux
+distribution
+should I
+use
+they're all
+like
+oh you
+should go
+use
+like
+ARCLinux
+and if you
+have to know
+anything about
+Linux
+ARCLinux
+is one of
+the ones
+that like
+doesn't have
+a regular
+installer
+you have to
+like compile
+from source
+to make
+and that
+means you
+need to
+like have
+a computer
+that's
+like already
+working
+to
+to
+anyone
+so I
+got into
+this
+interesting
+discussion
+on Twitter
+with a guy
+who's
+like giving
+me all
+the instructions
+from the
+terminal
+to like
+compile
+from source
+and I
+was like
+I don't
+even have
+a computer
+running yet
+and he
+was like
+oh never
+mind
+go out
+some
+of this
+and then
+the other
+thing about
+because the
+things are
+open
+and you
+can like
+look at
+them
+and access
+them
+you can
+change
+them
+and make
+them
+work
+or look
+the way
+that you
+want
+can
+like
+you
+can
+use
+Scribus
+which is
+the page
+layout
+program
+that most
+like
+open source
+people use
+and you
+don't like
+the icons
+that they've
+chosen
+for like
+all the
+tools
+in Scribus
+you can
+just replace
+all the
+icons
+with like
+icons
+that you
+drew
+yourself
+or like
+the icons
+that you
+want
+from
+Photoshop
+instead
+of
+from
+Scribus
+and that's
+like
+kind
+of
+an
+interesting
+thing
+it's like
+as designers
+we care
+about
+kind
+of
+like
+controlling
+and
+tweaking
+the things
+around us
+like
+why
+wouldn't
+we
+also
+want
+to
+like
+control
+and
+tweak
+the
+tool
+that we're
+using
+and not
+just
+our
+beautiful
+chapel
+that we
+happen
+to be in
+okay
+so
+if you're
+into this
+idea
+you don't
+have to
+just
+install
+Linux
+on your
+computer
+there's
+a bunch
+of tools
+you can
+immediately
+start
+using
+that
+not
+just
+replace
+they don't
+necessarily
+just
+replace
+like
+an
+Adobe
+tool
+you
+might
+be
+using
+they
+might
+be
+different
+than
+like
+anything
+you
+could
+use
+otherwise
+and I
+think
+that's
+also
+like
+the
+most
+interesting
+place
+that
+getting
+into
+this
+sort
+of
+like
+free
+libre
+open source
+world
+takes
+you
+is that
+there's
+a whole
+bunch
+of
+things
+that
+just
+don't
+exist
+anywhere
+else
+except
+for
+like
+one
+weirdo
+decided
+that
+they
+needed
+to
+remake
+turtle
+and you
+can
+like
+run
+that
+on
+your
+computer
+now
+and
+if
+you
+wanted
+to
+draw
+type
+that
+type
+that
+way
+you
+can
+you
+can't
+do
+that
+if
+you're
+running
+Windows
+or
+Mac OS
+anyway
+so
+this
+program
+is
+called
+Node
+Box
+and
+it
+is
+made
+by
+two
+information
+visualization
+professors
+from
+Belgium
+and
+it
+is
+like
+processing
+in
+that
+you
+are
+writing
+code
+when
+you're
+using
+it
+you're
+basically
+writing
+a bunch
+of
+functions
+that
+happen
+to
+spit
+out
+drawings
+instead
+of
+something
+else
+but
+it's
+built
+in
+this
+node
+model
+so
+each
+one
+of
+these
+little
+bricks
+is
+a
+function
+and
+it
+has
+inputs
+and
+outputs
+and
+you
+just
+have
+to
+figure
+out
+what
+inputs
+and
+outputs
+connect
+together
+and
+magically
+your
+drawings
+show
+over here
+it's by far
+the easiest
+tool I've
+ever used
+in my
+entire
+life
+and it
+also
+teaches
+somebody
+about
+actually
+how
+computer
+programming
+works
+without
+you
+having
+to
+look
+at
+a
+text
+editor
+where
+nothing
+is
+there
+but
+text
+which
+can
+be
+a
+relief
+for
+some
+not
+just
+for
+some
+for
+basically
+that's
+like
+a
+pretty
+big
+leap
+to
+go
+from
+seeing
+things
+happen
+to
+just
+seeing
+supposedly
+logical
+text
+printed
+out
+anyway
+so
+that's
+something
+that
+has a
+map
+installer
+that you
+can
+just
+turn
+on
+and
+actually
+works
+better
+on
+a
+map
+than
+in
+linux
+but
+that's
+a
+different
+story
+altogether
+this
+is
+my
+current
+dbn
+setup
+on
+my
+laptop
+I
+decided
+to
+actually
+install
+linux
+on
+one
+of my
+laptops
+and I
+have
+an
+iMac
+in my
+office
+running
+four
+different
+distributions
+of
+linux
+to
+test
+between
+all
+of
+them
+but
+that's
+something
+you
+can
+use
+instead
+of
+macOS
+or
+Windows
+this
+is
+Scribus
+or
+the
+European
+guys
+I'll
+say
+Scribus
+I don't
+know
+which
+one's
+right
+but
+Scribus
+doesn't
+sound
+quite
+as
+dumb
+so
+it's
+like
+built
+on
+this
+this
+is
+what
+I
+used
+to
+make
+my
+slides
+today
+it's
+you
+know
+it's
+just
+like
+a
+page
+layout
+thing
+it's
+a
+little
+confusing
+because
+like
+your
+menus
+are
+just
+in
+foody
+windows
+that
+never
+all
+fit
+together
+anywhere
+but
+if
+you
+wanted
+to
+do
+something
+differently
+about it
+you
+could
+ask
+them
+and
+they
+might
+just
+do
+it
+for
+you
+it's
+kind
+of
+interesting
+to
+think
+about
+that
+like
+have
+you
+ever
+tried
+to
+submit
+a
+bug
+report
+to
+Adobe
+it's
+really
+really
+hard
+they
+finally
+just
+told
+me
+that
+one
+of
+the
+bugs
+I
+submitted
+or
+one
+of
+the
+product
+requests
+I
+submitted
+was
+at least
+accepted
+into
+the
+channel
+being
+worked
+SVG
+support
+for
+Adobe
+InDesign
+so
+SVG
+is
+a
+scalable
+vector
+graphics
+it's
+like
+an
+XML
+format
+that
+draws
+shapes
+instead
+of
+text
+and
+Adobe
+invented
+the
+format
+they're
+like
+they're
+the ones
+that
+made
+it
+up
+so
+Illustrator
+will
+draw
+it
+but
+if
+you
+import
+the
+SVG
+file
+into
+InDesign
+it
+just
+imports
+it
+as
+an
+XML
+text
+file
+and
+you
+just
+see
+the
+text
+of
+your
+SVG
+file
+thing
+on
+earth
+anyway
+so
+that's
+finally
+they're
+working
+on
+making
+SVGs
+show up
+as
+images
+in
+InDesign
+now
+because
+like
+me
+and
+400
+other
+people
+said
+that
+we
+thought
+that
+was
+a
+smart
+thing
+to do
+but
+it
+was
+crazy
+there's
+only
+400
+people
+that
+submitted
+that
+or
+like
+thumbs
+up
+to
+that
+request
+on
+the
+featured
+portal
+that
+just
+seems
+crazy
+to
+me
+anyway
+if
+I
+had
+emailed
+the
+Scribus
+guys
+potentially
+they would
+have
+just
+worked
+on
+it
+because
+they're
+like
+oh
+yeah
+SVGs
+those are
+graphics
+that probably
+a lot of
+people are
+using
+we should
+probably
+incorporate
+that
+or like
+oh
+we invented
+the format
+maybe
+we should
+utilize
+the format
+that we
+invented
+this is
+Inkscape
+this is
+a vector
+drawing
+program
+it has
+the coolest
+drawing tool
+in it
+that you
+will ever
+use
+called
+the
+Spirospline
+Path
+tool
+and it
+makes
+continuous
+curving
+paths
+where
+every
+point
+you
+draw
+it
+just
+tries
+to
+make
+a
+smooth
+curve
+between
+all the
+points
+that
+you've
+drawn
+so
+if
+you
+like
+to
+make
+globby
+shapes
+it
+kicks
+illustrator's
+ass
+in making
+globby
+shapes
+and
+so
+the
+illustrator
+you'd be
+like
+oh
+but
+it's
+open source
+like
+why
+can't
+illustrator
+just
+include
+it
+into
+illustrator
+well
+it uses
+the
+GPL
+license
+which is
+the GNU
+public
+license
+which states
+that you
+can use
+this for
+anything that
+you want
+because of
+the four
+freedoms
+but you
+also have
+to make
+your software
+usable for
+anything the
+next person
+wants
+and you
+have to
+share the
+code for
+your software
+if you
+use our
+software
+so
+Adobe
+Adobe
+will
+never
+include
+that
+into
+the
+thing
+none
+of
+the
+vector
+drawing
+programs
+that
+are
+proprietary
+will
+ever
+include
+it
+because
+that
+means
+they
+have
+to
+give
+away
+their
+source
+code
+and I
+would
+argue
+that
+it
+might
+be
+slightly
+out
+of
+fear
+because
+you
+might
+see
+how
+crappy
+their
+source
+code
+is
+compared
+to
+they
+think
+they
+can't
+sell
+that
+anyway
+and then
+something else
+that I
+found
+because
+Scribus
+isn't that
+easy to
+use
+to be
+honest
+because
+not
+very
+many
+people
+use
+it
+so
+I've
+just
+been
+playing
+around
+with
+some
+other
+potential
+tools
+for
+layout
+that
+there
+are
+and
+one
+of
+the
+oldest
+open
+source
+projects
+is
+this
+project
+called
+Tech
+it was
+invented
+by
+this
+guy
+named
+Donald
+Knuth
+who
+was
+a
+math
+professor
+at
+Stanford
+and
+a
+math
+and
+computer
+science
+professor
+at
+Stanford
+he
+basically
+wrote
+like
+the
+computer
+science
+book
+that's
+still
+used
+today
+to
+teach
+people
+basics
+of
+computer
+science
+and
+when
+he
+wrote
+the
+book
+originally
+it
+was
+printed
+on it
+with
+linotype
+and
+it
+was
+like
+hot
+metal
+typeset
+and
+printed
+and
+when
+they
+printed
+the
+second
+edition
+it
+was
+photo
+typeset
+and
+it
+was
+so
+crappy
+that
+he
+wrote
+a
+program
+to
+typeset
+pages
+better
+because
+it
+pissed
+him
+off
+so
+much
+that
+it
+looks
+so
+crappy
+which
+so
+that
+there
+that's
+two
+great
+stories
+in
+open
+source
+from
+somebody
+not
+being
+able
+to
+print
+something
+well
+and
+so
+tech
+is
+kind
+of
+amazing
+because
+the
+program
+of
+tech
+basically
+it's a
+markup
+language
+it's
+not that
+different
+from
+it's
+sort
+of
+simple
+HTML
+you
+kind
+of
+like
+tag
+around
+things
+and
+then
+there's
+a little
+style
+another
+separate
+style
+script
+that
+says
+what
+to
+do
+with
+those
+different
+tags
+and
+so
+when
+he
+wrote
+this
+in
+he
+started
+working
+on it
+at the
+end
+of
+the
+70s
+and
+it
+was
+like
+mid
+80s
+by the
+time
+it was
+actually
+working
+correctly
+but
+if you
+wrote a
+tech
+file
+today
+and
+like
+transported
+back
+to
+1983
+his
+original
+program
+would
+still
+be
+able
+to
+output
+the
+file
+for
+you
+it's
+backward
+it's
+like
+infinitely
+backward
+compatible
+which
+is
+doesn't
+that
+blow
+your
+mind
+you
+can't
+open
+a
+new
+InDesign
+file
+in
+last
+year's
+InDesign
+but
+you
+can
+open
+you
+can
+save
+out
+a
+PDF
+well
+we
+didn't
+save
+a
+PDF
+I
+don't
+know
+what
+the
+hell
+it's
+saved
+as
+but
+you
+can
+save
+out
+a
+style
+tech
+file
+today
+from
+the
+1984
+tech
+that's
+amazing
+anyway
+so
+there's
+if you
+want to
+play around
+with it
+there is
+this awesome
+site called
+Overleaf
+which lets
+you write
+tech
+commands
+and this
+is the
+like
+style
+sheet
+that
+I
+don't
+know why
+I
+didn't
+have
+the
+text
+version
+but
+it
+then
+shows
+you
+what
+it
+would
+look
+like
+on
+the
+output
+and
+the
+downside
+is
+that
+the
+people
+the
+main
+people
+that
+use
+tech
+are
+science
+researchers
+and
+grad
+students
+writing
+papers
+because
+it's
+still
+the
+best
+way
+to
+typeset
+equations
+like
+mathematical
+equations
+so
+if
+not
+just
+biology
+and
+chemistry
+and
+mathematics
+grad
+students
+were
+using
+it
+I'm
+sure
+there's
+some
+other
+interesting
+things
+that
+they
+do
+so
+I
+would
+highly
+recommend
+you
+check
+it out
+because
+it's
+pretty
+cool
+like
+how
+quickly
+you
+can
+make
+a nice
+looking
+template
+this
+is
+a
+template
+based
+off
+of
+Edward
+Tufte's
+style guide
+from
+his
+books
+it's
+called
+like
+I can't
+know
+it's not
+a reference
+there
+but
+it basically
+is just
+called
+Edward
+Tufte
+version 7
+or something
+it's like
+a template
+you can
+just
+pick
+it was
+pretty
+funny
+how
+quickly
+you
+could
+get
+somewhere
+pretty
+nice
+looking
+by just
+pasting
+some text
+into a
+window
+so anyway
+that's like
+one of the
+things I'm
+kind of
+playing around
+with is
+like
+how can
+I start
+making this
+do like
+much more
+complicated
+layouts
+than
+what a
+science paper
+kind of like
+it says
+okay
+so
+other ways
+you can
+just like
+need to
+start
+using
+free
+Libra
+open
+source
+stuff
+I guess
+like
+ideologically
+okay
+here we
+go
+sorry
+this was
+something
+I was
+going to
+say
+earlier
+with my
+what does
+Richard Stallman
+what would
+Richard Stallman
+do
+slide
+it's sort
+of interesting
+there's like
+this current
+kind of
+fascination
+with the
+idea of
+speculative
+design
+like every
+grad student
+I think
+is reading
+Dun & Robbie's
+book
+this year
+and in it
+they propose
+this idea
+that like
+design should
+have these
+like other
+channels
+that challenge
+the sort
+of like
+existing
+status quo
+ideas
+but the weird
+part is
+even the people
+making
+those designs
+are using
+like status
+quo tools
+to make them
+and like
+to me
+that seems
+like screwed
+up and weird
+so if you
+like want to
+make not
+status quo
+things
+with not
+status quo
+tools
+that's like
+the main
+reason
+you should
+like try
+out some
+of these
+things
+and if you
+want the
+lowest barrier
+to entry
+way
+to do that
+you should
+like go
+download all
+the Google
+fonts
+because yes
+they are
+paid for
+by Google
+and Google
+is into them
+because it
+makes the
+web look
+nicer
+which means
+people will
+look at
+more sites
+and click
+on more
+fucking
+Google
+ads
+but the
+guy that
+runs it
+is Dave
+Croxton
+who's like
+a total
+crazy
+weirdo
+Marxist
+and he
+uses them
+to pay
+all of his
+weird Libra
+font buddies
+in Europe
+to like make
+fonts for
+him
+and he also
+like uses
+Google's money
+to pay for
+like languages
+that haven't
+traditionally had
+fonts made
+for them
+to have
+fonts made
+for them
+and that's
+pretty rad
+and it's
+really low
+barrier
+you just
+like click
+on it
+add it
+to your
+thing
+like hit
+download
+or you
+can go
+to
+github.com
+slash google
+slash fonts
+and download
+the entire
+repo
+all at once
+and then
+when they
+add new
+fonts to
+it
+you just
+hit
+get pull
+and it
+pulls all
+the new
+fonts down
+that they've
+added
+and it's
+even easier
+than having
+to download
+them individually
+oh you
+should also
+use github
+or something
+like it
+if you're
+like into
+free lead
+open source
+stuff
+flickr
+which still
+exists
+it turns
+out
+if you go
+to flickr.com
+slash
+commons
+they have
+this isn't
+exactly free
+libre open
+source
+but it's
+public domain
+the commons
+is all
+photos
+that are
+in the
+public domain
+or that
+no known
+copyright holders
+exist
+or have
+come forward
+for it
+so it's
+all stuff
+you can
+just
+immediately
+use
+and a lot
+of it
+is weird
+old stuff
+that you
+never would
+have seen
+or found
+otherwise
+there's
+also
+the noun
+project
+which
+some things
+are public
+domain
+some things
+are on there
+that you
+have to have
+like a paid
+account
+to be able
+to access
+and some things
+you can just
+download
+but you just
+have to like
+reference the
+person
+but it's
+like again
+it's like a
+really low
+barrier entry
+way to like
+start sort of
+like putting
+your foot
+into the water
+into the water
+like not
+fully proprietary
+things
+and then
+there's some
+like weird
+new projects
+that come
+this is
+this woman
+in Greece
+who draws
+a weird
+drawing
+every day
+and just
+posts it
+on her
+website
+and they
+have a
+free art
+license
+so her
+license
+she had
+them licensed
+under the
+MIT license
+originally
+but it
+didn't really
+cover like
+artworks
+very well
+and she
+doesn't really
+share them
+in a way
+that lets
+you like
+easily
+re-share
+the stuff
+so she
+changed the
+license
+to just
+being like
+a free
+art license
+but you
+can just
+download
+these
+they download
+as SVGs
+these download
+as SVGs
+so like
+come on
+InDesign
+and get it
+together
+and you
+can just
+like
+muck around
+with somebody
+else's
+like drawings
+as a
+starting point
+if you want
+and there's
+also this
+like crazy
+photo site
+called
+Unsplash
+where like
+every image
+is free
+to use
+and they're
+like these
+most of
+them
+like all
+the new
+ones
+for these
+crazy
+like 10,000
+by 10,000
+pixel images
+which I'm
+sure is
+like horribly
+unsustainable
+from a
+like giant
+server farm
+point of
+reference
+but it's
+like really
+interesting
+from a
+just like
+free
+amazing
+photo
+perspective
+I'm sure
+they're also
+like a
+startup
+that has
+funding
+and they
+like pay
+people
+but they
+have no
+way
+of selling
+anything
+so I
+don't
+understand
+how
+they
+make
+money
+or
+how
+it's
+going
+to last
+or
+like
+why
+anyone's
+just like
+giving them
+all their
+photos
+but it's
+an interesting
+place
+you can just
+download
+their
+license
+is
+just like
+a fully
+open free
+license
+you don't
+even have to
+credit the
+people to
+use the
+unswatched
+photos
+but so
+I've been
+finding out
+all these
+things
+and just
+trying to
+use them
+wherever
+that I
+can
+but it's
+just like
+this is
+upside down
+on purpose
+because this
+is sort
+of how
+I feel
+lately
+it's like
+how do I
+actually make
+this work
+on projects
+it's like
+one thing
+to just
+explore it
+all and
+make slides
+but how
+do I
+actually
+make
+work
+with it
+and I
+think
+the main
+just to
+give you
+some
+transparency
+the main
+problem
+I have
+is that
+I also
+just still
+have
+you know
+this laptop
+whatever it is
+this is my
+next one
+I also just
+have my
+like regular
+designer laptop
+because I
+still have
+like projects
+where
+their stuff's
+all in
+InDesign
+and I
+can't
+make them
+switch to
+Scribus
+you know
+or
+there's
+like
+people
+give me
+Photoshop
+files
+and I
+can edit
+them in
+GIMP
+but it
+just like
+isn't quite
+right
+sometimes
+or like
+a thing
+is missing
+so like
+having
+like the
+regular
+old clients
+that I
+have
+already
+is like
+making it
+a hard
+like fluid
+transition
+it also
+is kind
+of crazy
+because I
+decided to
+make it
+harder for
+myself
+in that
+like
+the
+from like
+an idealistic
+perspective
+to like
+fully embody
+the Libra
+designer
+character
+I
+installed
+on my
+laptop
+the
+no
+non
+there's
+no
+non
+free
+software
+in the
+like
+Debian
+install
+that I
+installed
+on my
+computer
+which means
+that like
+when I
+installed it
+originally
+the trackpad
+wouldn't work
+and the
+battery
+wouldn't charge
+and
+and the
+wifi
+couldn't
+talk to
+the wifi
+because
+the wifi
+chip
+in this
+area of
+macbook air
+is like
+has a
+proprietary
+driver
+so I
+had to
+like
+figure out
+how to
+enable
+just those
+non
+free
+things
+to like
+be able
+to use
+my
+trackpad
+and use
+the wifi
+and then
+my
+computer
+at
+the iMac
+I have at
+school
+I have
+like
+four
+different
+Linux
+versions
+on there
+all different
+than the
+one that's
+on here
+just to
+like
+test out
+what all
+the difference
+like why
+they're
+different
+because
+that's
+what's
+crazy
+is like
+you can
+pick
+like
+super
+fancy
+well drawn
+fleshed
+out
+Linux
+the symbol
+for Linux
+is a
+penguin
+just in
+case
+you're
+wondering
+why
+these are
+all
+penguins
+oh
+and
+technically
+you should
+call it
+GNU
+Linux
+because
+Linux
+is just
+the kernel
+it's just
+like
+the main
+brain
+and all
+the other
+software
+is like
+technically
+GNU
+and GNU's
+logo
+is a
+wildebeest
+meditating
+floating in
+the air
+this is like
+a really
+way too
+complicated
+logo
+that's like
+the kind
+of other
+amazing
+thing
+about all
+these
+open source
+projects
+is like
+what they
+presume
+graphic design
+is and
+is for
+is like
+so different
+than what
+we think
+graphic design
+is and
+is for
+and it's
+a really
+interesting
+aesthetic
+learning
+experience
+anyway
+where you
+think of
+like
+sleek
+the sleek
+modern
+penguin
+or you
+get kind
+of like
+minimal
+penguin
+that's
+just the
+grain
+but like
+nothing
+else
+and like
+how do you
+decide
+which one
+to use
+you know
+it's like
+really
+complicated
+if you
+decide to
+read a little
+bit more
+of linux
+you'll find
+out that
+there are
+like
+currently
+1500
+different
+distributions
+of linux
+and what
+that means
+is like
+because it's
+free and
+open software
+somebody like
+decides something
+and then
+another group
+of people
+like have
+some
+ideological
+opposition
+to that
+thing
+and so
+they fork
+they fork
+linux
+and like
+make their
+own like
+GNU
+linux
+that uses
+the same
+linux
+kernel
+but like
+builds
+like a
+different
+kind of
+some
+ecosystem
+around
+the thing
+and then
+on top
+of that
+there's also
+like
+all these
+different
+possibilities
+for how
+you can
+like
+make
+shit
+look
+so
+this is
+like
+this isn't
+the customized
+list
+this is
+like
+just
+you can
+pick
+GNU
+linux
+as your
+operating
+system
+then you
+can also
+pick
+from
+any of
+these
+graphic
+interfaces
+as your
+graphic
+interface
+for your
+GNU
+linux
+system
+right
+so
+if you
+install
+windows
+you're
+not
+installing
+like
+windows
+and
+something
+else
+to make
+your
+just install
+windows
+and windows
+is the
+operating
+system
+and it
+is the
+graphic
+interface
+right
+like
+macOS
+is the
+interface
+and is
+the
+operating
+system
+and you
+lose
+just like
+random piles
+of like
+lego blocks
+that just
+like
+happen to be
+assembled
+in things
+that kind
+of work
+at any
+given
+moment
+of time
+anyway
+so that's
+why I
+decided to
+install
+a whole
+bunch
+of
+different
+things
+like
+what the hell
+is the
+difference
+between
+GNOME
+and
+KDE
+Plasma
+these are
+considered
+the like
+two nicest
+looking
+and working
+ones
+but
+you're like
+well maybe
+I don't
+care if it's
+nice looking
+because I can
+make it nice
+looking
+myself
+I'm a designer
+what's the
+like least
+processing
+one
+like what if I
+use like a
+different metric
+of aesthetic
+goodness
+and decide to
+pick like
+what's the one
+that uses the
+least
+waste the
+least
+processor
+then you
+should pick
+XFCE
+or
+i3
+gaps
+or what if
+you want
+the one
+that like
+your mother
+can use
+because it's
+like removed
+anything that's
+hard
+grandmother
+or
+doctor
+sister
+you should
+pick like
+budgie
+or you
+should
+pick
+sugar
+or what if
+you want
+the one
+that isn't
+actually free
+you want
+the one
+that uses
+a partially
+proprietary
+plug-in
+so then
+you should
+pick
+LXQT
+or sorry
+LXQ
+it's just
+pronounced
+Q
+even though
+it's
+QT
+the other
+thing is
+you have
+to figure
+out
+what the
+hell
+all these
+acronyms
+mean
+and the
+weird way
+you're
+supposed to
+pronounce
+all of
+them
+like
+XFCE
+used to
+stand
+for
+something
+but
+doesn't
+stand
+for
+something
+anymore
+so
+now
+it's
+lowercase
+XFCE
+when it
+used to
+be
+all
+capital
+XFCE
+and be
+an
+acronym
+and
+that's
+like
+the
+weird
+so
+why
+don't
+designers
+do
+this
+okay
+A
+what I
+just
+explained
+to you
+obviously
+is a
+reason
+that people
+don't
+choose
+to go
+to that
+from
+like
+using
+the
+tools
+perspective
+but I
+think
+there's
+also
+sort
+of
+like
+why
+do
+web
+designers
+like
+work
+on
+projects
+like
+Twitter
+Bootstrap
+but
+why
+don't
+print
+designers
+give
+anyone
+their
+InDesign
+files
+you know
+that
+seems
+like
+a
+weird
+place
+that I
+want to
+play
+around
+next
+sort
+of
+just
+like
+what
+happens
+when I
+just
+post
+as I
+work
+on
+projects
+I
+just
+commit
+those
+updates
+to
+GitHub
+and
+like
+anybody
+can
+download
+and fork
+that
+project
+obviously
+one
+reason
+is
+that
+your
+clients
+probably
+have
+proprietary
+information
+and
+graphics
+and whatever
+in those
+things
+but
+not
+every
+project
+is
+that
+and
+then
+there's
+also
+like
+certain
+clients
+that
+you
+might
+have
+that
+give
+away
+the
+information
+anyway
+so
+why
+would
+it
+matter
+if
+the
+files
+are
+available
+if
+you're
+giving
+people
+their
+brochure
+anyway
+so
+I'm
+investigating
+those
+questions
+for
+myself
+next
+and
+trying
+to
+find
+people
+doing
+these
+things
+there
+is
+an
+interesting
+design
+group
+in
+Belgium
+called
+OSP
+which
+stands
+for
+open
+source
+publishing
+and
+every
+project
+they
+take
+on
+they
+publish
+like
+all
+the
+work
+as
+they're
+doing
+it
+and
+you
+can
+download
+the
+files
+for
+the
+books
+that
+they've
+made
+and
+that
+kind
+of
+thing
+and
+then
+there's
+a
+new
+publisher
+called
+Sita
+based
+out
+of
+Texas
+who
+publishes
+like
+feminist
+public domain
+feminist
+literature
+and
+her
+website
+uses
+a
+javascript
+plugin
+that
+when you
+hit
+print
+it
+flows
+the
+pages
+based
+on
+a
+template
+and
+lets
+you
+print
+them
+out
+that
+way
+but
+you
+can
+like
+her
+webpage
+is
+hosted
+on
+github
+so
+you
+can
+download
+her
+entire
+website
+if
+you
+want
+to
+see
+how
+it
+works
+and
+see
+how
+she's
+making
+the
+books
+print
+and
+interestingly
+the
+plugin
+that she
+uses
+to make
+the
+books
+print
+is
+also
+an
+open
+source
+plugin
+so
+you
+could
+make
+your
+own
+site
+without
+even
+needing
+to
+look
+at
+her
+site
+that
+does
+those
+things
+too
+so
+there
+are
+designers
+trying
+to
+straddle
+and
+get
+into
+this
+territory
+but
+it's
+mostly
+personal
+projects
+or
+specialized
+clients
+like
+open
+source
+publishing
+in
+Belgium
+so
+that
+helps
+with
+just
+being
+around
+people
+more
+into
+that
+thing
+but
+they
+mainly
+work
+for
+museums
+or
+schools
+or
+things
+like
+that
+that
+want
+to
+have
+this
+sort
+of
+disseminated
+access
+to
+things
+and
+then
+I
+think
+pardon
+the
+bad
+weird
+type
+setting
+it's
+like
+a
+problem
+of
+user
+tools
+sometimes
+I
+don't
+know
+why
+it
+chose
+to
+break
+open
+but
+it
+did
+open
+source
+design
+isn't
+designed
+by
+committee
+I
+think
+that's
+like
+a
+main
+reason
+designers
+like
+sort
+of
+argue
+against
+this
+methodology
+is
+like
+oh
+well
+if
+anyone
+can
+look
+at
+it
+comment
+on
+and
+add
+to
+it
+then
+just
+like
+who's
+really
+designing
+it
+and
+that's
+just
+not
+true
+like
+computer
+programs
+have
+leaders
+and
+have
+philosophical
+visions
+and have
+like
+intentional
+criteria
+that they're
+trying to
+meet
+and
+groups of
+people
+work on
+them
+and if
+the thing
+that
+a person
+is trying
+to add
+or a person
+is trying
+to change
+isn't
+accepted
+by the main
+leader
+or the leaders
+of the program
+it just
+is ignored
+they just
+say
+thanks
+for your
+work
+but that's
+not the direction
+that we're
+going
+fork it
+and do
+your own
+thing
+if that's
+what you
+want to
+do
+sorry
+so it's
+not that
+everybody
+gets the
+work done
+it's like
+if you have
+real problems
+that other
+people can help
+you solve
+they can be
+solved
+and if
+it's problems
+that you didn't
+want solved
+you can
+tell them
+thanks for
+your work
+but
+this doesn't
+fit into
+my
+vision
+of this
+project
+anyway
+so
+that's
+kind of
+the end
+of my
+talk
+so I was
+sort of
+rambling
+into
+stream of
+consciousness
+but like I said
+I was trying to
+grab a lot of
+different things
+I've been
+playing with
+over the
+last year
+and change
+so I know
+that this is
+kind of like
+a utopian
+ideal
+it's like
+if I
+but if
+I can get
+even a little
+bit close
+to that
+aspiration
+it will
+have
+changed
+things
+and improved
+things
+and opened
+up other
+possibilities
+and I
+arrived at
+this idea
+that I was
+thinking of
+before
+I didn't
+have a good
+way to
+explain
+another
+diagram
+from the
+Dun & Robbie
+speculative
+everything book
+is this
+diagram
+of as time
+goes forward
+into the future
+there's a
+cone of
+possibilities
+that open
+up
+and the
+sort of
+narrow part
+close to
+our
+time moving
+forward
+is kind
+of like
+those things
+are definitely
+possible
+and will
+easily be
+achieved
+and then
+you get
+sort of
+out a little
+bit further
+and things
+become less
+and less
+possible
+but just
+probable
+but what
+that diagram
+fails to
+account for
+which I'm
+hoping that
+my efforts
+can
+what that
+diagram fails
+to account for
+is this idea
+of adjacent
+possibles
+and then
+as you
+get further
+from the
+possible
+and uncover
+these
+probable
+realities
+and start
+to explore
+the probable
+things
+that becomes
+less probable
+and more
+just possible
+and then
+what's probable
+gets further
+out
+so I'm hoping
+that if I can
+go extremes
+like ridiculousness
+and be like
+no you just
+can't use
+Adobe
+you can't
+use a Mac
+computer
+anymore
+I probably
+shouldn't be
+using an
+Epson projector
+I need some
+other way
+to check
+this on
+the screen
+it doesn't
+matter if
+anyone else
+wants to
+get that
+extreme
+it just
+matters if
+it brings
+everything over
+a little bit
+if you could
+go home
+and download
+Nodebox
+and use
+Nodebox
+you would
+be so
+happy
+it's so
+fun
+I kid you
+not
+it is the
+easiest piece
+of software
+you will
+ever use
+if you
+understand
+how computer
+functions work
+but you don't
+have to know
+how to write
+computer programs
+you have to
+understand
+that there's
+inputs and
+outputs
+and certain
+things can't
+be inputs
+for certain
+kinds
+of functions
+then like
+that's a
+small victory
+Nodebox
+is by far
+of all the
+things I've
+used
+like the
+easiest
+open source
+projects
+to just
+download
+and use
+Inkscape
+is super
+fun
+it does
+like a
+lot of
+interesting
+things
+that
+Illustrator
+does
+but just
+in like
+a weirdly
+different
+way
+it also
+has really
+good
+variable
+font
+support
+which
+not
+very
+many
+programs
+do
+so
+that's
+kind
+of
+an
+interesting
+plus
+the
+people
+that
+make
+Inkscape
+are
+friends
+with
+Dave
+Crossland
+who
+you know
+running
+Google
+fonts
+is like
+one of
+the main
+components
+for variable
+fonts
+right now
+so
+they've
+just like
+in a
+Twitter
+conversation
+like
+wouldn't it
+be cool
+if Inkscape
+did variable
+fonts
+like
+Illustrator
+started
+doing
+variable
+fonts
+and so
+like
+in a
+weekend
+they made
+Inkscape
+do variable
+fonts
+also
+like
+that's
+cool
+that doesn't
+happen
+with other
+kinds of
+software
+that like
+only happens
+with
+these kinds
+of like
+free
+open
+softwares
+anyway
+so
+that being
+said
+we need
+to get
+Kiehl's
+typeface
+on GitHub
+so everybody
+can make
+their version
+of it
+space
+time
+flow
+generator
+is already
+on GitHub
+right
+like
+you could
+go fork
+it
+right
+now
+if
+you
+wanted
+to
+you
+just
+need
+to
+pick
+the
+license
+that
+you
+want
+you
+should
+probably
+pick
+a
+GPL
+license
+to make
+anyone
+that uses
+it
+share
+their
+things
+too
+and
+anyway
+if anybody
+else
+wants to
+like
+try
+if you
+want to
+just
+like
+get a
+taste
+of
+Linux
+without
+having
+to
+reformat
+your
+hard
+drive
+or
+run
+a
+virtual
+server
+just
+come
+by
+my
+office
+sometime
+and
+you
+can
+use
+one
+of
+my
+many
+Linux
+computers
+that
+I
+have
+now
+so
+anyway
+thanks
+applause
+applause
+applause
+applause
+applause
