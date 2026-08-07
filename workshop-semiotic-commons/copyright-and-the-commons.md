@@ -6,13 +6,15 @@
 
 ## The Myth of the Author
 
-Once upon a time, in the golden age of creation, there was an island called Originis. Legend said this island was home to a rare and extraordinary magical being — the Author. It was whispered that they were chosen by the Muses and blessed with divine inspiration to craft ideas from thin air and shape them into extraordinary works of art.
+Once upon a time there was an island called Originis. Legend said this island was home to rare and extraordinary beings — Authors. It was whispered that they were chosen by the Muses and blessed with divine inspiration to craft original creations from thin air and give them form.
 
-On Originis, the Author lived alone, high in a tower, their thoughts untouched by the world, untainted by the voices of others. When inspiration struck, it was as if lightning descended from the heavens, and with a single stroke of their pen, the Author would bring forth creations so unique, so original, that they shimmered with an otherworldly light. The people of the surrounding lands revered these creations. They built walls around Originis to preserve its purity, and passed laws to protect the fruits of the Author’s labor for generations after their death.
+On Originis, Authors lived alone, their thoughts seemingly untouched by the world, untainted by the voices of others. When inspiration struck, it was as if lightning descended from the heavens, and with a single stroke of their pen, the Author would bring forth creations so unique, so original, that they shimmered with an otherworldly light. The people of the surrounding lands revered these creations. But, Authors protected what they made by locking it away in towers, like Rapunzel, granting access to no one except through extreme offering and sacrifice. Even death didn't break the spell right away — it took seventy years for an author's magic to fade, their tower to crumble, and their creations to finally enter the world. Authors, naturally, kept looking for ways to extend the spell and keep their creations forever.
 
-But like all myths, this one concealed a truth far more complex. The Author’s tower was never actually isolated. Beneath its foundations ran deep rivers of shared knowledge, carrying the echoes of generations past — the storytellers of old, the whispers of nature, the collective dreams of the world beyond the walls. The creations were never the result of solitary genius. They were the work of a vast, interconnected web of inspiration, once that is known the myth of the Author began to crumble.
+But like all myths, this one concealed a truth far more complex. No Author’s tower was ever truly isolated. Beneath every one of them ran deep rivers of shared knowledge, carrying the echoes of generations past — the storytellers of old, the whispers of nature, the collective dreams of the world beyond Originis. The creations were never the result of solitary genius. Author's creations were the work of a vast, interconnected web of inspiration, and once that was known the power of the Authors began to crumble.
 
-The opposite myth is just as tempting, and just as false: a commons with no walls at all, where everything is free and nothing needs protecting — no mine, no yours, only ours. That’s not how it works either. Reality lives in the gray area between the two: protected enough to be worth making, open enough to be worth sharing.
+The opposite myth is just as tempting, and just as false: a commons with no walls at all, where everything is free and nothing needs protecting — no mine, no yours, only ours. That’s not how it works either. Reality lives in the gray area between the two: protected enough to be worth making, open enough to be worth sharing. 
+
+> Information Wants To Be Free. Information also wants to be expensive. ...That tension will not go away. (Stewart Brand) from wikipedia... https://en.wikipedia.org/wiki/Information_wants_to_be_free
 
 ---
 
