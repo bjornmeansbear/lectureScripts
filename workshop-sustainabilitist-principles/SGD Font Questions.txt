@@ -1,0 +1,22 @@
+SGD Font Questions 
+
+Dave Crossland?
+Marie O?
+Colin Ford?
+
+What other ways can we question or critique font designs in regards to their sustainability? How does the design of a font affect the welfare of all life?
+
+- design to save energy?
+- design to save data? (less serving/hosting/sending/downloading -- this helps save energy?)
+- Allow more people to use them?
+- run faster?
+- print w/ less ink?
+- use less pixels?
+- how can other sustaino/eco "improvements" be asked of a typeface?
+- where else might carbon capture or carbon reduction or indigenous/vernacular/appropriate solutions come into play?
+- is automation of type design useful?
+- do variable fonts act as a potential answer to any of this?
+- should we all learn more about concepts like "metafont"? are those kinds of high level thinking/systems useful? do they relate to sustainability at large?
+- what does a sustainable font look like? act like?
+- has anyone asked you about this before?
+- have you thought about it yourself?
