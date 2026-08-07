@@ -1,0 +1,138 @@
+NDC lecture script
+
+# Towards a New Design Commons.
+
+How we can share, remix, improve, and repurpose design production and pedagogy for a better tomorrow?
+
+In the spirit of Kirby Fergesun, the creator of "Everything is a Remix," this talk is a remix, I have copied and transformed and combined and what results is something new yet familiar… I have modeled what I’m talking about with the materials I have used… find slides here: text here: images I used here: and a collection of most of the research that has resulted in what you’ll hear here:
+
+Given our current climate crisis, we need shareable, remittable, repurposeable solutions that can be adapted and localized all over the world — we don't need singular large solutions, we need a lot of small remixable, combinable solutions, in the spirit of that we must return to a conceptual model of creative production that allows us to use and reuse design resources is imperative.
+
+## Intro 
+
+In 2006 Ellen Lupton presented a talk at aTypi called _Univers Strikes Back_. In this talk, Lupton says about her book, _Thinking with type_:
+
+> My book was never intended for experts. It is a book for everyone, because I believe that everyone on earth needs typography and can benefit from working with letterforms at the highest level.
+
+Expanding this out, my goal is reframing Ellen's message in terms of design itself: Everyone on earth needs design and would benefit from working with design tools and content at the highest level…
+
+To reach this aim, to allow design to benefit _everyone_, we need more equitable, accessible, and modifiable tools and resources and approaches.
+
+## What is the/a Commons?
+
+David Bollier defines the commons as:
+
+> All the things we collectively own and have obligation to pass onto future generations undiminished. 
+
+Peter Linebaugh describes a commons:
+
+> the theory that vests all property in the community and organizes labor for the common benefit all
+
+The commons are the natural & cultural things that we have a moral and personal connection too and feel the need to protect and to share. This could be literal physical resources — air, water, forests, pasture, seashore, fishing areas — but societally this extends to useful knowledge and cultural production. This is where a "design commons" sits: defining and documenting the resources for making design that we must protect, share, work together to build, and to pass access on to the future.
+
+Things like typography, imagery, prose — these are easy “resources” to see as already shared and buildable upon. However, a functioning design commons will need to also include recipes for how to combine these things, successful "solutions" that can be remixed or repurposed. 
+
+## Thread 1: Enclosure?
+
+As I was working on this talk, I woke up one morning to find that Adobe had acquired the online tool Figma. 
+
+> Obviously, this sucks for the entire design community. Adobe has done a lot of harm to the design community with their exploitative pricing and their refusal to fix existing products. Everyone, even students, is forced to use Creative Cloud, not because they like the tools, but because Adobe is pragmatically the only option. It's great to see other design tools becoming more popular recently as people start finding alternatives. The tools we use influence what we make and dictate the people who have access to them. Having a diverse toolset to choose from is good. Even if Figma doesn't change much in the first few years, relying on just one company for design gives Adobe way too much power in dictating which people and how people design.
+
+1. Adobe acquires Figma. Adobe’s history is one of absorbing the competition. Figma has a vibrant community section as a part of it, and those communities historically aren’t supported by adobe after mergers… macro media freehand anyone? is this something that's likely to be able to be maintained moving forward?
+
+That our tools that we enjoy using can just be gobbled up or absorbed by another entity. On paper Adobe says nothing will change with figma, there is a collaborative, sharing ecosystem that is currently built into Figma, which will that stay the case as its brought into the Adobe cloud?
+
+2. Venezuela Sanctions; after Adobe turned off access to all of the creative suite on Venezuela due to Trump Administration sanctions. October 2019? https://www.itsnicethat.com/news/adobe-block-venezuela-digital-111019. Adobe at anytime can turn off the access to your tools without rhyme or reason. (They didn't have to do this under the executive order, and after a short time rescinded). Your tools can just be turned off, we rent access to the tools we need for our work — we don't own our tools anymore AND access can be turned off even IF we pay our rent.
+
+3. Amazon Ring of Power splash screens... Even examples from Adobe showing us works from the community are here polluted by corporate interest.
+
+This is intellectual enclosure. And it seems a troubling signal in our contemporary "everything is a service" model. We can at anytime have our "access" to the tools we use cut off. We don't own these tools. But, even paying our "rent" isn't sufficient to keep access to them. And, the creative cloud is to be used for making things for industry and mainstream culture. 
+
+As educators, we're supposed to create new knowledge; to teach the next generation(s) of designers, to build on the shoulders of those that came before us, to spread and disseminate our craft so as to make a difference. Can we do this if the path forward is filed with proprietary tools driven by the exclusive influence of the market? Can we do this if at anytime access to what we need to create can be walled off? 
+
+Instead, what if we fully embrace open, shareable framework(s) for design. We need tools and content free from intellectual enclosure.  How can we build a "Design Commons"?
+
+## Thread 2: We're already doing this!?
+
+In _How buildings learn_, hippie modernist Stewart Brand describes a process where vernacular buildings, meaning common buildings by and for common people, develop and iterate their forms over time into better and better structures for their inhabitants. Neighbors learn and adapt their buildings from each other's successes. Local forms, themes, and styles evolve based on the landscape, the weather, type and availability of materials, and the needs of the community. No one owns the plans or materials, buildings over time solve necessary problems with grace, humility, efficiency, and often a stylish flare. (Cape cod? Malay Stilt house?)
+
+Open source software communities are a contemporary example of this. Eric Raymond in “the Cathedral and the Bazaar" covers the origins of linux, and how this same model of individual solutions share back to the community result in rapid improvement in a nascent computer kernel. The ideas present in that text drive open software development still today:
+
+Siva Vaidhyanthan reiterates this in his essay _Open Source As Culture/Culture as Open Source_: 
+
+> The “Open Source” way is close to how human creativity has always worked […] it used to be the default way of doing things. Through most of human history almost all technologies were “open source.” We have done pretty well as a species with tools and habits unencumbered by restrictions over sharing, copying, customizing, and improving. 
+
+So, a new design commons returns to our cultural production roots. One less encumbered by copyright, restrictive licenses, and perpetual rental for access. But does so now, purposefully making sure to share, purposefully allowing remixing and reuse, purposefully building for the benefit of all.
+
+> Participation breeds creative mutation, and creative mutation leads to better ideas through the collaborative process
+> — Michael Mandiberg
+
+Stallman and his 4 freedoms
+
+> The freedom to run the program as you wish, for any purpose (freedom 0).
+> The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+> The freedom to redistribute copies so you can help your neighbor (freedom 2).
+> The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+Braithwaite and the open source design manifesto
+
+> I will:
+> - find opportunities to design in the open
+> - share my design experiences; both the good and the bad
+> - find time for meaningful projects
+> - openly participate in design discussions
+> - work with others (designers and more) by choice
+> - improve my toolbox 
+
+Share you process, while you can, or at least a post-mortem ... can you share source files? How can we share the "source" and the "recipes" ... 
+
+Lessig and Creative Commons
+
+I am in favor of universal sharing, but universal sharing that makes sure we acknowledge where we took our ideas from, what bits and pieces were combined to get to a solution, how a solution was customized for a particular context, and then properly attribute those ideas. Seeing how and when and where evolutions occur, where new designs materialize from the old… and that requires future sharing, sharing is built in virus style, it spreads and disseminates just like the spread of good ideas…
+
+Let's not solve old problems in new ways; and let's not just repeat old solutions either — let's remix them. 
+
+> Copy, Transform, Combine (EiaR, Kirby F)
+
+As far as the software goes — there are tons of options, let's just try them. We rely on open source and libre tools for all manner of internet and daily computer things (google docs based o open source Etherpad; HTML is open, CSS is open, JS is open, apache is open, node.js is open... the list goes on... 
+
+Why is it so hard to try other DESIGNED things using gate same model? Too much work? Not simple enough and so complicated forms free people out???
+
+## Thread 4: How to manage?
+
+We all adopt viral licenses; we all change our tools; we livestream and make recipes for everything — how does this benefit us? How do we upkeep this? Isn't there a tragedy of the commons?
+
+Elinor Ostrom's 8 rules for managing the commons
+
+1. Commons need to have clearly defined boundaries.
+2. Rules should fit local circumstances.
+3. Participatory decision-making is vital.
+4. Commons must be monitored.
+5. Sanctions for those who abuse the commons should be graduated.
+6. Conflict resolution should be easily accessible.
+7. Commons need the right to organize.
+8. Commons work best when nested within larger networks. 
+
+## Examples:
+	- Braithwaite and Nightscout > open source glucose monitoring (company that makes medical device required 2 yrs to update w/ Bluetooth and get approved by FDA... open source team, just needed 1 day after initial release to add to their open code!?
+	- OSP
+	- AIGA teaching resources
+	- Open Climate
+	- Velvetyne?
+	- Google fonts?
+	- Libre object?
+	- More design references?
+	- Enzo Mari?
+	- N55 cargo bikes?
+	- C4AA
+
+## Conclusion.
+
+Apply ostrom's the rules back to Design Commons…
+
+its a critical act ala Dunne and Raby's critical design; its more accessible; its more equitable; we can turn more energy on solving real NEW problems, rather than resolving old problems…
+
+
+
+Tags:
+  lecture

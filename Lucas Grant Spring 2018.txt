@@ -1,0 +1,44 @@
+Lucas Grant Spring 2018
+
+1. PROJECT ABSTRACT (100 words)
+Write in the 3rd person in a manner suitable for publication to our community.
+Complete in SlideRoom field.
+
+What do the tools and ethos from Free/Libre/Open Source (FLOS) communities bring to a visual designer's education and praxis? Kristian Bjornard will be delivering a 20 minute presentation on the outcomes of his new course “Special Topics in Graphic Design: Open Source” at the AIGA Design Educator's MAKE conference in June of 2018 at the Herron School of Art + Design. The new course engages students in alternative methods of making: different tools, different practices. The presentation covers how the class presented students new ideas; how those ideas extended into other projects/courses students were taking; what new concepts, processes and forms were discovered; and how the use of Free/Libre/Open source tools, fonts, etc. in other pedagogical ways in the future. The presentation will highlight student work from MICA as well as MICA's dedication to testing new material, new technologies, and how the tools we choose have an impact on accessibility and equity.
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+2. PROJECT DESCRIPTION (500 words)
+Complete in SlideRoom field.
+
+I am presenting at the Spring 2018 AIGA Design Educators Conferences (MAKE conference) a paper about my experiences and the experiences of my students in a new Graphic Design elective offered for the first time this Spring. I am requesting funds to help make it possible to attend and present my point of view, my students point of view, and the outcomes of the course — GD399.01 Special Topics in Graphic Design: Open Source (currently running). I have already been accepted to the conference.
+
+My presentation and paper will cover the following (my abstract as accepted by the MAKE conference): Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This presentation's goal is to present the root ideals of the free/libre/open source software movements, and apply them to the making of graphic design. Part of the presentation will cover the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods. This presentation will also present how the research, discussions, interviews, experiments, and work/output of the course “Open Source Design” (running Jan-May 2018) changes the ways a designer might envision their practice and methods of making. The presentation utilizes the professor's own work and research, work and research from the FLOSS community, as well as content created by the MICA students involved in the class to support the arguments. The way one works with FLOSS tools and ideals creates different systems, processes, methodologies, and aesthetics. The work of Professor Bjornard and his students provide interesting visual and code-based examples to help answer and illustrate this. 
+
+Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions? 
+
+These topics have been useful not only for this class, but in helping me to think about other aspects of my teaching: the other courses I run, how to help students find more flexible and equitable tools, how our department might better serve students moving forward, and more. I hope to show at this conference how the MICA graphic design department not only provides solid design instruction for its students, but also is a leader in new ideas, exploring new tools, and is indeed putting ideals from the DEIG into practice in course offerings and curriculum (I believe that looking to open source communities for tools and resources helps w/ the aims of equity [though there are also plenty of accessibility/equity issues still inherent in FLOS communities; it is no panacea] — the tools are more accessible in terms of cost; and also allow for customization for special needs often beyond what paid tools can provide).
+
+3. BUDGET (1 page)
+Upload as single PDF attachment in SlideRoom.
+a. Separate from the Project Description, the budget itemizes detailed expenses,
+including but not limited to: conference or workshop dues and registration fees,
+travel, lodging, and per-diem.
+b. Include a TOTAL of funds requested.
+c. If the grant request is retroactive, include a list of itemized costs already existing
+in receipts. If the grant request is for the future, be as specific as possible about
+expected costs.
+
+a. Air Travel: currently ranging between $200 and $400 depending on airlines and exact dates around conference...
+Conference fee: $275
+Conference Hotel: $139/night 3 nights (conference is 3 days, leave following morning) ≈ $417 + taxes & Fees
+Per diem: $54 ≈ $162 for 3 days of conference (from chart: https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup/?action=perdiems_report&state=IN&fiscal_year=2018&zip=&city=)
+
+b. so max for everything: ≈$1254 (not accounting for taxes & fees on hotel)
+
+4. Recent RESUME or CV (up to 4 pages)
+Upload as single PDF attachment in SlideRoom.
+★ SUPPORTING DOCUMENTS are optional and may be attached, if relevant.
+Supplemental information may include images with captions, conference programs
+and letters of invitation or recommendation.
+Upload as single PDF attachment in SlideRoom.
