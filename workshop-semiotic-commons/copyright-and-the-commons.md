@@ -8,13 +8,14 @@
 
 Once upon a time there was an island called Originis. Legend said this island was home to rare and extraordinary beings — Authors. It was whispered that they were chosen by the Muses and blessed with divine inspiration to craft original creations from thin air and give them form.
 
-On Originis, Authors lived alone, their thoughts seemingly untouched by the world, untainted by the voices of others. When inspiration struck, it was as if lightning descended from the heavens, and with a single stroke of their pen, the Author would bring forth creations so unique, so original, that they shimmered with an otherworldly light. The people of the surrounding lands revered these creations. But, Authors protected what they made by locking it away in towers, like Rapunzel, granting access to no one except through extreme offering and sacrifice. Even death didn't break the spell right away — it took seventy years for an author's magic to fade, their tower to crumble, and their creations to finally enter the world. Authors, naturally, kept looking for ways to extend the spell and keep their creations forever.
+On Originis, Authors lived alone, their thoughts seemingly untouched by the world, untainted by the voices of others. When inspiration struck, it was as if lightning descended from the heavens, and with a single stroke of their pen, an Author would bring forth creations so unique, so original, that they shimmered with an otherworldly light. The people of the surrounding lands revered these creations. But, Authors protected what they made by locking it away in towers, like Rapunzel, granting access to no one except through extreme offering and sacrifice. Even death didn’t break the spell right away — it took seventy years for an Author’s magic to fade, their tower to crumble, and their creations to finally enter the world. Authors, naturally, kept looking for ways to extend the spell and keep their creations forever.
 
-But like all myths, this one concealed a truth far more complex. No Author’s tower was ever truly isolated. Beneath every one of them ran deep rivers of shared knowledge, carrying the echoes of generations past — the storytellers of old, the whispers of nature, the collective dreams of the world beyond Originis. The creations were never the result of solitary genius. Author's creations were the work of a vast, interconnected web of inspiration, and once that was known the power of the Authors began to crumble.
+But like all myths, this one concealed a truth far more complex. No Author’s tower was ever truly isolated. Beneath every one of them ran deep rivers of shared knowledge, carrying the echoes of generations past — the storytellers of old, the whispers of nature, the collective dreams of the world beyond Originis. The creations were the work of a vast, interconnected web of inspiration, and once that was known, the power of the Authors began to crumble.
 
 The opposite myth is just as tempting, and just as false: a commons with no walls at all, where everything is free and nothing needs protecting — no mine, no yours, only ours. That’s not how it works either. Reality lives in the gray area between the two: protected enough to be worth making, open enough to be worth sharing. 
 
-> Information Wants To Be Free. Information also wants to be expensive. ...That tension will not go away. (Stewart Brand) from wikipedia... https://en.wikipedia.org/wiki/Information_wants_to_be_free
+> "Information wants to be free. Information also wants to be expensive... That tension will not go away."
+> — Stewart Brand[^brand]
 
 ---
 
@@ -50,7 +51,7 @@ Beyond that, fair use covers reproduction that copyright law technically prohibi
 
 Fair use isn’t a permission you get in advance. It’s a defense you argue after you’ve already been sued.
 
-Two cases show how narrow that defense is. Shepard Fairey’s Obama “Hope” poster was based directly on a photographer’s campaign photo. A court found that a drawing, even a stylized one, wasn’t transformed enough to count as fair use — Fairey lost. The Andy Warhol Foundation licensed a Prince photograph for four specific colorways of a print. When the Foundation later published a fifth colorway they hadn’t licensed, the photographer sued, and a court ruled that changing the color still counted as making a new copy — not a new use of an old one.
+Two cases show how narrow that defense is, and how unsettled it can stay. Shepard Fairey’s Obama “Hope” poster was based directly on a photographer’s campaign photo. Fairey sued first, asking a court to declare his use fair — but the case settled in 2011 before any judge ruled on the question.[^fairey] Nobody actually knows how that one would have gone. The Andy Warhol Foundation licensed a Prince photograph for four specific colorways of a print. When the Foundation later published a fifth colorway they hadn’t licensed, the photographer sued, and this one did reach a ruling: the Supreme Court held in 2023 that changing the color still counted as making a new copy — not a new use of an old one.[^warhol]
 
 ---
 
@@ -64,7 +65,7 @@ Here’s the strange part: using public domain material to make something new cr
 
 This is where the public domain gets unfair. Use it to make something new, and you re-enclose part of it — your version becomes protected, even while the source stays free. Since most people know the Disney Snow White, not the Grimm one, the version people actually want to reference is the one they can’t touch. Most of how humans have always made culture involves copying, changing, and remixing what came before. Copyright law works against exactly that.
 
-This isn’t just a design complaint. The economist Elinor Ostrom won a Nobel Prize studying real commons — shared fisheries, water systems, forests — and found that the standard warning, “the tragedy of the commons,” gets the diagnosis backward. Commons don’t fail because they’re shared. They fail when the self-governing rules that make sharing work get ignored by someone playing a different game. Re-enclosure is that kind of rule-breaking: taking from the shared pool and refusing to put anything back.
+This isn’t just a design complaint. The economist Elinor Ostrom won a Nobel Prize studying real commons — shared fisheries, water systems, forests[^ostrom] — and found that the standard warning, “the tragedy of the commons,” gets the diagnosis backward. Commons don’t fail because they’re shared. They fail when the self-governing rules that make sharing work get ignored by someone playing a different game. Re-enclosure is that kind of rule-breaking: taking from the shared pool and refusing to put anything back.
 
 ---
 
@@ -74,7 +75,7 @@ None of this is new. Stewart Brand’s *How Buildings Learn* describes vernacula
 
 Richard Stallman was working at MIT’s AI lab in the early 1980s, when researchers still freely traded code the way you’d hand someone a tool. When Xerox stopped letting him access the source code for a printer he’d been troubleshooting, he flew off the handle, and decided to build free versions of everything instead — starting with an operating system he called GNU (GNU’s Not Unix). His GNU Public License is “viral”: use GNU-licensed code in your software, and your software has to be shared under the same terms too.
 
-A looser version came later. Eric Raymond watched Linus Torvalds and a scattered group of volunteers build Linux faster than any closed company was building anything, sharing code over the internet with no central plan. He wrote an essay about it, “The Cathedral and the Bazaar” — top-down control versus everyone solving their own piece and sharing the result — and worried that a viral license like GNU’s would scare off businesses that wanted to build on open code without giving away what they built. The MIT license he helped popularize just asks for credit — one step short of the public domain. It’s why most commercial software today, including tools built by companies like Adobe, quietly runs on open-source code its makers never have to share back.
+A looser version came later. Eric Raymond watched Linus Torvalds and a scattered group of volunteers build Linux faster than any closed company was building anything, sharing code over the internet with no central plan. He wrote an essay about it, “The Cathedral and the Bazaar”[^cathedral] — top-down control versus everyone solving their own piece and sharing the result — and worried that a viral license like GNU’s would scare off businesses that wanted to build on open code without giving away what they built. The MIT license he helped popularize just asks for credit — one step short of the public domain. It’s why most commercial software today, including tools built by companies like Adobe, quietly runs on open-source code its makers never have to share back.
 
 Creative Commons brings the same idea to writing, images, and design. It was founded by the lawyer Lawrence Lessig, who thought pure copyright and the pure public domain were both too extreme for how creators actually work. It sits on top of copyright law and provides a shortcut for the permission you’d otherwise have to ask for, one at a time, in advance. My favorite is CC BY-SA: attribution plus share-alike. It’s another “viral” license. Anyone can reuse and remix the work, as long as they credit the source and license their version the same way — which forces a kind of bibliography, a visible trail back to where things came from.
 
@@ -113,4 +114,15 @@ There’s a design reason too, not just a risk-management one. Working from publ
 
 Everything in this workshop — the folktale, the clip art, the zine you’re about to make — sits somewhere in this territory. Now go cut something up. 
 
-Everything is a remix.
+Everything is a remix.[^remix]
+
+---
+
+Notes & References
+
+[^brand]: <https://en.wikipedia.org/wiki/Information_wants_to_be_free>
+[^fairey]: The case settled before a ruling: <https://www.npr.org/sections/thetwo-way/2011/01/12/132860606/shepard-fairey-and-ap-settle-copyright-dispute-over-hope-poster>
+[^warhol]: Supreme Court opinion, *Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith* (2023): <https://www.supremecourt.gov/opinions/22pdf/21-869_87ad.pdf>
+[^ostrom]: <https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/>
+[^cathedral]: Full text: <http://www.catb.org/~esr/writings/cathedral-bazaar/>
+[^remix]: Kirby Ferguson, *Everything Is a Remix*: <https://www.everythingisaremix.info/>
