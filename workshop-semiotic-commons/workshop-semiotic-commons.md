@@ -67,9 +67,9 @@ $2,000–$3,000 plus travel and materials. Single-day version available.
 
 ## Prior versions
 
-- Steamboat Willie stills, public domain, 2024
-- Germany, October 2025 — participants' own family photographs as the commons
-- Norwegian folktale as source text
+- University of Utah, January 2025 — first run. Steamboat Willie stills and Victorian clip art, public domain. The Ash Lad Who Had an Eating Match with a Troll as source text.
+- MICA Baltimore, My own classes, January 2025, August 2025 — second and third runs, same folktale and image set. Started a companion zine documenting the workshop (unfinished, see `variations-on-a-norwegian-folktale.md`).
+- Germany, October 2025 — evolved from the above. Participants' own family photographs as the commons instead of the Steamboat willy based initial image sets.
 
 ---
 

@@ -29,106 +29,82 @@ Some Open-source thoughts on Copyright ©️, Creative Commons & Creativity
 
 ## An Introduction: Stories That Belong to Everyone
 
-What happens when we take something old and make it new again? This publication is the result of a workshop exploring the creative possibilities of the public domain — a vast cultural commons where stories, characters, and images are free for reinterpretation. This collection of writings and documents also aids in understanding more about Copyright and when it is or isn’t okay to access and use other’s intellectual property.
+Thirteen students worked from the same small set of images: Victorian etchings and stills from Steamboat Willie, all public domain. From that pile, and only that pile, each one retold a single story — the Norwegian folktale The Ash Lad Who Had an Eating Match with a Troll. Thirteen zines came out of it. Some followed the story closely. Others twisted it into something surreal, satirical, abstract.
 
-Steamboat Willie entered into the public domain January 1 2024. In the spirit of Mickey Mouse now having a version of himself that was fair for evyerone to remix, this exercise was designed which asks participants to interpret an old folktale using public domain clip art, including some clippings of now public domain Mickey. Disney has made an empire of taking common cultural stories ready for remixing and turning them into their own new intellectual property through retelling, embellishing, and recontextualizing — why not take another folk tale and instead use some of Disney’s now publicly accessible cultural production to produce new works!? 
-
-With this in mind, workshop participants are asked to create something new, their own new cultural production, from existing materials, piecing together new meanings from vintage imagery, early Mickey Mouse illustrations, and unexpected visual fragments. The result? 13 distinct zines, each one a unique take on a timeless Norwegian folktale, The Ash Lad Who Had an Eating Match with a Troll. Some zines closely followed the story, while others twisted it into something surreal, satirical, or abstract. Together, they showcase the power of remix culture—how we can reclaim, reinterpret, and reshape our shared creative heritage.
+Steamboat Willie entered the public domain on January 1, 2024, after Disney spent decades lobbying to keep it protected. Good material for the lecture. Not why the exercise works. It works because everyone in the room worked from the same material and nothing else.
 
 ## The Workshop: Remixing the Past into the Present
 
-This workshop is not just an exploration of public daomin content vs. controlled intellectual property, the workshop is a semiotic experiment — a way to explore how meaning shifts when images are recontextualized. Participants are given a limited visual toolbox consisting of:
+This workshop is a semiotic experiment. It tests how meaning shifts when images get recontextualized. Three sources, deliberately narrow:
 
-1.	Mickey and Pete from Steamboat Willie. The earliest version of Mickey Mouse, now freely available for creative use.
-2.	Victorian etchings (a sort of 19th-century clip art). Found imagery from out-of-context sources.
-3.	A rewritten version of The Ash Lad Who Had an Eating Match with a Troll. A commonly re-told Norwegian folktale full of trickery & wit.
+1.	Mickey and Pete, from Steamboat Willie. The earliest Mickey Mouse, now public domain.
+2.	Victorian etchings. Nineteenth-century clip art, pulled out of context.
+3.	A rewritten version of The Ash Lad Who Had an Eating Match with a Troll. A Norwegian folktale, commonly retold, built on trickery.
 
-This project is a celebration of public domain materials and a hands-on experiment in understanding copyright, remix culture, and creative reuse. It is a way to rethink how we share, protect, and build upon creative work — both our own, and that of others. It is also a way to consider what signs and symbols allow us to convey the messages we wish, and how might we recontextualize OTHER signs and symbols to 
+## The Challenge
 
-## The Challenge…
+Build a zine from the provided material only. No drawing, no outside images. Cut, paste, reinterpret.
 
-Participants create a zine using only provided elements — preferably no drawing, no outside images — just cutting, pasting, and reinterpreting the materials provided.
+Four approaches were offered as starting points:
 
-There are a few different conceptual approaches:
-
-- Faithful Adaptation: Retell The Ash Lad as it is, using only the available imagery.
-- Reinterpretation: Shift the characters, setting, or themes while keeping the core structure of the tale.
-- Surreal or Abstract Transformation: Turn the folktale into something completely unexpected by altering its meaning through juxtaposition.
-- Subversive Remix: Use irony, humor, or modern cultural references to comment on the story in a new way.
-
-By working within strict constraints, participants had to find new ways to create meaning. Assigning unexpected symbolism, repurposing images in surprising ways, and navigating the tension between old and new
+- Faithful Adaptation: retell The Ash Lad as it is, using only the available imagery.
+- Reinterpretation: shift the characters, setting, or themes while keeping the tale's structure.
+- Surreal or Abstract Transformation: alter the story's meaning through juxtaposition.
+- Subversive Remix: use irony, humor, or modern reference to comment on the story.
 
 ## From Folktale to Zine; The Results
 
-Each participant brought their own perspective, style, and interpretation to the project.
+Each zine carried its maker's own take.
 
-Some zines closely followed the folktale, using vintage illustrations to bring the story to life.
+Some followed the folktale closely, using the vintage illustrations to tell it straight. Others reimagined it entirely: a modern parable, a silent sequence, an absurdist comic strip. A few leaned into pure semiotic play — decontextualized imagery built into something strange and open.
 
-Others reimagined the tale entirely—turning it into a modern parable, a silent experimental sequence, or even an absurdist comic strip.
-
-A few leaned into semiotic play, using decontextualized imagery to craft something new, strange, and open to interpretation.
-
-By limiting the tools available, this workshop highlighted the power of creative constraints — how working with found materials can push storytelling in unexpected directions.
+Working from the same small set of images pushed people toward different kinds of invention. The constraint did that.
 
 ## Thirteen Zines: A Hands-On Experience
 
-The second section of this magazine contains the thirteen zines produced during the workshop. Each one is presented in a removable format — designed to be cut, folded, and assembled by you, the reader.
+What follows are the thirteen zines from the workshop. Each is removable — cut, folded, and assembled by you, the reader.
 
-As you flip through these pages, consider the following:
-How does found imagery influence storytelling?
-What new meanings emerge from unexpected combinations?
-How do these zines reclaim and reinterpret public domain materials in fresh ways?
+As you flip through: what does the found imagery do to the storytelling? What meaning shows up in a combination no one planned?
 
-This collection stands as both an artifact of the workshop and an invitation—an invitation to think critically about the images, stories, and cultural materials that belong to all of us. So go ahead: Cut them out, fold them up, and let them live again.
+This collection is an artifact of the workshop and an invitation. Cut them out, fold them up, let them live again.
 
 ## Instructions: The Public Domain Remix Zine
-### A Fun Collage Zine Project
-This is a hands-on, cut-and-paste remix challenge! We’ll take existing imagery and turn it into something new—reframing old visuals into fresh, unexpected narratives.
+
+### A Cut-and-Paste Remix
+Take existing imagery. Cut it, paste it, reassemble it into something new.
 
 ### A Semiotic Experiment
-Can you make random images mean something they were never meant to mean? That’s the challenge!
-Start with a collection of unrelated images.
-Assemble them into a sequence.
-Add or remove elements to shift their meaning.
-Use text or composition to guide interpretation.
+Can you make random images mean something they were never meant to mean? Start with a set of unrelated images. Assemble them into a sequence. Add or remove elements to shift the meaning. Use text or composition to guide interpretation.
 
-### Exploring Copyright & The Public Domain
-As you work, consider the legal and cultural implications of what we’re doing:
+### Copyright and the Public Domain
+Steamboat Willie is public domain — remix Mickey in a new context, no permission needed. The source material is public domain, but the zine you build from it is new work, and it's yours. License it CC BY-SA: anyone can reuse and adapt it, as long as they credit you and share their version under the same terms.
 
-Reusing Mickey in a New Context
-Steamboat Willie is now public domain! How can you remix this iconic character in a way that adds new meaning?
-Making Something New from Old Materials
-We’re using raw public domain sources—but by assembling them into a zine, we create a new copyrighted work.
-Sharing & Open Culture
-To keep the remix spirit alive, let’s license any zines made for this workshop under a CC-BY-SA license (Creative Commons Attribution-ShareAlike). This means anyone can reuse and adapt the works, as long as they credit us and share it under the same terms.
-
-### Final Step: Publish & Share
-Once your zine is complete, scan or photocopy it!
-Distribute copies, swap with others, or share it digitally.
-Consider how your work might be remixed in the future—what stories could others tell using your images?
-Let’s create, remix, and question what ownership means in a shared cultural world!
+### Publish and Share
+Scan or photocopy the finished zine. Distribute it, swap it, share it digitally. Someone else may remix it next — what would they do with your images?
 
 ## Want to Try This Yourself?
-It’s simple! Here’s how:
 
-Read The Ash Lad Who Had an Eating Match with a Troll in this book. Get familiar with the story and its themes.
-Find your own public domain and creative imagery. Search for old illustrations, vintage advertisements, or forgotten clip art. Check out services like Flickr.com/Commons or RawPixel.com public domain area to get started quikcly and easily.
-Cut, remix, and reinterpret. Assemble a brand-new version of the tale using collage techniques and your found materials.
-Turn it into a zine! Fold, staple, or stitch it together into a mini publication.
-Your version will be one more link in an ongoing chain of reinterpretation — another remix of a story that has already traveled through time, culture, and now, your hands.
+Read The Ash Lad Who Had an Eating Match with a Troll, printed later in this book.
 
-What new meaning will you create?
+Find your own public domain imagery — old illustrations, vintage ads, forgotten clip art. Flickr Commons and RawPixel's public domain section are good places to start.
+
+Cut, remix, reinterpret. Build your own version of the tale from what you found.
+
+Fold, staple, or stitch it into a zine.
+
+Your version joins a chain of retellings that already runs through Norway, Asbjørnsen and Moe, a classroom, and now you.
 
 ---
 
-Mickey Mouse, who was introduced in Steamboat Willie, is now in the public domain after 95 years of copyright, allowing anyone in the U.S. to use this version of the character. Disney still protects later versions of Mickey Mouse (each new version is a new unique copyrighted Mickey, the same idea in a new fixed form), but the original cartoon can now be freely utilized! Walt Disney released Steamboat Willie in November 1928. It helped to pioneer synchronized sound in animation and became one of the most acclaimed cartoons made still to this day. Disney has continuously fought to extend its copyright protection for Mickey Mouse and its other creations through government lobbying. In 1976, lawmakers extended protections to last the author's life plus 50 years. In 1998, Disney and other companies secured another extension to 70 years, maxing out at 95 years total.
+Walt Disney released Steamboat Willie in November 1928 — one of the first cartoons with synchronized sound, and still one of the most acclaimed ever made. Mickey Mouse, as he appears in it, entered the public domain in 2024 after 95 years of copyright. Anyone in the US can use this version freely. Later versions of Mickey are separate, newer copyrights, and Disney still protects those.
+
+Disney fought to keep the original protected for most of that century. Lawmakers extended copyright to life of the author plus 50 years in 1976, then to 70 years in 1998 — 95 years total before this version finally lapsed.
 
 ---
 
 What can we take? What does it mean to create with what came before? How do laws shape creativity? Who benefits from them? How do we want to share our own work in the future?
 
-By working within constraints of using only public domain and Creative Commons materials can we gain firsthand experience in navigating the blurry 
-edges of authorship, ownership, and artistic freedom?
+Working only with public domain and Creative Commons material gives firsthand experience of these blurry edges: authorship, ownership, artistic freedom.
 
 Like the ideas in this text?
 You should look into:
@@ -191,28 +167,36 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ### © Copyright?
 
-Copyright is the set of treaties and legal systems that grant creators exclusive rights to their original works—works like books, music, films, artwork, and even zines—preventing others from copying, distributing, or modifying them without permission for a set period of time (typically the death of the author + 70 years in the usa). Once that period expires, the work enters the public domain, where anyone can freely use and remix it. In the collected zines at the end of this document, we engaged with public domain materials: excerpts from Steamboat Willie and Victorian clip art, a Norwegian folktale, and then created  a new piece of cultural production. This raised important questions about copyright: If we reuse public domain imagery, is the new work ours? Yes—because we’ve transformed it into something original! Can we share our work while allowing others to build on it? By using Creative Commons licenses, such as CC-BY-SA, which allows a copyright holder to keep the spirit of remix culture alive. Copyright shapes how culture is created, shared, and controlled, and by working with public domain materials, as well as thinking about how to keep our new cultural production open and reusable, we are reclaiming the commons and adding our own voices to the ongoing conversation.
+Copyright grants creators exclusive rights to their work — books, music, film, art, zines — for a fixed term, currently the life of the author plus 70 years in the US. After that, the work enters the public domain, free for anyone to use.
+
+The zines in this collection worked directly with that boundary: Steamboat Willie stills and Victorian clip art, both public domain, remixed into something new. Transforming existing material into something original creates a new, copyrighted work the moment it's made — owned by whoever made it. We licensed ours CC BY-SA instead of defaulting to full rights: the commons the materials came from gets a contribution back.
 
 ### © Creative Commons?
 
-Creative Commons (CC) is a licensing framework that empowers creators to share their work more liberally in public while retaining certain rights. Unlike traditional copyright, which generally enforces “all rights reserved,” Creative Commons licenses enables individuals to legally reuse, remix, and distribute creative works under specific pre-declared conditions. This is more of a “some rights reserved” scenario. This flexibility fosters a culture of collaboration and innovation, allowing creators to choose how their work is shared. The various CC licenses range from completely open options, like CC0, which places works in the public domain, to more restrictive versions that require attribution or limit commercial use. By offering these diverse choices, Creative Commons provides a pathway for creators to contribute to a richer, more accessible cultural landscape. Choosing the CC-BY-SA license for my new content here and the collected zines in the later section, is significant in promoting a spirit of sharing and collaboration. This license allows others to remix and build upon our work AND also mandates that any derivative creations are shared under the same terms. Creative Commons calls this a “free culture” license. This ensures that future iterations remain open and accessible, perpetuating a cycle of creativity and innovation in cultural production. By licensing the outputs contained here this way, we’re actively participating in the expansion of a design commons and encouraging others to join us in this collaborative effort. In essence, CC-BY-SA reinforces the idea that creativity flourishes best when it is shared and built upon, creating a vibrant community of cultural producers.
+Creative Commons licenses sit between full copyright and the public domain — "some rights reserved" instead of "all rights reserved." A creator keeps ownership but pre-clears specific uses. CC0 releases work into the public domain outright; other CC licenses require attribution, or restrict commercial use, or both.
+
+This collection uses CC BY-SA: reuse and remix freely, but credit the source, and license your version the same way. Anyone who builds on this has to leave the door open behind them too.
 
 ### What Is the Public Domain?
 
-The public domain is a vast collection of creative works — books, music, films, art, folklore, and more — belonging to everyone, meaning they can be freely used, remixed, and shared with no permission required. Works enter the public domain when copyright expires (in Steamboat Willie’s case, 95 years after publication) [more copyright info on pg3], or when a creator explicitly dedicates them to the public (such as through a Creative Commons CC0 license), or when they were never copyrighted in the first place (as is the case with many old folktales). In this workshop, we used public domain materials to tell new stories, demonstrating how new culture is always built on what came before. The public domain is a shared creative commons, ensuring that knowledge, stories, and art remain accessible for future generations to reinterpret, remix, and expand upon.
+Works enter the public domain when copyright expires — 95 years after publication, in Steamboat Willie's case — or when a creator dedicates them to the public outright, or because they were never copyrighted at all, which is true of most old folktales. Once there, no permission is required to use, remix, or share them.
+
+This workshop worked entirely inside that space. The story, the Mickey stills, the Victorian clip art — none of it needed permission. New culture built directly on what came before, in full view.
 
 ### What is this publication?
-This document serves as a collection of materials showcasing the results of a student zine workshop I conducted in January 2025. It brings together the workshop's purpose, methodology, and outputs in a comprehensive overview that examines how students remixed public domain materials - specifically the Norwegian folktale "The Ash Lad Who Had an Eating Match with a Troll" along with newly public domain Steamboat Willie imagery - to create unique zine publications.
+This document collects the results of a student zine workshop I ran in January 2025: the workshop's purpose and method, an explanation of the copyright and public domain ideas behind it, and the thirteen zines students produced remixing The Ash Lad Who Had an Eating Match with a Troll and newly public domain Steamboat Willie imagery.
 
-The document contains explanations of the workshop process, the conceptual frameworks we explored (including copyright, public domain, and remix culture), and presents the 13 distinct zines produced by participants. This serves as both documentation of the class activity and a reflection on how creative constraints can foster unique interpretations of shared cultural materials.
-
-This collection is intended as a companion piece to my previous publication Bjorn Means Clipart which contains a contextual essay about copyright; some additional thoughts; and the original sourced pulbic domain visual materials and instructional content used in the workshop.
+It's a companion to an earlier publication, Bjorn Means Clipart, which has a longer essay on copyright plus the original public domain source materials and instructions used in this workshop.
 
 ### What Is Open Source?
-Open source refers to projects — whether software, design, or creative works — where the original material is publicly available for anyone to use, modify, and share. Unlike the public domain, where works have no owner, open-source projects remain under a creator’s rights but are shared with conditions, often requiring credit or that improvements remain open. Open-source culture thrives on collaboration, transparency, and remixing, with examples like Linux, Wikipedia, and open-source typefaces. In this zine workshop, we’re not just reusing public domain materials, we’re also contributing to open culture by licensing our creations under Creative Commons (CC-BY-SA) so others can build on them too! This is Open Source Design.
+Open source describes projects — software, design, creative work — where the source material is public and anyone can use, modify, and share it. Unlike the public domain, the work still has an owner; sharing comes with conditions, usually credit, sometimes a requirement that improvements stay open. Linux, Wikipedia, and most open-source typefaces work this way.
+
+This workshop does the same thing with public domain material: licensing the results CC BY-SA so the remix stays remixable. This is Open Source Design.
 
 ### Producing Culture / Cultural Production
-Cultural production encompasses the processes involved in creating and sharing various forms of creative expression—ranging from literature and film to visual art, music, and digital media—that shape our understanding of the world. This dynamic process is inherently fluid, as culture continually evolves, with each new creation building upon the foundation laid by previous works. It reflects both individual creativity and collective contributions, where artists, writers, and designers come together with communities and cultural movements to express shared narratives and values. Additionally, cultural production is influenced by historical context and technological advancements, which impact the tools and mediums available for creation. In our workshop, by remixing public domain materials and producing new zines, we engage in this ongoing cultural dialogue. Our work highlights important questions about ownership and accessibility in culture: who has the right to remix and share? Ultimately, through this project, we contribute to a broader, evolving conversation, asserting our roles in shaping and redefining culture for future generations.
+Cultural production is the making and sharing of creative work — literature, film, art, music, design — building on what came before it. No one starts from nothing.
+
+This workshop is one example: take existing material, public domain, and add a new layer to it. The real question of ownership in culture is who gets to keep telling the story next.
 
 ---
 
