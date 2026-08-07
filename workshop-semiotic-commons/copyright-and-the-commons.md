@@ -4,19 +4,31 @@
 
 ---
 
+## The Myth of the Author
+
+Once upon a time, in the golden age of creation, there was an island called Originis. Legend said this island was home to a rare and extraordinary magical being — the Author. It was whispered that they were chosen by the Muses and blessed with divine inspiration to craft ideas from thin air and shape them into extraordinary works of art.
+
+On Originis, the Author lived alone, high in a tower, their thoughts untouched by the world, untainted by the voices of others. When inspiration struck, it was as if lightning descended from the heavens, and with a single stroke of their pen, the Author would bring forth creations so unique, so original, that they shimmered with an otherworldly light. The people of the surrounding lands revered these creations. They built walls around Originis to preserve its purity, and passed laws to protect the fruits of the Author’s labor for generations after their death.
+
+But like all myths, this one concealed a truth far more complex. The Author’s tower was never actually isolated. Beneath its foundations ran deep rivers of shared knowledge, carrying the echoes of generations past — the storytellers of old, the whispers of nature, the collective dreams of the world beyond the walls. The creations were never the result of solitary genius. They were the work of a vast, interconnected web of inspiration, once that is known the myth of the Author began to crumble.
+
+The opposite myth is just as tempting, and just as false: a commons with no walls at all, where everything is free and nothing needs protecting — no mine, no yours, only ours. That’s not how it works either. Reality lives in the gray area between the two: protected enough to be worth making, open enough to be worth sharing.
+
+---
+
+Temporary hold as above is revised
+
 ## Two Myths
 
 **The Myth of the Author**
 
 In the land of creativity lived the authors — magical beings who could pull original creations down out of the aether and give them form. Authors protected their creations by locking them away in towers, like Rapunzel. Only through extreme offering and sacrifice would they grant permission to access what they’d made.
 
-Authors were such powerful magicians that even death didn’t immediately break the spell. It took seventy years for the magic to fade, the towers to crumble, and the creations to finally enter the world. Authors, naturally, kept looking for ways to extend the spell and keep their creations forever.
+Authors had such powerful magic that even death didn’t immediately break the protection spells. It took seventy years for the magic to fade, the towers to crumble, and the creations to finally freely enter the world. Authors, naturally, kept looking for ways to extend the spell and keep their creations forever.
 
 **The Myth of the Commons**
 
-In the beginning, culture was free. The land brimmed with possibility, and there existed a place called the commons.
-
-The commons was no ordinary place. Within it, all knowledge, all resources, all innovation flowed freely, unencumbered by walls or gates or protections of any kind. Anyone could take what they needed, build on what they found, and give their creations back so others could do the same. Harmony and abundance reigned. There was no mine, no yours — only ours.
+In the beginning, there existed a place called the commons. The commons was no ordinary place. The land brimmed with possibility. Within it, all knowledge, all resources, all innovation flowed freely, unencumbered by walls or gates or protections of any kind. Anyone could take what they needed, build on what they found, and give their creations back so others could do the same. Harmony and abundance reigned. There was no mine, no yours — only ours.
 
 Both stories capture a binary: things are either protected, or free for anyone to use. That binary is fake. In practice, making things happens in the gray area in between.
 
