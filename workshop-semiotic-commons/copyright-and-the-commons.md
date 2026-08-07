@@ -18,24 +18,6 @@ The opposite myth is just as tempting, and just as false: a commons with no wall
 
 ---
 
-Temporary hold as above is revised
-
-## Two Myths
-
-**The Myth of the Author**
-
-In the land of creativity lived the authors — magical beings who could pull original creations down out of the aether and give them form. Authors protected their creations by locking them away in towers, like Rapunzel. Only through extreme offering and sacrifice would they grant permission to access what they’d made.
-
-Authors had such powerful magic that even death didn’t immediately break the protection spells. It took seventy years for the magic to fade, the towers to crumble, and the creations to finally freely enter the world. Authors, naturally, kept looking for ways to extend the spell and keep their creations forever.
-
-**The Myth of the Commons**
-
-In the beginning, there existed a place called the commons. The commons was no ordinary place. The land brimmed with possibility. Within it, all knowledge, all resources, all innovation flowed freely, unencumbered by walls or gates or protections of any kind. Anyone could take what they needed, build on what they found, and give their creations back so others could do the same. Harmony and abundance reigned. There was no mine, no yours — only ours.
-
-Both stories capture a binary: things are either protected, or free for anyone to use. That binary is fake. In practice, making things happens in the gray area in between.
-
----
-
 ## Copyright, Briefly
 
 Copyright started in England in 1710. The word “author” meant someone who writes, but it now covers anyone who makes anything — a photograph, a song, a graphic design.
