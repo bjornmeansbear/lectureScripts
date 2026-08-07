@@ -53,18 +53,18 @@ We learn about widening our toolbox; we learn about some basics of Git/Github wh
 
 ## Fee
 
-$2,000–$3,000 plus travel and materials. Single-day version available — lecture only, no build.
+Weekend workshop. $2,000–$3,000 plus travel and materials. Single-day version available — lecture only, we can figure out what is doable in a single session.
 
 ---
 
 ## Prior versions
 
 - MICA, spring 2018 — *Special Topics in Graphic Design: Open Source* (GD399.01), a full semester course, half seminar/half studio. Real, tested outcomes: students worked in F/LOSS tools all term, posted files to GitHub, used issue queues for critique, and collaborated with MICA's library on real print and signage materials using public-domain archive images. This is the richest and most tested source for this workshop — see `Why Libre Design.txt` in this folder.
-- Presented as a paper at AIGA's MAKE Design Educators Conference, Herron School of Art + Design, June 2018 — see `MAKE submission Open Source Design.txt` and `Lucas Grant Spring 2018.txt` in this folder (grant application for conference travel).
+- Presented as a paper at AIGA's MAKE Design Educators Conference, Herron School of Art + Design, June 2018 — see `MAKE submission Open Source Design.txt`.
 - MICA GD Summer Camp, July 2020 — "The Libre Designer," livestreamed lecture/demo with EtherPad notes. Q&A and discussion, no structured making exercise. See `theLibreDesigner.md` in the repo root.
-- "A New Design Commons" — evolved talk, written up around 2022 while the Adobe/Figma acquisition was live, unfolding news. (That deal has since fallen apart — blocked by EU/UK antitrust regulators, mutually terminated December 2023. The underlying point outlives the one deal: ownership was never guaranteed in the first place.) See `NDC lecture script.txt` in this folder.
+- "A New Design Commons" — evolved talk, written up around 2022 for AIGA Surface Conference while the Adobe/Figma acquisition was live, unfolding news. (That deal has since fallen apart — blocked by EU/UK antitrust regulators, mutually terminated December 2023. The underlying point outlives the one deal: ownership was never guaranteed in the first place.) See `NDC lecture script.txt` in this folder.
 - Published as a case study on a.wjerk.shop, synthesizing all of the above — see `case-study-libre-designer.html` in the `a.wjerk.shop` repo, or [live](https://a.wjerk.shop/case-study-libre-designer.html).
-- The two-day structure here (build, then critique via issue queue, then publish) is adapted directly from the real semester course's methods — closer to tested than the other new drafts on this menu, though it's never been run as a standalone two-day workshop specifically.
+- The two-day structure here (build, then critique via issue queue, then publish) is adapted directly from the real semester course's methods — semi-tested, though it's never been run as a standalone two-day workshop.
 
 ---
 

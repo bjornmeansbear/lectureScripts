@@ -1,0 +1,75 @@
+Open Source Design. 
+Towards A Libre Designer?
+
+1. Me/Intro? — 1 minute
+
+2. Info on presentation makeup — 1 minute
+	- uses libra fonts, tools, imagery
+	- is a video to make time more apparent to me, but also to better show the "making" itself
+	- trying to present on my little pi here too...
+
+3. class background? — 2 minutes
+	- Crossland
+	- OSP visit
+	- just seemed topically right, in the aether
+	- makeup of class plan...
+
+4. History/Plans? — 4 minutes
+(Pragmatics?)
+	- differing views/, but all offshoot from same place, share methods
+	- The four freedoms
+	- these lead one to sharing more, brings back a more vernacular model of creation
+	- Braithwaite > Raymond > Linus
+	- So designers should figure out how to share more
+	- we tried github and github issues to help with this from our class perspective... we also decided to share all of our classroom discussion. Some interesting things came out of this, but I didn't make this a focus, I was more concerned w/ making with the tools & what I found out about the founding ideology of F/LOS — the free/libre parts
+	- Chris/John, typefaces...
+
+5. Critical Software » Critical Design? - 5 minutes
+	- Stallman
+	- super fast xerox story
+	- feels that the 4 freedoms are ethical, and if you aren't making software this way you are infringing on your fellow human beings rights.
+	- This is oppositional software — software offering an alternative to reigning techno-capitalism. 
+		- to extend Dunne and Raby's theses — if designers can/should make designs that critique the status quo and offer alternatives, wouldn't making those critical designs with critical software be correct?
+		- Also! if you are a socially conscious designer, the original underpinnings of F/LOS might mean that F/LOSS tools ethics match yours!
+			- side note: Counter culture 60s/70s socially concious designers used some related methods like Papaneks Nomadic Furniture, or Enzo Maris autoprogettazione? — these are share and share a like designs meant to better the world around them.
+	 - Devin/Calvin open engagement?
+
+6. Okay! so those are some conceptual reasons: — 1 minute
+	- share more, collaborate more, distribute more — designs can be better, faster, help more people, and potentially fill more nitches (because they can be customized for special use cases)
+	- if you care deeply about similar things as stallman — not limiting other human's freedoms, etc. then you might want tools that believe the same things.
+	- applied to projects outside of class, applied to some work we did for the library (using their own resources to make new things), and applied to this book we produced...
+
+7. Other talking points — 5 minutes max!
+
+- 	- successes
+		* more options for tools! stuff that just doesn't exist, at least in adobe CC or autodesk that I've seen (spiro, node box)
+		* Fun!
+		* a few real legit making days (illustration day, Book making last day)
+		* interface "goodness" is based on familiarity, good for help empathizing with users? audience?
+		* the content and class make up was really good for discussion — I don't know if that was just luck, or a success of the class
+		* The course really influenced making outside of the class as well in ways I hadn't seen before
+
+	- barriers
+		* there are so many bloody things
+		* hard to figure out what to download
+		* finding them all and getting them to work
+		* accessing the knowledge
+		* being a designer, not a developer
+		* accessing, etc. different initially for everything
+		* lazy/frustration on student part
+		* communities inherently biased
+		* in my case, school computers weren't able to have the stuff installed
+		
+	- opportunities
+		* classroom upkeep can be less
+		* more kinds of tools for making
+		* open file formats can go more places
+		* sharing in the F/LOS way good for teaching
+			* might opening up fonts and messing with them be useful type wise?
+			* might inspecting layouts be useful from early GD class wise/publication wise?
+		* There is some accountability...
+
+8. The next time you go looking for F/LOS design and quickly find fonts, icons, templates, stock images and illustrations, and frameworks ask yourself: Is this all that F/LOS design means? Is that really all that’s possible? F/LOS offers up a pragmatic approach based on reviving how we as humans previously created socio-cultural artifacts; and a critical approach intentionally positioning itself in opposition to mainstream moderno-techno-capitalism. Those design “objects” that might help make more designs are the pragmatic side of things. The main outcome of our class it turns out is in trying to now populate the ideological e.
+
+
+

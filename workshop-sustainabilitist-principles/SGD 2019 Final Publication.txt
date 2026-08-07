@@ -1,0 +1,30 @@
+SGD 2019 Final Publication.
+
+We should probably just use jekyll as the static site generator: it will just work on Github easily w/ no additional tools or servers or CDNs, etc
+- https://jekyllrb.com/
+
+(cms overlays for jekyll/static sites? https://www.siteleaf.com/, https://forestry.io/, https://cloudcannon.com/ )
+
+If you need more info about markdown here are some resources:
+- https://guides.github.com/features/mastering-markdown/
+- https://blog.ghost.org/markdown/
+- https://daringfireball.net/projects/markdown/
+
+»»»»»»
+
+Here's what to include in our "write ups" to start -- you can add whatever else you think is useful/necessary for your project.
+
+- Why did you pick this project to improve?
+- what were you trying to sustainabilitize?
+- how did you go about analyzing your project for possibilities?
+- what questions did you ask? (what did you keep asking as the project progressed?)
+- where did you look for answers?
+- what did you learn?
+- what resources did you find?
+- what do you know now that would have made your life easier at the beginning? (or what things that you figured out would be good to have given yourself when you were a first year or sophomore?)
+- what other projects or examples did you look at for inspiration?
+- any images or in process examples you can provide?
+- if you're finishing the project; can you provide final documentation?
+
+Beyond the sustainabilitize a project write ups, what else do you want to tell your peers? what else should we include? 
+

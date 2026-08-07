@@ -1,0 +1,57 @@
+Open Source Design
+Class ideas
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+From Karen:
+
+- Blender, it's 3D animation software. I tried learning it once for a like a month and the learning curve was so high i gave up quite quickly. It's a really interesting project though funded by the Dutch government, who are invested in working with/for artists
+   - https://code.blender.org/2013/10/redefining-blender/
+   - https://www.blender.org/about/projects/ <-- they sponsor full length movies used with the software
+
+- My favorite open source software logo
+   - https://blog.golang.org/gopher
+
+- Linux foundation, it's kind of dry but the linux foundation has these open source guides that talk about open source in a really from-the-ground-up way
+   - https://www.linuxfoundation.org/resources/open-source-guides/
+
+Fun exercises I could think of from my adventures in FOSS...
+   - set up gpg encryption
+   - contribute an open source logo
+   - setting up IRC
+   - contributing to openstreetmap, wikipedia, mapillary
+   - finding/using open source alternatives to software you use every day like music players, email clie`	nt
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+Speakers/Interviews/Presentations
+
+— GarthDB
+— Dave Crossland
+— Karen Shea
+— Sian Evans (and she recommended someone else too)
+
+jon gold
+
+»»»»»»»»»»»»»
+
+‘Common Sense’ | Opendesk x Machines Room x Greenpeace UK
+https://vimeo.com/170454874
+
+http://www.opendesk.cc/blog/common-sense-an-online-documentary
+
+»»»»»»»»»»»»»
+
+The plan/concept for the class is as follows:
+— Investigate and use available open source design tools — gimp, inkscape, blender, scribus, drawbot, fontforge, etc. This also includes open/libre fonts, as well as OSs (different flavors of linux?). My main constraint is that for anything made in/for the class we use open source tools to do it — this means no Creative Suite! Through our investigations we'll then analyze the pros/cons of these tools and how a designer might start using them/participating in their communities/etc.
+
+— Explore open source ideals.
+
+— Interviews/Discussions/Lectures w/ open source dignitaries
+
+— The main project: do a bunch of things and then turn it into a book that we make w/ the tools and ideas we've uncovered...
+
+»»»»»»»»»»»
+
+https://github.com/ubuwaits/open
+http://chad.is/open/

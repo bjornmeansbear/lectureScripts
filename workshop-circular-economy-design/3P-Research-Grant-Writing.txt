@@ -1,0 +1,48 @@
+Research Grant Writing
+
+# Portable Plastic Processing
+
+## Project Abstract (750 characters > 150wds?)
+I am working on the construction of a plastic processing workshop to do several things:
+
+- Act as immersive environment to teach about plastics, its recyclability, durability and positive and negative aspects
+- An example of small-scale manufacturing opportunities
+- New materials for artistic practice
+
+The goal is to build a plastic melting oven, a plastic grinder, a plastic extrusion machine, and a plastic mold press that will all fit in a small, transportable footprint. 
+
+This is meant to be an educational tool as much as a tool for my own production. It is first and foremost a fun way to engage an audience on the current issues of plastic proliferation throughout all corners of the world.
+
+Different kinds of plastics, why they are good/bad, why they are such a waste problem once out in the world, and why if we can capture them and reuse them on a local level that is such a great improvement...
+
+Opportunities for small scale production, mostly free raw materials... Community action not Neo-liberal capitalist action...
+
+## Please outline your participation in the proposed activity. (750 characters  > 150wds?)
+
+I am collaborating on constructing the machines, and will be leading workshops and partnerships once the tools are finished. I have plans for functional and sculptural works to be made. 
+
+## Describe the proposed activity’s contribution to your field of scholarly research or creative practice. (750 Characters)
+
+I am researching Sustainable Design. Particularly I am interested in this idea that nature creates no waste: any “waste” from one natural process is always “food” for the next. So, how might “waste = food” become a more useful design prompt — and how is that clearly visualized as an opportunity for others? I am looking for interesting ways that waste plastic can become food for new design ideas. Both, what in a more pure "graphic design" practice can be made with recycled plastic? (How does machinery act as a sign signaling sustainability? Can I cast type for letterpress out of HDPE? Etc.) and also where in larger design processes like object production can we fit recycled plastics more readily? And the machinery itself: The design and construction of the fabrication machinery is the main "art project" — the tools are meant to be signs signaling sustainability; showing a different path, a different way of interacting with and understanding plastics and our contemporary culture of waste as just waste to send "away."
+
+## Provide a brief work plan describing what you will accomplish through the use of grant funds. Outline your method(s) and clarify the part or stage of the activity that will be supported by the grant. (750 Characters)
+
+The grant funds are meant to help finish production of machinery required to grind, melt, and mold plastics. We are also taking the ideas from an open source community, Precious Plastics, who provide advice and plans for building plastic recycling workshops. The plan for the version of machines this grant will help fund are to make them more portable, everything is designed to be moved, so that the "workshop" can easily be brought to others — community groups, classes/studios, etc. — to be more useful as teaching and collaborating tools. The grant funds will specifically help purchase the parts to build a plastic extruder, but will also help cover the cost of the melting oven and plastic grinder already under construction. Where possible, found and reused parts and materials will be sourced so that the machinery embodies the same ideals as the project as whole. 
+
+## Explain the outcomes of the proposed activity/project. Do these outcomes have local impact and/or national/international visibility? (750 Characters)
+
+The outcomes for sure have a local impact, but through dissemination on social media and collaborating across the internet they should have a much larger visibility. The main goal is to have a plastic object making workshop that can be partially used for stream and bay cleanups to on site recycled recovered plastics during those kinds of events. Our workshop is in "Union Collective", the home of union brewing.
+
+## In what ways does this project represent a unique or original idea or practice? In what ways does it represent a revisioning or expansion of your research or artistic practice? (750 Characters)
+
+>>>
+
+Plastics are everywhere. With the discussions around bag bans, zero-waste, and the pending climate crisis, discussion of reuse and recycling are everywhere — yet most plastics, while very recyclable, ever end up being recycled. In my research I have found that part of this problem stems from the complexity of plastics: there are so many types good for different applications and no useful information dissemination or training to help people understand; part of the issue is our contemporary single stream recycling system; and part lies in there being no "local" solutions for plastic recovery and reuse. This project aims to tackle all of these.
+
+1. Knowledge Dissemenation.
+Taming plastic complexity: There are different types of plastic, but the system we have in the US only meanifully distinguishes 6 types (the recycling arrows you might normally see on a plastic container are <1> – <7> -- but 7 means "other" and unless accompanied by a "PLA", means it is bascially just marked trash in the USA. #7 PLA is compostable, but that is knowledge you have to be shown/learn, it is not easily dissernable from just seeing the 7 recycling symbol... As part of collecting plastic for reuse and producing objects, I aim to also discuss the how's and why's and what's around plastic and what is and isn't recyclable, etc. I also want to think about how else the information can be taught/dissemenated — more icons? video stories? Door to door discussion?
+
+2. Single Stream Recycling.
+Almost every kind of plastic can be melted down and used to mold new objects with, but only if they are kept separated and pure. Single stream recycling systems make collection simpler, but make plastic reuse way more complicated. My initial plan is to mainly work with #2 HDPE plastic, so part of this will be finding ways to get friends and colleagues to sort their plastics into #2 and then the rest so I can easily get just the HDPE I desire.
+
+3. 
