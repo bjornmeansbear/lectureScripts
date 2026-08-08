@@ -6,9 +6,9 @@
 
 ## The pitch
 
-Every ideology, genuinely worked through, finds its own authentic form. Type, layout, material — these aren’t decisions applied on top of an idea, they’re what the idea looks like once it’s actually been thought through. Innovators from past design movements are remembered for novel visuals because they arrived at those visuals by working through new ideological territory first, not because they were chasing a new look.
+Every ideology, genuinely worked through and explored, finds its authentic form. Type, layout, material — these aren’t decisions applied on top of an idea, they’re what the idea looks like once it’s actually been thought through. Novel Visuals from past design movement innovators are remembered because they arrived at those visuals by working through new ideological territory, not because they were just chasing a new look.
 
-Students design the same piece of content twice, once under each of two opposing ideologies. Then the group swaps pieces and tries to guess, from form alone, which ideology produced which — no titles, no artist statements. If people can’t tell, that’s data: the ideology never actually made it into the form, it just stayed something said about the piece afterward.
+Students design the same piece of content twice, once under each of two opposing ideologies. Then the group swaps pieces and tries to guess, from formal choices alone, which ideology produced which — no titles, no artist statements. If people can’t tell, that’s data: the ideology never actually made it into the form.
 
 ---
 
@@ -16,15 +16,15 @@ Students design the same piece of content twice, once under each of two opposing
 
 Short lecture: how ideology has actually shown up in form across design movements — constructivism, the Bauhaus, brutalism, punk, corporate modernism, vernacular and ecological design — read as a chain of positions each responding to and rejecting the one before it, not just a sequence of looks. Christopher Alexander's idea of "formal fit," from *Notes on the Synthesis of Form*: a design is a direct response to the forces acting on it, and the form itself is evidence of that analysis, whether or not anyone did it consciously.
 
-Warm-up: replicate a known ideology’s known look — make something that unmistakably reads “Bauhaus,” or “brutalist,” or “punk,” fast, in twenty minutes. This isn’t the real exercise. It’s copying an answer that already exists, and it’s meant to make the ideology-produces-form mapping viscerally obvious before anyone has to generate one from nothing.
+Warm-up: replicate a known ideology’s aesthetic style — make something that unmistakably reads “Bauhaus,” or “brutalist,” or “punk,” fast, in twenty minutes. This isn’t the real exercise. It’s copying an answer that already exists, and it’s meant to make the ideology-produces-form mapping viscerally obvious before anyone has to generate one from nothing. (Formal Encrustation!)
 
-Assignment: each student (or pair) gets one piece of neutral content — a short text, a simple object brief, a message — and two assigned ideologies, ideally opposed to each other (ecological vs. consumerist, collectivist vs. individualist, brutalist vs. ornamental, whatever the group generates), with no established look to copy this time. Anyone who doesn't want to pick can pull a random pair instead — worth building a tiny tool for this, the same instinct as the workshop's other small custom tools: a page that just spits out two opposed ideologies on a click. Each student also picks the artifact type their two versions will take — poster, zine, billboard, packaging, whatever fits — and keeps that type constant across both versions. The ideology should be the only thing that changes; if the object type changes too, the blind test on Day Two ends up testing genre recognition instead of ideology in form. Start designing the first version — this time, there’s no answer to copy from.
+Assignment: each student (or pair) gets one piece of neutral content (Does everyone just get the same inert content?) — a short text, a simple object brief, a message — and two assigned ideologies, ideally opposed to each other (ecological vs. consumerist, collectivist vs. individualist, brutalist vs. ornamental, whatever the group generates), with no established look to copy this time. Anyone who doesn't want to pick can pull a random pair instead — worth building a tiny tool for this, the same instinct as the workshop's other small custom tools: a page that just spits out two opposed ideologies on a click. Each student also picks the artifact type their two versions will take — poster, zine, billboard, packaging, whatever fits — the artifact should relate to the ideology too.
 
-## Day two — the blind test
+## Day two — a blind test
 
-Finish the second version, under the opposing ideology. Day one’s replication warm-up already proved the mapping is legible when the ideology already has a known look. Today tests whether it’s still legible when the look has to be found from scratch.
+Finish your first and now the second version, under the opposing ideology.
 
-Before any discussion, swap both pieces from each pair with another pair — no names, no labels, no explanation — and have them guess which ideology drove which piece, and articulate what in the form led them there.
+Before any discussion, swap both pieces with another student's pair — no names, no labels, no explanation — and have them guess which ideology drove which piece, and articulate what in the form led them there.
 
 Reveal and discuss the misses, which are more useful than the hits: where did an ideology fail to become legible in form, and just stay a stated intention? Close with the harder questions this always raises — is ideology just style? When a form gets copied without the belief that produced it, does the ideology survive, or is what's left just decoration? What would "ideological bankruptcy" in a piece of design actually look like?
 
@@ -36,14 +36,14 @@ Undergraduate studio, any level — works especially well in typography, brandin
 
 ## What they leave with
 
-Two finished pieces of identical content in opposing ideological registers, same artifact type for both. A tested, specific answer — for their own work, not just in theory — to whether ideology actually reads in form or only in the words around it. Working vocabulary (form, content, context, formal fit, ideological bankruptcy) for critiquing design ideologically going forward, not just aesthetically.
+- Two finished pieces of identical content in opposing ideological registers. 
+- Working vocabulary (form, content, context, formal fit, ideological bankruptcy) for critiquing design ideologically going forward, not just aesthetically.
 
 ## What you need
 
 - Two days
-- A standard studio or classroom — no special equipment required, unlike some of the other workshops on this menu
+- A standard studio or classroom — no special equipment required, other than basic output tools… unlike some of the other workshops on this menu
 - Whatever design tools the group already uses; this works in any medium, digital or analog
-- A way to swap and anonymize pieces for the blind-test critique (physical shuffle, or a shared folder someone else labels)
 
 ## Fee
 
