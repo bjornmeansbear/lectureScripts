@@ -8,7 +8,7 @@
 
 ## The pitch
 
-In 2009, working through a crisis of "what does sustainable design actually look like," the answer turned out not to be another poster: found paperback books, screen-printed with definitions, connected by embroidery floss cut to the longest reusable length. A manifesto you could hang on a wall, built entirely from what was already at hand.
+In 2009, working through a crisis of "what does sustainable design actually look like," the answer turned out not to be just another poster: found paperback books, screen-printed with definitions, connected by embroidery floss cut to the longest reusable length. A manifesto you could hang on a wall, built entirely from what was already at hand. It was a sculpture as poster; it did waht a poster was supposed to do, but did it with materials that could go back to being themselves once the poster's posting was over.
 
 Students don't read a manifesto about the future of design. They build one — a physical, modular object made from found materials, embodying a principle they choose or write themselves, joining a growing collective installation by the end of the workshop.
 
