@@ -18,7 +18,7 @@ Students design the same piece of content twice, once under each of two opposing
 
 Short lecture: how ideology has actually shown up in form across design movements — constructivism, the Bauhaus, brutalism, punk, corporate modernism, vernacular and ecological design — read as a chain of positions each responding to and rejecting the one before it, not just a sequence of looks. Christopher Alexander's idea of "formal fit," from *Notes on the Synthesis of Form*: a design is a direct response to the forces acting on it, and the form itself is evidence of that analysis, whether or not anyone did it consciously.
 
-Assignment: each student (or pair) gets one piece of neutral content — a short text, a simple object brief, a message — and two assigned ideologies, ideally opposed to each other (chosen from a provided list, or self-selected pairs: ecological vs. consumerist, collectivist vs. individualist, brutalist vs. ornamental, whatever the group generates). Start designing the first version.
+Assignment: each student (or pair) gets one piece of neutral content — a short text, a simple object brief, a message — and two assigned ideologies, ideally opposed to each other (chosen from a provided list, or self-selected pairs: ecological vs. consumerist, collectivist vs. individualist, brutalist vs. ornamental, whatever the group generates). Start designing the first version. (oh, maybe this is another chance to make a little tool, something that just pulls 2 aeshtetic styles/ideologies at random...)
 
 ## Day two — the blind test
 
@@ -30,15 +30,17 @@ Reveal and discuss the misses, which are more useful than the hits: where did an
 
 ## Who it's for
 
-Undergraduate studio, any level — works especially well in typography, branding, or identity courses where "form vs. content" is already part of the vocabulary. Graduate seminar. 12–20 students.
+Undergraduate studio, any level — works especially well in typography, branding, or identity courses where "form vs. content" is already part of the vocabulary. Graduate seminar — maybe graduate students already working with thesis ideas, this is a way to explore specific visual formal styles that might improve/take away from their ideas/direction. 12–20 students.
 
 ## What they leave with
 
 Two finished pieces of identical content in opposing ideological registers. A tested, specific answer — for their own work, not just in theory — to whether ideology actually reads in form or only in the words around it. Working vocabulary (form, content, context, formal fit, ideological bankruptcy) for critiquing design ideologically going forward, not just aesthetically.
 
+Does this need a specific poster size/constraint? just make ANY designed form, that's part of the ideological angle, a punk thing is a zine, a commercial thing is a billboard?
+
 ## What you need
 
-- Two full days
+- Two days
 - A standard studio or classroom — no special equipment required, unlike some of the other workshops on this menu
 - Whatever design tools the group already uses; this works in any medium, digital or analog
 - A way to swap and anonymize pieces for the blind-test critique (physical shuffle, or a shared folder someone else labels)
@@ -46,6 +48,8 @@ Two finished pieces of identical content in opposing ideological registers. A te
 ## Fee
 
 $2,000–$3,000 plus travel and materials. Single-day version available — history lecture and a shorter one-ideology version of the exercise, no blind-test round.
+
+this can be turned into a single day sprint if speed is required! fee adjusts accordingly.
 
 ---
 
