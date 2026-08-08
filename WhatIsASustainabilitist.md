@@ -28,7 +28,7 @@ This will be part revisionist history, part utopian speculation.
 
 ## Free/Libre Design Explorations
 
-## Situationist Lamps
+## Spontaenous Lamps
 
 ## A Permaculture Garden
 
