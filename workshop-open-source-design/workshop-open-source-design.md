@@ -8,31 +8,31 @@
 
 ## The pitch
 
-The libre designer is a utopian character — a way of working where nothing you depend on can be locked away from you. Free and libre open source tools, openly licensed fonts and images, and a design practice built on the same logic that's always driven culture: copy, improve, share back.
+The libre designer is a utopian character — a way of working where nothing you depend on can be locked away from you. Free and libre open source tools, openly licensed fonts and images, and a design practice built on the same logic that's always driven culture: copy, improve, share.
 
-Students build something real using only F/LOSS tools and openly licensed material, post their work-in-progress files publicly instead of privately, and give and receive real critique through the files themselves — the way open source communities actually work, not the way design studios usually do.
+Students design something real using only F/LOSS tools and openly licensed material, post their work-in-progress files publicly instead of privately, and give and receive real critique through the files themselves — the way open source communities actually work, not the way design studios usually do.
 
 ---
 
 ## Day one — enclosure and precedent
 
-Short lecture: why rented tools are a risk, not an inconvenience. Adobe cut off Venezuela's Creative Cloud access in 2019 to comply with US sanctions — paying the rent wasn't enough to guarantee access. "Libre," not "free" — the point was never to give design away for nothing, it's to not be locked into a tool, format, or ecosystem you can't get back out of.
+Short lecture: why "rented" tools are a risk, not an inconvenience. Adobe cut off Venezuela's Creative Cloud access in 2019 to comply with US sanctions — paying the rent wasn't enough to guarantee access. "Libre," not "free" — the point was never to give design away for nothing, it's to not be locked into a tool, format, or ecosystem you can't get back out of.
 
 The origin story, told straight: this material comes out of a real MICA course, *Special Topics in Graphic Design: Open Source* (GD399.01, spring 2018), which started because three things happened in close succession — David Crossland visited to show off new open-source variable type from Google Fonts, and Loraine Furter and Eric Schrijver of Open Source Publishing ran two workshops on campus the same year, one on public domain resources and one on customizing open source fonts. "One too many coincidences."
 
-A second origin story, design-specific: Donald Knuth's *The Art of Computer Programming* was beautifully hand-set in metal type for its first edition. The photo-typeset proofs for the second edition were so bad they offended him — so instead of accepting them, he wrote his own typesetting program. That was TeX, started in 1978 and still in use today. Alongside it he built Metafont: one master set of instructions capable of drawing an entire family of typefaces, decades before "variable fonts" were a term anyone used. (Dexter Sinister built a logotype that redraws itself live using Metafont's own instructions — worth pulling up as a visual.) Knuth gave both away, on the belief that ideas put into the world stop being anyone's private property. He predates "free" or "libre" or "open source" as words, but the impulse is the same one driving everything else in this lecture — and it starts from a typesetting problem, not a programming one, which is exactly why it belongs in a design classroom.
+A second origin story, design-specific: Donald Knuth's *The Art of Computer Programming* was beautifully hand-set in metal type for its first edition. The photo-typeset proofs for the second edition were so bad they offended him — so instead of accepting them, he wrote his own typesetting program. That was TeX, started in 1978 and still in use today. Alongside it he built Metafont: one master set of instructions capable of drawing an entire family of typefaces, decades before "variable fonts" were a term anyone used. (Dexter Sinister built a logotype that redraws itself live using Metafont's own instructions — worth pulling up as a visual.) Knuth gave both away, on the belief that ideas put into the world stop being anyone's private property. He predates "free" or "libre" or "open source", but the impulse is the same one driving everything else in this lecture — and it starts from a typesetting problem, not a programming one, which is exactly why it belongs in a design classroom.
 
-Then the case that this isn't new or fringe more broadly: Stewart Brand's vernacular architecture (*How Buildings Learn*), Stallman's Four Freedoms and the GNU story, Eric Raymond's *The Cathedral and the Bazaar* and "Linus's Law" — given enough eyes, all bugs are shallow — and Garth Braithwaite's Open Source Design Manifesto. (Worth naming directly rather than dodging: Stallman himself has made misogynistic and otherwise indefensible comments in recent years. Focus the lecture on the ideas — Four Freedoms, the Xerox printer story — not a defense of the man.)
+Then the case that this isn't new or fringe more broadly: Stewart Brand's vernacular architecture (*How Buildings Learn*), Stallman's Four Freedoms and the GNU story, Eric Raymond's *The Cathedral and the Bazaar* and "Linus's Law" — given enough eyes, all bugs are shallow — and Garth Braithwaite's Open Source Design Manifesto. (Worth naming directly: Stallman himself has made misogynistic and otherwise indefensible comments in recent years. Focus the lecture on the ideas — Four Freedoms, the Xerox printer story — and what that has since inspired and led to — not a defense of the man.)
 
-Students pick a tool stack — Inkscape, GIMP, Blender, Scribus, or something with no proprietary equivalent at all, like Nodebox or Drawbot — and start building, using only openly licensed fonts and imagery. Work-in-progress files go up on a shared GitHub repo (or equivalent) immediately, not at the end.
+Students pick a tool/stack — Inkscape, GIMP, Blender, Scribus, HTML/CSS, or something with no proprietary equivalent at all, like Processing or Nodebox or Drawbot — and start building, using only openly licensed fonts and imagery. Work-in-progress files go up on a shared GitHub repo (or equivalent) immediately, not at the end.
 
 ## Day two — the issue queue
 
-Instead of a normal critique, students open issues against each other's files — the way open source projects surface problems — and try to actually fix something in someone else's project, not just comment on it. This was the real class's method, and it was harder than expected: surface feedback (a question, a screenshot, "this isn't working") came easily; actually opening someone else's files and understanding their decisions well enough to fix something took real time, and only a few people in any group tend to do it. Naming that difficulty up front is part of the lesson.
+Instead of a normal critique, students open issues against each other's files — the way open source projects surface problems — and try to actually fix something in someone else's project, not just comment on it. This was the real class's method, and it was harder than expected: surface feedback (a question, a screenshot, "this isn't working") came easily; actually opening someone else's files and understanding their decisions well enough to fix something took real time, and only a few people in any group tend to do it. Naming that difficulty up front is part of the lessons from the workshop.
 
 Students finish their piece, license it CC BY-SA (or a similar viral license) matching the terms of everything they built it from, and the group compiles everyone’s work into one shared publication, laid out and printed with the same F/LOSS tools. The real semester course did this too: the actual capstone of the class wasn’t a single project, it was a book, made entirely with the tools and ideas from the term. This compresses that into a single closing move instead of a whole final unit — a shared zine or booklet, not a full book, but the same principle: what gets published is the proof, not just the individual pieces.
 
-Close with an honest conversation about friction: font and format limitations, unfamiliar tooling, a client who needs the file in InDesign. The goal isn't full adoption — it's having more tools available, and noticing how much of "good design" is just the accumulated habits of a few programs built by the same handful of people in the 1980s.
+Close with an honest conversation about friction: font and format limitations, unfamiliar tooling, a client who needs the file in InDesign. The goal isn't full adoption — it's having more tools available, and noticing how much of "good design" is just the accumulated habits of a few programs built by a small handful of people in the 1980s.
 
 ---
 
@@ -42,7 +42,9 @@ Undergraduate design studio, any level. Graduate design seminars. 12–20 studen
 
 ## What they leave with
 
-A finished piece, made entirely outside the Adobe ecosystem, with its full working files public. Direct experience with open, file-based critique instead of verbal-only feedback. A licensed, public contribution back to the commons they drew from. 
+A finished piece, made entirely outside the Adobe ecosystem, with its full working files public. Direct experience with open, file-based critique instead of verbal-only feedback. A licensed, public contribution back to the commons they drew from.  
+
+Talk a little bit about licesning, open ness, etc. and how that relates to clients and design practice
 
 We learn about widening our toolbox; we learn about some basics of Git/Github which is useful in broader life.
 

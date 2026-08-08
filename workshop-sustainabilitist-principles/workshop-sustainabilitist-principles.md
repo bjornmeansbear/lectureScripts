@@ -10,13 +10,15 @@
 
 In 2009, working through a crisis of "what does sustainable design actually look like," the answer turned out not to be just another poster: found paperback books, screen-printed with definitions, connected by embroidery floss cut to the longest reusable length. A manifesto you could hang on a wall, built entirely from what was already at hand. It was a sculpture as poster; it did waht a poster was supposed to do, but did it with materials that could go back to being themselves once the poster's posting was over.
 
-Students don't read a manifesto about the future of design. They build one — a physical, modular object made from found materials, embodying a principle they choose or write themselves, joining a growing collective installation by the end of the workshop.
+Students don't read a manifesto about the future of design. They build one — a physical, modular object made from found materials, embodying a principle they choose or write themselves, joining a growing collective installation we exhibit and document by the end of the workshop. (That then hopefully can just return to its raw materials when the exhibition/workshop is over!).
 
 ---
 
 ## Day one — the twenty principles
 
-Short lecture: the Sustainabilitist Manifesto and its twenty principles (Agility, Constraint, Cycles, Durability, and so on), BauErden's harder question — does this design need to exist, does it draw down carbon, does it re-balance natural systems — and the open, unresolved question of whether sustainable design even has a "look."
+Short lecture: the Sustainabilitist Manifesto and its twenty principles (Agility, Constraint, Cycles, Durability, and so on), and BauErden's harder question — does this design need to exist, does it draw down carbon, does it re-balance natural systems.
+
+Then the question this whole project actually started from: what does sustainable graphic design look like? Four answers get tested and set aside. Maybe it has to look conspicuously "eco-friendly." Maybe it has to look radically "innovative," a new style announcing a new ideal. Maybe it just looks like everything else — ordinary form, sustainable content. None of them hold up. The real answer is the fourth one people mistake for giving up: sustainable design doesn't have a look, because it was never a style to begin with. It's a behavior. Circular, ephemeral, built to return to raw material instead of persisting as an object forever. That's not pessimism — "it's all trash, why bother" — it's the actual thesis, and it's the same answer this workshop's own object already embodies before anyone explains it.
 
 Each student picks a principle (existing or their own) and starts gathering material: found books, objects, whatever's already around, no new purchases.
 
@@ -62,6 +64,4 @@ $2,000–$3,000 plus travel and materials. Single-day version available — lect
 - "Solutions" and "Quality" share nearly identical definition text in the source wiki — worth Kristian's eye on whether that's a duplication bug or an intentional echo before using both in workshop material.
 - "Thrift" is named in the manifesto's principle list but has no definition page — a real gap to fill before this goes out.
 - An old, never-built table of contents for "The Designer as Sustainabilitist" (a zine or short book) exists in the source wiki — could be the shape of a reading packet or leave-behind for this workshop.
-- Title alternates: *Build a Manifesto* · *The Sustainabilitist Object* · *The Sustainabilitist Designer*
 - Overlaps with `workshop-semiotic-commons/`: both use found/salvaged material and physical assembly as method. Worth deciding if that's a throughline across the whole menu worth naming, or just a coincidence of two workshops sharing a maker's habits.
-- **Not actually workshop #5.** "Designing for the Future Today" (the original menu title) was meant to be about speculative design — a different topic from this Sustainabilitism material, per Kristian 2026-08-07. This may be a sixth workshop rather than a fill-in for #5, or a replacement for one of the less-developed slots — undecided. #5 still needs its own, different source material. Kristian's waiting to bring more content before this gets developed further.
