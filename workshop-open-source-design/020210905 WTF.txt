@@ -1,0 +1,58 @@
+020210905 WTF
+
+Okay so it is somehow September now. What am I doing.
+
+Time keeps slipping away into the future. I have never been so sad, realizing a Steve miller song is wise!?
+
+Writing lectures?
+
+Put together some variations on an open source design/libre design talk? Put together some sustainable design talks?
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+Libre design:
+
+* The Libre Designer
+* Open Source: a quick history / design & type connections!?
+* Whats wrong with open source
+* Why don't designers open source?
+* Actually reconnect with my open source peeps? Garth Braithwaite? Dave Crossland?
+* Why do you work on open source?
+* * MIT study: find it, read it, reference it maybe?
+
+There are some reasons that stop designers involving themselves in FLOS > 
+* pride
+* tooling
+* file formats
+* greed
+* pride
+* lack of desire
+
+Braithwaite OSD manifesto:
+
+* find opportunities to design in the open
+* share design experiences, good and bad
+* find time for the meaningful projects
+* openly participate in design discussions
+* Work with other designers by choice
+* improve my toolbox
+
+Designers can open source, most designers just DONT open source.
+
+* share your process
+* share your files
+* use open file formats (even better, use code as a design tool!)
+* use open images, fonts, etc. as base source material
+* collaborate
+* contribute!?
+
+https://opensource.com/life/15/9/ato-interview-garth-braithwaite
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+Daniel Pink, Drive » open source motivations???
+Steven Johnson where good ideas come from » chance favors the connected mind
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+Reconnect with Christine LaRiviere, Peter Griffith, and more!?
