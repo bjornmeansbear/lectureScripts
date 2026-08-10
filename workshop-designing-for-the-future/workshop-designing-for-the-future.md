@@ -16,7 +16,11 @@ This isn't a workshop about AI as a shortcut. It's a workshop about using AI too
 
 ## The lecture
 
-Short talk covering futures-studies fundamentals before the hands-on portion: Stuart Candy's "Four Generic Futures" (Continuation, Limits and Discipline, Decline and Collapse, Transformation) as a way to see different *kinds* of possible futures, not just one. How text-to-image diffusion models actually work. Smart prompt writing. AI ethics and the considerations that come with using these tools seriously rather than casually.
+Short talk covering futures-studies fundamentals before the hands-on portion: Stuart Candy's "Four Generic Futures" (Continuation, Limits and Discipline, Decline and Collapse, Transformation) as a way to see different *kinds* of possible futures, not just one. Joseph Voros's Futures Cone offers a second, complementary lens — futures graded by how likely they are from where we stand now (Projected, Probable, Plausible, Possible, Preposterous) versus how *wanted* they are (Preferable) — useful for the workshop's actual ask, since "preferable" is doing real work as a category, not just a mood.
+
+Murray Bookchin's 1978 talk, "Utopia, not futurism," makes the case for why this workshop insists on preferable futures instead of merely probable ones: doing the impossible, he argues, is the rational response to a crisis, not a naive one. He's also careful to distinguish a critique of technocracy from a rejection of technology itself — a useful distinction to name directly here, since the workshop uses AI tools in service of a personal, non-technocratic vision rather than treating the tools themselves as the future.
+
+How text-to-image diffusion models actually work. Smart prompt writing. AI ethics and the considerations that come with using these tools seriously rather than casually.
 
 ## The workshop
 
@@ -61,7 +65,8 @@ Single afternoon: $1,500–$2,500 plus travel — shorter format than the two-da
 
 ## Bibliography
 
-- Dr. Joseph Voros, [The Voroscope](https://thevoroscope.com/)
+- Dr. Joseph Voros, [The Futures Cone, use and history](https://thevoroscope.com/2017/02/24/the-futures-cone-use-and-history/), *The Voroscope* (2017)
+- Murray Bookchin, ["Utopia, not futurism: Why doing the impossible is the most rational thing we can do"](http://unevenearth.org/2019/10/bookchin_doing_the_impossible/) — 1978 speech at the Toward Tomorrow Fair, Amherst, MA (also featuring R. Buckminster Fuller and Ralph Nader); republished with permission of the Bookchin Trust
 - Dunne & Raby, *Speculative Everything*
 - Near Future Laboratory, *The Manual for Design Fiction*
 - Julian Bleecker (AIGA 2022 Annual Conference)
