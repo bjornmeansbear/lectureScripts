@@ -148,3 +148,7 @@ Discuss semiotic signs and ways to signal or direct culture to the best possible
 - Ikea Home Futures design show https://designmuseum.org/exhibitions/home-futures
 - Katie Patrick
 - Curry J. Hackett
+
+---
+
+Slides and notes are here: https://www.figma.com/design/o8yoKtQYTvNR6r2fnwMI8P/Oct-9--Design-for-the-Future-Today--Copy-?node-id=28-2&t=5a5vU8E9aA19bT8S-1 -> I'll find a better way to share them / make them also open
