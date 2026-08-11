@@ -1,7 +1,7 @@
 # The Future Cone: How to Design for the Future, Today
 
 Aug 29, 2023. MICA, Senior Seminar (GD seniors), first class of the fall semester.
-Co-taught with Helene Choi. Graduate teaching interns: Sowmya, Sydney. Trimmed out class stuff, left the lecture...
+Co-taught with Hayelin Choi. Graduate teaching interns: Sowmya, Sydney. Trimmed out class stuff, left the lecture...
 
 Cleaned transcript. Source recording: `Figma Beta - The Future Cone- How to design for the future, today! - Fall23LectureSlides 2023-08-29 at 4.10.40 PM.mp4` (59:10).
 Raw machine output: [2023-Fall-FutureCone-DesignForTheFuture.txt](2023-Fall-FutureCone-DesignForTheFuture.txt)
