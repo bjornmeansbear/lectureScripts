@@ -22,21 +22,26 @@ This means the outstanding merge decisions (which `WhatIsSGD` draft wins, which 
 
 ## The essays
 
+All nine have first drafts as of 2026-08-14. Every draft keeps a TO DO comment at the bottom listing what it still needs and which decisions are outstanding. The comments don't render — prose written above them leaves a clean file.
+
 | # | Essay | Status | Situation |
 |---|---|---|---|
-| 00 | A New Design Commons | drafting | **Near-complete.** Source is essentially the finished intro; needs trimming of the AIGA-talk timing references. |
-| 01 | Free as in Freedom | drafting | Merge. Three revisions of this essay sit inside one file. |
-| 02 | The Libre Designer | drafting | Outline + three transcripts. Most raw material of any essay (~39k words); the job is cutting, not writing. |
-| 03 | Everything Is a Remix | drafting | Scattered across sections of *Why Libre Design* plus the folktale workshop. |
-| 04 | Copyright and the Commons | drafting | Good outline exists; two versions of the same Jan 2025 transcript to reconcile. |
-| 05 | Sustainable Design Doesn't Exist | drafting | Merge. Told at least three times in three places. |
-| 06 | Design for the Welfare of All Life | drafting | Merge. Two full drafts, four PDFs, one transcript. The messiest, and the most already-written. |
-| 07 | Signs Signaling Sustainability | drafting | **Near-complete.** Four case studies, consistent across every telling. Slides exist in `SampleSlides/`. |
-| 08 | Future Possibles | **empty** | Nothing to merge. Twice marked as belonging somewhere and never written. |
+| 00 | A New Design Commons | drafted | Adobe/Figma cold open → three enclosures → what a commons is → Lupton. Mostly your existing prose, reordered. |
+| 01 | Free as in Freedom | drafted | Built around the printer story and the *impersonal refusal*. Three myths section. Raymond appears as a character, not an authority — check that. |
+| 02 | The Libre Designer | drafted | The ladder: images → type → software → file formats → machines → practice. Cut from ~39k words of source. |
+| 03 | Everything Is a Remix | drafted | Vernacular → the secret we all keep → open source as its survival → Photon → the privilege objection. |
+| 04 | Copyright and the Commons | **canonical elsewhere** | **Already finished prose** in `workshop-semiotic-commons/`. Not redrafted. The file here records what it needs to become a chapter, and flags the overlap with 01 and 03. |
+| 05 | Sustainable Design Doesn't Exist | drafted | The stack of books → the piece → four answers → the pivot from despair to prompt. |
+| 06 | Design for the Welfare of All Life | drafted | Two models of sustainability → name what you're sustaining → the typeface example → Green Acres as a failure. |
+| 07 | Signs Signaling Sustainability | drafted | Jerome Harris → de Botton → the four cases → greenwashing → Alexander. |
+| 08 | Future Possibles | drafted | **Written from scratch** — the only one. iPhone → the cone → the turn → Bookchin → the test. |
 
 ## Notes
 
-- **08 is the real writing job.** Everything else is compression and adjudication. See the Futures Cone entry in [SHARED-COMPONENTS.md](../SHARED-COMPONENTS.md) — two placeholders (`ASustainableDesigner.md:49`, `0202103132325-TheseGesturesAreUndoubtedlyUtopian.md:239`) and no body anywhere in the repo. Two delivered transcripts can supply it.
-- **Start with 07 or 00**, not 01. Both are close to done, and finishing one establishes the essay length and voice that the other seven get measured against.
+- **Read 08 hardest.** Everything else is compression of things you've already said and can be checked against a source. 08 is new prose, and it carries the argument that makes the three parts one booklet.
+- **04 is the model for what "done" looks like.** It's finished, footnoted, and better than anything a redraft would produce. When the other eight are at that level, the booklet exists.
+- **The overlap problem is now visible.** Stallman's printer is in 01 and 04. *The Cathedral and the Bazaar* is in 01 and 04. Vernacular architecture is in 00, 03, and 04. Proposed division, recorded in 04: **01** owns the tools argument, **03** owns the culture argument, **04** owns the legal mechanics and cross-references the other two.
+- **Two case studies still need a home.** Ecovention Europe (the 100%-ink-coverage palette) and the MICA Grad Zine (one plate per color, sheet flipped and re-run). Ecovention is the strongest demonstration in the corpus of a constraint producing an aesthetic, and it's the answer to the Green Acres failure in 06 — it may belong at the end of 06 rather than in 07.
 - **Known near-duplicates to resolve while working:** `WhatIsSGD.md` vs `02021140252WhatIsSGD.md` (the latter is longer and has a "Define Sustainability" section the former lacks); the two `NDC lecture script.txt` files at root and in `workshop-open-source-design/` (**different content, same name, same length** — verified by hash); the two `20250121 173715-8A05BF57` transcripts; four `WhatIsSGD` PDFs at root.
+- **Facts to verify before print:** "Reverberation crosswalks" as a project name (Coreil-Allen's practice is usually New Public Sites); the Baltimore incinerator health statistics; the Adobe/Figma date; whether "book share" is The Book Thing.
 - **If this becomes the video series too:** essays 07 and 08 are the video-native ones (objects that communicate; a diagram that builds). 01 and 03 are prose-native and would be weakest as video.
