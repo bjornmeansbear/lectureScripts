@@ -24,12 +24,30 @@ Physical files stay put (one copy, in whichever folder it belongs to most). This
 
 ## Shared examples / case studies
 
-- **The Oka (Terra) Chair** — used in `workshop-semiotic-commons/copyright-and-the-commons.md` as an idea/expression (copyright) example, and possibly the same object referenced as a third case study slot in `workshop-circular-economy-design/chair-case-studies.md` (material/circularity angle). The chair-case-studies file already flags this itself as an open thread connecting the copyright workshop and the circular-economy workshops through one object — still needs Kristian to confirm it's the same chair and fill in its material story.
+- **The Oka Terra Chair** — used in `workshop-semiotic-commons/copyright-and-the-commons.md` as an idea/expression (copyright) example, and possibly the same object referenced as a third case study slot in `workshop-circular-economy-design/chair-case-studies.md` (material/circularity angle). The chair-case-studies file already flags this itself as an open thread connecting the copyright workshop and the circular-economy workshops through one object — still needs Kristian to confirm it's the same chair and fill in its material story.
 
 ## Shared concepts across lecture topics (not yet workshops)
 
 - **Entropy** — listed under both GD3 and SGD sections in `Lectures To Writeup.txt`; also appears in `workshop-sustainabilitist-principles/sustainabilitist-principles-source.md`. One concept, multiple course contexts — candidate for its own short standalone piece rather than being re-explained from scratch each time it's needed.
 - **Form / Content / Context** — a recurring named lecture topic for AD1/AD2 (per `Lectures To Writeup.txt`) *and* its own draft workshop (`workshop-form-content-context/`). Independently confirmed as a top-level recurring theme across the whole `bjornpaedia` archive (`THEME_NOTES.md`, July 2026 pass) — this is the most load-bearing recurring idea on the whole menu, not a coincidence.
+- **The Futures Cone (Voros)** — the most widely-reused single idea in the archive after Form/Content/Context, and the one most consistently left unwritten. Kristian's own framing: it's a key aspect of a *pragmatic utopian sustainable future*, and "fits in almost everything I ever talk about." Where it currently lives:
+  - `workshop-designing-for-the-future/` — the full treatment. Two delivered versions: `2023-Fall-FutureCone-DesignForTheFuture.md` (MICA, Aug 2023, built up from the relativity light cone, with the iPhone worked example) and the WMU run script.
+  - `HixsonLied-VisitingArtistLecture.md` — a three-minute coda to the SGD talk (UNL, ~2021), **two years earlier than the MICA version and using the same iPhone example.** Earliest instance in the repo. Here it does sustainability work, not futures-studies work: it's the answer to "how do we get from critique to an actual alternative."
+  - `ASustainableDesigner.md:49` — a bare note-to-self, `((Future cone!?))`, placed immediately after the "sustainable design does not exist" pivot. Unwritten.
+  - `0202103132325-TheseGesturesAreUndoubtedlyUtopian.md:239` — a section header, `### The Futures Cone!?`, with no content under it, right after "They redirect culture towards better *future possibles*." Unwritten.
+
+  So it's a recurring **gap**, not just a recurring citation — twice marked as belonging somewhere and never filled in. Both placeholders can now be filled from the two delivered transcripts rather than written from scratch. Strong candidate for its own short standalone piece that everything else cites, which would also settle whether the light-cone derivation belongs to it or to the GD3 relativity lecture.
+
+  Connective logic worth naming when that piece gets written: Bookchin's "Utopia, not futurism" (cited in `workshop-designing-for-the-future/`) is *the same argument* — doing the impossible as the rational response to crisis is a claim about moving toward the preposterous end of the cone. That's what makes the utopianism in `UtopianGestures.md` / `0202103132325-TheseGesturesAreUndoubtedlyUtopian.md` pragmatic rather than naive.
+
+- **Relativity / the light cone** — listed as a standalone GD3 lecture topic in `Lectures To Writeup.txt`, and *already delivered* as the spine of the futures-cone explanation in `workshop-designing-for-the-future/2023-Fall-FutureCone-DesignForTheFuture.md` (the cone of where a photon could have come from, and where it could still go, as the bridge into Voros). The GD3 lecture doesn't need writing from scratch — it needs extracting from that transcript and re-pointing at time/motion instead of futures. Note this is *only* in the MICA version — the earlier Hixson-Lied coda goes straight to Voros without it.
+- **Speculative / preferable futures as a thesis-framing device** — `workshop-designing-for-the-future/` uses "does this thing exist in my preferable future?" as a test for whether to make something at all. Delivered at MICA as the opening class of Senior Seminar, i.e. as degree-project framing. Overlaps with any professional-practice or thesis-prep context (`KzooProfessionalPracticeScript.md`).
+
+## Shared examples across lectures (not yet workshops)
+
+- **Curry J. Hackett** — bibliography of `workshop-designing-for-the-future/workshop-designing-for-the-future.md`, and a worked example in the Fall 23 lecture transcript (Midjourney-generated alternate pasts/presents of Black leisure and architecture). Also plausibly relevant to the SGD/eco-narrative material, since the move is the same one Solarpunk makes — worth checking when "What is an eco-narrative?" gets written.
+- **Afrofuturism** (Sun Ra, Parliament, Mark Dery, André 3000, Janelle Monáe, via the Vox short) — added to `workshop-designing-for-the-future/` 2026-08. Currently single-use, but it's the clearest "whose future gets imagined" material on the menu; flag before writing Solarpunk or eco-narrative pieces so they don't re-derive it.
+- **Baltimore's trash incinerator vs. CopenHill** — a preferable-futures example in `workshop-designing-for-the-future/`, but it's equally a *sustainability* and *environmental justice* example (asthma/lung cancer/heart disease rates due south of it). Strong candidate for reuse in the SGD and climate-designer lectures, which currently have no local Baltimore case study.
 
 ---
 

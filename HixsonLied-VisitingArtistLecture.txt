@@ -1,0 +1,494 @@
+So, once again, thank you all for joining us. And I'd like to thank the Higgs and Leed
+Colleges Visiting Artist Lecture Series for funding tonight's event. Tonight's speaker
+is Christian Bjornaard, who is a designer, a sustainablist, and design faculty at the
+Maryland Institute College of Art in Baltimore, Maryland. Christian and I first met, I think,
+in middle school as part of the Northfield Youth Choir, where we were both probably still
+altos, technically. I remember when I finally got to be a tenor but couldn't be in choir
+anymore because that wasn't one of the parts. But we reconnected over the last 18 months
+over concepts of sustainability and libre culture as it relates to the future of design
+education. So, as part of Christian's visit, he and I have been working together to redesign
+an assignment for one of my courses, Color and Composition. We've been thinking about
+how to use shared knowledge, generating shared knowledge as part of our class and as a group
+rather than searching the internet for imagery and ideas. We've been exploring and considering
+ideas around copyright and also around the nature of creativity. So, it's been wonderful
+to have Christian both presenting ideas as well as participating in our critiques. And
+I'm so excited to welcome tonight, Christian Bjornaard.
+Alright, thanks Byron. Well, let me just jump right in. I've got slides and like Byron mentioned,
+if you have questions or things that you want to bring up while we're sort of moving, just
+bring them up and we'll try to pause when possible to cover them in context. Okay. Alright,
+so I'm gonna give a talk that is called "What is Sustainable Graphic Design?" And so my
+hope is to present to you this space where graphic designing or form making more generally
+and sustainability might overlap and what opportunities or sort of different constraints
+or concepts for making and thinking about that work might be. I, as Byron said, I'm
+Christian Bjornaard. I live in Baltimore. I am a designer and a professor and I am sometimes
+an occasional farmer or bamboo harvester as well. If any of these things do intrigue you,
+I can usually be found online as Bjorn Means Bear at various outlets. So, I've been a graphic
+designer for a while and I've worked in a lot of different mediums. I've designed books
+and identities and websites. But I think one kind of thing that I try to bring to all of
+my projects is this idea that design can still be a medium for intellectual inquiry and self-expression
+and I can bring that to client projects or personal projects and it's just the sort of
+way that I approach designing more generally. Okay, chat is in the way. There we go. So,
+I'm going to talk a lot about sustainability. I thought we should just have a couple of
+shared understandings before we move forward. So, the typical way that sustainability is
+presented is usually through this triple bottom line idea that there's social sustainability,
+economic sustainability, and ecological sustainability and if you are sort of truly sustainable,
+you're accounting for all of those things in your actions and so you end up in this
+sweet spot where they all kind of overlap. The downside to this, this is sort of a good
+practical thought model, but the downside to this is that you could sort of be economically
+sustainable without worrying about social or ecological sustainability or vice versa.
+So, a kind of improved ideology to have when you're thinking about what sustainability
+means is this idea that our economic systems can only exist within social systems like
+they don't exist apart from society and society can't exist apart from nature so that all
+of our sort of choices become nature-based choices and this thinking sort of leads you
+to understand the interconnectedness amongst all things a little bit better. Okay, so that's
+a little test of the... Okay, so I'm gonna just start with a piece of work that hopefully
+should illustrate some ideas that then I'll try to explain more afterwards. So, this project
+is called the "Sustainabilityist Principles" and it started out as my sitting at my desk
+in grad school looking at the collection of things I had been reading and trying to make
+sense of and sort of saying that like no sane person has enough time to actually go through
+all this stuff and what could be done to make it a little bit clearer or easier or time
+friendly to access the information that was sort of within these things that I was finding
+so useful. That started out as sort of just like mapping interconnections between things
+or looking for these shared ideas or principles which turned into a little zine that I made
+that basically I would sort of write my own essays trying to illustrate a principle of
+sustainable design and then I would sort of show the reader of this where I had kind of
+taken that from so you could kind of get a little sample of this idea and then know where
+to look for more information if you were intrigued by that and was as I sort of was completing
+this I sort of came to this place where I was looking at these and said well all I did
+was just take photos of the books as they already were on my desk like why can't I just
+use the books themselves in some way to do this and so that became the kind of challenge
+for myself and come the exhibition that we had in in grad school that was sort of what
+I figured out how to do is sort of like present this as the objects themselves. I would still
+say that this is a poster like it does what a poster would do it is posted in a public
+place and has sort of like clear information is trying to describe to you but it was sort
+of this like other way to think about like what a design a graphic design object might
+be in a gallery space and so it kind of like lives in this weird in between of a sculpture
+and a poster but so the the books themselves are the books they are interconnected to aphoristic
+rewritings of the longer essays I had written and the production of the the piece was sort
+of meant to come together in the gallery and then dissipate back to the constituent parts
+after the exhibition was over and this kind of led to novel formal solutions where the
+strings that connect them I kind of left as long as possible so that they would have the
+most reuse potential afterwards the kind of principles themselves were screen printed
+on just found novels from a book share from a from a book share where that I could just
+return the books to the book share once the exhibition was over they were printed on the
+front matter or on the title pages so like the legibility of the book wasn't really affected
+after doing this to them and so this to me felt like a really good culmination of my
+time in grad school where I had been posing these this been making work that was meant
+to be a response or an answer to this question what does sustainable graphic design look
+like and through these investigations I had kind of had some results that I thought fit
+into categories like it looks the same it's just good design but with different materials
+it looks eco-friendly it's sort of like wears its environmentalism on its sleeve via being
+you know like intentionally reused or being on craft paper or something like that perhaps
+it was like innovative and like embracing new technologies or new ideas and then I had
+this last kind of criteria category that I was playing around with this idea that maybe
+sustainable design just doesn't exist and at first that was because I was feeling kind
+of pessimistic that like all these things I was making were just more waste I was kind
+of unmaking the world around me to make ephemeral garbage to be frank I guess and that it doesn't
+exist was sort of a response that initially like I maybe can't make sustainable design
+for these reasons but what it came to sort of be was more of like a different kind of
+prompt like the opportunity for making a designed object that has no footprint or is fully embedded
+in the systems in which create it seemed like a different way to think about the making
+process to begin with all right cool so then next the next screen like this Byron just
+interrupt me if there is a question how about that I'll just pause and if you interrupt
+me I'll know that there's a question and if not I'll just take a beat and then keep moving
+okay I like it thank you very much okay so I'm just gonna skip this okay we're just gonna
+jump right into like trying to to define what sustainable graphic design might mean if we're
+trying to embrace these kinds of answers to the question of what sustainable design looks
+like as well if you are interested in sustainability I highly recommend this book flourishing by
+John Ehrenfeld and Andrew Hoffman and in this book they try to define a sort of different
+philosophy for understanding sustainability as it relates to business and culture and
+so that this key thing that they try to point out to us is that if you want to be sustainable
+you have to first say what you want to sustain because sustainability as a word sort of like
+is always in connection to something else like you you sustain something and so you
+have to define what that something is to move forward effectively and you see this in many
+of the definitions that are floating out around like what sustainability is this is probably
+the most commonly referenced definition of of sustainability it's by the Brundtland commission
+which was a un led thing in the 80 in 1987 and they say that sustainable development
+development that meets the needs of the present without compromising the ability of future
+generations to meet their own needs and then you just see sort of like variations of this
+in different ways from all the different places that you might look for help this idea of
+like equity over time or leaving things better than you found them or improving human life
+while like not limiting other other systems and they all sort of relate to this living
+within limits or making sure that we like leave things better than we found it the sort
+of golden rule extended forward and thinking about the future when you make decisions in
+the present and so basically again this sort of like understanding that our economic and
+social constructs do exist within a larger construct of nature and that ram there are
+there are ramifications in the present to things that will happen or ramifications in
+the future to things that happen in the present there that those ideas are all present in
+pretty much any definition for sustainability that you'll find but they none of them are
+super clear about telling you what they want to sustain and so erenfeld tries to help us
+think about that like what do we want to sustain and he tells us that he wants to sustain that
+people in all of their life should be able to flourish if you're interested in that idea
+he goes into great length telling you what flourishing really means but he sort of actually
+has a fairly clear description for us that many of the other definitions don't or like
+the bruntman report it's focused on this idea of sustainable development which is includes
+like human infrastructure growth and there's a lot of detractors that would say that that
+maybe isn't actually a sustainable goal since it isn't necessarily as anyway okay another
+a designer who sort of has this similar thinking is this gentleman named bruce mao i mean he's
+has this project he's been working on for several years called the massive change project
+and in it they describe that the welfare of all life as a practical objective is the goal
+of the massive change project which to me fits nicely with erenfeld's sort of all life
+flourishing description as well so with those ideas if you apply them to sustainable graphic
+designing then graphic design that supports all life flourishing could be the way you
+define sustainable graphic design or perhaps graphic design that's for the welfare of all
+life is the way that you know i i would like to describe sustainable graphic design so
+moving forward like these are the ideas that i'm working with when i try to explain or
+lay out what's going on in these other topics so design for the welfare of all life that's
+my symbol for that christian i'm going to jump in even though you haven't given us the
+triangles i have a question from uh sam bendix uh would you say uh the most successful sustainable
+graphic design would need to reach into and collaborate with other just other disciplines
+or can it exist solely through graphic design that's a great question um i i think that
+it is an answer that is like a it depends answer but definitely um if we think about
+the kinds of issues that need to be addressed in the context of all life flourishing they're
+often complex issues that no one person is really capable of understanding or doing something
+about um on their own um and so yes uh many solutions would sort of require some kind
+of cross discipline collaboration um that might be with like a non-profit group that
+specifically works in that area that might be with some kind of material scientist that
+actually knows more about uh what you're trying to make um but yeah being able to collaborate
+with somebody or with groups um is kind of a an imperative moving forward i think for
+for for creative form makers generally
+hopefully that answers your question yeah awesome thank you
+okay so if we define sustainable graphic design as graphic design for the welfare of all life
+or graphic design for all life flourishing that is a different goal than regular graphic
+design today sort of has for itself and so if we think about um our at least fairly contemporary
+western art historical systems when goals uh change uh and when tools and ideologies
+sort of change or shift that usually corresponds with like the aesthetics of that um time or
+community adapting and shifting as well and so this is where i i sort of like get interested
+in the aesthetics of things in that like okay if i have a different practical objective
+for my designs uh where does that lead me instead from like a decision making process
+on what i'm selecting or how i'm selecting certain things so this is um just a little
+uh how you might pick a font uh in this context right if um we are trying to think sustainably
+about uh typography choice well then maybe using less ink is the a useful way to sort
+of think about like how do you justify like which typeface to pick um but if we're already
+trying to use less ink we could probably use like less space so if we have like a slightly
+condensed typeface that also is uses less ink we've saved room and ink on our page and
+then you can sort of just keep taking this to sort of like more and more extreme lengths
+until you perhaps end up somewhere that is ludicrous but um it's sort of like a different
+way to help make a choice that isn't really arbitrary anymore like saying what typeface
+should i pick is sort of like saying what style of house do you want to live in it's
+just sort of like a taste usually like what you choose to have as your taste is that is
+the answer and this might this sort of having some other objective to help um can be a way
+to sort of think about like well if the thinking behind this is different than like this might
+result in different aesthetics and that is okay um i have a lot of these pauses just
+in case okay so then that leads us to maybe this idea that if there are different ideologies
+or that we might want to critique the existing yeah uh i do have one from uh jen landis do
+you research font foundries on their sustainability within the company yeah depending on the on
+the on the type designer they would uh they sort of are more transparent about this but
+there are some on the spot i am blanking on who i know are working on this but for example
+um there was a typeface that came out a couple of years ago called ryman eco and it was intentionally
+designed to um uh it's like a big decorative serif but it was designed to save ink so it
+has like all these little in like a couple of inline elements that are knocked out of
+it so that the typeface sort of looks um filled when it's printed small um but it uses like
+one third of the ink because there's all these sort of like missing components of the filled
+areas of the of the letter form and then when you use it big it sort of like becomes a cool
+decorative element on the typeface um so there are type designers thinking about this um
+and where you where you see this also is in like the digital sphere um and so like when
+you're using web fonts for example um there's all kinds of things that you can do from like
+a performance perspective to make your website load faster that also are like useful from
+an ecological perspective because the the less you have to download to load the web
+page the less energy it's taking to download to serve that web page so if you're specking
+web fonts on a website you can choose to like use a limited subset of the characters of
+the typeface and sort of like intentionally make a kind of like lower energy version of
+your website um so there are like ways people are thinking about this in in both the physical
+and digital sphere um christian i have a few more questions here but i also don't want
+to totally derail you so uh sam's question uh sort of leads into what i imagine might
+be the next area would that sustainable decision making extend the elements outside of typeface
+choice yeah definitely and i will totally get to that in a second yeah is that good
+move forward then yeah pierce has got one in here but i'm going to wait till there's
+a this is a this is a big one so okay i'll drop that one maybe a little later okay cool
+yeah so um uh there's plenty of other ways you can consider uh consider how you make
+your choices that that just sort of felt like a a fun easy one to illustrate quickly um
+so quickly look at just like another idea for how you might formulate why you're making
+designs the way that you are and then yeah i'll get more into that uh some of these other
+decision making things okay so um if if again design for the welfare of all life is different
+than uh every day designing um perhaps it sort of um leads us to some other interesting
+territory so um anthony dunn and feena rabi are um industrial designers but they sort
+of think pretty critically about about this fact that design in and of itself is an ideological
+act and it sort of like makes manifest a a world view um when it is turned into you you
+turn a world view into an object when you make a piece of design um and so most of the
+objects around us share a pretty similar world view of like moderno techno capitalism right
+now and if if we're not seeing that that is leading to all life flourishing then perhaps
+we need to be led to different kinds of of objects and so this kind of of other objects
+they refer to as like a critically designed object or critical design and this is an object
+design object that might provide a critique of the prevailing situations and dun and rabi
+think that design is particularly useful for this because it is a medium that people are
+much more familiar with than say art and it is much more concrete than say music or poetry
+at getting across a kind of critical vision for something so how might we use our sustainable
+graphic designing to sort of provide this critique of these existing social cultural
+technical economic things um just like a quick super quick example that are like sort of
+small versions like lowercase c critical um we had i i invited some designers to one of
+my class classes a couple of years ago to talk about how they were participating in
+sort of like climate activism as designers like through their designing and so when i
+made posters for their talk i just used the previous prints from the recycling bin in
+the in the risa graph room to like print all of their um posters on oh that's not true
+i also found some really old newsprint that was like left over from something but it's
+all sort of just like found paper that was in the print shop already to make these posters
+and then i had this sort of um gesture that i used to make as a when used to give people
+business cards which i don't know if i've given anyone a business card in like eight
+years but um i used to just have a stamp that i would stamp inform my information on like
+whatever paper people had with them including other people's business cards it to me that
+was like a really critical design gesture to sort of point out the frivolity and uselessness
+of these printed things we were handing around all the time and like it used to be that business
+cards were like the the thing that people went crazy on when they were designing them
+and so they're like are doubly frivolous often in in their old incantations and so this just
+seemed like a a clever gesture to sort of bring some attention to that like i said back
+back when we used to actually give each other business cards um okay so this is a project
+where i think i can critique some of these issues of materiality and other other kinds
+of decision making partially because i think this one doesn't do them the best and then
+i have a sort of like update to this project later which i think will further answer those
+kinds of questions um okay so this book uh it was called green acres it was a catalog
+a sort of like addendum book to an exhibition uh at the contemporary arts center in cincinnati
+ohio uh and the works featured in this exhibition in the book were all farming related works
+so as artists using farming as their practice sometimes that manifests itself in like an
+actual sort of sculptural object and sometimes it was literally just like a farmer had a
+potato field and there was sort of some other communicating that was meant to be happening
+by sort of like why an artist would do this um so it's a really interesting sort of array
+of ecologically inventive sort of farm practice based things and i thought wouldn't it be
+cool to make a really sustainable book to show that off and like embrace that uh sort
+of sustainability mindfulness so um i initially sort of thought well these are art farms and
+they will be in contrast to large-scale farming and so how can i visualize that contrast in
+the book um and so the section break sort of used these midwestern aerial farm photography
+uh shots uh to sort of create this sort of this idea that they're each of these sections
+is contrasting this in a different way um and then there are these sort of artistic
+elements that were pulled from the the logotype which was sort of meant to reference like
+small farm furrows or farm field furrows i'm sorry um and those sort of show up all over
+the book as just kind of decorative elements so so those two things along with the fact
+that the um the actual like grid design of the page was based on these same sort of township
+square uh the the the tiny farm squares that are in the aerial photos were were part of
+the layout of the pages also was meant to be the sort of gesture of the artistic versus
+the the industrial um but that you know turned out like that seemed like a really great idea
+to me at the time but it turned out to be just like so abstract that like nobody really
+gets that i don't think when they look at this book no one's being like oh man i can't
+believe uh i can't believe how i i understand the difference between these things now because
+of of this page grid right that's like a pretty inert sort of way to be critical of something
+um and then what really ended up being the kind of sustainable aspect of the book was
+just that we used um a print-on-demand publisher to print the book so that we could print very
+few copies at a time uh so that there wasn't unnecessarily weren't unnecessarily large
+quantities of books being printed and being shipped and being stored and not being sold
+and being wasted um and so it was printed on recycled paper and printed on this with
+this on-demand printer and that really ended up being the like main aspect of the book
+once um my cleverness like wasn't wasn't apparent enough in the the criticality of the things
+and then um anyway get to that in a second okay um okay so that was green acres that
+was how maybe i i failed at manifesting some of those things in a in a piece
+uh christian we do have a question um so uh this one uh is also from sam how do you balance
+the desire to design sustainably with the reality of having to design things a certain
+way to fit a brief or a client's vision yeah i mean i i would say that my goal like like
+i said the beginning my goal is to make every project that i do um an expression of my self
+in some way and so sometimes the way that you do that is that you just like don't tell
+the people that you're doing the things because if it like doesn't cost them more or it doesn't
+like change what you're delivering to them they actually don't care what you're doing
+to deliver them the object that they requested granted that doesn't always work because sometimes
+the brief is so constrained or the budget is so tight or their specifications are like
+already decided um that you just sort of have to you do is you you do it as they requested
+and then um you know sometimes it's just frustrating you like you might you try to ask as many
+questions as you can you try to change as many of the things as you can and when it
+turns out that it's just not going to make any difference with them you sometimes just
+have to say okay well i tried this is things done and maybe i need to not work with this
+person again moving forward or maybe next time i can convince them to do something more
+because i'll i can approach them ahead of time um uh that being said um in in my experience
+um i feel like when the choices that you want to make um have very little ramification to
+their desire to a client's desires they're usually pretty open and amenable to letting
+you suggest things um so recommending paper that you think looks good you can also recommend
+paper that uh is made of you know like alternative fiber sources or is um more recycled um or
+like isn't bleached or something like that and you can pitch it to them as being better
+paper you don't have to necessarily pitch it to them as like being less like more climate
+change friendly or something um so i do know that sometimes like that's an adversarial
+perspective although increasingly i find most clients are interested in that because they
+see it as an opportunity to sort of position themselves differently with certain um you
+know their clients or their constituents i hope that answers your question
+okay um uh i think one thing that i talk about a lot with some of my colleagues is this idea
+that um when we're as graphic designers we um tend to to see i guess the the the kind
+of instructions or the ideas of what good graphic designing are are really really tied
+to the formalist principles of what good modernist design are so like modernism uh is sort of
+like synonymous with the principles of good graphic designing um and in in the sort of
+like well if sustainable designing is different ideologically than everyday designing perhaps
+the criteria of what goodness is that comes from modernist principles it doesn't sufficiently
+cover what goodness might be in sustainable designing and so um this idea of like shifting
+away from like oftentimes when you say design you really mean modernist design in in most
+contexts right like every single company that is rebranding right now is just sort of using
+uh humanist geometric sans serif typography it's like all just modernism everywhere um
+and i guess like that isn't necessarily problematic uh except that if that's the only criteria
+we have for measuring like good formal fit of things it is maybe missing opportunities
+or like uh negatively impacting certain kinds of visual solutions that might be better for
+the welfare of okay i'm digressing um anyway uh uh so maybe there's just like a like other
+ways to think about beauty or good formalness of good formalism that can come not from uh
+in aging artistic style but could come from some other kind of value system or structure
+um so if we uh in in trying to to research this more and think more about this i came
+across this quote by the philosopher alon de baton who says that um if you find a piece
+of design beautiful it's because it has your values reflected in it um and so this idea
+that beauty will be a reflection of your values is a nice idea um and i also like that his
+quote sort of like talks about flourishing which made me think about erin felds um uh
+definition of all humans and all other life flourishing being like what sustainability
+is and so then is the value is critical to our flourishing if all other life is that
+value then that's what now is beautiful design in in this context in the baton's um context
+so sustainable design is the is beautiful design um and interesting sort of like counterpoint
+to that then is that the non-sustainable becomes like ugly design however you want to define
+that um so sustainable or beautiful designs form should declare that humans and all life
+should flourish and what's nice about that kind of definition for an aesthetic direction
+is that it doesn't really try to imply what it should look like it tries to imply what
+the thing says or what the thing like like symbolizes to you and it's like a reflection
+of your values not necessarily a reflection of your um aesthetic taste which could be
+your value system might be like much broader than your aesthetic taste system um but the
+issue that it because all these things always have to bring up other issues uh an issue
+that it brings up is that there are these like you know ideas that beauty isn't isn't
+fixed different people have different ideas of what is beautiful um and this is not a
+new idea like western history is full of people saying this in different ways um so uh yeah
+um should i just keep going viren or are there any useful stopping points i muted myself
+so you wouldn't have to listen to my keyboard clacking um i just wanted to uh mention that
+we're sort of at the 15-minute warning um because we're running this as like a question
+and answer and lecture simultaneously so uh just a heads up yeah cool i'm on my last things
+is perfect it's perfect okay great um okay so uh sorry lost my train of thought um we
+were talking about beauty being multitudinous okay so i'm just going to show you some things
+that from the world at large that that i think are examples of uh kinds of communication
+design so we could call these graphic design although i think most of them are like physical
+things um that are trying to signal the welfare of our life in some way they're trying to
+like semiotically tell you something about how we could improve things and they have
+their own kind of like unique forms that they achieve that i think are beautiful but might
+not be the stereotypic idea of what a beautiful solution is um so this first one is a proposed
+idea that unfortunately wasn't able to be made for a bunch of complicated reasons mainly
+because i think the person who was going to help do it got arrested um in a scandal in
+denmark but it was an idea from the bierke engels group and it was a part of this larger
+complex that they helped design that was is a waste energy plant that the only thing that's
+emitted by the exhaust stack is co2 and water vapor so it's so clean that they've turned
+it into a park and during the winter you can ski down it and during the summer it's like
+hiking trails but the exhaust stack had this they had this idea that the exhaust deck would
+make a puff of a vapor ring puff every time one ton of co2 was collected in the top of
+the exhaust stack as this way to sort of show the people around uh in kopenhagen like what
+a ton of co2 looks like right it's like how do we make this immaterial thing material
+so that we can understand a little bit more about climate change or a little bit more
+about our world's systems um a friend of mine in baltimore gram cray allen is working on
+this series of projects that he calls reverberation crosswalks and these are crosswalks that are
+you know obviously brightly painted this is paint on cement and asphalt so to me this
+is kind of a form of graphic designing um and they make it very clear that this is a
+crosswalk and where you should cross and that if you're a driver you need to pay attention
+uh to this space because pedestrians uh will be here and so this idea that it's sort of
+like each one is like one tiny step closer to a more walkable sort of like more flourishing
+city just seems like a really beautiful set of gestures uh this project is a solar-powered
+website and it is a i guess a kind of critical design and that is very clearly showing you
+how things might look uh how things might intentionally look different when they're
+trying to save a lot of energy as opposed to use up as much energy as possible so all
+these images are bit mapped which lets them be really high resolution but um really low
+file size and it also allows them to be like colorized in different ways so that in different
+contexts they can kind of control what things look like uh very intentionally so anyway
+this idea of like making the lowest power website that still like had intentional designing
+uh became a lot of key constraints like what this looks like and how it works so again
+these are things symbolizing sustainability in these important ways um and then this last
+one is by a designer in dc in washington dc named curry hackett and it's called the dc
+high watermark project and they're putting these uh sort of sculptural stanchions in
+in any of the 100-year floodplain areas in in and around dc um that both mark where floods
+have actually risen to and where floods are predicted to rise to so these like they're
+really high black one i believe is like a danger zone for the future um and these other
+more plentiful ones lower down are ones that like actually have happened before um so again
+this is sort of like you're in this place you can kind of see how high this water would
+be outside of it the flood needing to happen to sort of show you that to me it's just like
+a beautiful gesture it's a beautiful kind of sculpture um but to me it's partially beautiful
+because it it is trying to say something about um us flourishing with our environment in a
+useful way okay so um i guess to me i started out this sort of trajectory really caught
+up with the actual formal aesthetics of the work that i was making i was worried if it
+like mattered if it looked the same or looked eco-friendly um and as my work has progressed
+as my thinking has progressed i feel like i've gotten to this place now where i'm less
+concerned with finding external formal fit like formalness formal goodness that comes
+from like somebody some external uh idea and i'm more concerned with sort of thinking about
+like what's the context or the content of this project and how does that lead you to
+the right aesthetic and so if we think about like each project might be different but if
+each project is trying to embrace the flourishing of all life then it will be a beautiful good
+project uh christian i love that concluding statement um it's so rare that we get one
+usually it's like people were working then and now they're working now rather than sort
+of like taking us through a complex question and coming up with sort of like a tangible
+but also uh what's it called where like like emotionally satisfactory result or something
+like that that's awesome um i do have a question here from sue gardner uh asking if you could
+comment on the idea of green washing type design meaning design that makes something
+horrible slash unsustainable look green and sustainable yeah okay so that was like one
+of the things that kind of led me to want to find some other answers other than purely
+formal answers to what sustainable things should look like or be like because if there
+is only like a single aesthetic trope that indicates sustainability then it can easily
+be um sort of like used
+used without the ideology that led to it um and that to me is like where you end up with
+green washed things like things that like use a trope of some sort of visual trope to
+sort of say or try to signal that there's something environmentally friendly about them
+or like socially positive about them but otherwise they're sort of like manufactured or produced
+using all of the same sort of uh negative systems that led us to all these problems
+in the first place um you saw this to me this was like especially prevalent in the um mid
+to like like 2006 through a few years ago you know there's like all these computer companies
+that were making um bam or maybe not all like i know asus was making bamboo enclosures for
+some of their laptops and desktops and to me that was just like so humorous this idea
+that like by slapping a little bamboo shell around this computer that you like magically
+made it not a horrible resource material and uh workplace uh disaster um anyway i'm rambling
+now but no it's good because it actually brings us to pierce's absolute a-bomb of a question
+uh considering many of our electronics are made from labor and materials that are not
+sustainably sourced can any design that uses computers as a tool actually be considered
+sustainable oh my gosh pierce um okay so that was one of the reasons that i that i ended
+up with my like sustainable design can't exist sort of uh quandary was like all of the things
+that i take advantage of to make my work be it personal or like client design work uh
+mainly come from systems that have not accounted for like social or natural consequences of
+of their existence and you you are led down some there are some paths for you though if
+you are interested in sort of uh like trying to philosophically deal with that and like
+turn that into your actual practice so like i am zooming to you all from my apple laptop
+unfortunately but i also have a really old uh lenovo think it's not super old but an
+old lenovo thinkpad that um if i was trying to use it to run windows would be not useful
+for running contemporary windows but for running contemporary uh linux systems it is like totally
+usable still as a computer if you have the right operating system and the right tools
+to run on it um so one way i'm sort of trying to deal with this in my design practice is
+by using um these alternative tools and and the opportunities like reuse existing machinery
+with that so we don't have to make as many new computers uh but we can use systems that
+that work on the computer for much longer or like revive computers that that like otherwise
+aren't capable of working um that said there's like a lot of progress that would need to
+happen um from like particularly like the worker situations to really sort of have a
+good answer uh for you i mean i do have some extreme colleagues that basically like don't
+use computers like i mean they're like slightly socialist so they like borrow somebody else's
+computer when they like really have to but um there are people that are like are attempting
+to not use some of these things at all if possible for those reasons yeah awesome um
+so at this time i think we have time for uh one more question we probably have time for
+more but uh i i do try and be conscientious of the time here uh okay so we have it looks
+like a uh a comment from adria we really need an alternative to our systems which graphic
+design is one part
+is that like uh like all all of our socio-cultural systems is that the context yeah our economic
+systems yeah yeah i mean uh you
+the field of graphic design is sort of like trying to figure out what to do about this
+um and so there is like increasingly this interest in this idea called social design
+and and that like you take the tools of graphic designing that you would be sort of like turning
+to uh traditional business clients and instead think about like how can i work with people
+in the localities around me uh to solve problems that like real people are actually having
+in their community or like in uh community or like non-profit groups that are sort of
+like directly working with like a constituency to actually sort of like improve their situations
+um so there is a sort of like growing body of designers that are sort of turning more
+directly to like using their practice uh for those kinds of interventions um but i i mean
+to me that's part of of how you can use art and design your yourself is that you can make
+things that try uh in in like dunan rabi's critical design idea that try to show other
+opportunities for us to participate in um i i'm just gonna uh sorry i need like three
+minutes to do one more thing and then i'll be done okay i skipped the slides let me just
+find it really quickly and then um the future cone if we can think about the future not
+being fixed but being a set of possibles where is it future cone where are you there it is
+okay so this is from um uh this gets used all the time but uh his name is escaping but
+voros is his last name uh he's a he's a an academic who talks about projected futures
+a lot but there's this this idea that like we're in the present over here in the now
+and if we do nothing we're just sort of like on a linear line into the future but if we
+do something we can like change what kind of future we end up in and each time we like
+shift far like away from just what will happen if we do nothing more and more other options
+kind of open up for how culture and society and life can exist and so that you know um
+i mean it's like really easy to see how this works with like a piece of technology right
+like like go back 20 years uh and you said let's have like i can't wait to get an iphone
+and the iphone would be like away over here in like a potential future and not in like
+an actual future and then it just takes a few years to like reach that where then that
+becomes the baseline like projected future like for sure we're gonna have iphones moving
+forward for like the contemporary i mean for at least a little bit of time like that's
+not like a crazy idea that's just like what we all participate with every day now um so
+some other social system or some other kinds of like value-based judgments that like value
+natural systems over like manufactured economic systems are possible if we can just point
+people in that direction um and then it just becomes the default future after a while i
+mean you know aspirationally that's what happens yeah awesome okay well uh so honestly i'm
+so glad that you showed that slide at the end of the talk with the conclusions instead
+of in the middle because uh being able to consider something that is possible but hasn't
+happened yet becoming the trajectory or the standard for things moving forward by changing
+your actions i think that's a really strong uh sort of like concluding point um so i've
+got uh sort of like a announcement uh as well as a thank you christian i like that thank
+you for being with us here tonight but also for working for what is hilariously like 18
+months with my classes because your initial visit was canceled due to covid and so what
+i got really out of that was i got to work with you for three semesters and instead of
+one week so of all the unpopular benefits of covid you've become a really big part of
+what i've been doing in my classes and it's been a real joy uh it was awesome so uh once
+again thank you so much if you like to stick around and talk with christian or ask questions
+or anything like that i'm sure he's willing to stick around but uh at this point you are
+of course free to go and thanks so much for taking time uh spending time with us tonight
+yeah thanks everybody nice to virtually meet you all and uh say a few words so thanks thanks
+for listening
