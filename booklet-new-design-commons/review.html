@@ -1,0 +1,423 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><title>A New Design Commons — review draft</title><style>
+:root{
+  --ink:#2b2118; --rule:#2b2118; --muted:#6b5d4f;
+  --accent:#c0356c; --paper:#fffdf8; --note:#f3ece0;
+  --measure:34em;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font:16px/1.55 ui-serif,Charter,Georgia,"Times New Roman",serif;
+  -webkit-font-smoothing:antialiased;
+}
+.sheet{max-width:52em; margin:0 auto; padding:4rem 3rem 6rem}
+/* wide right gutter: leave room to write */
+h1,h2,h3,h4,p,ul,ol,blockquote,table,hr{max-width:var(--measure)}
+
+h1{font-size:1.9rem; line-height:1.15; margin:0 0 .25rem; letter-spacing:-.01em}
+h2{font-size:1.15rem; margin:2.4rem 0 .6rem; border-bottom:1px solid var(--rule); padding-bottom:.2rem}
+h3{font-size:1rem; margin:1.8rem 0 .4rem; font-style:italic; font-weight:600}
+h4{font-size:.75rem; margin:0 0 .4rem; text-transform:uppercase; letter-spacing:.09em}
+p{margin:0 0 .85rem; hyphens:auto}
+ul,ol{margin:0 0 .9rem; padding-left:1.2rem}
+li{margin:.2rem 0}
+blockquote{
+  margin:1rem 0 1.1rem; padding:.1rem 0 .1rem 1rem;
+  border-left:2px solid var(--accent); color:var(--muted); font-style:italic;
+}
+blockquote p{margin:.2rem 0}
+code{font:.85em/1 ui-monospace,SFMono-Regular,Menlo,monospace; background:var(--note); padding:.1em .3em}
+a{color:inherit; text-decoration:none; border-bottom:1px solid var(--accent)}
+sup.fn{color:var(--accent); font-size:.65em; vertical-align:super; margin-left:.1em}
+sup.fn::before{content:"["} sup.fn::after{content:"]"}
+hr{border:0; border-top:1px solid var(--rule); margin:2rem 0; opacity:.35}
+table{border-collapse:collapse; font-size:.82rem; max-width:100%; width:100%}
+th,td{border:1px solid var(--rule); padding:.35rem .5rem; text-align:left; vertical-align:top}
+th{background:var(--note)}
+
+/* review apparatus */
+.meta{font-size:.72rem; text-transform:uppercase; letter-spacing:.1em; color:var(--muted); margin:0 0 2rem}
+.meta .status{border:1px solid var(--accent); color:var(--accent); padding:.1em .5em; margin-left:.5em}
+.todo{
+  max-width:var(--measure); margin:1.6rem 0; padding:.9rem 1rem;
+  background:var(--note); border-left:3px solid var(--accent);
+  font-family:ui-sans-serif,system-ui,sans-serif; font-size:.78rem; line-height:1.45;
+}
+.todo h4{color:var(--accent); margin-bottom:.3rem}
+.todo ul{padding-left:1.1rem; margin:0}
+.essay{page-break-before:always; padding-top:1rem}
+.essay:first-of-type{page-break-before:avoid}
+.notespace{height:0}
+
+@media print{
+  @page{ size:letter; margin:0.85in 2.1in 0.9in 0.9in; }
+  body{font-size:10.5pt; background:#fff}
+  .sheet{padding:0; max-width:none}
+  :root{--measure:100%}
+  a{border-bottom:none}
+  a[href^="http"]::after{content:" (" attr(href) ")"; font-size:.75em; color:var(--muted); word-break:break-all}
+  .todo{background:#f2f2f2; -webkit-print-color-adjust:exact; print-color-adjust:exact; break-inside:avoid}
+  blockquote{break-inside:avoid}
+  h2,h3{break-after:avoid}
+  .notespace{height:1.2in}   /* breathing room at the end of each essay */
+}
+</style></head><body><div class='sheet'><section class="essay"><!-- OUTLINE.md -->
+<h1>A New Design Commons — booklet outline</h1>
+
+<p>Eight essays plus an introduction. One idea each. Short enough that each is also a video-essay script and a lecture module.</p>
+<h2>The argument</h2>
+<p>The introduction (<a href="../workshop-open-source-design/A New Design Commons.txt">A New Design Commons</a>) already states it: intellectual enclosure produces "things that limit our future possibles." The booklet takes that seriously as a structure — <strong>three enclosures, three commons, and one shared warrant.</strong></p>
+<ol><li><strong>Tools</strong> are enclosed (Adobe, licensing, rent-not-ownership) → the libre commons</li><li><strong>Images and culture</strong> are enclosed (copyright, Getty, the myth of individual genius) → the semiotic commons</li><li><strong>Materials and ecology</strong> are enclosed (extraction, waste, externalized cost) → the ecological commons</li></ol>
+<p>And in every case the warrant is the same: enclosure narrows the cone of future possibles; commoning widens it. That's essay 8, and it's why it goes last rather than first.</p>
+<h2>How this directory works</h2>
+<p><strong>Source files stay where they are.</strong> Nothing is copied in here. Each essay lists its sources in frontmatter and, once written, <em>supersedes</em> them — at which point the superseded drafts get a one-line pointer at the top saying which essay replaced them. No deletions.</p>
+<p>This means the outstanding merge decisions (which <code>WhatIsSGD</code> draft wins, which of the three "Open Source Design" revisions is real) get <strong>resolved by writing the essay</strong>, not adjudicated in advance.</p>
+<p><code>status:</code> values — <code>empty</code> · <code>drafting</code> · <code>canonical</code></p>
+<h2>The essays</h2>
+<p>All nine have first drafts as of 2026-08-14. Every draft keeps a TO DO comment at the bottom listing what it still needs and which decisions are outstanding. The comments don't render — prose written above them leaves a clean file.</p>
+<table><thead><tr><th>#</th><th>Essay</th><th>Status</th><th>Situation</th></tr></thead><tbody><tr><td>00</td><td>A New Design Commons</td><td>drafted</td><td>Adobe/Figma cold open → three enclosures → what a commons is → Lupton. Mostly your existing prose, reordered.</td></tr><tr><td>01</td><td>Free as in Freedom</td><td>drafted</td><td>Built around the printer story and the <em>impersonal refusal</em>. Three myths section. Raymond appears as a character, not an authority — check that.</td></tr><tr><td>02</td><td>The Libre Designer</td><td>drafted</td><td>The ladder: images → type → software → file formats → machines → practice. Cut from ~39k words of source.</td></tr><tr><td>03</td><td>Everything Is a Remix</td><td>drafted</td><td>Vernacular → the secret we all keep → open source as its survival → Photon → the privilege objection.</td></tr><tr><td>04</td><td>Copyright and the Commons</td><td><strong>canonical elsewhere</strong></td><td><strong>Already finished prose</strong> in <code>workshop-semiotic-commons/</code>. Not redrafted. The file here records what it needs to become a chapter, and flags the overlap with 01 and 03.</td></tr><tr><td>05</td><td>Sustainable Design Doesn't Exist</td><td>drafted</td><td>The stack of books → the piece → four answers → the pivot from despair to prompt.</td></tr><tr><td>06</td><td>Design for the Welfare of All Life</td><td>drafted</td><td>Two models of sustainability → name what you're sustaining → the typeface example → Green Acres as a failure.</td></tr><tr><td>07</td><td>Signs Signaling Sustainability</td><td>drafted</td><td>Jerome Harris → de Botton → the four cases → greenwashing → Alexander.</td></tr><tr><td>08</td><td>Future Possibles</td><td>drafted</td><td><strong>Written from scratch</strong> — the only one. iPhone → the cone → the turn → Bookchin → the test.</td></tr></tbody></table>
+<h2>Notes</h2>
+<ul><li><strong>Read 08 hardest.</strong> Everything else is compression of things you've already said and can be checked against a source. 08 is new prose, and it carries the argument that makes the three parts one booklet.</li><li><strong>04 is the model for what "done" looks like.</strong> It's finished, footnoted, and better than anything a redraft would produce. When the other eight are at that level, the booklet exists.</li><li><strong>The overlap problem is now visible.</strong> Stallman's printer is in 01 and 04. <em>The Cathedral and the Bazaar</em> is in 01 and 04. Vernacular architecture is in 00, 03, and 04. Proposed division, recorded in 04: <strong>01</strong> owns the tools argument, <strong>03</strong> owns the culture argument, <strong>04</strong> owns the legal mechanics and cross-references the other two.</li><li><strong>Two case studies still need a home.</strong> Ecovention Europe (the 100%-ink-coverage palette) and the MICA Grad Zine (one plate per color, sheet flipped and re-run). Ecovention is the strongest demonstration in the corpus of a constraint producing an aesthetic, and it's the answer to the Green Acres failure in 06 — it may belong at the end of 06 rather than in 07.</li><li><strong>Known near-duplicates to resolve while working:</strong> <code>WhatIsSGD.md</code> vs <code>02021140252WhatIsSGD.md</code> (the latter is longer and has a "Define Sustainability" section the former lacks); the two <code>NDC lecture script.txt</code> files at root and in <code>workshop-open-source-design/</code> (<strong>different content, same name, same length</strong> — verified by hash); the two <code>20250121 173715-8A05BF57</code> transcripts; four <code>WhatIsSGD</code> PDFs at root.</li><li><strong>Facts to verify before print:</strong> "Reverberation crosswalks" as a project name (Coreil-Allen's practice is usually New Public Sites); the Baltimore incinerator health statistics; the Adobe/Figma date; whether "book share" is The Book Thing.</li><li><strong>If this becomes the video series too:</strong> essays 07 and 08 are the video-native ones (objects that communicate; a diagram that builds). 01 and 03 are prose-native and would be weakest as video.</li></ul><div class="notespace"></div></section>
+<section class="essay"><!-- 00-introduction.md -->
+<h1>A New Design Commons</h1>
+<p class="meta">Introduction · <span class="status">drafting</span></p>
+<p>On 15 September 2022, Adobe announced it was buying Figma for twenty billion dollars.<sup class="fn">acquire</sup> A former student who works there wrote to me that morning:</p>
+<blockquote><p>The tools we use influence what we make and dictate the people who have access to them. Having a diverse toolset to choose from is good. Even if Figma doesn't change much in the first few years, relying on just one company for design gives Adobe way too much power in dictating which people and how people design.</p><p>— Amanda Yeh</p></blockquote>
+<p>Fifteen months later the deal was dead. Adobe and Figma called it off in December 2023, saying there was no clear path to approval from the European Commission and the UK Competition and Markets Authority.<sup class="fn">terminate</sup> Adobe paid the termination fee and walked away.</p>
+<p>So the thing I was worried about didn't happen. It's worth being exact about why.</p>
+<p>It wasn't stopped by designers. Nobody asked us. It was stopped by competition regulators in two jurisdictions, on competition grounds, and most of the people who would have lived with the result don't live in either one. For fifteen months the future of a tool that a large part of this discipline opens every morning sat with a small number of people in Brussels and London. The discipline had no lever at all.</p>
+<p>That's the condition to notice. Not the deal — the powerlessness the deal revealed.</p>
+<p>Three things worry me about the tools I work with. They can be bought by the company I was trying to get away from. They can be switched off: in 2019 the US sanctioned Venezuela, Adobe wasn't sure whether Creative Cloud counted, and rather than find out the hard way it cut off every Venezuelan IP address.<sup class="fn">venezuela</sup> No designer in that country could open Illustrator. Adobe turned out to be wrong about the sanctions. That didn't give anyone their week back.</p>
+<p>And the people who make my tools are interested in something other than my work. For a while the Photoshop and Illustrator splash screens carried ads for <em>Rings of Power</em>, along with downloadable templates so you could make your own Rings of Power–style designs. A commons where the sharing exists to sell you something else.</p>
+<p>We don't own these tools. We are granted access to them. Paying the rent on time doesn't guarantee the access.</p>
+<p>That is enclosure. It is the same move as running barbed wire across the Great Plains or walling in an English pasture, done to the tools of a discipline.</p>
+<h2>Three enclosures</h2>
+<p>This booklet is about three of them.</p>
+<p>Our <strong>tools</strong> are enclosed. Rented, remotely revocable, and built on aesthetic assumptions we absorb without noticing. Mr. Keedy calls the result a Global Style — an affected modernism now adorning cultural institutions everywhere.<sup class="fn">keedy</sup> I don't think a healthy commons produces that kind of sameness. If Silicon Valley runs on softened corporate modernism, and its tools are built on that assumption, and we are all told to use those tools, then we have no way to make except inside that frame.</p>
+<p>Our <strong>images and culture</strong> are enclosed. Copyright now runs seventy years past the death of the person who made the thing, ninety-five years for a corporation. Most of how humans have made culture involves copying, changing, and remixing what came before. Copyright law works against exactly that.</p>
+<p>Our <strong>materials</strong> are enclosed. The cost of extraction and waste gets pushed somewhere else, onto people who never agreed to carry it. The neighborhoods due south of Baltimore's trash incinerator have the highest rates of asthma, lung cancer, and heart disease in the city.</p>
+<p>Each one takes something that was shared, puts a wall around it, and charges for the gate.</p>
+<h2>What a commons is</h2>
+<p>A shared resource, available to everyone, managed for collective benefit. That is roughly Wikipedia's definition and it is good enough.</p>
+<p>For most of human history this is how making worked. Someone found a solution and it proliferated. It was copied by the people nearby, improved, copied again. Art worked this way. Architecture worked this way. Music, fashion, gardening, blacksmithing, language. This is vernacular design — common design by common people.</p>
+<p>We still all copy each other. It's just a secret now, and getting caught can be a legal problem. Whether it's a problem depends a great deal on the direction of the copying.</p>
+<blockquote><p>My interest in the commons is grounded in a desire for the conditions necessary to promote social justice, sustainability, and happy lives for all. As simple as that.</p><p>— Massimo De Angelis</p></blockquote>
+<p>The economist Elinor Ostrom won a Nobel Prize for studying real commons — fisheries, water systems, forests — and found that the usual warning, the tragedy of the commons, gets the diagnosis backward.<sup class="fn">ostrom</sup> Commons don't fail because they're shared. They fail when someone ignores the self-governing rules that make the sharing work. Enclosure is that kind of rule-breaking: taking from the shared pool and putting nothing back.</p>
+<h2>Why this matters for designers</h2>
+<p>Ellen Lupton, on <em>Thinking With Type</em>, in her 2006 aTypI lecture <em>Univers Strikes Back</em>:<sup class="fn">lupton</sup></p>
+<blockquote><p>My book was never intended for experts. It is a book for everyone, because I believe that everyone on earth needs typography and can benefit from working with letterforms at the highest level.</p></blockquote>
+<p>Widen that from typography to design. Everyone on earth needs design and would benefit from working with design tools and content at the highest level. That requires a more shareable, accessible, equitable distribution of recipes and resources than we have.</p>
+<p>If we are in the business of cultural production and of passing on better possible futures, then the commons is our problem to work on.</p>
+<p>Which is the argument this booklet makes, in three parts and one conclusion: enclosure narrows the range of futures available to us. Commoning widens it.</p>
+<p>Next: the tools.</p>
+<hr>
+<p>Notes &amp; References</p>
+<p><sup class="fn">acquire</sup>: Adobe, "Adobe to Acquire Figma," 15 September 2022: <a href="https://news.adobe.com/news/news-details/2022/adobe-to-acquire-figma">https://news.adobe.com/news/news-details/2022/adobe-to-acquire-figma</a> <sup class="fn">terminate</sup>: Adobe, "Adobe and Figma Mutually Agree to Terminate Merger Agreement," 18 December 2023: <a href="https://news.adobe.com/news/news-details/2023/adobe-and-figma-mutually-agree-to-terminate-merger-agreement">https://news.adobe.com/news/news-details/2023/adobe-and-figma-mutually-agree-to-terminate-merger-agreement</a>. "There is no clear path to receive necessary regulatory approvals from the European Commission and the UK Competition and Markets Authority." <sup class="fn">venezuela</sup>: <a href="https://www.itsnicethat.com/news/adobe-block-venezuela-digital-111019">https://www.itsnicethat.com/news/adobe-block-venezuela-digital-111019</a> <sup class="fn">ostrom</sup>: <a href="https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/">https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/</a> <sup class="fn">lupton</sup>: Ellen Lupton, <em>Univers Strikes Back</em>, aTypI 2006 — also where she presented the Free Font Manifesto, which helped push Dave Crossland toward libre type. Crossland now helps run Google Fonts. [CITE — need a stable link to the lecture or its text] <sup class="fn">keedy</sup>: Mr. Keedy on the "Global Style". [CITE — find the original essay]</p>
+<aside class="todo"><h4>To do</h4><ul><li>Footnote style matches workshop-semiotic-commons/copyright-and-the-commons.md.
+    The other seven drafts still need this pass — they carry inline attributions only.</li><li>Two citations above are unresolved: the Lupton lecture and the Keedy essay.</li><li>Cut or keep the Keedy "Global Style" passage? It's good but it's the one paragraph
+    here that assumes art-school context.</li><li>Reconcile the two NDC lecture scripts — different files, identical names.</li><li>The Amanda Yeh quote is personal correspondence. Get her okay before print, and
+    decide whether she's named or anonymized.</li><li>The Stallman quote on free software combining capitalist, socialist and anarchist
+    ideas is in the source and didn't fit here. It may belong in essay 01.</li></ul></aside><div class="notespace"></div></section>
+<section class="essay"><!-- 01-free-as-in-freedom.md -->
+<h1>Free as in Freedom</h1>
+<p class="meta">One — The Tools Commons · <span class="status">drafting</span></p>
+<p>Richard Stallman worked at MIT's AI Lab in the early 1980s, back when researchers passed code around the way you'd hand someone a wrench. The lab's Xerox printer kept jamming. Stallman had fixed this kind of thing before — the old printer software sent a notice to everyone with a job in the queue, so whoever most needed the printer working went and fixed it. The new printer's source code was not available. Xerox wouldn't share it.</p>
+<p>He quit, and set out to build free versions of everything, starting with an operating system he named GNU.</p>
+<p>The detail he kept returning to wasn't the refusal. It was that the refusal was impersonal:</p>
+<blockquote><p>If he had refused me his cooperation for personal reasons, it would not have raised any larger issue. I might have considered him a jerk, but no more. The fact that his refusal was impersonal, that he had promised in advance to be uncooperative, not just to me but to anyone whatsoever, made this a larger issue.</p></blockquote>
+<p>A jerk is a person. A non-disclosure agreement is a policy. Stallman was arguing with a policy.</p>
+<h2>Free means free</h2>
+<p>The word causes trouble in English, so say it the way the Free Software Foundation says it: free as in free speech, not free as in free beer. Libre, not gratis.</p>
+<p>You can charge money for libre software. People do. The point isn't that nothing costs anything. The point is that nobody stops you from doing what you want with the thing once you have it, the way nobody stops you from repainting a chair you bought.</p>
+<p>Stallman wrote four freedoms:</p>
+<ul><li>Run the program however you want, for any purpose.</li><li>Study how it works and change it. This requires access to the source.</li><li>Redistribute copies, so you can help other people.</li><li>Distribute your modified versions, so the community gets your changes too.</li></ul>
+<p>Translated for people who make things rather than software:</p>
+<ul><li>Access to the recipe. What raw materials does this take, and can everyone get at them?</li><li>The ability to remix and redistribute, with credit.</li><li>An end to predatory vendor lock-in.</li><li>More collaboration.</li></ul>
+<h2>Copyleft is infectious</h2>
+<p>The GNU Public License has a condition attached. Build on GNU-licensed code and your thing has to carry the same license. Use the commons, feed the commons.</p>
+<p>Infectious openness. Freedom as a virus.</p>
+<p>Not everyone liked that. Eric Raymond watched Linus Torvalds and a scattered crowd of volunteers build the Linux kernel faster than any closed company was building anything, wrote "The Cathedral and the Bazaar" about it, and worried that a viral license would frighten off businesses that wanted to build on open code without giving anything back. The MIT license he helped popularize asks only for credit. One step short of the public domain.</p>
+<p>It worked, in the sense that most commercial software today quietly runs on open code its makers never have to share. Including software sold by Adobe. Whether that counts as the commons winning is a question worth sitting with.</p>
+<h2>Three myths</h2>
+<p><strong>You lose control of your work.</strong> You don't. What gets added to or removed from a project stays governed by whoever maintains it. Open doesn't mean unowned.</p>
+<p><strong>Open is unsafe.</strong> Linux runs a large fraction of the world's infrastructure. Thousands of people reading the same code find more problems than a small team can. Many eyes make light work.</p>
+<p><strong>Everything is free as in gratis.</strong> The recipe is free. The ingredients may not be. Anyone can have the plans for a house. Lumber still costs money.</p>
+<h2>Why it's a design argument</h2>
+<p>Stallman's own summary is more interesting than most of the arguments made on his behalf:</p>
+<blockquote><p>Basically, free software combines capitalist, socialist and anarchist ideas. The capitalist part is: free software is something businesses can use and develop and sell. The socialist part is: we develop this knowledge, which becomes available to everyone and improves life for everyone. And the anarchist part: you can do what you like with it.</p></blockquote>
+<p>Dunne and Raby argue that all design is ideological — the process is informed by values, based on a specific worldview. If the status quo is a proprietary set of tools and an enclosed set of images, then designing alternatives to it means finding tools and images that aren't part of it. That's not a purity test. It's the practical requirement of a critical practice.</p>
+<p>Ostrom's Law is the version I keep coming back to: a resource arrangement that works in practice can work in theory.</p>
+<p>It works in practice. You're reading this on infrastructure that proves it.</p>
+<p>Next: what that looks like on a Monday morning.</p>
+<aside class="todo"><h4>To do</h4><ul><li>Decide on Raymond. Source flags his libertarianism as a problem. Right now he's
+    in here as a character in the history rather than an authority — check that reads.</li><li>"Free doesn't mean easy" and "Forks in the road" are section headers in the source
+    that didn't make this draft. Forks especially might deserve a paragraph.</li><li>Linus's law is named in the source; here it's paraphrased as "many eyes make light
+    work." Pick one.</li><li>Source has good FAIF page-cited quotes (pg 3, 5, 9, 184) — only one made it in.</li></ul></aside><div class="notespace"></div></section>
+<section class="essay"><!-- 02-the-libre-designer.md -->
+<h1>The Libre Designer</h1>
+<p class="meta">One — The Tools Commons · <span class="status">drafting</span></p>
+<p>I got here through a budget problem.</p>
+<p>I was designing publications with no art budget. Not a small art budget — none. No stock photos, no hiring a photographer. So I went looking, and found public domain and Creative Commons images scattered across the internet. That was a practical fix for a practical constraint, and it turned into an ideology later.</p>
+<p>The other route in was Drupal, in 2006. People all over the world building modules together, free to download, free to use however I wanted. Later, thinking about sustainability, I read <em>How Buildings Learn</em> and noticed that Stewart Brand's account of vernacular architecture — small fixes, copied down the block, adapted over time — described how Drupal had evolved. Same process, different material.</p>
+<p>The libre designer is a character I play. A utopian device, useful for showing another way. I don't fully live there. I'm writing this on an Apple laptop.</p>
+<h2>Start with the pictures</h2>
+<p>Changing where your images come from is the easiest move available, for four reasons. It works with the tools you already have — nothing to install or reconfigure. You don't need anyone's permission. Often you don't even need new sources, just a different way of searching. And it clears a pile of copyright and contract problems you'd otherwise be carrying.</p>
+<p>Places to start: Openverse, Flickr Commons, RawPixel's public domain section, the Public Domain Review, Archive.org and the Prelinger Archive inside it, the Noun Project, Undraw.</p>
+<p>There's a design argument for this beyond cost and risk. Working from public domain material means you can't search "diverse office team high-fiving" and take the first result. Old material doesn't carry this month's visual clichés. It makes you build a meaning instead of borrowing one, and the work ends up looking like it came from somewhere.</p>
+<h2>Then the type</h2>
+<p>A magnitude harder than images, but not much.</p>
+<p>Some libre fonts are already on your machine. Adobe Fonts carries part of the Google Fonts library, so you can switch a few on without leaving the software you have. Google Fonts has gone hard at variable fonts, which means most newer families arrive with nine weights and italics. The old complaint that libre type means one thin weight and no italics is mostly out of date. Raleway launched from The League of Moveable Type with a single weight, got forked, and the version on Google Fonts now has nine weights, italics, and a display cut.</p>
+<p>Where to look: Velvetyne, The League of Moveable Type, Open Font Library, UseModify, Badass Libre Fonts by Womxn.</p>
+<p>The part designers underuse: you can get the source files. If the family you like is missing a character or a weight, download the UFOs and draw it. If a client needs a custom face, start from the closest libre thing and change it. SIL's fonts carry enormous character sets because SIL makes language materials for communities nobody else typesets for. That's a different set of priorities producing a different kind of quality.</p>
+<h2>Then the software</h2>
+<p>This is the real chasm.</p>
+<p>Frame it right or it won't work: these are not replacements. They are alternatives. They do things differently and you can arrive at the same place — a well-made graphic object.</p>
+<p>Start with tools that have no proprietary equivalent, so you're gaining something instead of giving something up. Drawbot. Nodebox. Processing. OBS. There's no Adobe app that does what these do.</p>
+<p>Then the rest, when you're ready: Inkscape, Scribus, GIMP, Krita, Blender, Darktable, FontForge, Audacity, LibreOffice. ImageMagick and Ghostscript run in the background and in the terminal — hand ImageMagick a PDF and get back a folder of JPGs.</p>
+<h2>File formats are the sleeper argument</h2>
+<p>SVG is an open standard that works in print and on the web. Illustrator reads it. Figma reads it. It's also XML, so a text editor reads it.</p>
+<p>That holds across the ecosystem. A Scribus document is XML. You can open it in a code editor, see what's happening, add a page by hand, save it, and reopen it in Scribus. Try opening an .ai file the same way.</p>
+<p>This is what you're buying: the ability to fix your file without the company that made it.</p>
+<h2>Machines, and the ones you already have</h2>
+<p>GNU/Linux runs on almost anything, from a Raspberry Pi to a mainframe. That means an old laptop that can't handle a current version of Windows is often perfectly good with a current Linux on it. My old ThinkPad is useless for contemporary Windows and completely usable otherwise.</p>
+<p>You should be able to fix your computer. You should be able to change it. That's getting harder everywhere, and Apple is the worst offender — proprietary parts, trackpads that Linux kernels struggle to talk to, security chips that make the newest models nearly impossible to liberate.</p>
+<p>And there's a design point buried here. A designer should have some say in how their studio works. On Linux you pick the desktop environment, the icons, the interface type. You can design the thing you design inside of.</p>
+<h2>Liberate the practice</h2>
+<p>Images, type, tools, machine. Then the work itself.</p>
+<ol><li><strong>Share your process.</strong> Successes and failures, and probably the failures more. Name who you took from.</li><li><strong>Share your source files.</strong> Documentation is better. Files alone still let someone open them and learn.</li><li><strong>Use text-editable formats where you can.</strong> Easiest to work with, easiest to version, easiest to preview on the real system.</li><li><strong>Collaborate.</strong> Design keeps insisting on the singular visionary. That's partly design history's fault.</li><li><strong>Donate.</strong> Work that didn't get used can go to the public domain instead of a dead folder.</li><li><strong>Contribute.</strong> Make examples for a type designer whose font you use. Build a site for a project that needs one. Answer design questions in an issue tracker.</li></ol>
+<h2>Why designers don't</h2>
+<p>Won't get credit. Pride. Not wanting anyone to see how the sausage is made. File formats. Tooling. Fear of design by committee. Greed, sometimes — I might sell this. Mostly, no particular desire to.</p>
+<p>None of these survive much scrutiny, and the benefits are good enough that staying out looks foolish.</p>
+<p>Here's the part I'd rather leave you with. Desktop publishing was shaped by about eight people in the early 1980s, for a small Macintosh, and most of those decisions are still sitting in your dock. Designers are supposed to be the people who make interfaces. Almost all of us use the same software on the same machines, which gives us a very narrow sense of what an interface can be.</p>
+<p>There are tools out here that don't exist on a Mac. That alone is worth the trip.</p>
+<aside class="todo"><h4>To do</h4><ul><li>Cut the tool lists down further? Right now they're bare lists per the reference-cluster
+    rule, but a booklet might want fewer names and more reasoning.</li><li>The content warnings from the source ("I will be derogatory towards neoliberalism")
+    are funny live and don't survive on the page. Left out — check you agree.</li><li>The Knuth/TeX/Metafont anecdote is in the source and got cut for length. It's a
+    genuinely good origin story for design people specifically. Reinstate?</li><li>"What's hard / what's bad" section in the source is honest and mostly missing here.</li></ul></aside><div class="notespace"></div></section>
+<section class="essay"><!-- 03-everything-is-a-remix.md -->
+<h1>Everything Is a Remix</h1>
+<p class="meta">Two — The Semiotic Commons · <span class="status">drafting</span></p>
+<p>For most of human history, making things was communal. Somebody found a solution. It proliferated. The people nearby copied it, improved it, passed it on. Over time the improvements accumulated into something none of them could have made alone.</p>
+<p>Art worked this way. Architecture worked this way. Industrial design, music, fashion, gardening, science, technology, language, blacksmithing — all of it.</p>
+<p>This is vernacular design. Common design by common people.</p>
+<p>You can still see it. Adobe dwellings in the Southwest and Cape Cod cottages in the Northeast are both the same process running in different weather: a technique found that answers local conditions cheaply and reliably, duplicated by neighbors, varied through imitation and experiment, forking into site-specific specializations. Nobody drew the master plan. The buildings are the record of everyone's edits.</p>
+<p>Then it mostly stopped. Mass production made copying an industrial act instead of a neighborly one. Copyright expanded until derivative work became a legal exposure. And modernism's one-to-one semiotics made universal solutions the goal, which is the opposite of a regional variation.</p>
+<h2>The secret we all keep</h2>
+<p>We still copy each other constantly. It's just covert now, and when you copy too much or in the wrong way it stops being a craft question and becomes a legal one.</p>
+<p>Whether it's a problem depends on the direction of the copying.</p>
+<p>A student quoting a corporation is theft. A corporation quoting a student is research. Same act, different direction, completely different consequence. Any account of the commons that doesn't start there is nostalgia.</p>
+<h2>Where it survived</h2>
+<p>The vernacular didn't disappear. It reappeared among computer scientists, under three names — free software, libre, open source — and started running the same loop at speed. Share, iterate, copy whatever works best.</p>
+<p>Thousands of people around the world built the Linux kernel together. That community had advantages no in-house engineering team could match: the product shipped constantly and was used widely, which subjected it to more scrutiny than any internal QA process could produce, and let fixes go out several times a day.</p>
+<p>The reward system is the part designers should look at hardest. People contributing to these projects are not being paid. They do it out of need, curiosity, and pride. Recognition and reputation are the return. Motivation comes from the community.</p>
+<blockquote><p>To solve an interesting problem, start by finding a problem that is interesting to you.</p><p>— Eric Raymond</p></blockquote>
+<p>Stallman started building GNU because a printer wouldn't work and Xerox wouldn't show him the code. Pragmatism is at the heart of the practice.</p>
+<h2>Open source design has no style</h2>
+<p>There's no open source look. No visual guidelines, no signature. It's infrastructure, not an aesthetic — a way of enabling non-hierarchical, community-sourced collaboration that leaves no trace on the surface of the work.</p>
+<p>Mozilla's Photon Design is the clearest case. Grid tools, color palettes, icons, motion principles, typography, built by contributors across the globe. It gave Firefox developers a cohesive toolkit and a consistent identity at the same time. It also made the thing genuinely accessible: Firefox runs in over eighty languages, and the diversity of the contributor base is why. Screen reader support got attention because people who needed it were in the room.</p>
+<p>Smaller versions of this are available to anyone. Share data, assets, process. Show the mistakes. Show the technique. Ask a client whether the unused assets can go out into the world instead of into a dead folder. Libraries of icons, palettes, and layouts can be built and improved with almost no extra effort, out of work that already exists.</p>
+<p>Garth Braithwaite's manifesto is short enough to quote whole:</p>
+<blockquote><p>I will:</p><p>find opportunities to design in the open</p><p>share my design experiences; both the good and the bad</p><p>find time for meaningful projects</p><p>openly participate in design discussions</p><p>work with other designers by choice</p><p>improve my toolbox</p></blockquote>
+<h2>The honest objection</h2>
+<p>This is a privileged practice. It needs a computer, a baseline of technical competence, free time, energy, and the willingness to share. Not everyone has those.</p>
+<p>Worth saying anyway, because the alternative model has its own problem. Social design usually installs an outside team as facilitator, arbiter, and organizer of somebody else's community, and often never checks whether the intervention worked. Open source cuts that role out. The power to name problems and propose solutions stays with the people who have them, and feedback comes from the user base, so change is constant and proportional to need.</p>
+<p>Communities are not short of creativity. The solutions have usually already been described by someone living there. What's missing is time, resources, and access to infrastructure.</p>
+<h2>Keep the trail</h2>
+<p>None of this requires giving up authorship. It should make lineage easier to see, not harder. If you've credited your remixing properly, there's nothing to worry about in copying, combining, and transforming.</p>
+<p>So stop hoarding. The old work, the good work that never ran, the syllabi, the projects. Share-alike them. The lineage doesn't need to be a secret.</p>
+<blockquote><p>What if we re-conceive the archive as a point of origin, as a birthplace for new works and a rebirthing venue for old works?</p><p>— Rick Prelinger</p></blockquote>
+<p>Copy. Transform. Combine.</p>
+<aside class="todo"><h4>To do</h4><ul><li>Lines ~136–176 of "A New Design Commons.txt" are finished, publication-quality prose
+    ("Reinventing Design as Open Source"). This draft cannibalizes them heavily but
+    reorders. Consider using that essay nearly whole instead and cutting this version.</li><li>The Norwegian folktale workshop is the live demonstration of this argument and
+    isn't in the draft at all. Either bring it in as the closing case or leave it
+    as workshop-only. Needs your call.</li><li>Enzo Mari, Autoprogettazione — "the best way to avoid being designed yourself" —
+    is in the source and got cut. It's a strong closer if you want one.</li><li>"But only copy from the top" (Libby Marrs, normcore) is a sharper version of the
+    direction-of-copying argument. Worth folding in.</li></ul></aside><div class="notespace"></div></section>
+<section class="essay"><!-- 04-copyright-and-the-commons.md -->
+<h1>Copyright and the Commons</h1>
+<p class="meta">Two — The Semiotic Commons · <span class="status">canonical-elsewhere</span></p>
+<p><strong>This essay is already written.</strong> See <a href="../workshop-semiotic-commons/copyright-and-the-commons.md"><code>workshop-semiotic-commons/copyright-and-the-commons.md</code></a> — finished, footnoted, publication-ready. Nothing here should replace it.</p>
+<p>It runs: the Originis myth of the Author → copyright briefly (Berne, 1710, life plus seventy, ninety-five for corporations) → idea vs. expression via the chairness problem → fair use, Fairey and Warhol → the public domain and its re-enclosure problem, via Disney's Snow White → Ostrom on why commons actually fail → Stallman, Raymond, Lessig → where to find the material → why designers should care (Venezuela; and the argument that public domain sources force you to build meaning rather than borrow one).</p>
+<h2>What it needs to become a booklet chapter</h2>
+<p><strong>Trim the workshop scaffolding.</strong> It opens as <em>"a primer for running this workshop — or any workshop like it — without me in the room"</em> and closes with <em>"Now go cut something up."</em> Both are right for a workshop handout and wrong for a chapter. The closing line before them — "Everything is a remix" — is the real ending.</p>
+<p><strong>Resolve the overlap with essays 01 and 03.</strong> Stallman's printer story appears here and in 01. The Cathedral and the Bazaar appears here and in 01. Vernacular architecture and <em>How Buildings Learn</em> appear here and in 03. Right now the same material is doing service in three chapters.</p>
+<p>Suggested division: <strong>01</strong> owns Stallman and the four freedoms as the argument about tools. <strong>03</strong> owns vernacular and remix as the argument about culture. <strong>04</strong> owns the legal mechanics — what copyright actually is, what fair use actually covers, what the licenses actually do — and cross-references the other two rather than re-telling them. That means cutting the Stallman and Raymond paragraphs here down to a sentence each with a pointer back.</p>
+<p><strong>Keep the fairy-tale opener.</strong> The mythic register at the top and the drop into plain prose right after is doing real work, and it's the only place in the booklet that opens that way.</p>
+<p><strong>Decide about the mid-essay chair sequence.</strong> Four chairs, each a different expression of chairness. It's the clearest explanation of idea-vs-expression in the whole repo. It also connects to the Oka Terra Chair thread flagged in <code>SHARED-COMPONENTS.md</code> for the circular-economy workshops.</p>
+<aside class="todo"><h4>To do</h4><ul><li>Two transcripts of the 2025-01-21 talk exist with near-identical names. Determine
+    which is the better pass (v2 is shorter — 11.5k vs 12.2k — possibly already cleaned),
+    rename both meaningfully, mark the loser superseded.</li><li>The 2025-01-10 transcript is a DIFFERENT delivery at a different venue. Worth
+    mining for anything that landed better there.</li><li>Once this is settled, update SHARED-COMPONENTS.md — it currently flags this file as
+    unresolved between "Day One of the semiotic zine workshop" and "standalone workshop #4."
+    It now has a third job as a booklet chapter, which probably settles the question.</li><li>DECISION NEEDED: does the booklet reference the workshop file, or does a trimmed
+    copy live here? Referencing keeps one copy (your rule). A booklet that's mostly
+    pointers is a worse booklet. My vote: when you finalize, the trimmed chapter lives
+    HERE and the workshop file becomes the pointer, since the workshop can afford to
+    say "read the chapter, then go cut something up."</li></ul></aside><div class="notespace"></div></section>
+<section class="essay"><!-- 05-sustainable-design-doesnt-exist.md -->
+<h1>Sustainable Design Doesn't Exist</h1>
+<p class="meta">Three — The Ecological Commons · <span class="status">drafting</span></p>
+<p>In grad school I had a stack of books on my desk about sustainability and design, and I was not getting through them. No sane person has time to read all of it. That was the problem I actually had, and the project came out of it: could I make the ideas in that stack easier to get at?</p>
+<p>I started by mapping connections between them. Which ideas repeated. Which principles showed up in three books written decades apart. It turned into a zine — an essay per principle, written by me, each one pointing back at where I'd taken it from, so a reader could get the idea and then know where to go for more.</p>
+<p>Then I looked at what I'd made and noticed I had only photographed the books that were already sitting on my desk.</p>
+<p>Why not use the books.</p>
+<h2>The piece</h2>
+<p>For the exhibition, the books were the books. My actual copies, on strings, connected to screen-printed aphorisms — the long essays compressed down to single lines.</p>
+<p>The constraints produced the form:</p>
+<ul><li>The definitions were screen printed on found paperback novels from a book share, on the front matter, so the novels stayed readable and went back to the book share afterward.</li><li>The embroidery floss connecting everything was cut in the longest pieces possible, to maximize what could be reused after.</li><li>The whole thing assembled in the gallery and came apart into its constituent parts when the show closed.</li></ul>
+<p>I'd call it a poster. It does what a poster does — it's posted in a public place and it has something clear to tell you. It also sits in a strange place between poster and sculpture, which is a useful place for a graphic design object to be in a gallery.</p>
+<h2>Four answers</h2>
+<p>That piece was my last answer to the question I'd been asking the whole time in grad school: what does sustainable graphic design look like? Across the work I'd made, four answers had emerged.</p>
+<p><strong>It looks the same.</strong> Good design is good design. Pick better materials and processes and nothing has to change visually.</p>
+<p><strong>It looks eco-friendly.</strong> Environmentalism on the sleeve. Kraft paper, plant motifs, natural dyes, visible reuse.</p>
+<p><strong>It looks innovative.</strong> Sustainability brings new tools, new technology, new social arrangements, so the visuals should be new too.</p>
+<p><strong>It doesn't exist.</strong></p>
+<h2>The fourth one</h2>
+<p>That last answer started out as despair. Everything I make is waste. Anything I make requires unmaking something else. I'm turning the world into ephemeral garbage, and calling it a practice.</p>
+<p>That's a real position and plenty of people stop there.</p>
+<p>What changed it was noticing that the piece I'd just finished didn't exist either — in a different sense. It was ephemeral. It reused things that already existed. It left no trace. It came apart and went back into circulation. The books went home. The floss got used again.</p>
+<p>So "sustainable design doesn't exist" stopped being a verdict and turned into a prompt. Can I make a designed object with no footprint? One so embedded in the systems that produce it that there's nothing left over?</p>
+<p>That question generates work. The despair version doesn't generate anything.</p>
+<h2>What it's for</h2>
+<p>The pivot matters beyond one grad school project, because it's the move that makes the rest of this part of the booklet possible.</p>
+<p>If sustainable design is a style, then it's a look you can apply, and it can be faked. If it's an absence — a thing that leaves nothing behind, that stays inside its own cycles — then it's a property of how the thing was made and what happens to it after, which is much harder to fake and much more interesting to design toward.</p>
+<p>It also stops the question being about materials alone. An object fully embedded in the systems that create it is a description of a commons: nothing extracted that isn't returned.</p>
+<p>Next: what we're actually trying to sustain.</p>
+<aside class="todo"><h4>To do</h4><ul><li>The Hixson-Lied telling is the tightest and this draft leans on it. Check the
+    Sustainabilitist Principles description against 02021140252WhatIsSGD.md §21–31,
+    which calls it "a modular manifesto" — better phrase than anything here.</li><li>ASustainableDesigner.md:49 has ((Future cone!?)) at exactly this pivot. That's a
+    pointer to essay 08. Left as a cross-reference; consider making it explicit in prose.</li><li>Is "book share" the right term? It appears twice in the transcript. Baltimore has
+    The Book Thing — check whether that's what this was.</li><li>The closing paragraph does the work of tying this to the commons argument. It's the
+    one part with no source behind it — it's my join, not yours. Verify you agree with it.</li></ul></aside><div class="notespace"></div></section>
+<section class="essay"><!-- 06-welfare-of-all-life.md -->
+<h1>Design for the Welfare of All Life</h1>
+<p class="meta">Three — The Ecological Commons · <span class="status">drafting</span></p>
+<p>Sustainability gets drawn two ways, and the difference between them decides everything that follows.</p>
+<p>The common one is the <strong>triple bottom line</strong>: three circles, social, economic, ecological, and you aim for the overlap in the middle. It's a workable practical model. It has one bad property — you can sit in the economic circle, ignore the other two, and still describe yourself as doing sustainability. Each circle is available on its own.</p>
+<p>The better one is <strong>nested</strong>: economy inside society inside nature. Economic systems don't exist apart from social ones. Societies don't exist apart from nature. Draw it this way and every decision is a decision made inside nature. You can't accidentally leave a kind of sustainability out, because there aren't separate kinds.</p>
+<p>The first is sustainability in practice. The second is sustainability as a worldview.</p>
+<h2>Name what you're sustaining</h2>
+<blockquote><p>The key to doing something about sustainability is that you first have to say what it is that you want to sustain.</p><p>— John Ehrenfeld, <em>Flourishing</em> (2013)</p></blockquote>
+<p>Sustainability is always in relation to something. You sustain <em>something</em>. The word does no work on its own.</p>
+<p>Look at the definitions in circulation and none of them finish the sentence. The Brundtland Commission, 1987, still the most quoted:</p>
+<blockquote><p>Sustainable development [is] development that meets the needs of the present without compromising the ability of future generations to meet their own needs.</p></blockquote>
+<p>Then the variations: equity over time, living within limits, leaving things better than you found them, improving human life without foreclosing other systems. The golden rule extended forward in time. All of them true. None of them says what's being sustained.</p>
+<p>Which matters, because you can pick badly. Sustain the status quo and "sustainable design" means keeping this going. That's a coherent reading of the word and it's the one most corporate sustainability programs are quietly using.</p>
+<p>Ehrenfeld answers his own question: he wants to sustain <em>that all humans and other life should flourish.</em></p>
+<p>Bruce Mau got somewhere similar with Massive Change: <em>"our project is the welfare of all life as a practical objective."</em></p>
+<p>Put that into design and the definition falls out:</p>
+<p><strong>Sustainable graphic design is graphic design in support of all life flourishing. Graphic design for the welfare of all life.</strong></p>
+<h2>Which is a different job</h2>
+<p>All life flourishing is not the goal of business, of culture, or of design as currently practiced. Defined this way, sustainable graphic design is doing something other than ordinary cultural production.</p>
+<p>Across Western art and design history, new goals and new tools have gone along with new aesthetics. If the objective changes, the way you decide things changes, and eventually the way things look changes.</p>
+<p>Take picking a typeface. Normally that's taste — closer to choosing a style of house than to solving anything. Now give it an objective. Less ink is better, so pick the lighter face. Less paper is better, so pick the condensed one. Combine them: the thinnest, most condensed, lowest-coverage face wins. Push it far enough and you arrive somewhere ludicrous.</p>
+<p>The absurdity is instructive. It's a real criterion, it critiques a decision that's usually arbitrary, and it produces a visual language you wouldn't have chosen. It also doesn't obviously serve the welfare of all life, which tells you resource math alone isn't the whole answer.</p>
+<p>There are people working on this seriously. Ryman Eco is a big decorative serif drawn with inline elements knocked out of the letterforms — it reads as filled at text size while using about a third of the ink, and becomes ornamental when set large. On the web, subsetting a typeface to the characters you actually use makes the page load faster and take less energy to serve. Performance and ecology point the same direction there.</p>
+<h2>Ideological, therefore critical</h2>
+<blockquote><p>All design is ideological, the design process is informed by values based on a specific world view.</p><p>— Anthony Dunne and Fiona Raby, <em>Design Noir</em> (2001)</p></blockquote>
+<p>Dunne and Raby argue for critical design: design that provides a critique of the prevailing situation through objects embodying alternative social, cultural, technical, or economic values. Design works for this because people already know how to read designed objects. An interface, a poster, a piece of packaging is a more familiar window than an art piece or an experimental score.</p>
+<p>With the welfare of all life as the worldview, sustainable graphic design isn't only design that helps people and the planet. It's design critical of the existing social, cultural, technical, and economic arrangements — because a lot of those arrangements are what's preventing the flourishing.</p>
+<h2>Green Acres, and getting it wrong</h2>
+<p><em>Green Acres: Artists Farming Fields, Greenhouses, and Abandoned Lots</em> was a book I made with the curator Sue Spaid for the Contemporary Arts Center in Cincinnati. The artists in it used farming as their practice. I wanted the book to be as ecologically inventive as the work in it.</p>
+<p>My idea was to stage the contrast between small art farms and industrial agriculture, visually. Aerial Midwestern farm photography at the section breaks. Decorative elements pulled from the logotype, referencing field furrows. A page grid built on township squares — the same tiny farm squares visible in the aerial shots.</p>
+<p>Nobody gets it. No reader has ever looked at that book and understood something new about industrial agriculture because of the page grid. It's too abstract to function as critique, and it's an inert way to be critical of anything.</p>
+<p>What actually made the book more sustainable was mundane: print on demand, recycled unbleached paper. Small runs, so no warehouse of unsold copies waiting to be pulped.</p>
+<p>Otherwise it's a well-made modernist book. Which raises the question the rest of this part of the booklet is about: if my design conforms to every standard of good modernist layout, and the only thing I changed was the paper stock, in what sense is it sustainable graphic design?</p>
+<p>Next: what beauty has to do with it.</p>
+<aside class="todo"><h4>To do</h4><ul><li>02021140252WhatIsSGD.md is the spine and this draft follows it closely. The
+    Ecovention Europe follow-up (the 100%-ink-coverage palette, running text to full
+    column height, reusing the Green Acres grid) is the <em>answer</em> to the Green Acres
+    failure and is currently in essay 07's territory. Decide where it goes — it may
+    be better here as the closing section, so this chapter ends on the fix.</li><li>The Jerome Harris quote ("the principles of 'good' modernist design are so embedded
+    in culture that they are the principles of 'good' graphic designing") sits in the
+    source between these two chapters. It probably opens 07.</li><li>Ryman Eco and web-font subsetting come from the Hixson-Lied Q&amp;A, not either draft.</li><li>Once written: prune the four root PDFs and mark both .md drafts superseded.</li></ul></aside><div class="notespace"></div></section>
+<section class="essay"><!-- 07-signs-signaling-sustainability.md -->
+<h1>Signs Signaling Sustainability</h1>
+<p class="meta">Three — The Ecological Commons · <span class="status">drafting</span></p>
+<blockquote><p>The principles of "good" modernist design are so embedded in culture that they are the principles of "good" graphic designing.</p><p>— Jerome Harris</p></blockquote>
+<p>We judge design using criteria inherited from the systems we say we want to critique. Contemporary formal goodness came out of Western art traditions between the late nineteenth and mid twentieth centuries, and those traditions have not so far produced all life flourishing. Usually the opposite.</p>
+<p>You can watch it happen in real time. Every company rebranding right now arrives at humanist geometric sans-serif type. Modernism everywhere, all of it competent, none of it distinguishable. That's fine as far as it goes. The problem is that when it's the only measure of formal goodness we have, it quietly rules out solutions that might be better for reasons the measure can't see.</p>
+<p>So what other criteria are available?</p>
+<h2>Beauty is a rendition of values</h2>
+<blockquote><p>To call a work of architecture or design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in a material medium.</p><p>— Alain de Botton, <em>The Architecture of Happiness</em></p></blockquote>
+<p>De Botton says beauty is your values, materialized. He also happens to say <em>flourishing</em>, which is the same word Ehrenfeld chose for what we're sustaining.</p>
+<p>Put the two together. If the value critical to our flourishing is all life, then design that renders that value is beautiful design. Sustainable design is beautiful design.</p>
+<p>The inverse is the part with teeth. If your design doesn't account for the welfare of all life, then whatever it looks like on the outside, it's ugly. Edwin Datschefski calls this "the hidden ugliness of traditional products."</p>
+<p>What's useful about this as an aesthetic direction is that it doesn't tell you what anything should look like. It tells you what the thing has to <em>say</em>. It indexes values rather than taste, and your values are probably broader than your taste.</p>
+<p><strong>A design is sustainable and beautiful when its form declares that humans and all other life should flourish.</strong></p>
+<h2>The obvious objection</h2>
+<p>Beauty is in the eye of the beholder. Hume: "Beauty in things exists merely in the mind which contemplates them." Stendhal: "There are as many styles of beauty as there are visions of happiness."</p>
+<p>This is not a new problem and I'm not going to solve it. Both things are true at once — beauty is plural, and a design that ignores the welfare of all life is ugly — because the second claim isn't about style. It's about whether the values are there. Two people can disagree completely about how a thing should look and agree about what it should be for.</p>
+<p>The better question isn't what sustainable graphic design looks like. It's what values your design signals out to the world, and how it makes some part of sustainability tangible.</p>
+<p>That's available on any project, at any scale.</p>
+<h2>Four that do it</h2>
+<p><strong>The Amager Bakke vapor ring.</strong> Copenhagen's waste-to-energy plant is clean enough that its stack emits only CO2 and water vapor, and clean enough to be a public park with a ski slope on it. The proposal was for the stack to puff a visible smoke ring for every ton of CO2 captured. It was never built, for complicated reasons. It's still the clearest answer I've seen to a hard problem: how do you make an invisible thing visible enough to think about? <em>(Bjarke Ingels Group)</em></p>
+<p><strong>Reverberation crosswalks.</strong> Brightly painted crosswalks and intersections in Baltimore. Paint on asphalt, which makes this graphic design. You cannot fail to notice them, which is the entire safety argument. The neighborhood around the intersection becomes more walkable the day it's painted. It's cheap, fast, easily replicated, and adaptable to whatever region, culture, and materials are at hand. Usually made with the school or neighborhood that will use it. <em>(Graham Coreil-Allen)</em></p>
+<p><strong>solar.lowtechmagazine.com.</strong> A website run on solar power. Images are bitmapped, which keeps them high resolution at low file size and lets them be recolored per context. The site goes down when the battery does. It asks whether we need constant connection, and demonstrates that aesthetic choices correspond to physical resources even in the digital sphere. <em>(Kris De Decker and Marie Otsuka)</em></p>
+<p><strong>The DC High Water Mark Project.</strong> Sculptural stanchions in the hundred-year floodplain around Washington, marking both where floods have reached and where they're projected to reach. The high black one is the future. You stand next to it and see the water without the flood having to happen. Without seeing your house or your park submerged, even symbolically, you can't picture the alternative. <em>(Curry J. Hackett / Wayside Studio)</em></p>
+<p>Two more worth having: Tattfoo Tan's S.O.S. merit patches, earned through actual sustainability certifications and worn on gray coveralls. And the <em>Cradle to Cradle</em> books themselves — the first printed as a technical nutrient, plastic pages with reclaimable ink, made to re-enter production; <em>The Upcycle</em> printed as a biological nutrient, paper and ink and binding made to decompose. The book performs its own argument. <em>(Braungart and McDonough, designed by Paul Sahre)</em></p>
+<h2>Greenwashing</h2>
+<p>Which is why I stopped looking for a sustainable <em>style</em>.</p>
+<p>If there's a single visual trope that means sustainability, it can be used without the ideology that produced it. Kraft paper and a leaf mark, wrapped around anything.</p>
+<p>Around 2006 several computer companies started putting bamboo shells on laptops. ASUS did it. The idea that a bamboo enclosure makes a computer stop being a resource extraction and labor problem is funny, and it worked on people.</p>
+<p>A trope can be stolen. A value has to be enacted, and it shows up in what the object does rather than in how it's finished.</p>
+<h2>What I actually think now</h2>
+<blockquote><p>There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named. It is never twice the same, because it always takes its shape from the particular place in which it occurs.</p><p>— Christopher Alexander</p></blockquote>
+<p>I spent a long time hung up on how sustainable things should look. I wanted them to have their own aesthetic, something identifiable.</p>
+<p>What I've landed on is that the look matters less than the values underneath it. Anything that promotes the flourishing of nature's interconnected systems will come out formally correct. It doesn't need a particular style or material or typeface handed down from outside. It takes its shape from the place it happens in.</p>
+<p>A wild garden. A biodegradable book. A thriving farmers market.</p>
+<aside class="todo"><h4>To do</h4><ul><li>The Ecovention Europe case (Sara de Bondt's printing manifesto → "use less ink" →
+    a palette where no color exceeds 100% total ink coverage → bitmapped aerial photos →
+    running text full column height) is the strongest single demonstration in the whole
+    corpus of a constraint producing an aesthetic. It's currently in essay 06's sources.
+    Wherever it lands, it needs to be told properly — it's the practical proof of
+    everything this chapter argues.</li><li>The MICA Grad Zine (one plate per color, sheet flipped and re-run) is the other
+    concrete production example and isn't here.</li><li>VERIFY: "Reverberation crosswalks" as a project name. Coreil-Allen's practice is
+    usually "New Public Sites."</li><li>Alexander's "quality without a name" closes both this and the source. It's a big
+    quote to end on. Alternative: end on the three-item list and cut the quote.</li></ul></aside><div class="notespace"></div></section>
+<section class="essay"><!-- 08-future-possibles.md -->
+<h1>Future Possibles</h1>
+<p class="meta">The Warrant · <span class="status">drafting</span></p>
+<p>In January 2007 Steve Jobs stood on a stage and demonstrated a phone that didn't work. The features he showed were being hacked together backstage by a team of engineers, in sequence, so that each one would survive being shown once.</p>
+<p>At that moment the iPhone was possible. Buildable. What nobody knew was whether anyone wanted one. The critics who said it didn't fit the future were describing the future correctly as it stood — nothing about how anyone lived in 2006 required that object.</p>
+<p>Then it shipped, and the future they had described stopped existing.</p>
+<p>That's the mechanism this whole booklet depends on, so it's worth being precise about it.</p>
+<h2>The cone</h2>
+<p>Our ordinary picture of time is an arrow. There's a now. Behind it, a past that looks like a straight line because we're reading it backwards, knowing how it came out. Ahead of it, more arrow.</p>
+<p>But we don't know what's ahead. So the future isn't a line, it's a range — and the further out you go, the wider the range gets. Not an arrow. A cone, opening away from you.</p>
+<p>If you've studied relativity you've met this shape already. Any photon arriving where you are came from somewhere inside a cone of possible origins. If it keeps going, it enters a cone of possible destinations. Same geometry, run in both directions from a single point.</p>
+<p>Joseph Voros graded the futures cone by how likely each region is from where we stand:</p>
+<ul><li><strong>Projected</strong> — what happens if we do nothing and keep going exactly like today.</li><li><strong>Probable</strong> — the things already underway that will most likely continue.</li><li><strong>Plausible</strong> — consistent with what we know, less certain the further out they sit.</li><li><strong>Possible</strong> — we can imagine a path there, we haven't built it.</li><li><strong>Preposterous</strong> — ridiculous, impossible, never going to happen. Except that things which were never going to happen do keep happening.</li></ul>
+<p>Then a category that runs across all of them: <strong>preferable</strong>. The futures you actually want. That's a different axis, and it's different for every person.</p>
+<p>Nobody's preferable future is the projected one. Nobody wants today, extended forever.</p>
+<h2>Moving the cone</h2>
+<p>The iPhone case shows what happens when something crosses from possible into actual. The old projected line truncates. A new cone opens from the new position, and things that used to be preposterous are now merely possible.</p>
+<p>Every invention and every change to how a culture works nudges the cone. Arthur C. Clarke's version: any sufficiently advanced technology is indistinguishable from magic. Think of all the things a person in 1500 would have called fantasy that you used before breakfast.</p>
+<p>This is why designers should care. You are not predicting the future. You are making objects that move the cone, and you're doing it whether or not you're paying attention to which direction.</p>
+<h2>What this booklet has been arguing</h2>
+<p>Here is the turn.</p>
+<p>Enclosure narrows the cone. Commoning widens it.</p>
+<p>Every enclosure in this booklet forecloses options, and it's the same harm three times.</p>
+<p>When your tools are rented, someone else decides what you can make. Adobe cut off Venezuela in 2019 out of caution about sanctions it turned out not to be subject to. Every designer in the country lost access to their work. Whatever those people were going to make next left the cone that morning, by someone else's decision. And the softer version runs constantly: eight people in the early 1980s made a set of choices about what desktop publishing is, and most of the range of things a design tool could be has been unavailable ever since. Not forbidden. Just never built.</p>
+<p>When images and culture are enclosed, the material you can build from shrinks to what you can afford to license. Copyright now runs seventy years past a life, ninety-five for a corporation. Most of how humans have made culture is copying, changing, and remixing what came before. A law that works against that isn't neutral about the future; it makes some futures unbuildable and leaves the ones already owned.</p>
+<p>When materials are enclosed, the cost lands on people who never agreed to carry it, and it lands on the ones with the least room to absorb it. The neighborhoods due south of Baltimore's incinerator have the city's highest rates of asthma, lung cancer, and heart disease. A child growing up there has a narrower cone than a child two miles north. That's not a metaphor. It's a shorter list of available lives.</p>
+<p>A commons is a wider cone. That's the whole claim. Shared tools mean more kinds of things get built. Shared culture means more people can build from more material. Shared materials mean the cost of making doesn't foreclose someone else's options downstream.</p>
+<h2>Doing the impossible</h2>
+<p>In 1978, at the Toward Tomorrow Fair in Amherst, Murray Bookchin gave a talk called "Utopia, not futurism." His argument was that doing the impossible is the most rational thing we can do — that in a crisis, the demand for realism is the unrealistic position, because the realistic options have already been shown not to work.</p>
+<p>He was careful about one distinction, and it's the one worth keeping. Criticizing technocracy is not the same as rejecting technology. The problem isn't the tools. It's who owns them and what they're pointed at.</p>
+<p>That's the futures cone as an ethic instead of a diagram. Deliberately aiming at the preposterous end isn't naive. It's what you do when the projected future is unacceptable and the probable one isn't much better.</p>
+<h2>The test</h2>
+<p>Which leaves one usable question, and it's the thing I'd want someone to take from all of this.</p>
+<p>Does the thing you're making exist in the future you'd prefer?</p>
+<p>If it does, make it. If it doesn't, that's a reason not to — and a reason to go find out what does belong there.</p>
+<p>You can ask it about a poster. You can ask it about a career.</p>
+<aside class="todo"><h4>To do</h4><ul><li>This is the only essay in the booklet written from scratch rather than compressed
+    from existing prose. Read it hardest.</li><li>Once you're happy with it: fill ASustainableDesigner.md:49 and
+    0202103132325-TheseGesturesAreUndoubtedlyUtopian.md:239 with a pointer here.</li><li>DECISION: the light-cone derivation is in here as one paragraph. SHARED-COMPONENTS.md
+    flags it as also belonging to the unwritten GD3 relativity lecture. Fine to appear in
+    both — but if this booklet is the canonical home, note that there.</li><li>Stuart Candy's four generic futures (Continuation / Limits and Discipline / Decline
+    and Collapse / Transformation) are deliberately left out to keep one framework in
+    play. Add only if the chapter feels thin.</li><li>The Baltimore paragraph is the sharpest thing in the draft and the most exposed.
+    Check the health claims against a source you'd cite in print.</li><li>Closer is currently two short lines. Per your usual shape that's right, but it's
+    also the last page of the booklet — see whether it wants to be one line or three.</li></ul></aside><div class="notespace"></div></section></div></body></html>
