@@ -10,7 +10,9 @@ The introduction ([A New Design Commons](../workshop-open-source-design/A New De
 2. **Images and culture** are enclosed (copyright, Getty, the myth of individual genius) → the semiotic commons
 3. **Materials and ecology** are enclosed (extraction, waste, externalized cost) → the ecological commons
 
-And in every case the warrant is the same: enclosure narrows the cone of future possibles; commoning widens it. That's essay 8, and it's why it goes last rather than first.
+And in every case the warrant is the same: enclosure narrows the cone of future possibles; commoning widens it. That's essay 09, and it's why it goes last rather than first.
+
+**Part Four exists because the first three don't add up to an answer.** Everything in parts one to three is something one designer does alone — change your fonts, change your images, learn Inkscape. That's ethical consumption against a structural problem. Teaching is the lever that scales: a brief reaches everyone who takes the class, every year, and shapes what a cohort thinks the defaults are before they have a job telling them otherwise. Without part four, the introduction's promise — *how we might fight this enclosure* — isn't kept.
 
 ## How this directory works
 
@@ -34,7 +36,8 @@ All nine have first drafts as of 2026-08-14. Every draft keeps a TO DO comment a
 | 05 | Sustainable Design Doesn't Exist | drafted | The stack of books → the piece → four answers → the pivot from despair to prompt. |
 | 06 | Design for the Welfare of All Life | drafted | Two models of sustainability → name what you're sustaining → the typeface example → Green Acres as a failure. |
 | 07 | Signs Signaling Sustainability | drafted | Jerome Harris → de Botton → the four cases → greenwashing → Alexander. |
-| 08 | Future Possibles | drafted | **Written from scratch** — the only one. iPhone → the cone → the turn → Bookchin → the test. |
+| 08 | Teaching the Commons | drafted | **Written from scratch.** The lever: what a syllabus does → what it looks like in a brief → access → what I'm not claiming → the multiplier. |
+| 09 | Future Possibles | drafted | **Written from scratch.** iPhone → the cone → the turn → Bookchin → the test. |
 
 ## Notes
 

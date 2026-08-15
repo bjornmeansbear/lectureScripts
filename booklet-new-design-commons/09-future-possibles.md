@@ -100,4 +100,13 @@ TO DO:
     Check the health claims against a source you'd cite in print.
   - Closer is currently two short lines. Per your usual shape that's right, but it's
     also the last page of the booklet — see whether it wants to be one line or three.
+  - KEEDY OBJECTION, unanswered. In the same essay cited in 02, Jeffery Keedy dismisses
+    most self-initiated speculative and critical design as institutional navel-gazing
+    with no real-world purpose. This booklet cites him approvingly in 02 and then leans
+    on Dunne & Raby in 01, 06 and 07 and argues for designing toward preferable futures
+    here. A reader who knows the essay will notice. Bookchin IS the rebuttal — doing the
+    impossible as the rational response to crisis — but the rebuttal currently sits
+    nowhere near the accusation. Either name the disagreement in a footnote or take it
+    on directly in the Bookchin section. Essay 08 helps too: teaching is the answer to
+    "this has no real-world purpose."
 -->

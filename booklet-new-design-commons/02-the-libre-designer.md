@@ -83,7 +83,17 @@ None of these survive much scrutiny, and the benefits are good enough that stayi
 
 Here's the part I'd rather leave you with. Desktop publishing was shaped by about eight people in the early 1980s, for a small Macintosh, and most of those decisions are still sitting in your dock. Designers are supposed to be the people who make interfaces. Almost all of us use the same software on the same machines, which gives us a very narrow sense of what an interface can be.
 
+Mr. Keedy gets at the same thing from the other side. He named the "Global Style" — modernist tropes recycled without the ideology that produced them, in a register he describes as "I'm not going to try and impress you with skill, craft, technique, originality, or complexity, because that's been done already."[^keedy] His sharpest observation is about the grid. In classic modernism the grid was drawn, argued over, visible on the page. In the Global Style it lives in the invisible coordinates of the software — the x/y axes, the pixel, the code. The aesthetic arrives feeling like nature instead of like a decision somebody made.
+
+Eight people made those decisions. You can go and use something they didn't build.
+
 There are tools out here that don't exist on a Mac. That alone is worth the trip.
+
+---
+
+Notes & References
+
+[^keedy]: Jeffery Keedy (Mr. Keedy), "The Global Style," *Slanted* #22, winter 2013/2014: <https://issuu.com/slanted/docs/slanted22_issuu/48>. Revisited in 2015 on CalArts' *Inform*: <https://inform.design.calarts.edu/2015/01/the-new-global-style-revisited/>. Further reading, Ian Lynam: <https://ianlynam.com/idea-389/>. Note that Keedy dismisses most self-initiated speculative and critical design in the same essay — see essay 09.
 
 <!--
 TO DO:
