@@ -75,6 +75,8 @@ Images, type, tools, machine. Then the work itself.
 5. **Donate.** Work that didn't get used can go to the public domain instead of a dead folder.
 6. **Contribute.** Make examples for a type designer whose font you use. Build a site for a project that needs one. Answer design questions in an issue tracker.
 
+(This is from Garth Braithwaite's "Designers Can Open Source" -- https://garthdb.com/talks/blendconf2013/ -- https://www.youtube.com/watch?v=djf8sLjtbzU)
+
 ## Why designers don't
 
 Won't get credit. Pride. Not wanting anyone to see how the sausage is made. File formats. Tooling. Fear of design by committee. Greed, sometimes — I might sell this. Mostly, no particular desire to.
@@ -93,7 +95,7 @@ There are tools out here that don't exist on a Mac. That alone is worth the trip
 
 Notes & References
 
-[^keedy]: Jeffery Keedy (Mr. Keedy), "The Global Style," *Slanted* #22, winter 2013/2014: <https://issuu.com/slanted/docs/slanted22_issuu/48>. Revisited in 2015 on CalArts' *Inform*: <https://inform.design.calarts.edu/2015/01/the-new-global-style-revisited/>. Further reading, Ian Lynam: <https://ianlynam.com/idea-389/>. Note that Keedy dismisses most self-initiated speculative and critical design in the same essay — see essay 09.
+[^keedy]: Jeffery Keedy (Mr. Keedy), "The Global Style," *Slanted* #22, winter 2013/2014: <https://issuu.com/slanted/docs/slanted22_issuu/48>. Revisited in 2015 on CalArts' *Inform*: <https://inform.design.calarts.edu/2015/01/the-new-global-style-revisited/>. Further reading, Ian Lynam: <https://ianlynam.com/idea-389/>. Note that Keedy dismisses most self-initiated speculative and critical design in the same essay, but I dig the general gist.
 
 <!--
 TO DO:
