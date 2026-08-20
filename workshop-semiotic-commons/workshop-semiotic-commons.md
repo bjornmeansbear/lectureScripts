@@ -67,9 +67,12 @@ $2,000–$3,000 plus travel and materials. Single-day version available.
 
 ## Prior versions
 
-- University of Utah, January 2025 — first run. Steamboat Willie stills and Victorian clip art, public domain. The Ash Lad Who Had an Eating Match with a Troll as source text.
-- MICA Baltimore, My own classes, January 2025, August 2025 — second and third runs, same folktale and image set. Started a companion zine documenting the workshop (unfinished, see `variations-on-a-norwegian-folktale.md`).
-- Germany, October 2025 — evolved from the above. Participants' own family photographs as the commons instead of the Steamboat willy based initial image sets.
+- University of Nebraska–Lincoln, 2021 — the root of the method, before the folktale existed. An intro visual fundamentals class pooled their own patterns and other work into one shared set, then made digital collages from it.
+- University of Utah, January 2025 — first run of this version. Steamboat Willie stills and Victorian clip art, public domain. The Ash Lad Who Had an Eating Match with a Troll as source text. **Zine only, one day.**
+- MICA Baltimore, my own classes, January 2025 and August 2025 — second and third runs, same folktale and image set. **Zine only.** Started a companion zine documenting the workshop (see `variations-on-a-norwegian-folktale-evergreen.md`).
+- HAW Hamburg, October 2025 — where the two-day format came from. Participants pooled their own family photographs as the commons instead of the Steamboat Willie image set, **and day two was added here**: take the story out of the zine and make it one aphoristic poster.
+
+Note: the two-day zine-and-poster structure described above has been run once, at Hamburg. The three runs before it were the zine day alone.
 
 ---
 

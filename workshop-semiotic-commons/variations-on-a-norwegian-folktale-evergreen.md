@@ -1,6 +1,7 @@
 # Variations on a Norwegian Folktale
 
 ## Setup:
+The Myth of the Author
 An Introduction: Stories That Belong to Everyone
 One Version: Mickey, a Troll, and Some Victorian Clip Art
 The Challenge
@@ -11,6 +12,9 @@ Instructions: The Public Domain Remix Zine
 Creative Commons
 What Is The Public Domain?
 
+## Running It Yourself:
+Where This Came From
+
 ## Folktale:
 The Ashlad Who Had an Eating Match With a Troll
 
@@ -19,6 +23,18 @@ The Ashlad Who Had an Eating Match With a Troll
 Open-source thoughts on Copyright ©️, Creative Commons, & Creativity
 
 ---
+
+## The Myth of the Author
+
+Once there was an island called Originis, home to rare beings called Authors. The Muses chose them. Lightning came down, and with one stroke of a pen an Author made something out of nothing at all.
+
+Authors lived alone. They kept what they made in towers and let no one near it without great sacrifice. Death didn't break the spell. It took seventy more years for a tower to crumble and the work to get out. Authors spent their lives looking for ways to make the spell last longer.
+
+Like most myths, this one was hiding something. No tower was ever really alone. Under every one of them ran rivers of shared knowledge — old storytellers, the world outside Originis, everything anyone had made before. Once that was known, the Authors lost their power.
+
+The opposite story is just as tempting and just as false: a commons with no walls, where nothing needs protecting and everything belongs to everyone. That isn't how it works either.
+
+The real thing lives in between. Protected enough to be worth making. Open enough to be worth sharing.
 
 ## An Introduction: Stories That Belong to Everyone
 
@@ -32,11 +48,11 @@ One story. One pile of images. What goes in the pile changes from run to run:
 - Whatever a class collects and contributes, printed grayscale and shared out.
 - Anything new that's licensed correctly (footnote: see "what is creative commons" and/or "what is the public domain")
 
-Everyone works from the same material. Everyone retells the same story. Yet, no two retellings come out quite alike.
+The pile has been different every time. Utah got Steamboat Willie stills and Victorian etchings. In Hamburg everyone brought their own personal and family photographs instead. What is the same: Everyone works from the same material. Everyone retells the same story. Yet, no two retellings come out quite alike.
 
 ---
 
-The version in this booklet is one more retelling. And so are every piece that comes out of this workshop. The folktale is printed in the back. The pile starts on page [p.6]. All of it is free to use — take it, run this yourself, change whatever you want.
+The version in this booklet is one more retelling. And so are every piece that comes out of this workshop. The folktale is printed in the back. The pile starts on page [INSERT PAGE]. All of it is free to use — take it, run this yourself, change whatever you want.
 
 ## One Version: Mickey, a Troll, and Some Victorian Clip Art
 
@@ -85,9 +101,11 @@ Fold, staple, or stitch it into a zine.
 
 Your version joins a chain of retellings that already runs through Norway, Asbjørnsen and Moe, a classroom, and now you.
 
+Next: Where This Came From.
+
 ---
 
-Walt Disney released Steamboat Willie in November 1928 — one of the first cartoons with synchronized sound, and still one of the most acclaimed ever made. Mickey Mouse, as he appears in it, entered the public domain in 2024 after 95 years of copyright. Anyone in the US can use this version freely. Later versions of Mickey are separate, newer copyrights, and Disney still protects those.
+Walt Disney released Steamboat Willie in November 1928 — one of the first cartoons with synchronized sound. Mickey Mouse, as he appears in it, entered the public domain in 2024. Anyone in the US can use the Steamboat Willie version freely. Later versions of Mickey are separate, newer copyrights, and Disney still protects those (they're different "expressions", and so copyrighted separately).
 
 Disney fought to keep the original protected for most of that century. Lawmakers extended copyright to life of the author plus 50 years in 1976, then to 70 years in 1998 — 95 years total before this version finally lapsed.
 
@@ -97,12 +115,39 @@ What can we take? What does it mean to create with what came before? How do laws
 
 Working only with public domain and Creative Commons material gives firsthand experience of these blurry edges: authorship, ownership, artistic freedom.
 
-Like the ideas in this text?
-You should look into:
-Everything is a Remix by Kirby Fergesun
-RIP: A Remix Manifesto by
-??? by Lawrence Lessig
-???
+Like the ideas in this text? You should look into:
+
+**Where the argument comes from**
+
+- *Everything Is a Remix* — Kirby Ferguson, 2010–2023. Four short films. Free at everythingisaremix.info.
+- *RiP: A Remix Manifesto* — Brett Gaylor, 2008. A documentary about mashup and copyright. Gaylor released the footage so other people could recut it.
+- *Free Culture* — Lawrence Lessig, 2004. Lessig started Creative Commons. Free download.
+- *Information Doesn't Want to Be Free* — Cory Doctorow, 2014. Doctorow licenses some of his own books CC.
+- *In Praise of Copying* — Marcus Boon, 2010. Harvard put the whole book online for free. It argues copying is basic to being a person.
+- *Common as Air* — Lewis Hyde, 2010. What the founders thought owning an idea was for.
+
+**How meaning gets made**
+
+- "The Death of the Author" — Roland Barthes, 1967. Someone else reading your zine out loud, written down forty years early.
+- *Understanding Comics* — Scott McCloud, 1993. The chapter on the gutter explains what happens between two panels. Read it while you're cutting.
+
+**People who already did this**
+
+- "The Ecstasy of Influence: A Plagiarism" — Jonathan Lethem, *Harper's*, 2007. Assembled entirely out of other people's sentences. The key is at the end.
+- "A User's Guide to Détournement" — Guy Debord and Gil Wolman, 1956. Instructions for cutting up someone else's work. Free online.
+- Hannah Höch and John Heartfield — photomontage, 1920s and 30s. Scissors as a creative (and political) tool.
+- *Sita Sings the Blues* — Nina Paley, 2008. She finished a feature film and then couldn't release it, because of jazz recordings from the 1920s. Years later she put it in the public domain outright.
+- *Fair Use: The Story of the Letter U and the Numeral 2* — Negativland, 1995. They sampled U2 and got sued. 
+- *Notes from Underground* — Stephen Duncombe, 1997. Where zines come from and why people make them.
+
+**The commons, past culture**
+
+- *Governing the Commons* — Elinor Ostrom, 1990. Fisheries, forests, irrigation. Nobel in 2009.
+- *The Cathedral and the Bazaar* — Eric Raymond, 1997. How open source got organized. Full text free.
+- *Copy This Book* — Eric Schrijver, 2018. An artist's guide to copyright, licensed CC BY-ND. Reproduce it whole, don't cut it up. The opposite call from the one this booklet makes.
+- *Public Domain Review* — publicdomainreview.org. Public domain images with the story of where each one came from.
+- *Flickr Commons* — flickr.com/commons
+
 
 ---
 
@@ -141,21 +186,63 @@ CC BY-SA 4.0 // creativecommons.org/licenses/by-sa/4.0/
 
 ### © Copyright?
 
-Copyright grants creators exclusive rights to their work — books, music, film, art, zines — for a fixed term, currently the life of the author plus 70 years in the US. After that, the work enters the public domain, free for anyone to use.
+You can't copyright chair-ness. You can only copyright one specific chair.
 
-This booklet works that boundary. Every image in it came off the pile printed on page [p.6] — Steamboat Willie stills and Victorian clip art, all public domain, cut apart and reassembled. Making something new out of public domain material produces a new copyrighted work the moment it exists, owned by whoever made it. I licensed this one CC BY-SA instead of keeping all rights. The pile it came from gets something back.
+Charles and Ray Eames made a molded plastic side chair. Philippe Starck made the Louis Ghost, a clear plastic version of a Louis XVI chair — a seventeenth-century design anyone can copy. Gerrit Rietveld made a red and blue chair in 1923, old enough now that its copyright ran out. Copy that one freely. The Eames chair, no. There are ports in Europe where cargo containers of replica Eames chairs get destroyed to protect it.
+
+The idea of a chair stays open forever. Four legs, a seat, the posture of sitting. What's owned is one person's answer to it. Give the idea a new form and the new thing is yours, even when everything you built it out of was already free.
+
+That happened here. Every image in this booklet came off the pile. Cut apart and reassembled, it became a new copyrighted work the moment it existed. I licensed it CC BY-SA instead of keeping it. The pile gets something back.
 
 ### © Creative Commons?
 
-Creative Commons licenses sit between full copyright and the public domain — "some rights reserved" instead of "all rights reserved." A creator keeps ownership but pre-clears specific uses. CC0 releases work into the public domain outright; other CC licenses require attribution, or restrict commercial use, or both.
+In the early 1980s Richard Stallman worked at MIT's AI lab, where researchers passed code around like handing someone a tool. Then Xerox stopped letting him see the source code for a printer he was trying to fix. He flew off the handle and decided to build free versions of everything instead.
 
-This booklet uses CC BY-SA: reuse and remix freely, credit the source, license your version the same way. Anyone who builds on it has to leave the door open behind them too.
+His license was viral. Use his code in your software and your software has to be shared the same way. Anyone who takes has to leave the door open behind them.
+
+Creative Commons does this for writing, images, and design. Lawrence Lessig started it because full copyright and the pure public domain are both too extreme for how people actually work. It sits on top of copyright and pre-clears the permission you would otherwise have to ask for one request at a time.
+
+This booklet is CC BY-SA. Reuse it, cut it up, credit the source, license your version the same way. It forces a bibliography.
 
 ### What Is the Public Domain?
 
-Works enter the public domain when copyright expires — 95 years after publication, in Steamboat Willie's case — or when a creator dedicates them to the public outright, or because they were never copyrighted at all, which is true of most old folktales. Once there, no permission is required to use, remix, or share them.
+The Brothers Grimm published Snow White in 1812. By 1937 it belonged to everyone, which is how Disney got it. Disney's version — the character designs, the dwarves' names — is not free. It's protected until 2032.
 
-This workshop worked entirely inside that space. The story, the Mickey stills, the Victorian clip art — none of it needed permission. New culture built directly on what came before, in full view.
+You can tell Snow White any way you want, as long as you don't use anything that's a unique expression from Disney's telling. And since Disney's is the one most people know, the version anyone actually wants to reference is the one they can't touch.
+
+That's the Disney trick. Take from the public domain, make something, and your version gets enclosed while the source stays open. Elinor Ostrom spent her career on real shared things — fisheries, forests, etc. — and won a Nobel for showing that commons don't fail because they're shared. They fail when someone takes from the pool and puts nothing back.
+
+The Ash Lad was never copyrighted. Neither are any old folktales. Steamboat Willie took ninety-five years to get here.
+
+---
+
+## Where This Came From
+
+**University of Nebraska–Lincoln, 2021.** An intro visual fundamentals class pooled their own patterns and other work into one set, then made digital collages out of it. That's sort of the starting place for this artistic commons image pile came from.
+
+**Drawdown Diptychs.** MICA in 2019, again in 2024 and 2025. University of Utah, 2021. Two-to-Five weeks inside a class each time. Project Drawdown researches real climate solutions and publishes the results for anyone to use. Students pick a solution, digs past the summary page, then goes hunting through public domain and open-licensed images for anything that will visually help carry it — literal objects, metaphors, unexpected allusions. The output is two posters that argue with each other about the same solution. A two-day version exists on paper and hasn't been run.
+
+**Variations on a Norwegian Folktale.** University of Utah, January 2025. Zine only. MICA, January 2025, right after. Zine only, same pile. MICA again, August 2025. Zine only, same pile. HAW Hamburg, October 2025: students pooled their own photographs, and the second day — take the story out of your zine, make it one aphoristic poster — was then invented there.
+
+### What's the same
+
+Workshops take their content and their images from a commons.
+
+The folktale belongs to no one. Project Drawdown gives its research away on purpose. You don't need permission for either one.
+
+The images come from the same place both times. Public domain, open licenses, nothing else in.
+
+What changes is what you do with the pair. The folktale version shows you that meaning slips out from under you the moment someone else reads your pages. The Drawdown version sends you looking for an image that will carry a real claim, and then asks you to hold that claim steady across two posters.
+
+### Change it
+
+This doesn't have to run the same way twice. Swap the folktale for another one. Swap the victorian etchings or phublic domain woodcuts or collected photogprahs for whatever people bring. Change the page count, the days, the output. The only rule that has to survive is the pile: shared, finite, free to use.
+
+Nebraska contributed the pooled pile. Drawdown contributed the rule about where the images come from. Utah contributed the folktale and the zine format. Hamburg contributed the poster. Each run took from the ones before it and left something behind. Exemplifying the "commons" ideals itself.
+
+And! The workshop is in the commons too.
+
+Everything here is CC BY-SA. Run a workshop yourself, change whatever you want, teach it under your name. You don't owe me anything. I charge for showing up to help run things.
 
 ---
 
