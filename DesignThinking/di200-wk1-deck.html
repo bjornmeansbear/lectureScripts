@@ -1,0 +1,1103 @@
+<title>Structured Creativity, Week One</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&display=swap">
+
+<style>
+  /* ==========================================================
+     Palette: kit.css tokens only.
+     Every bg/text, bg/muted, bg/accent pair computed at WCAG
+     AAA (>=7:1). Committed single-theme: this is projected,
+     not read in a viewer's OS theme, so section color IS the
+     navigation. Section grounds carry their own explicit colors.
+     ========================================================== */
+  :root {
+    --gray-0: rgb(247,248,238);   --gray-1: rgb(234,234,224);
+    --gray-3: rgb(187,187,176);
+    --gray-7: rgb(52,51,42);
+    --dark-gray-0: rgb(242,248,248); --dark-gray-3: rgb(181,188,188);
+    --dark-gray-7: rgb(46,52,52);    --dark-gray-8: rgb(19,23,23);
+    --light-gray-0: rgb(239,251,233);
+    --light-gray-7: rgb(43,55,37);   --light-gray-8: rgb(16,25,11);
+    --brown-3: rgb(192,185,181);  --brown-8: rgb(25,21,19);
+    --pink-0: rgb(255,203,232);   --pink-2: rgb(255,163,197);
+    --pink-3: rgb(255,129,169);
+    --pink-6: rgb(164,0,65);      --pink-7: rgb(116,0,37);
+    --pink-8: rgb(69,0,11);
+    --purple-1: rgb(252,224,244);  --purple-7: rgb(67,41,60);
+    --purple-8: rgb(34,14,29);
+
+    --font-display: 'Syne', system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --font-sans: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace;
+
+    /* default = §1 opening */
+    --color-bg: var(--gray-0);
+    --color-text: var(--brown-8);
+    --color-muted: var(--gray-7);
+    --color-accent: var(--pink-6);
+  }
+
+  /* ---- section palettes, all AAA ---- */
+  /* §1 opening    warm gray   16.94 / 11.87 / 7.39 */
+  .s-open   { --color-bg: var(--gray-0);       --color-text: var(--brown-8);      --color-muted: var(--gray-7);       --color-accent: var(--pink-6); }
+  /* §2 history    green-tint  16.85 / 11.72 / 11.10 */
+  .s-hist   { --color-bg: var(--light-gray-0); --color-text: var(--light-gray-8); --color-muted: var(--light-gray-7); --color-accent: var(--pink-7); }
+  /* §3 critique   cool gray   16.82 / 11.80 / 11.05 */
+  .s-crit   { --color-bg: var(--dark-gray-0);  --color-text: var(--dark-gray-8);  --color-muted: var(--dark-gray-7);  --color-accent: var(--pink-7); }
+  /* §4 conceit    inverted    16.94 /  9.37 / 7.74 */
+  .s-conceit{ --color-bg: var(--brown-8);      --color-text: var(--gray-0);       --color-muted: var(--brown-3);      --color-accent: var(--pink-3); }
+  /* §5 ethics     pink ground 12.92 /  8.46 / 11.89 */
+  .s-eth    { --color-bg: var(--pink-0);       --color-text: var(--brown-8);      --color-muted: var(--pink-7);       --color-accent: var(--pink-8); }
+  /* §6 ethnog     purple      14.89 / 10.55 / 9.67 */
+  .s-ethno  { --color-bg: var(--purple-1);     --color-text: var(--purple-8);     --color-muted: var(--purple-7);     --color-accent: var(--pink-7); }
+  /* §7 fieldwork  inverted    16.82 /  9.36 / 7.71 */
+  .s-field  { --color-bg: var(--dark-gray-8);  --color-text: var(--dark-gray-0);  --color-muted: var(--dark-gray-3);  --color-accent: var(--pink-3); }
+
+  /* ---- image beats ----------------------------------------
+     Scrim guarantees legibility over ANY image. Worst case is a
+     pure-white photo under the tint; computed at --scrim 0.80:
+         gray-0 text    9.03:1  -> AAA at any size
+         pink-2 accent  5.20:1  -> AAA large (>=24px, or >=18.7px bold)
+     Dial --scrim per slide for an already-dark photo:
+         0.75 -> 7.50 / 4.32      0.70 -> 6.29 / 3.62 (AA only)
+     Images live in images/. If a file is missing the slide still
+     renders as a flat dark ground — nothing breaks.
+     ---------------------------------------------------------- */
+  .beat {
+    --scrim: 0.80;
+    --color-text: var(--gray-0);
+    --color-muted: var(--gray-1);
+    --color-accent: var(--pink-2);
+    background: var(--brown-8) var(--img, none) center / cover no-repeat;
+  }
+  .beat::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--brown-8);
+    opacity: var(--scrim);
+  }
+  .beat > * { position: relative; z-index: 1; }
+  .beat .credit {
+    position: absolute;
+    left: 8cqw; bottom: 10cqh;
+    font-family: var(--font-mono);
+    font-size: 1.2cqw;
+    letter-spacing: 0.08em;
+    color: var(--color-muted);
+    max-width: 60cqw;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--brown-8);
+    color: var(--gray-0);
+    font-family: var(--font-sans);
+    overflow: hidden;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+
+  .stage {
+    position: relative;
+    width: min(100vw, 177.78vh);
+    height: min(56.25vw, 100vh);
+    container-type: size;
+    overflow: hidden;
+  }
+
+  .slide {
+    position: absolute;
+    inset: 0;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    padding: 9cqh 8cqw 13cqh;
+    gap: 3.4cqh;
+    background: var(--color-bg);
+    color: var(--color-text);
+  }
+  .slide.on { display: flex; }
+
+  /* ---- type ---- */
+  h1, h2 {
+    font-family: var(--font-display);
+    font-weight: 800;
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    margin: 0;
+    text-wrap: balance;
+  }
+  h1 { font-size: 8.2cqw; }
+  h2 { font-size: 5.4cqw; }
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 3.2cqw;
+    line-height: 1.1;
+    margin: 0;
+    text-wrap: balance;
+  }
+  p { font-size: 2.6cqw; line-height: 1.4; margin: 0; max-width: 60ch; }
+  .lead { font-size: 3.3cqw; line-height: 1.3; }
+  .small { font-size: 2cqw; line-height: 1.45; color: var(--color-muted); }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 1.5cqw;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  .accent { color: var(--color-accent); }
+  strong { font-weight: 700; }
+
+  a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+    text-decoration-thickness: 0.06em;
+  }
+  a:focus-visible { outline: 0.25cqw solid var(--color-accent); outline-offset: 0.3cqw; }
+  .watch {
+    position: absolute;
+    z-index: 2;
+    left: 8cqw; bottom: 10cqh;
+    font-family: var(--font-mono);
+    font-size: 1.3cqw;
+    letter-spacing: 0.06em;
+    display: flex;
+    gap: 2.4cqw;
+  }
+  .watch a { color: var(--color-accent); }
+  .watch .lbl { color: var(--color-muted); text-transform: uppercase; letter-spacing: 0.14em; }
+
+  .url {
+    display: block;
+    margin-top: 0.5cqh;
+    font-family: var(--font-mono);
+    font-size: 1.4cqw;
+    color: var(--color-muted);
+    overflow-wrap: anywhere;
+  }
+
+  /* ---- quotes ---- */
+  blockquote {
+    margin: 0;
+    border-left: 0.5cqw solid var(--color-accent);
+    padding-left: 2.6cqw;
+    font-size: 3.6cqw;
+    line-height: 1.24;
+    font-weight: 500;
+  }
+  blockquote.big { font-size: 4.6cqw; }
+  cite {
+    display: block;
+    margin-top: 1.8cqh;
+    font-style: normal;
+    font-size: 1.8cqw;
+    color: var(--color-muted);
+  }
+
+  /* ---- lists ---- */
+  ul { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 2cqh; }
+  li { font-size: 2.5cqw; line-height: 1.3; display: flex; gap: 1.8cqw; align-items: baseline; }
+  li .mk {
+    flex: none;
+    font-family: var(--font-mono);
+    font-size: 1.5cqw;
+    color: var(--color-accent);
+    min-width: 2.4cqw;
+  }
+  ul.tight li { font-size: 2.1cqw; }
+  ul.tight { gap: 1.5cqh; }
+
+  /* ---- timeline rows ---- */
+  .rows { display: flex; flex-direction: column; gap: 1.5cqh; }
+  .row {
+    display: grid;
+    grid-template-columns: 12cqw 1fr;
+    gap: 2cqw;
+    align-items: baseline;
+    border-top: 1px solid currentColor;
+    padding-top: 1.3cqh;
+  }
+  .row .yr {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 2.5cqw;
+    color: var(--color-accent);
+    font-variant-numeric: tabular-nums;
+  }
+  .row .what { font-size: 2.1cqw; line-height: 1.3; }
+
+  /* ---- figures ---- */
+  figure { margin: 0; display: flex; flex-direction: column; gap: 2cqh; align-items: center; }
+  figure svg { width: 100%; max-width: 80cqw; height: auto; }
+  figcaption { font-size: 1.9cqw; line-height: 1.4; color: var(--color-muted); text-align: center; max-width: 62ch; }
+  .dia-t { font-family: var(--font-display); font-weight: 700; }
+  .dia-s { font-family: var(--font-mono); letter-spacing: 0.1em; }
+
+  /* ---- two-column ---- */
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 4cqw; align-items: start; }
+  .col { display: flex; flex-direction: column; gap: 1.8cqh; }
+  .col.ruled { border-left: 2px solid currentColor; padding-left: 3cqw; }
+
+  /* ---- yes / no lists for the recording rules ---- */
+  .yesno { display: grid; grid-template-columns: 1fr 1fr; gap: 4cqw; }
+  .yesno h3 { font-size: 2.8cqw; }
+  .yesno ul { gap: 1.1cqh; }
+  .yesno li { font-size: 1.95cqw; }
+
+  /* ---- fieldnote demo ---- */
+  .fieldnote {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-family: var(--font-mono);
+    font-size: 1.6cqw;
+    line-height: 1.45;
+    border: 1px solid currentColor;
+  }
+  .fieldnote > div { padding: 1.8cqh 2cqw; }
+  .fieldnote > div + div { border-left: 1px solid currentColor; }
+  .fieldnote .hd {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 1.3cqw;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 1cqh;
+  }
+
+  /* ---- the tilt: used once ---- */
+  .tilt { display: inline-block; transform: rotate(-7deg); transform-origin: left center; }
+
+  /* ---- section opener slides ---- */
+  .opener { justify-content: center; gap: 2cqh; }
+  .opener h1 { font-size: 9cqw; }
+  .opener .rule { height: 4px; background: var(--color-accent); width: 26cqw; }
+
+  /* ---- chrome ---- */
+  .bar {
+    position: absolute;
+    pointer-events: none;
+    left: 8cqw; right: 8cqw; bottom: 5cqh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    border-top: 1px solid currentColor;
+    padding-top: 1.4cqh;
+    font-family: var(--font-mono);
+    font-size: 1.4cqw;
+    color: var(--color-muted);
+    letter-spacing: 0.06em;
+  }
+  .bar .no { font-variant-numeric: tabular-nums; }
+
+  .title-slide { justify-content: flex-end; padding-bottom: 17cqh; }
+  .title-slide .rule { height: 4px; background: var(--color-accent); width: 24cqw; }
+
+  /* ---- nav ---- */
+  .nav { position: fixed; bottom: 1.2rem; right: 1.2rem; display: flex; gap: 0.5rem; z-index: 10; }
+  .nav button {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    padding: 0.45rem 0.7rem;
+    background: var(--brown-8);
+    color: var(--gray-0);
+    border: 1px solid var(--gray-0);
+    cursor: pointer;
+    line-height: 1;
+  }
+  .nav button:hover, .nav button:active { background: var(--gray-0); color: var(--brown-8); }
+  .nav button:focus-visible { outline: 3px solid var(--pink-3); outline-offset: 2px; }
+
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+
+<div class="stage" id="stage">
+
+<!-- ============ §1 OPENING ============ -->
+  <section class="slide s-open title-slide on">
+    <div class="eyebrow">DI 200 · Dolphin 300 · Mon 24 Aug</div>
+    <h1>Design Thinking:</h1>
+    <h2>Pros, Cons, and Other Ways to Frame It</h2>
+    <div class="rule"></div>
+    <p class="small">Structured Creativity — Week 1</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <blockquote class="big">Everyone designs who devises courses of action aimed at changing existing situations into preferred ones.
+      <cite>Herbert Simon, <em>The Sciences of the Artificial</em>, 1969</cite>
+    </blockquote>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="eyebrow">Our whole class in a sentence?</div>
+    <ul>
+      <li><span class="mk">01</span><span><strong>"existing situations"</strong> — understand before you change. That's <span class="accent">research</span>.</span></li>
+      <li><span class="mk">02</span><span><strong>"preferred"</strong> — preferred <em>by whom?</em> Decided by whom?</span></li>
+      <li><span class="mk">03</span><span><strong>"devises courses of action"</strong> — you have to propose something. <span class="accent">Prototyping</span>.</span></li>
+      <li><span class="mk">04</span><span><strong>"changing"</strong> — a process, not an event. <span class="accent">Iteration</span>.</span></li>
+      <li><span class="mk">05</span><span>Hundreds of people, hundreds of "preferred"s. Nobody holds the whole picture. <span class="accent">Collaborative</span>.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <h2>Arrival, in miniature</h2>
+    <ul class="tight">
+      <li><span class="mk">8′</span><span>What did you notice walking into Dolphin today? Where did you hesitate or guess?</span></li>
+      <li><span class="mk">5′</span><span>In pairs: <span class="accent">"People hesitate at X because Y."</span></span></li>
+      <li><span class="mk">12′</span><span>Paper, tape, marker. A fast, ugly fix.</span></li>
+      <li><span class="mk">8′</span><span>Pin up. One sentence each. No defending.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="eyebrow">The standard version · d.school, Stanford, founded 2005</div>
+    <ul class="tight">
+      <li><span class="mk">01</span><span><strong>Empathize.</strong> Talk to people. Watch them. Find out what's happening.</span></li>
+      <li><span class="mk">02</span><span><strong>Define.</strong> Turn that into a specific problem you can act on.</span></li>
+      <li><span class="mk">03</span><span><strong>Ideate.</strong> Generate a lot of possible responses. Quantity first.</span></li>
+      <li><span class="mk">04</span><span><strong>Prototype.</strong> Build rough versions, fast and cheap.</span></li>
+      <li><span class="mk">05</span><span><strong>Test.</strong> Put them in front of real people. Find out you were wrong.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <figure>
+      <svg viewBox="0 0 740 250" role="img" aria-label="The five d.school modes drawn as a row of hexagons, with return arrows looping back from Test to Empathize and from Prototype to Define">
+        <defs>
+          <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="currentColor"/>
+          </marker>
+          <marker id="arA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" style="fill: var(--color-accent)"/>
+          </marker>
+        </defs>
+        <polygon points="132.0,80.0 106.0,125.0 54.0,125.0 28.0,80.0 54.0,35.0 106.0,35.0" fill="none" stroke="currentColor" stroke-width="2"/>
+        <polygon points="264.0,80.0 238.0,125.0 186.0,125.0 160.0,80.0 186.0,35.0 238.0,35.0" fill="none" stroke="currentColor" stroke-width="2"/>
+        <polygon points="396.0,80.0 370.0,125.0 318.0,125.0 292.0,80.0 318.0,35.0 370.0,35.0" fill="none" stroke="currentColor" stroke-width="2"/>
+        <polygon points="528.0,80.0 502.0,125.0 450.0,125.0 424.0,80.0 450.0,35.0 502.0,35.0" fill="none" stroke="currentColor" stroke-width="2"/>
+        <polygon points="660.0,80.0 634.0,125.0 582.0,125.0 556.0,80.0 582.0,35.0 634.0,35.0" fill="none" stroke="currentColor" stroke-width="2"/>
+        <text class="dia-t" x="80" y="86" text-anchor="middle" font-size="17" fill="currentColor">Empathize</text>
+        <text class="dia-t" x="212" y="86" text-anchor="middle" font-size="17" fill="currentColor">Define</text>
+        <text class="dia-t" x="344" y="86" text-anchor="middle" font-size="17" fill="currentColor">Ideate</text>
+        <text class="dia-t" x="476" y="86" text-anchor="middle" font-size="17" fill="currentColor">Prototype</text>
+        <text class="dia-t" x="608" y="86" text-anchor="middle" font-size="17" fill="currentColor">Test</text>
+        <line x1="136" y1="80" x2="156" y2="80" stroke="currentColor" stroke-width="2" marker-end="url(#ar)"/>
+        <line x1="268" y1="80" x2="288" y2="80" stroke="currentColor" stroke-width="2" marker-end="url(#ar)"/>
+        <line x1="400" y1="80" x2="420" y2="80" stroke="currentColor" stroke-width="2" marker-end="url(#ar)"/>
+        <line x1="532" y1="80" x2="552" y2="80" stroke="currentColor" stroke-width="2" marker-end="url(#ar)"/>
+        <path d="M 608 133 C 608 218, 80 218, 80 136" fill="none" stroke-width="2.5" stroke-dasharray="7 5" marker-end="url(#arA)" style="stroke: var(--color-accent)"/>
+        <path d="M 476 133 C 476 180, 212 180, 212 136" fill="none" stroke-width="2.5" stroke-dasharray="7 5" marker-end="url(#arA)" style="stroke: var(--color-accent)"/>
+        <text class="dia-s" x="344" y="238" text-anchor="middle" font-size="15" style="fill: var(--color-accent)">WHAT ACTUALLY HAPPENS</text>
+      </svg>
+      <figcaption>Every version of this diagram draws the five modes as a line. The dashed returns aren't always included though — testing sends you back to research, and it happens constantly.</figcaption>
+    </figure>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="eyebrow">The Double Diamond · UK Design Council, 2005</div>
+    <figure>
+      <svg viewBox="0 0 720 300" role="img" aria-label="The Double Diamond: two diamonds meeting at a point. The first widens through Discover and narrows through Define to fix the problem; the second widens through Develop and narrows through Deliver to fix the answer.">
+        <text class="dia-s" x="130" y="34" text-anchor="middle" font-size="16" fill="currentColor">DISCOVER</text>
+        <text class="dia-s" x="270" y="34" text-anchor="middle" font-size="16" fill="currentColor">DEFINE</text>
+        <text class="dia-s" x="410" y="34" text-anchor="middle" font-size="16" fill="currentColor">DEVELOP</text>
+        <text class="dia-s" x="550" y="34" text-anchor="middle" font-size="16" fill="currentColor">DELIVER</text>
+        <polygon points="60,160 200,70 340,160 200,250" fill="none" stroke="currentColor" stroke-width="2.5"/>
+        <polygon points="340,160 480,70 620,160 480,250" fill="none" stroke="currentColor" stroke-width="2.5"/>
+        <line x1="340" y1="52" x2="340" y2="268" stroke-width="2" stroke-dasharray="6 5" style="stroke: var(--color-accent)"/>
+        <circle cx="340" cy="160" r="7" style="fill: var(--color-accent)"/>
+        <text class="dia-t" x="200" y="290" text-anchor="middle" font-size="18" fill="currentColor">the right problem</text>
+        <text class="dia-t" x="480" y="290" text-anchor="middle" font-size="18" fill="currentColor">the right answer</text>
+      </svg>
+      <figcaption>Each diamond goes wide, then comes back in. The marked point in the middle is the only moment you commit to what the problem is — everything before it is still finding out.</figcaption>
+    </figure>
+    <p class="small">You spend the first half of a project not knowing what the problem is. That's correct, not a sign you're behind.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <h3>The methods underneath</h3>
+    <div class="rows">
+      <div class="row"><span class="yr" style="font-size:1.9cqw">RESEARCH</span><span class="what">Interviews · observation · shadowing · reading physical traces</span></div>
+      <div class="row"><span class="yr" style="font-size:1.9cqw">SYNTHESIS</span><span class="what">Affinity mapping · journey maps · "how might we" framing</span></div>
+      <div class="row"><span class="yr" style="font-size:1.9cqw">IDEATION</span><span class="what">Structured brainstorming · fast sketching · analogous fields</span></div>
+      <div class="row"><span class="yr" style="font-size:1.9cqw">PROTOTYPE</span><span class="what">Paper · cardboard · role-play · Wizard of Oz</span></div>
+      <div class="row"><span class="yr" style="font-size:1.9cqw">TESTING</span><span class="what">Put it in front of someone, shut up, and watch</span></div>
+    </div>
+    <p class="small">Most of it is a hundred years old and borrowed from somewhere else.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §2 HISTORY ============ -->
+  <section class="slide s-hist opener beat" style="--img:url('images/beat-history.jpg')">
+    <div class="eyebrow">Part one</div>
+    <h1>Where it<br>came from</h1>
+    <div class="rule"></div>
+    <p class="credit">Public domain source — swap in from LoC / Smithsonian / RawPixel</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <h2>None of this was new in 1962.</h2>
+    <p class="lead">People had been doing the methods for centuries. What arrives in the twentieth century is the naming, the codifying, and eventually the selling.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">Before it had a name</div>
+    <div class="rows">
+      <div class="row"><span class="yr" style="font-size:2.1cqw">1452–1519</span><span class="what"><strong>Leonardo da Vinci.</strong> Roughly seven thousand surviving notebook pages. He drew to think, not to record — same object over and over, annotated and revised. He built working models. He dissected bodies himself instead of trusting the textbooks. Research, iteration, prototyping.</span></div>
+      <div class="row"><span class="yr" style="font-size:2.1cqw">1901</span><span class="what"><strong>Wilbur and Orville Wright</strong> build a wind tunnel because the published lift tables were wrong. They tested roughly two hundred wing shapes before flying.</span></div>
+      <div class="row"><span class="yr" style="font-size:2.1cqw">1919–1933</span><span class="what"><strong>The Bauhaus.</strong> The <em>Vorkurs</em> — the preliminary course under Johannes Itten, then László Moholy-Nagy, then Josef Albers — taught by "learning by doing": paper folding, collage, model building. Discover what a material does by manipulating it. Every workshop had two masters, one craftsman and one artist. <span class="accent">That is prototyping as a curriculum.</span> The Vkhutemas school in Moscow, 1920–1930, was doing a parallel version.</span></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">The line you can actually trace</div>
+    <div class="rows">
+      <div class="row"><span class="yr">1927</span><span class="what"><strong>Max Bill</strong> enrolls at the Bauhaus in Dessau.</span></div>
+      <div class="row"><span class="yr">1953</span><span class="what">Bill co-founds the <strong>Hochschule für Gestaltung Ulm</strong> — the Ulm School of Design. It adds cybernetics, operations research, ergonomics, and semiotics to a Bauhaus foundation.</span></div>
+      <div class="row"><span class="yr">1958</span><span class="what"><strong>Horst Rittel</strong> becomes Professor of <em>Design Methodology</em> at Ulm. That is the job title, in 1958.</span></div>
+      <div class="row"><span class="yr">1963</span><span class="what">Berkeley recruits Rittel. He founds the <strong>Design Methods Group</strong> there in 1967.</span></div>
+      <div class="row"><span class="yr">1973</span><span class="what">Rittel and Webber publish <span class="accent">wicked problems.</span></span></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">1962 — 1973</div>
+    <div class="rows">
+      <div class="row"><span class="yr">1962</span><span class="what">Conference on Design Methods, London. Organized in part by <strong>John Christopher Jones</strong>, a Welsh ergonomist at Associated Electrical Industries, Manchester. Leads to the Design Research Society, 1966.</span></div>
+      <div class="row"><span class="yr">1964</span><span class="what"><strong>Christopher Alexander</strong> (1936–2022), Berkeley. <em>Notes on the Synthesis of Form</em>, Harvard University Press. Breaking a design problem into parts and solving it mathematically.</span></div>
+      <div class="row"><span class="yr">1969</span><span class="what"><strong>Herbert Simon</strong> (1916–2001), Carnegie Mellon. <em>The Sciences of the Artificial</em>, MIT Press. Also gives us <strong>satisficing</strong>.</span></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">1970 — 1973</div>
+    <div class="rows">
+      <div class="row"><span class="yr">1970</span><span class="what"><strong>John Christopher Jones</strong> (1927–2022). <em>Design Methods: Seeds of Human Futures</em>, Wiley. The definitive catalogue of the movement. Same year: first Professor of Design at the Open University.</span></div>
+      <div class="row"><span class="yr">1971</span><span class="what"><strong>Victor Papanek</strong> (1923–1998). <em>Design for the Real World</em>, Pantheon. "There are professions more harmful than industrial design, but only a very few of them."</span></div>
+      <div class="row"><span class="yr">1973</span><span class="what"><strong>Horst Rittel</strong> and <strong>Melvin Webber</strong>, Berkeley. "Dilemmas in a General Theory of Planning," <em>Policy Sciences</em> 4. <span class="accent">Wicked problems.</span></span></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <h3>Wicked problems</h3>
+    <ul>
+      <li><span class="mk">01</span><span>No definitive formulation. How you frame it <em>is</em> the solution.</span></li>
+      <li><span class="mk">02</span><span>No stopping rule. You stop when you run out of time or money.</span></li>
+      <li><span class="mk">03</span><span>Not true or false. Only better or worse.</span></li>
+      <li><span class="mk">04</span><span>Every one is unique, and every attempt changes the problem.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">1971 — Christopher Alexander, new preface to <em>Notes on the Synthesis of Form</em></div>
+    <blockquote>I reject the whole idea of design methods as a subject of study, since I think it is absurd to separate the study of designing from the practice of design.</blockquote>
+    <p class="small">Seven years after the founding text, its author repudiates the field it started — in the preface to that same book.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">The founders quit</div>
+    <div class="rows">
+      <div class="row"><span class="yr">1971</span><span class="what"><strong>Alexander</strong> repudiates design methods. Goes on to <em>A Pattern Language</em> (1977) and <em>The Timeless Way of Building</em> (1979).</span></div>
+      <div class="row"><span class="yr">1970s</span><span class="what"><strong>Jones</strong> turns away from systematic method toward chance and improvisation, reading John Cage. Chairs the Design Research Society 1971–73. <em>Designing Designing</em>, 1991.</span></div>
+    </div>
+    <p class="small accent">Their objection — method substituting for judgment — is the same one Natasha Jen makes in 2017.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">1982 — 1992 · the rebuild</div>
+    <div class="rows">
+      <div class="row"><span class="yr">1982</span><span class="what"><strong>Nigel Cross</strong>, Open University. "Designerly Ways of Knowing," <em>Design Studies</em> 3:4. Design is its own form of knowledge.</span></div>
+      <div class="row"><span class="yr">1983</span><span class="what"><strong>Donald Schön</strong> (1930–1997), MIT. <em>The Reflective Practitioner</em>, Basic Books. Reflection-in-action — a conversation with the situation.</span></div>
+      <div class="row"><span class="yr">1992</span><span class="what"><strong>Richard Buchanan</strong>, Carnegie Mellon. "Wicked Problems in Design Thinking," <em>Design Issues</em> 8:2. <span class="accent">The phrase enters the literature here</span> — sixteen years before HBR.</span></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">1972 — 2009 · the other track</div>
+    <div class="rows">
+      <div class="row"><span class="yr">1972</span><span class="what"><strong>Robert McKim</strong>, Stanford. <em>Experiences in Visual Thinking</em>. Rolf Faste makes it teachable; David Kelley carries it into practice.</span></div>
+      <div class="row"><span class="yr">1991</span><span class="what"><strong>IDEO</strong> founded, Palo Alto — David Kelley Design + Bill Moggridge's ID Two + Mike Nuttall's Matrix Product Design.</span></div>
+      <div class="row"><span class="yr">1999</span><span class="what">ABC <em>Nightline</em>, "The Deep Dive," 13 July. A shopping cart in five days, on camera.</span></div>
+      <div class="row"><span class="yr">2005</span><span class="what">The <strong>d.school</strong> opens at Stanford. UK Design Council publishes the <strong>Double Diamond</strong>.</span></div>
+      <div class="row"><span class="yr">2008</span><span class="what"><strong>Tim Brown</strong>, IDEO CEO. "Design Thinking," <em>Harvard Business Review</em>, June. <em>Change by Design</em> follows in 2009.</span></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-hist">
+    <div class="eyebrow">2017 — 2023 · the backlash and after</div>
+    <div class="rows">
+      <div class="row"><span class="yr">2017</span><span class="what"><strong>Natasha Jen</strong>, Pentagram, at 99U. <strong>Lee Vinsel</strong>, Virginia Tech, "Design Thinking Is a Boondoggle."</span></div>
+      <div class="row"><span class="yr">2018</span><span class="what"><strong>Natasha Iskander</strong>, NYU, in <em>Harvard Business Review</em>, September.</span></div>
+      <div class="row"><span class="yr">2019</span><span class="what"><strong>Maggie Gram</strong>, "On Design Thinking," <em>n+1</em> 35.</span></div>
+      <div class="row"><span class="yr">2023</span><span class="what">IDEO cuts about a third of its staff and closes its Munich and Tokyo offices. Roughly half its headcount gone since 2020.</span></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §3 THE CASE & THE CRITIQUE ============ -->
+  <section class="slide s-crit opener beat" style="--img:url('images/beat-critique.jpg')">
+    <div class="eyebrow">Part two</div>
+    <h1>The case,<br>and the critique</h1>
+    <div class="rule"></div>
+    <p class="credit">Public domain source — swap in from LoC / Smithsonian / RawPixel</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <blockquote>…a discipline that uses the designer's sensibility and methods to match people's needs with what is technologically feasible and what a viable business strategy can convert into <span class="accent">customer value and market opportunity.</span>
+      <cite>Tim Brown, <em>Harvard Business Review</em>, 2008</cite>
+    </blockquote>
+    <p class="small">It ends in <em>market opportunity</em>. Simon's sentence ended in <em>preferred</em>.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <h2>Two projects,<br>one name</h2>
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">The academic one</div>
+        <p class="small" style="color:var(--color-text)">What kind of knowledge is design?</p>
+        <p class="small">Simon · Rittel · Buchanan · Cross · Schön</p>
+        <p class="lead">Descriptions.</p>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">The business one</div>
+        <p class="small" style="color:var(--color-text)">How do we make this repeatable by non-designers?</p>
+        <p class="small">Steps · diamonds · sticky notes · a certificate</p>
+        <p class="lead accent">Procedures.</p>
+      </div>
+    </div>
+    <p class="small">A description of how expertise works is not a recipe for people who don't have it.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <div class="eyebrow">The Deep Dive, 1999 — first viewing</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Defer judgment</span></li>
+      <li><span class="mk">—</span><span>Encourage wild ideas</span></li>
+      <li><span class="mk">—</span><span>Build on the ideas of others</span></li>
+      <li><span class="mk">—</span><span>One conversation at a time · Be visual · Go for quantity</span></li>
+    </ul>
+    <p class="small"><em>"Enlightened trial and error succeeds over the planning of the lone genius."</em> — the strong-link argument, in 1999.</p>
+    <div class="watch">
+      <span><span class="lbl">Cart</span> <a href="https://www.youtube.com/watch?v=M66ZU2PCIcM" target="_blank" rel="noopener">youtu.be/M66ZU2PCIcM</a></span>
+      <span><span class="lbl">IDEO process</span> <a href="https://www.youtube.com/watch?v=GYkb6vfKMI4" target="_blank" rel="noopener">youtu.be/GYkb6vfKMI4</a></span>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <div class="eyebrow">Same footage — second viewing</div>
+    <ul>
+      <li><span class="mk">01</span><span>Who is in the room? Who talks, and who doesn't?</span></li>
+      <li><span class="mk">02</span><span>Who is <em>not</em> in the room? Who pushes a cart every day? Who collects them from the lot? Who builds them?</span></li>
+      <li><span class="mk">03</span><span>Five days. Whose deadline — the problem's, or the TV crew's?</span></li>
+      <li><span class="mk">04</span><span>Is there any evidence it works? What would that evidence look like?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <h2>First, the case for it</h2>
+    <ul class="tight">
+      <li><span class="mk">01</span><span>It got non-designers to <strong>talk to users at all.</strong> Low bar. Clearing it mattered.</span></li>
+      <li><span class="mk">02</span><span>It made <strong>prototyping cheap and normal</strong> — out of art school, into hospitals and city governments.</span></li>
+      <li><span class="mk">03</span><span>It got design <strong>into the room where budgets get decided.</strong></span></li>
+      <li><span class="mk">04</span><span>It's <strong>teachable.</strong> Real judgment is tacit and takes a decade. This made a weekend version.</span></li>
+    </ul>
+    <p class="lead accent">What makes it portable is what makes it thin.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <div class="eyebrow">Natasha Jen · Pentagram partner · 99U, 2017</div>
+    <h1><span class="tilt">Design Thinking<br>is Bullsh*t</span></h1>
+    <div class="watch"><span><span class="lbl">Watch</span> <a href="https://www.youtube.com/watch?v=V8gjDsW3lsY" target="_blank" rel="noopener">youtu.be/V8gjDsW3lsY</a></span></div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <h1 class="accent">Where's the criticism?</h1>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>A <strong>religion</strong> — fixed liturgy, evangelists, no heretics</span></li>
+      <li><span class="mk">—</span><span>The <strong>Post-it</strong> as emblem. Visible is not the same as rigorous.</span></li>
+      <li><span class="mk">—</span><span>Missing: <strong>evidence</strong> and <strong>expertise</strong></span></li>
+    </ul>
+    <p class="small">Not academics sniping at industry. The top of commercial practice saying the commercial product is thin.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">Brown</div>
+        <h2>Integration</h2>
+        <p class="lead">A merge.</p>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">Jen</div>
+        <h2>Judgment</h2>
+        <p class="lead">A crit.</p>
+      </div>
+    </div>
+    <p class="small">Design education has always been the second thing. The product version quietly dropped it.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <div class="eyebrow">Natasha Iskander · HBR, 2018</div>
+    <h2>Design thinking is fundamentally conservative and preserves the status quo</h2>
+    <p class="small" style="color:var(--color-text)">Empathy takes existing conditions as given. It brackets out politics and power. Speed and delight favor solutions that don't disturb the arrangement.</p>
+    <p class="lead accent">You end up making a bad situation more pleasant.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <h3>Hold that against our site</h3>
+    <p class="lead">City-owned. $140 million in losses covered by taxpayers. The workers struck in 2024 and won a contract.</p>
+    <p class="lead">Walk in, "empathize" with a housekeeper for eleven minutes, come back with a nicer cart — and you've done exactly what Iskander describes.</p>
+    <p class="small accent">That is the failure mode of this course. Be able to name it by lunch.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <div class="eyebrow">On the board all session</div>
+    <ul>
+      <li><span class="mk">01</span><span>Who is the audience? What is being sold?</span></li>
+      <li><span class="mk">02</span><span>What gets left out?</span></li>
+      <li><span class="mk">03</span><span>Where is the research, the failure, the politics?</span></li>
+      <li><span class="mk">04</span><span>How does design get packaged, and for whom?</span></li>
+    </ul>
+    <p class="small">Also: Vinsel, "Design Thinking Is a Boondoggle" (2017) · Gram, "On Design Thinking," <em>n+1</em> #35 (2019)</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-crit">
+    <h2>Why this matters<br>right now</h2>
+    <ul class="tight">
+      <li><span class="mk">01</span><span>It's the <strong>working language of the field.</strong> You'll be interviewed by people who use these words.</span></li>
+      <li><span class="mk">02</span><span>October 2023: <strong>IDEO cut about a third of its staff</strong> and closed Munich and Tokyo. Half its headcount gone since 2020. You're inheriting the aftermath, not the hype.</span></li>
+      <li><span class="mk">03</span><span>Generating forty options fast used to be the expensive part. <strong>A machine does that in a minute now.</strong></span></li>
+    </ul>
+    <p class="lead accent">What's left is knowing which problem is worth solving, and judging whether an answer is any good. Evidence and expertise — exactly what Jen said was missing.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §4 THE CONCEIT ============ -->
+  <section class="slide s-conceit">
+    <h2>You can build the conditions<br>for a good idea.</h2>
+    <p class="lead">Put people in a room who don't normally talk. Go look instead of guessing. Make twenty bad prototypes so the twenty-first has somewhere to stand. None of that is snake oil.</p>
+    <p class="lead accent">What it cannot do is supply the idea.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-conceit">
+    <p class="lead">A process amplifies what you brought into the room. Bring nothing and it amplifies nothing — a wall covered in Post-its and no idea on it.</p>
+    <p class="lead"><span class="accent">The process is not what will make your project good. What you notice at the Hilton will make it good.</span></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-conceit">
+    <div class="eyebrow">Photograph this one</div>
+    <div class="cols">
+      <div class="col">
+        <h2 class="accent">Research</h2>
+        <h3>weak-link</h3>
+        <p class="small" style="color:var(--color-text)">Quality depends on your <strong>worst</strong> input. One leading question and everything built on top inherits the damage.</p>
+        <p class="small">Slow down. Rigor lives here.</p>
+      </div>
+      <div class="col ruled">
+        <h2 class="accent">Prototyping</h2>
+        <h3>strong-link</h3>
+        <p class="small" style="color:var(--color-text)">Quality depends on your <strong>best</strong> output. Nineteen of twenty can be bad — nobody builds on the bad ones.</p>
+        <p class="small">Speed up. Being precious kills you.</p>
+      </div>
+    </div>
+    <p class="small">Most design anxiety is rigor spent in the wrong place — careful about an ugly sketch, careless about an interview.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §5 ETHICS ============ -->
+  <section class="slide s-eth opener beat" style="--img:url('images/beat-ethics.jpg')">
+    <div class="eyebrow">Part three · nobody enters the site without this</div>
+    <h1>Ethics</h1>
+    <div class="rule"></div>
+    <p class="small">Research ethics, and what we owe the people we study</p>
+    <p class="credit">Public domain source — FSA/OWI labor + service work reads well here</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h3>This is not a neutral site</h3>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Owned by the City of Baltimore. $301M borrowed to build it.</span></li>
+      <li><span class="mk">—</span><span>$140M in losses covered by taxpayers.</span></li>
+      <li><span class="mk">—</span><span>The workers struck in 2024 and won a contract.</span></li>
+    </ul>
+    <p class="lead accent">The Hilton agreed to host us. No individual worker agreed to anything.</p>
+    <p class="lead">Consent is not transitive.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h3>The power problem</h3>
+    <p class="lead">You came in through management. You read as management-adjacent, whatever you say.</p>
+    <p class="lead accent">"No" is free for you and expensive for them.</p>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Never approach anyone mid-task.</span></li>
+      <li><span class="mk">—</span><span>One "no" ends it. No rephrasing, no trying their coworker instead.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <div class="eyebrow">Memorize this. Three sentences.</div>
+    <blockquote style="font-size:2.8cqw">Hi — I'm a design student at MICA. We're doing a class project about how this building works, and I'd love to hear how your job actually goes if you have a few minutes.<br><br>
+      Nothing you say goes to management with your name on it, and you can stop any time or tell me to go away.<br><br>
+      Is now okay, or is there a better time?</blockquote>
+    <p class="small">Who you are and what you want · what happens to their words and that they can stop · control of the timing. If you can't say it without reading it, you're not ready to talk to anybody.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <div class="yesno">
+      <div class="col">
+        <h3 class="accent">Record</h3>
+        <ul>
+          <li><span class="mk">✓</span><span>Spaces, objects, wear, traces, hand-written signs</span></li>
+          <li><span class="mk">✓</span><span>Your own drawings, always</span></li>
+          <li><span class="mk">✓</span><span>Quotes attributed by role — "a front desk agent said…"</span></li>
+          <li><span class="mk">✓</span><span>Counts, durations, sequences</span></li>
+        </ul>
+      </div>
+      <div class="col ruled">
+        <h3 class="accent">Never</h3>
+        <ul>
+          <li><span class="mk">✕</span><span><strong>Faces.</strong> Not in the background, not "they're blurry"</span></li>
+          <li><span class="mk">✕</span><span><strong>Name badges</strong> or anything with a name on it</span></li>
+          <li><span class="mk">✕</span><span><strong>Guest information</strong> — room numbers, screens, luggage tags</span></li>
+          <li><span class="mk">✕</span><span>Audio without asking, as its own question</span></li>
+        </ul>
+      </div>
+    </div>
+    <p class="small">A photo you didn't take costs you nothing. A photo of someone's name badge on a class blog can cost them a job.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h3>Not yours to ask about</h3>
+    <p class="lead accent">Do not ask anyone about the strike, the union, or their contract.</p>
+    <p class="small" style="color:var(--color-text)">Not because it isn't interesting — it's the most interesting thing about this building. Because a worker discussing labor relations with a stranger who came in through management is being asked to take a risk for your class project.</p>
+    <p class="small">If someone raises it themselves: listen, don't push, don't take notes on who said what. You research this through public records and reporting — not by putting a housekeeper on the spot in a hallway.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h3>Guests aren't a captive audience either</h3>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Never interrupt a transaction. Not at the desk, not at the bar, not mid-check-in.</span></li>
+      <li><span class="mk">—</span><span>Approach only people visibly waiting or at rest. Same script.</span></li>
+      <li><span class="mk">—</span><span>You're not their complaint line. Don't promise anything gets fixed.</span></li>
+      <li><span class="mk">—</span><span><strong>Never follow anyone.</strong> Not to an elevator, not down a corridor.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h2>Extraction</h2>
+    <p class="lead">You are taking people's time and their knowledge of their own workplace, and converting it into a grade and a portfolio piece. They get nothing automatically.</p>
+    <p class="small" style="color:var(--color-text)">That's not automatically wrong — it's how most research works. But it is something you owe against, and the debt is real.</p>
+    <p class="lead accent">So: be worth talking to.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <div class="eyebrow">The standard for the whole semester</div>
+    <h2>Would the person who gave you twenty minutes in September look at your final project in December and think their time was well spent?</h2>
+    <p class="small">If the answer is no, it doesn't matter how good the object is.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h3>When something goes wrong</h3>
+    <ul class="tight">
+      <li><span class="mk">—</span><span><strong>Someone's upset:</strong> stop, apologize once, don't explain, leave. Tell me that day.</span></li>
+      <li><span class="mk">—</span><span><strong>Someone discloses something serious:</strong> listen, take no notes, don't repeat it, don't put it in fieldnotes. Tell me. Not course material.</span></li>
+      <li><span class="mk">—</span><span><strong>A manager stops you:</strong> be polite, say what class, come find me. Don't negotiate.</span></li>
+      <li><span class="mk">—</span><span><strong>Asked to leave:</strong> leave immediately. No clarifying questions.</span></li>
+      <li><span class="mk">—</span><span><strong>You made a mistake:</strong> tell me. Reporting it costs you nothing. Hiding it doesn't.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §6 ETHNOGRAPHY ============ -->
+  <section class="slide s-ethno opener beat" style="--img:url('images/beat-ethnography.jpg')">
+    <div class="eyebrow">Part four · afternoon</div>
+    <h1>Looking,<br>writing it down,<br>making sense of it</h1>
+    <div class="rule"></div>
+    <p class="credit">Public domain source — FSA/OWI interiors read well here</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <div class="eyebrow">Malinowski · <em>Argonauts of the Western Pacific</em> · 1922</div>
+    <h2>Stay long enough that people forget to perform for you.</h2>
+    <p class="small">Stop reading other people's reports. Go live there. Learn the language. He was there for years.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <div class="eyebrow">Geertz, "Thick Description," 1973</div>
+    <h2>Two boys contract the eyelid of their right eye.</h2>
+    <p class="lead">One is an involuntary twitch. The other is a wink — a conspiracy, a signal.</p>
+    <p class="lead accent">Photograph both. The photographs are identical.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">Thin</div>
+        <p class="lead">She paused.</p>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">Thick</div>
+        <p class="small" style="color:var(--color-text);font-size:2.2cqw">She paused because the system takes four seconds to load, and she's learned to fill the gap with eye contact so the guest doesn't feel ignored — unpaid design work covering for bad software, two hundred times a shift.</p>
+      </div>
+    </div>
+    <p class="lead accent">You don't get there by watching harder. You get there by asking her.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <h3>Be honest about the theft</h3>
+    <p class="lead">An anthropologist spends eighteen months. You get five days across a semester.</p>
+    <p class="small" style="color:var(--color-text)">Design took anthropology's methods and left behind the timescale, the language learning, the reflexivity, and most of the ethics apparatus.</p>
+    <p class="small accent">Knowing you're doing a compressed, partial version makes you careful. Believing you've "done ethnography" because you filled a wall with Post-its makes you dangerous.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <h2>Four methods</h2>
+    <ul>
+      <li><span class="mk">01</span><span><strong>Participant observation.</strong> The first twenty minutes are worthless. Sit through it.</span></li>
+      <li><span class="mk">02</span><span><strong>AEIOU.</strong> The scaffold for when you're standing there with no idea what to write.</span></li>
+      <li><span class="mk">03</span><span><strong>Traces.</strong> Where designers beat anthropologists.</span></li>
+      <li><span class="mk">04</span><span><strong>Semi-structured interviews.</strong> Not a survey. Not a chat.</span></li>
+    </ul>
+    <p class="small accent">You are looking for the ordinary, not the remarkable. The weird thing happened once. The pattern that happens two hundred times is where the design problem lives.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <div class="eyebrow">AEIOU · Doblin, 1991</div>
+    <ul class="tight">
+      <li><span class="mk">A</span><span><strong>ctivities</strong> — what are people doing? Goal-directed sequences.</span></li>
+      <li><span class="mk">E</span><span><strong>nvironments</strong> — light, noise, temperature, layout.</span></li>
+      <li><span class="mk">I</span><span><strong>nteractions</strong> — between people, between people and systems. Where's the friction?</span></li>
+      <li><span class="mk">O</span><span><strong>bjects</strong> — what's used, misused, improvised?</span></li>
+      <li><span class="mk">U</span><span><strong>sers</strong> — roles, not demographics. Who has authority?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <h3>Traces</h3>
+    <ul class="tight">
+      <li><span class="mk">—</span><span><strong>Desire paths</strong> — the worn dirt line where nobody built a sidewalk</span></li>
+      <li><span class="mk">—</span><span><strong>Wear patterns</strong> — which handle is polished, which corner is worn</span></li>
+      <li><span class="mk">—</span><span><strong>Workarounds</strong> — the doorstop, the taped-over sensor, the propped fire door</span></li>
+      <li><span class="mk">—</span><span><strong>Hand-written signs</strong> — the richest signal in any building</span></li>
+    </ul>
+    <p class="lead accent">Somebody designed that space, and then reality filed a complaint in marker.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <div class="eyebrow">The opener that always works — Spradley's grand tour</div>
+    <h1 class="accent">"Walk me through<br>a typical shift."</h1>
+    <p class="small">Not "what's frustrating about your job" — that's asking a stranger to complain to someone who might report it. This gets you sequence, and the frustrations arrive on their own.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-ethno">
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">Follow-ups</div>
+        <ul class="tight">
+          <li><span class="mk">—</span><span>"What happened right before that?"</span></li>
+          <li><span class="mk">—</span><span class="accent"><strong>"Can you show me?"</strong></span></li>
+          <li><span class="mk">—</span><span>"Is that usual, or was that unusual?"</span></li>
+          <li><span class="mk">—</span><span>Silence. Count to five.</span></li>
+        </ul>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">Failure modes</div>
+        <ul class="tight">
+          <li><span class="mk">✕</span><span><strong>Leading questions.</strong> You just put the answer in their mouth.</span></li>
+          <li><span class="mk">✕</span><span><strong>Solutioning.</strong> "What if there were an app?"</span></li>
+          <li><span class="mk">✕</span><span><strong>Interviewing your idea</strong> instead of the person.</span></li>
+          <li><span class="mk">✕</span><span><strong>Five whys.</strong> Two whys and gratitude.</span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §7 FIELDWORK & CODING ============ -->
+  <section class="slide s-field opener beat" style="--img:url('images/beat-fieldwork.jpg')">
+    <div class="eyebrow">Part five</div>
+    <h1>You cannot<br>code a vibe.</h1>
+    <div class="rule"></div>
+    <p class="credit">Public domain source — swap in from LoC / Smithsonian / RawPixel</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">Jottings</div>
+        <p class="small" style="color:var(--color-text)">In the space. Fragments, quotes, times, sketches. Nobody writes prose standing in a lobby.</p>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">Fieldnotes</div>
+        <p class="small" style="color:var(--color-text)">Afterward. Expanding the jottings while you can still see it in your head.</p>
+      </div>
+    </div>
+    <p class="lead accent">Full fieldnotes within twenty-four hours.</p>
+    <p class="small">Memory for this collapses overnight. You keep the gist and lose every specific, and the specifics are the entire value. We write notes on the light rail home.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="fieldnote">
+      <div>
+        <span class="hd">Observation</span>
+        10:14 — guest approaches desk, stops, looks left at sign, looks back at desk, waits ~6 sec before speaking<br><br>
+        "Yeah the mornings are the worst, nobody tells us anything"
+      </div>
+      <div>
+        <span class="hd">Commentary</span>
+        Is the sign the problem, or is the desk in the wrong place? Ask: does this happen all day?<br><br>
+        "The worst" — worst how? Volume? Communication? FOLLOW UP.
+      </div>
+    </div>
+    <p class="small">What a camera would have caught, on the left. What you think it means, on the right.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <h3>Three rules, and they're not negotiable</h3>
+    <ul class="tight">
+      <li><span class="mk">01</span><span><strong>Never let the columns merge.</strong> The moment interpretation gets written as observation, you can't recover the original.</span></li>
+      <li><span class="mk">02</span><span><strong>Verbatim quotes get quotation marks. Everything else is paraphrase.</strong> A fake quote is worse than no quote.</span></li>
+      <li><span class="mk">03</span><span><strong>Time-stamp constantly.</strong> "Waited 6 seconds" is worth more than "waited a while," and you can't reconstruct it later.</span></li>
+    </ul>
+    <p class="small">Also: draw. Record what's absent — the chair nobody sits in. Write down what surprised you, and that it surprised you.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="eyebrow">Coding · Glaser &amp; Strauss, 1967</div>
+    <ul>
+      <li><span class="mk">01</span><span><strong>Open coding.</strong> Tag each observation with a short label. No categories decided in advance.</span></li>
+      <li><span class="mk">02</span><span><strong>In vivo codes.</strong> Use the person's own words. <span class="accent">"the mornings are the worst"</span> — not "morning workflow inefficiency."</span></li>
+      <li><span class="mk">03</span><span><strong>Axial coding.</strong> Group them. What clusters? That's the affinity wall.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="eyebrow">The rule for the wall</div>
+    <h2>One observation per note.<br>No interpretation on the note itself.</h2>
+    <p class="small" style="color:var(--color-text)">If the interpretation is already written on the card, you've pre-decided the answer and the wall is theater.</p>
+    <p class="lead accent">That's Jen's Post-it critique, answered. Same Post-its. The difference is entirely in what's written on them.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <h2>Before Week 2</h2>
+    <ul class="tight">
+      <li><span class="mk">—</span><span><a href="https://designobserver.com/designs-ethnographic-turn/" target="_blank" rel="noopener">Blauvelt, "Design's Ethnographic Turn"</a> (Design Observer, 2007) — in full<span class="url">designobserver.com/designs-ethnographic-turn</span></span></li>
+      <li><span class="mk">—</span><span><a href="https://www.jonkolko.com/writing/abductive-thinking-and-sensemaking" target="_blank" rel="noopener">Kolko, "Abductive Thinking and Sensemaking"</a> (Design Issues, 2010) — free on his site<span class="url">jonkolko.com/writing/abductive-thinking-and-sensemaking</span></span></li>
+      <li><span class="mk">—</span><span><strong>Fifty Observations.</strong> Fifty numbered observations of one space, in one sitting. Post to Canvas.</span></li>
+    </ul>
+    <p class="lead accent">Seven days until the Hilton.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+</div>
+
+<div class="nav">
+  <button id="prev" aria-label="Previous slide">←</button>
+  <button id="next" aria-label="Next slide">→</button>
+</div>
+
+<script>
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var i = 0, total = slides.length;
+
+  slides.forEach(function (s, n) {
+    var no = s.querySelector('.bar .no');
+    if (no) no.textContent = (n + 1) + ' / ' + total;
+  });
+
+  /* section starts, for number-key jumping */
+  var secOrder = ['s-open','s-hist','s-crit','s-conceit','s-eth','s-ethno','s-field'];
+  var secStart = secOrder.map(function (cls) {
+    for (var n = 0; n < total; n++) { if (slides[n].classList.contains(cls)) return n; }
+    return 0;
+  });
+
+  function show(n) {
+    i = Math.max(0, Math.min(total - 1, n));
+    slides.forEach(function (s, n2) { s.classList.toggle('on', n2 === i); });
+    try { history.replaceState(null, '', '#' + (i + 1)); } catch (e) {}
+  }
+
+  document.getElementById('next').addEventListener('click', function () { show(i + 1); });
+  document.getElementById('prev').addEventListener('click', function () { show(i - 1); });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ') { e.preventDefault(); show(i + 1); }
+    else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); show(i - 1); }
+    else if (e.key === 'Home') { show(0); }
+    else if (e.key === 'End') { show(total - 1); }
+    else if (e.key >= '1' && e.key <= '7') { show(secStart[parseInt(e.key, 10) - 1]); }
+    else if (e.key === 'f' || e.key === 'F') {
+      if (document.fullscreenElement) document.exitFullscreen();
+      else document.documentElement.requestFullscreen();
+    }
+  });
+
+  var start = parseInt((location.hash || '').replace('#', ''), 10);
+  show(isNaN(start) ? 0 : start - 1);
+</script>

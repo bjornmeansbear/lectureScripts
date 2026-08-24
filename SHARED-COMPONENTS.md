@@ -22,6 +22,42 @@ Physical files stay put (one copy, in whichever folder it belongs to most). This
 - **Roland Barthes** (*Mythologies* / semiotics) — `workshop-form-content-context/workshop-form-content-context.md` and `workshop-semiotic-commons/workshop-semiotic-commons.md`. Form/Content/Context's bibliography names this explicitly as "the throughline between the two."
 - **R. Buckminster Fuller** — cited directly in `workshop-structured-creativity/workshop-structured-creativity.md` (generalist-not-specialist framing); also present as a co-speaker at the same 1978 event as the Bookchin talk cited in `workshop-designing-for-the-future/workshop-designing-for-the-future.md`. Looser connection than the others — flagging, not claiming it's load-bearing.
 
+## DI 200 Week 1 (added 2026-08-23)
+
+Three delivery scripts for one 6-hour studio day, written from the Wk1 outline in
+`WritingPlanning/di200/DI200-DetailedWeeklySchedule.md`:
+
+- `DesignThinking/di200-wk1-design-thinking-lecture.md` — morning; also carries the
+  whole-day run of show and the ethics briefing text
+- `EthnographicResearch/di200-wk1-ethnographic-research-lecture.md` — afternoon lecture
+- `EthnographicResearch/di200-wk1-observation-and-coding-exercises.md` — afternoon studio
+
+Reusable beyond DI 200:
+
+- **The Simon sentence** ("Everyone designs who devises courses of action aimed at
+  changing existing situations into preferred ones," 1969) used as a whole-semester
+  spine — unpacked clause by clause into research / think / prototype / iterate /
+  collaborate. Predates the Design Thinking brand, so it survives the critique. Strong
+  candidate for any course-opening lecture.
+- **Geertz's wink vs. twitch** as the thin/thick description demo. The most portable
+  teaching example in either script — one gesture, thirty seconds, and the whole idea
+  lands. Reusable anywhere research or interpretation is being taught.
+- **Hand-written signs as fossils of design failure.** "Somebody designed that space and
+  then reality filed a complaint in marker." Works as a standalone observation exercise
+  in any course that goes into a building.
+- **Strong-link / weak-link applied to design phases** — research is weak-link (quality
+  depends on your worst input), prototyping is strong-link (quality depends on your best
+  output). Source: `WritingPlanning/di200/0202607301119-designisastronglinkproblem.md`,
+  which is still a draft. The scripts use it as a named slide but deliberately don't
+  develop it — it belongs to Wk4/Wk6 and eventually to its own piece.
+- **Watching a film twice with different instructions** — The Deep Dive at face value,
+  then counting who is in the room and who never speaks. The method transfers to any
+  piece of design PR.
+
+Overlap to watch: `workshop-structured-creativity/` shares the course's name and some of
+its territory. Check before either grows — the workshop is a standalone pitch, the DI 200
+scripts are a semester course, and they should cite each other rather than duplicate.
+
 ## Shared examples / case studies
 
 - **The Oka Terra Chair** — used in `workshop-semiotic-commons/copyright-and-the-commons.md` as an idea/expression (copyright) example, and possibly the same object referenced as a third case study slot in `workshop-circular-economy-design/chair-case-studies.md` (material/circularity angle). The chair-case-studies file already flags this itself as an open thread connecting the copyright workshop and the circular-economy workshops through one object — still needs Kristian to confirm it's the same chair and fill in its material story.

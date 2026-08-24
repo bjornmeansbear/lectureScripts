@@ -94,6 +94,8 @@ Other CC licenses are stricter. Attribution, no derivatives lets people reproduc
 - **[Badass Libre Fonts by Women](https://www.design-research.be/by-womxn/)** — a curated list by Loraine Furter, possible because the fonts themselves are libre-licensed and free to relink and redistribute.
 - **Libre Graphics Magazine** — every issue, including the actual design files, published openly.
 - **Public Domain Review** — publishes curated collections of public domain images along with real context on where they came from, not just a dump of files.
+- **Library of Congress**, and specifically the **FSA/OWI collection** within it — Depression-era and wartime photography made by federal photographers, so public domain from the moment it was taken. Unusually deep on labor, service work, and ordinary interiors, which most stock archives have almost none of.
+- **Smithsonian Open Access** — over four million items released CC0 outright: no permission, no attribution required, no license to read.
 - **Archive.org**, and specifically the **Prelinger Archive** within it — Rick Prelinger’s collection of public domain film, released there because he believes culture should be free.
 
 Worth knowing the difference between “free” meanings here: gratis means free of cost. Libre means free of restriction. Public domain material is libre. A lot of “free” stock photography is only gratis — free to download, but still licensed with limits on how you use it.
