@@ -13,6 +13,15 @@ slides in `../di200-wk1-deck.html`:
 
 Missing files are fine — the slide falls back to a flat dark ground and still reads.
 
+Each beat slide carries a commented-out credit line in the HTML. When you drop a real image
+in, uncomment it and write the actual attribution:
+
+```html
+<p class="credit">Farm Security Administration, Library of Congress, 1939. Public domain.</p>
+```
+
+Until then it stays hidden, so no placeholder text shows on the projected slide.
+
 ## Contrast
 
 Each beat lays a `brown-8` scrim over the image at `--scrim: 0.80`. Computed

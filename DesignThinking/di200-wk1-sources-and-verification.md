@@ -58,6 +58,26 @@ Sources: <https://en.wikipedia.org/wiki/Horst_Rittel> ·
 And the same person produces the field's most durable idea fifteen years later. The
 Bauhaus → Ulm → Rittel → Berkeley → wicked problems chain is documentary, not analogy.
 
+### Lucy Suchman — CONFIRMED
+
+- PhD in **social and cultural anthropology, UC Berkeley, 1984.** Worked at Xerox PARC.
+- *Plans and Situated Actions: The Problem of Human-Machine Communication*, Cambridge
+  University Press, **1987**.
+- Her ethnographic study — video of office workers struggling to use a photocopier — is
+  "today often referred to as one of the first instances of corporate ethnography."
+- Argument: people do not work from plans in the sense of stepwise abstract actions; they
+  work from **situated actions** — local, sensed alternatives at each moment. This is the
+  book that broke the information-processing model's hold on HCI.
+- Source: <https://womenofixd.com/stories/lucy-suchman> · CV:
+  <https://www.lancaster.ac.uk/fass/doc_library/sociology/suchman_cv>
+
+**Why it matters for the lecture:** this is the ethnography-side equivalent of the Rittel
+find. A documented path from academic anthropology into corporate design practice, through
+one named person, with a dated book.
+
+**Not verified:** the identities of the two people in the famous copier video. They are
+often named as eminent computer scientists. Don't name them from the podium.
+
 ### Bauhaus Vorkurs — CONFIRMED
 
 Via the Bauhaus-Archiv and bauhaus imaginista:
@@ -187,8 +207,6 @@ source this session. If you want to spot-check anything, check here.
 - Vkhutemas, Moscow, 1920–1930.
 - Leonardo da Vinci 1452–1519; **roughly 7,000 surviving notebook pages** — this is the
   commonly cited figure and estimates vary; say "about seven thousand," not a precise count.
-- Wright brothers' wind tunnel, 1901, roughly 200 wing shapes tested. Figure varies by
-  source; "something like two hundred" is the safe phrasing.
 - Lee Vinsel, "Design Thinking Is a Boondoggle," 2017. **Venue not confirmed** — I've seen
   it attributed to the *Chronicle of Higher Education* and also circulated on Medium. The
   deck and script give only the year. Leave it that way unless you check.
@@ -205,7 +223,6 @@ The through-line the lecture is built on, in one place:
 | | |
 |---|---|
 | 1452–1519 | Leonardo — drawing as thinking, models as tests, direct observation over authority |
-| 1901 | Wright brothers — build the instrument when the published data is wrong |
 | 1919–1933 | Bauhaus *Vorkurs* — learning by doing, as curriculum |
 | 1920–1930 | Vkhutemas, Moscow — the parallel version |
 | 1927 | Max Bill enrolls at the Bauhaus, Dessau |

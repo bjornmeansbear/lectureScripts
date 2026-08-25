@@ -128,8 +128,6 @@ Leonardo da Vinci, 1452 to 1519. About seven thousand pages of his notebooks sur
 
 Research. Iteration. Prototyping. He didn't call it design thinking. He just did it.
 
-In 1901, Wilbur and Orville Wright built a wind tunnel, because the published tables of lift they were relying on turned out to be wrong. They tested something like two hundred wing shapes in it before they flew. That's testing your assumptions instead of trusting the literature.
-
 Then the Bauhaus, 1919 to 1933. The preliminary course — the *Vorkurs* — was taught by Johannes Itten, then László Moholy-Nagy, then Josef Albers. The principle was learning by doing. Paper folding, collage, model building. You find out what a material can do by manipulating it, not by being told. And every workshop was run by two masters, a craftsman and an artist, so that making and thinking were taught together.
 
 That is prototyping as a curriculum, thirty years before anyone wrote it down as a method. And the Bauhaus wasn't alone — the Vkhutemas school in Moscow was running a parallel version from 1920 to 1930.
@@ -444,6 +442,15 @@ Photograph that one.
 
 ## 12 · What ethnography actually is
 
+**[Slide — ethnos + graphein]**
+
+The word first. Ethnography comes from two Greek words: *ethnos*, a people, and *graphein*,
+to write. It literally means writing people down.
+
+That matters more than it sounds. The output of this method is a written account. Not a
+photograph, not a video, not a feeling you had standing in a lobby. Which is why we spend
+the back half of this afternoon on how to write things down, and why I'll be strict about it.
+
 **[Slide — Malinowski]**
 
 This morning was about the argument. This afternoon is about the method, and the method
@@ -456,6 +463,54 @@ perform for you. He was there for years.
 
 That last part is the part design keeps forgetting. The first twenty minutes of any
 observation are worthless, because everyone can see you.
+
+**[Slide — Boas and Hurston]**
+
+The American line runs through one person. Franz Boas, 1858 to 1942, at Columbia.
+
+Boas gave us cultural relativism — the idea that you understand a practice in its own
+terms, rather than by ranking it against your own. That's the intellectual move this
+entire afternoon depends on, and design ethnography almost never credits it.
+
+He trained a remarkable set of students. Margaret Mead. Ruth Benedict. And Zora Neale
+Hurston, who studied anthropology under him at Barnard, and whose book *Mules and Men*,
+published in 1935, collected folklore in Florida and Louisiana — in her own community.
+
+I mention Hurston specifically because she's the counter-case to Malinowski. He was an
+outsider trying to become less strange to the people he studied. She was already inside,
+and she wrote about what that changed — what people told her that they wouldn't have told
+a stranger, and what they wouldn't tell her precisely because she wasn't a stranger.
+
+You're going to be outsiders at the Hilton. But some of you have worked service jobs, and
+that changes what you'll notice and what you'll be told. Pay attention to that.
+
+**[Slide — where the method comes from, honestly]**
+
+And I'm not going to introduce this method without saying where it came from.
+
+Anthropology grew up in the same decades as European empire. A great deal of early
+fieldwork happened in colonized territories, sometimes with colonial administrations as
+the patron or the audience for the report. Studying people who were not in a position to
+refuse was, for a long stretch, the normal condition of the discipline.
+
+It has spent about a century reckoning with that, and the reckoning produced most of the
+ethics we'll cover. You're inheriting the method and the reckoning at the same time. If
+anyone ever tells you research ethics is bureaucratic overhead, that's the history it's
+overhead from.
+
+**[Slide — emic and etic]**
+
+Two words worth having. A linguist named Kenneth Pike coined them in 1954, from *phonemic*
+and *phonetic*.
+
+Emic is the insider's categories — how the people in a place carve up their own world.
+
+Etic is the outsider's categories — the ones you walked in with.
+
+If a housekeeper says "the mornings are the worst," that's emic. If you write down "morning
+workflow inefficiency," that's etic.
+
+You need both. The failure mode is using yours and believing they're theirs.
 
 **[Slide — the wink]**
 
@@ -503,6 +558,43 @@ you filled a wall with Post-its makes you dangerous.
 
 That's the same argument Natasha Jen made this morning, pointed at research instead of
 process.
+
+**[Slide — Writing Culture]**
+
+One more idea before the methods, and it's the one that changes how you take notes.
+
+In 1986, James Clifford and George Marcus edited a collection called *Writing Culture*.
+The argument, roughly: an ethnographic account is constructed. Somebody chose what to put
+in, in what order, in whose words. It's partial and it's rhetorical, and the person who
+wrote it is present in it whether they admit it or not.
+
+This is called the reflexive turn, and the practical version is simple. You are not a
+camera. Who you are changes what people show you and what they say. So write that down too
+— write down where you were standing, what you'd just been told, what you expected to see.
+
+**[Slide — how it got into design]**
+
+So how does any of this end up in a design studio?
+
+Mostly through one person. Lucy Suchman finished a PhD in social and cultural anthropology
+at Berkeley in 1984, and she was working at Xerox PARC — the research lab that produced
+the graphical interface, the mouse, and the laser printer.
+
+She videotaped people trying to use a photocopier. Not novices — accomplished people, in
+their own workplace, unable to make a machine do what they wanted. That study is generally
+called the first corporate ethnography.
+
+In 1987 she published *Plans and Situated Actions* with Cambridge University Press. Her
+argument was that people don't execute plans. They improvise, moment to moment, from
+whatever is actually in front of them. The copier had been designed on the assumption that
+users follow steps in order, and that assumption is why it was unusable.
+
+That's the whole case for this method in one example. You could not have found that by
+asking people what they do. They'd have told you they follow the instructions. You had to
+watch.
+
+After that it moves fast: Doblin develops AEIOU in 1991, and Hugh Beyer and Karen
+Holtzblatt publish *Contextual Design* in 1998.
 
 ---
 
@@ -695,10 +787,19 @@ Alright. Outside.
 ## References, in order of appearance
 
 - Leonardo da Vinci (1452–1519), notebooks — roughly 7,000 surviving pages
-- Wilbur and Orville Wright, wind tunnel experiments, 1901
 - The Bauhaus, 1919–1933 — *Vorkurs* under Johannes Itten, László Moholy-Nagy, Josef Albers. Vkhutemas, Moscow, 1920–1930
 - Max Bill, Bauhaus Dessau 1927; co-founds Hochschule für Gestaltung Ulm, 1953
 - Horst Rittel, Professor of Design Methodology, HfG Ulm, 1958–1963; Berkeley from 1963; Design Methods Group, 1967
+- Bronisław Malinowski, *Argonauts of the Western Pacific*, 1922
+- Franz Boas (1858–1942), Columbia — cultural relativism
+- Zora Neale Hurston (1891–1960), *Mules and Men*, 1935
+- Kenneth Pike, emic/etic, 1954
+- Clifford Geertz, "Thick Description," 1973
+- James Clifford and George Marcus, eds., *Writing Culture*, 1986
+- Lucy Suchman, *Plans and Situated Actions*, Cambridge University Press, 1987 (PhD anthropology, Berkeley, 1984; Xerox PARC)
+- Doblin, AEIOU, 1991 · Beyer and Holtzblatt, *Contextual Design*, 1998
+- Emerson, Fretz and Shaw, *Writing Ethnographic Fieldnotes*
+- Glaser and Strauss, grounded theory, 1967 · Jiro Kawakita, KJ method
 - Herbert A. Simon, *The Sciences of the Artificial*, MIT Press, 1969
 - Hasso Plattner Institute of Design at Stanford (d.school), founded 2005 — five modes
 - UK Design Council, Double Diamond, 2005
