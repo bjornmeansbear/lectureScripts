@@ -129,7 +129,7 @@ Tell it as a story with a turn in it. The turn is that **the people who invented
 
 **1991 — IDEO.** **1999 — the shopping cart.** **2004–05 — the d.school.** **2005 — the UK Design Council publishes the Double Diamond.** **2008 — Tim Brown, "Design Thinking," *Harvard Business Review*.**
 
-> 2008 is the year it stops being a way of working and becomes a product with a price. HBR is not a design magazine. It's read by people who buy consulting.
+> 2008 is the year it stops being a way working and becomes a product with a price. HBR is not a design magazine, it is a business mag. It's read by people who buy consulting.
 
 Put Brown's own definition up, whole:
 
