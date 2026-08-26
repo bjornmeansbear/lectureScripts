@@ -18,10 +18,10 @@ number keys `1`–`7` jump between sections.
 | 11:10–11:40 | The case, the critique, why now | **§8–§10 below** |
 | 11:40–11:45 | The conceit · weak-link/strong-link | **§11 below** |
 | | | |
-| **11:45–12:00** | **Ethics briefing** | **`../EthnographicResearch/research-ethics-primer-hilton.md`** — read Part A from that file directly, don't paraphrase it |
+| **11:45–12:00** | **Ethics briefing** | **`../lecture-ethnographic-research/research-ethics-primer-hilton.md`** — read Part A from that file directly, don't paraphrase it |
 | 12:00–1:00 | Lunch | |
 | 1:00–1:35 | Ethnographic research | **§12–§15 below** |
-| 1:35–3:00 | Exercises, out of the room | not scripted — `../EthnographicResearch/di200-wk1-observation-and-coding-exercises.md` |
+| 1:35–3:00 | Exercises, out of the room | not scripted — `../lecture-ethnographic-research/di200-wk1-observation-and-coding-exercises.md` |
 
 ## The other files
 
@@ -29,7 +29,7 @@ number keys `1`–`7` jump between sections.
   if you run long. The stage directions, not the words.
 - `di200-wk1-sources-and-verification.md` — every date and quote, with what's confirmed,
   what's corrected, and the one quote that couldn't be sourced.
-- `../EthnographicResearch/research-ethics-primer-hilton.md` — the ethics briefing and the
+- `../lecture-ethnographic-research/research-ethics-primer-hilton.md` — the ethics briefing and the
   student handout. **Print Part B before class.**
 
 ---

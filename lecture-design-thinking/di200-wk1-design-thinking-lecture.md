@@ -6,7 +6,7 @@
 
 Slide deck: `di200-wk1-deck.html` in this folder — open in a browser, arrow keys or space to advance, `F` for fullscreen. Slide numbers in the run of show below.
 
-Delivery script for the morning. Afternoon is in `../EthnographicResearch/di200-wk1-ethnographic-research-lecture.md` and `../EthnographicResearch/di200-wk1-observation-and-coding-exercises.md`.
+Delivery script for the morning. Afternoon is in `../lecture-ethnographic-research/di200-wk1-ethnographic-research-lecture.md` and `../lecture-ethnographic-research/di200-wk1-observation-and-coding-exercises.md`.
 
 Source plan: `WritingPlanning/di200/DI200-DetailedWeeklySchedule.md` (Wk1). This script is the delivery version of that outline — it doesn't replace it, and the reading list there is still the reading list.
 
@@ -36,7 +36,7 @@ The ethics briefing is not optional and not a footnote — per the syllabus, nob
 | 10:30–10:40 | Break | |
 | 10:40–11:10 | The Deep Dive, watched twice | this script §4 |
 | 11:10–11:45 | The case, the critique, the conceit | this script §5 + §6 |
-| **11:45–12:00** | **Ethics briefing** | `../EthnographicResearch/research-ethics-primer-hilton.md` |
+| **11:45–12:00** | **Ethics briefing** | `../lecture-ethnographic-research/research-ethics-primer-hilton.md` |
 | 12:00–1:00 | Lunch | |
 | 1:00–1:35 | Lecture: ethnographic research | ethnography script |
 | 1:35–1:45 | Calibration: the same thing, twice | exercises file §1 |
@@ -274,7 +274,7 @@ Source: `WritingPlanning/di200/0202607301119-designisastronglinkproblem.md`.
 
 ## 7 · Ethics briefing (11:45–12:00)
 
-**Full script and student handout: `../EthnographicResearch/research-ethics-primer-hilton.md`.**
+**Full script and student handout: `../lecture-ethnographic-research/research-ethics-primer-hilton.md`.**
 
 It sits at the end of the morning rather than the end of the day on purpose — it's a gate for site access, the morning block is the one that survives contact with reality, and nobody absorbs a briefing on power and consent at 2:50 after four hours.
 

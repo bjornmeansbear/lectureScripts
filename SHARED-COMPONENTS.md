@@ -27,10 +27,10 @@ Physical files stay put (one copy, in whichever folder it belongs to most). This
 Three delivery scripts for one 6-hour studio day, written from the Wk1 outline in
 `WritingPlanning/di200/DI200-DetailedWeeklySchedule.md`:
 
-- `DesignThinking/di200-wk1-design-thinking-lecture.md` — morning; also carries the
+- `lecture-design-thinking/di200-wk1-design-thinking-lecture.md` — morning; also carries the
   whole-day run of show and the ethics briefing text
-- `EthnographicResearch/di200-wk1-ethnographic-research-lecture.md` — afternoon lecture
-- `EthnographicResearch/di200-wk1-observation-and-coding-exercises.md` — afternoon studio
+- `lecture-ethnographic-research/di200-wk1-ethnographic-research-lecture.md` — afternoon lecture
+- `lecture-ethnographic-research/di200-wk1-observation-and-coding-exercises.md` — afternoon studio
 
 Reusable beyond DI 200:
 
@@ -38,7 +38,10 @@ Reusable beyond DI 200:
   changing existing situations into preferred ones," 1969) used as a whole-semester
   spine — unpacked clause by clause into research / think / prototype / iterate /
   collaborate. Predates the Design Thinking brand, so it survives the critique. Strong
-  candidate for any course-opening lecture.
+  candidate for any course-opening lecture. **Now claimed:** it is the closest published
+  formulation to the "What is design?" genus decided 2026-08-26 — see the entry below and
+  `lecture-signs-signaling-on-substrates/sources-and-pointers.md`. Cite it there rather
+  than re-deriving.
 - **Geertz's wink vs. twitch** as the thin/thick description demo. The most portable
   teaching example in either script — one gesture, thirty seconds, and the whole idea
   lands. Reusable anywhere research or interpretation is being taught.
@@ -84,6 +87,38 @@ scripts are a semester course, and they should cite each other rather than dupli
 - **Curry J. Hackett** — bibliography of `workshop-designing-for-the-future/workshop-designing-for-the-future.md`, and a worked example in the Fall 23 lecture transcript (Midjourney-generated alternate pasts/presents of Black leisure and architecture). Also plausibly relevant to the SGD/eco-narrative material, since the move is the same one Solarpunk makes — worth checking when "What is an eco-narrative?" gets written.
 - **Afrofuturism** (Sun Ra, Parliament, Mark Dery, André 3000, Janelle Monáe, via the Vox short) — added to `workshop-designing-for-the-future/` 2026-08. Currently single-use, but it's the clearest "whose future gets imagined" material on the menu; flag before writing Solarpunk or eco-narrative pieces so they don't re-derive it.
 - **Baltimore's trash incinerator vs. CopenHill** — a preferable-futures example in `workshop-designing-for-the-future/`, but it's equally a *sustainability* and *environmental justice* example (asthma/lung cancer/heart disease rates due south of it). Strong candidate for reuse in the SGD and climate-designer lectures, which currently have no local Baltimore case study.
+
+---
+
+## One phrase, two lectures (added 2026-08-26)
+
+- **The coinage is from 2019, and it started in the sustainability material.** Provenance, from `~/Code/sentence-a-day/SAD2019.md`:
+  - `:151` (2019-04-22) — first appearance. Making paper, remade-plastic sheets, clay tablets: *"what else allows me to put 'signs on substrates' in a meaningful way…"* Material, not theoretical.
+  - `:179` (2019-05-15) — *"what can communication design; what can signs on substrates; do to get carbon back into the ground?"*
+  - `:186` (2019-05-16) — *"Okay, Signs on Substrates. Carbon capture. What the hell am I going to do?"*
+  - `:230` (2019-06-05) — the pivot to theory, and the sharpest statement of the whole argument in your own voice: *"Every graphic design problem's answer is not a book; or a poster; or an identity… Can it always be framed as signs on substrates (signs on surfaces?) even if not a visual 'answer'?"*
+  - `:463` (2019-12-29) — **the two branches as one line**: *"pragmatic utopian. signs on substrates signalling sustainability. how to put that together?"*
+
+  So "Signs Signaling Sustainability" and "Signs Signaling on Substrates" are not a coincidental name collision — they are **one phrase that forked**, and `:463` is you trying to fuse them and never finishing. ("Pragmatic utopian" ties this to the Futures Cone entry above.)
+
+- **The fork, as it stands today** — two different arguments now, whatever their shared root, and they will get mistaken for each other if this isn't written down.
+  - **Signs Signaling Sustainability** — `booklet-new-design-commons/07-signs-signaling-sustainability.md`, delivered in `HixsonLied-VisitingArtistLecture.md:173`, listed under SGD in `Lectures To Writeup.txt`. Argues *what makes design beautiful*: Jerome Harris on inherited modernist criteria → de Botton (beauty as values made material) → Ehrenfeld's flourishing → four case studies (Amager Bakke vapor ring, Coreil-Allen's crosswalks, solar.lowtechmagazine.com, DC High Water Mark) → greenwashing as the failure mode. Part Three, the ecological commons.
+  - **Signs Signaling on Substrates** — `lecture-signs-signaling-on-substrates/source-notion-export.md`, new to the repo 2026-08-26 (Notion export). Argues *what graphic design is*: a proposed redefinition of the discipline as signs / signaling / substrates, with substrates expanded past paper and pixels to sound, scent, gesture, attention, public space, culture. Its engine is automation — if technical formal skill is what a designer is, the designer loses to the machine — so the argument is for semiotics, ecology, and cultural studies as the actual core of a design education.
+  - The two touch (both use semiotics; both end up arguing that form should declare values) but they are not the same essay and neither supersedes the other. If they ever share a stage, Substrates is the definitional floor and Sustainability is one application built on it.
+
+- **`lecture-signs-signaling-on-substrates/` fills the "What is design?" slot** — the one General-category line in `Lectures To Writeup.txt:34` that had no material behind it. Filed as a **lecture, not a workshop**: there is no tested exercise in the source, and inventing one would put it in the same untested position as `workshop-form-content-context/`.
+
+- **It is also the unstated theory floor under `workshop-semiotic-commons/`** — that workshop teaches how meaning shifts under reuse without ever defining the discipline in semiotic terms. If the Substrates lecture gets written, the workshop's Day One lecture can cite it instead of re-deriving "signs carry meaning" from scratch. Related: the Barthes overlap already logged under Shared citations.
+
+- **Source caveat** — `source-notion-export.md` is a raw export holding roughly five overlapping passes of the same argument in one 584-line file (finished-ish essay → abstract → call-to-action → outline → loose notes → a third restatement of the definition). Same near-duplicate problem as the `WhatIsSGD` pile at root. The top section is the strongest; everything below it is quarry, not draft.
+
+- **`bjornpaedia` has the essay's own tiddlers** — `~/Code/sentence-a-day/sad2021tw/tiddlers/`: `Signs Signaling on Substrates.tid` (2024-01-25, a stub — "A working definition I have for Graphic Design") and `SSoS Essay intro.tid` (2024-07-01), which is the clean source of the Ben Duvall "surface + sign" passage. Check there before treating the Notion export as the only version.
+
+- **DECIDED 2026-08-26 — the broad definition is "translating interests, desires, and intentions into things."** Not form-giving (silent on ideology), not problem-solving (rejected in the 2021 source itself). Two levels: that line is the **genus**, scaling to chairs/gardens/buildings; "signs signaling on substrates" is the **species**, what it looks like when the intended thing is communication. Substrates stays narrow rather than being broadened. Full reasoning and the raw material for the still-undrafted genus half: `lecture-signs-signaling-on-substrates/sources-and-pointers.md`.
+
+- **The scaling analysis behind that decision — corrected the same day.** First pass argued signaling doesn't scale to chairs/buildings without flattening function; Kristian rejected it and he's right (a chair's form denotes chairness and connotes comfort/status — that *is* signaling, and Krippendorff and Barthes support it rather than warn against it). The real question was never "does this cover all design," it's **"is this medium-agnostic enough to cover a graphic designer making a chair"** — and it is. **The discriminator is intent, not medium:** graphic design is what you're doing when the purpose is to signal a meaning, whatever the substrate. Consequences worth knowing before touching this: it strengthens the automation argument (define by output, Canva wins; define by intent, the practice is portable), and it retroactively makes `workshop-circular-economy-design/` (3P, Spontaneous Lamp) and the Drawdown diptychs *graphic design with unusual substrates* rather than departures — a claim those pitch sheets don't currently make. Full reasoning: `lecture-signs-signaling-on-substrates/sources-and-pointers.md`
+
+- **There is no "What is design?" file** — `Lectures To Writeup.txt:33` lists it under General with nothing behind it. The closest existing prose is `0202103132325-TheseGesturesAreUndoubtedlyUtopian.md:154`, and its source, `SAD2019.md:174–178` (2019-05-10 → 05-13): the salvaged silverware roll vs. the folding "hobo knife," *"do I want to be a 'designer' then? Why not just a vernacular crafter or builder?"*, Papanek's coffee-can radio, counterculture modernism. Raw, unwritten, and much more in your voice than the Notion essay. That's the other half of the "What is design?" slot — the Substrates lecture answers *what design is*, this cluster asks *whether the label is worth keeping*.
 
 ---
 

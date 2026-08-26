@@ -2,7 +2,7 @@
 
 **DI 200 / Structured Creativity — Week 1 afternoon, Monday Aug 24 2026, 1:00–1:35**
 
-Delivery script. Morning is `../DesignThinking/di200-wk1-design-thinking-lecture.md`. The exercises this lecture sets up are in `di200-wk1-observation-and-coding-exercises.md`, which starts at 1:35.
+Delivery script. Morning is `../lecture-design-thinking/di200-wk1-design-thinking-lecture.md`. The exercises this lecture sets up are in `di200-wk1-observation-and-coding-exercises.md`, which starts at 1:35.
 
 Ethics is **not** here — it closes the morning. See `research-ethics-primer-hilton.md`.
 
