@@ -56,8 +56,8 @@ All the materials are free. Every workshop in here lives in a public repository 
 **3. THE LIBRE DESIGNER** A weekend in tools you don't rent. Students work in F/LOSS software, post files publicly, and critique each other through issue queues instead of a crit circle. The argument underneath: the tools you use decide what you can make and who gets to make it.
 *From a full MICA semester course, spring 2018. Presented at AIGA MAKE that June.*
 
-**4. THE SUSTAINABILITIST PRINCIPLES** Everyone writes their own sustainability manifesto, then has to build it as an object rather than set it as a poster. Found books, screen-printed definitions, thread.
-*Adapted from an installation I made in 2009. Never run as a group workshop.*
+**4. THE SUSTAINABILITIST PRINCIPLES** In 2009 I built a manifesto instead of writing one — found books, screen-printed definitions, embroidery floss, twenty principles for what sustainability asks of a designer. This workshop hands that job over. Everyone writes their own manifesto, then has to make it an object rather than set it as a poster, and the room ends up with one collective piece assembled from all of them.
+*The 2009 installation is real. The workshop version has not been run with a group.*
 
 **5. DESIGN THE FUTURE TODAY** One afternoon. Speculative design, the futures cone, and a hands-on round of text-to-image prompting to find out where the tools fall down. Ends on a question students can take into a degree project: does this thing exist in the future you'd prefer?
 *Run at Western Michigan, October 2023.*
@@ -90,7 +90,7 @@ Any of these run 45 minutes to an hour, with time after. They pair well with a w
 **13. SIGNS SIGNALING ON SUBSTRATES** A definition of graphic design that doesn't mention paper. Signs, signaling, substrates — where a substrate can be a screen, a chair, a room, or somebody's attention. If what makes you a designer is technical skill, automation takes the job. If it's intent, it doesn't.
 *Draft. The strongest version of this is still in a notebook.*
 
-**14. BAUERDEN** Fifteen minutes. A manifesto, read aloud, in the shape of the one Gropius wrote. Our client is our climate.
+**14. BAUERDEN** Fifteen minutes. A manifesto, read aloud, in the shape of the one Gropius wrote to open the Bauhaus in 1919. Our client is our climate.
 
 **15. BEING PROFESSIONAL?** For graduating students. What a practice can look like when your values pick your jobs. Less career advice than an argument that the ideology shows up in how you work even when you don't choose the what.
 *Given at Kalamazoo College, 2022.*
@@ -128,19 +128,16 @@ Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MI
 ---
 
 <!-- TO DO before this gets printed
-
-CONFIRM BEFORE SENDING — I wrote these from the repo and may have them wrong:
-- ~~Chair~~ CONFIRMED: Undergraduate Design Chair, Fall 2022 to summer 2026. Now faculty in Graphic Design and Design and Innovation — **not** product design. Two other places still say otherwise and are worth fixing: the Notion "Current KB Bio" top entry (says you currently chair GD and Product Design, last edited Dec 2025), and `workshop-semiotic-commons/variations-pitch-booklet.md:120` (says you teach in graphic and product design).
-- ~~Fees~~ RECONCILED against the sheets. Everything on the menu is $2,000–$3,000 except the futures afternoon. Still worth confirming the numbers are current, since they were set months ago.
-- 3P is deliberately OFF this menu (2026-08-26) — not travellable right now, the equipment doesn't move. `workshop-circular-economy-design/workshop-3p-plastic.md` stays in the repo and stays real; put it back on the menu if the rig ever travels, or pitch it separately to anyone who can come to MICA.
-
 STRUCTURE
 - Numbering runs 1-17 straight through so a poster version can key to it. If this becomes a zine instead, the lectures probably want to be a spread of their own.
-- I did NOT paste all nine full workshop sheets in. Nine sheets is 30+ pages and kills the zine. Better: this is the menu, and the full sheet goes out as a PDF when somebody asks about a specific one. That also gives you a reason to reply personally.
+- I did NOT paste the eight full workshop sheets in. Eight sheets is 30+ pages and kills the zine. Better: this is the menu, and the full sheet goes out as a PDF when somebody asks about a specific one. That also gives you a reason to reply personally.
 - If you do want them bound in, the order should be #1, #3, #5 first — the three with the most real teaching behind them.
 
 VOICE / CUTS
 - "a bucket of ground-up milk jugs" in the intro is doing the concrete work for the whole abstract sentence before it. Keep it even if you cut elsewhere.
-- #7 and #4 both admit they haven't been run. That's two admissions in nine. Fine, and probably better than hiding it, but you may want #4 to lead with the 2009 installation instead so the untested part lands second.
-- The Gropius reference in #14 is unexplained on purpose. If the audience is undergrads, it needs four more words.
+- #7 and #4 both admit they haven't been run. That's two admissions in eight. Fine, and probably better than hiding it, but you may want #4 to lead with the 2009 installation instead so the untested part lands second.
+- ~~Gropius~~ Now reads "the one Gropius wrote to open the Bauhaus in 1919." Costs nothing for readers who already know, and rescues the reference for those who don't.
+
+MISSING
+- **No images.** The one real gap left. A riso zine wants, at minimum: the four objects from #9 (Amager Bakke vapor ring, Coreil-Allen crosswalk, solar.lowtechmagazine.com, DC High Water Mark), a spread of student zines from #1, and the 2009 Sustainabilitist Principles piece for #4. Two-colour riso means they want to be high-contrast or halftoned anyway — the bitmapped treatment on the Low-tech Magazine site is the obvious model, and it's already one of the examples.
 -->
