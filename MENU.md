@@ -141,9 +141,9 @@ STRUCTURE
   | Structured Creativity | 857 | tight |
   | Form, Content, Context | 1,170 | ~30% over |
   | The Libre Designer | 1,453 | ~60% over |
-  | Design the Future Today | 3,264 | 4x over |
+  | Design the Future Today | 784 | **fixed** — was 3,264 |
 
-  Five fit as written. Three need cutting, and Design the Future Today needs rebuilding rather than trimming — it's an outlier by a factor of four, because it still carries full session detail the others summarize.
+  Six fit now. Design the Future Today was rebuilt 2026-08-26 by splitting the file: the pitch stays, and the lecture in full, the diffusion-model explanation, tool selection, and the bibliography moved to `facilitator-guide.md` in the same folder. Nothing was deleted. Two left — The Libre Designer and Form, Content, Context — and both look like the same problem, running material sitting inside a pitch.
 - If sheets ever do get bound together, lead with #1, #3, #5 — the three with the most real teaching behind them.
 
 VOICE / CUTS
