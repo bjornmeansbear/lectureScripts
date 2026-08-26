@@ -150,20 +150,23 @@ Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MI
 <!-- TO DO before this gets printed
 STRUCTURE
 - FORMAT DECIDED 2026-08-26: **letter-sized**, with each workshop getting its own one-pager designed to fit one letter sheet front and back. The menu stays the menu; the sheets go out individually. Straight 1-17 numbering works for this — no zine spread needed.
-- **Length audit against front/back letter.** With headings, whitespace, and room for one image, a letter sheet front/back holds roughly 700-900 words of pitch prose. Counting only pitch-facing text (everything above "Notes to self"):
+- **Length audit against front/back letter.** With headings, whitespace, and room for one image, a letter sheet front/back holds roughly 700-900 words of pitch prose. Counting only pitch-facing text (everything above "Notes to self"), all eight now fit:
 
-  | Sheet | Words | Fits? |
-  |---|---|---|
-  | Make It Mean Something | 524 | yes, room for an image |
-  | Spontaneous Lamp | 618 | yes |
-  | Sustainabilitist Principles | 679 | yes |
-  | Drawdown Diptychs | 824 | tight |
-  | Structured Creativity | 857 | tight |
-  | Form, Content, Context | 901 | **fixed** — was 1,170 |
-  | The Libre Designer | 1,453 | ~60% over |
-  | Design the Future Today | 784 | **fixed** — was 3,264 |
+  | Sheet | Words |
+  |---|---|
+  | Make It Mean Something | 524 |
+  | Spontaneous Lamp | 618 |
+  | Sustainabilitist Principles | 679 |
+  | Structured Creativity | 857 |
+  | Drawdown Diptychs | 862 |
+  | Design the Future Today | 865 |
+  | The Libre Designer | 874 |
+  | Form, Content, Context | 901 |
 
-  Six fit now. Design the Future Today was rebuilt 2026-08-26 by splitting the file: the pitch stays, and the lecture in full, the diffusion-model explanation, tool selection, and the bibliography moved to `facilitator-guide.md` in the same folder. Nothing was deleted. Form, Content, Context fixed 2026-08-26 — it was never over-described. Its bibliography ran 339 words, 29% of the sheet, with a full annotation per entry; the sheet now carries bare names and the annotated version lives in `reading-list.md`. One left: **The Libre Designer**, 1,453, and that one really is over-described — "Day one — enclosure and precedent" alone is 459 words, roughly the length of an entire other sheet, plus 263 words of prior-versions history.
+  Three were fixed 2026-08-26, and the causes were different. **Design the Future Today** (3,264) and **The Libre Designer** (1,453) were carrying running material inside a pitch — the lecture in full, tool mechanics, method detail — now in a `facilitator-guide.md` in each folder. **Form, Content, Context** (1,170) was never over-described; its bibliography was 29% of the sheet with a full annotation per entry, now in `reading-list.md`. Nothing was deleted in any of the three.
+
+  The three shortest have room for an image. The four in the 850-900 band do not — if a sheet needs a picture, it comes out of the prose.
+
 - If sheets ever do get bound together, lead with #1, #3, #5 — the three with the most real teaching behind them.
 
 VOICE / CUTS
