@@ -127,7 +127,7 @@ Lectures on their own, or free if I'm already there for a workshop.
 
 Prices are negotiable, especially if travel and lodging are covered.
 
-For an in-person visit, get in touch months ahead — a year isn't too early, and departments schedule that far out anyway. Remote sessions can come together in a few weeks.
+For an in-person visit, months ahead is best and a year isn't too early, since departments schedule that far out anyway. Ask anyway if it's shorter than that. If travel is covered I'll try to make it work, and a weekend is easiest. Remote sessions can come together in a few weeks.
 
 Kristian Bjørnard
 kbjornard@mica.edu
