@@ -8,7 +8,7 @@ live on youtube 202007271900: <https://youtu.be/fLfeWtOpFto>
 
   MICAGD Summer Camp
 
-  LIBRE GRAPHICS with Kristian Bjornard
+  LIBRE GRAPHICS with Kristian Bjørnard
 
   20200724 Update: My plan to use the F/LOS video conferencing platform JitSi Meet is not quite working out, so we will be switcing to a zoom call!? And just a heads up incase it wasn't clear, this is less a "workshop" or "demo" and more of a lecture/walkthrough w/ Q&A and discussion.
 
@@ -44,7 +44,7 @@ Anyway, the goal here is to point out simple to complex opportunities for a desi
 
 Welcome.
 
-My name is Kristian Bjornard. I teach a variety of Graphic Design classes at the Maryland Institute College of art -- mainly open studios for the seniors where they work on their capstone design projects, and then some web and motion and interactivity related courses for sophmores and juniors, and the occasional elective dealin
+My name is Kristian Bjørnard. I teach a variety of Graphic Design classes at the Maryland Institute College of art -- mainly open studios for the seniors where they work on their capstone design projects, and then some web and motion and interactivity related courses for sophmores and juniors, and the occasional elective dealin
 
 ## Some Brief Background
 

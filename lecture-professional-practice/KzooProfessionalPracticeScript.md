@@ -8,7 +8,7 @@ Hello.
 
 Nice to meet you all virtually.
 
-I'm Kristian Bjornard, I graduated from Kalamazoo in 2003. I was originally a physics major, but switched my senior year and instead graduated as an art major.
+I'm Kristian Bjørnard, I graduated from Kalamazoo in 2003. I was originally a physics major, but switched my senior year and instead graduated as an art major.
 
 I subsequently got my MFA in graphic design out here in Baltimore at the Maryland Institute College of Art in from 2007–2009 ... and now teach design and sustainability courses at MICA as a full time faculty...
 
@@ -31,7 +31,7 @@ The Libre Designer?
 
 ## Hello
 
-Hello. I am Kristian Bjornard. I graduated from Kalamazoo in 2003. I subsequently got my MFA in graphic design out here in Baltimore at the Maryland Institute College of Art... and now teach design and sustainability courses at MICA as a full time faculty...
+Hello. I am Kristian Bjørnard. I graduated from Kalamazoo in 2003. I subsequently got my MFA in graphic design out here in Baltimore at the Maryland Institute College of Art... and now teach design and sustainability courses at MICA as a full time faculty...
 
 ## Kzoo
 

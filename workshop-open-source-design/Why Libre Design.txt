@@ -1197,7 +1197,7 @@ do the tools that you choose to use affect this?
 
 Libre Designer?
 
-I'm Kristian Bjornard, I am a faculty at the Maryland Institute College of art in Baltimore.
+I'm Kristian Bjørnard, I am a faculty at the Maryland Institute College of art in Baltimore.
 
 This talk reinterprets the content in my paper to better focus on the "making" — I've earnestly attempted to make all aspects of my presentation from the Free/Libre Open Source (if I say F/LOS moving forward, its an acronym for Free/Libre Open Source) sphere of tools, tech, etc. — so fonts, imagery, etc. are either F/LOS, public domain, or made with F/LOS. To better show the making, I've screen captured a few experiments...
 
