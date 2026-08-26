@@ -127,7 +127,11 @@ Lectures on their own, or free if I'm already there for a workshop.
 
 Prices are negotiable, especially if travel and lodging are covered.
 
-Contact: kbjornard@mica.edu
+For an in-person visit, get in touch months ahead — a year isn't too early, and departments schedule that far out anyway. Remote sessions can come together in a few weeks.
+
+Kristian Bjørnard
+kbjornard@mica.edu
+[PHONE]
 
 ---
 
@@ -164,5 +168,6 @@ VOICE / CUTS
 - ~~Gropius~~ Now reads "the one Gropius wrote to open the Bauhaus in 1919." Costs nothing for readers who already know, and rescues the reference for those who don't.
 
 MISSING
+- **Phone number.** The contact block has a `[PHONE]` placeholder. Decide whether it's your cell or an office line before this prints — a cell on a document going to strangers is a decision, not an oversight.
 - **No images.** The one real gap left. A riso zine wants, at minimum: the four objects from #9 (Amager Bakke vapor ring, Coreil-Allen crosswalk, solar.lowtechmagazine.com, DC High Water Mark), a spread of student zines from #1, and the 2009 Sustainabilitist Principles piece for #4. Two-colour riso means they want to be high-contrast or halftoned anyway — the bitmapped treatment on the Low-tech Magazine site is the obvious model, and it's already one of the examples.
 -->
