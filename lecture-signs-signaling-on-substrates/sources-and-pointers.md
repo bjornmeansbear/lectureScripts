@@ -27,26 +27,36 @@ on substrates signalling sustainability."*
 
 ## The missing link: "surfaces" → "substrates" (2022)
 
-**`2022 AIGA Design Conference Symposium Pr.txt`, now in this folder.** The AIGA Design
-Educators CFP for Seattle 2022, theme **SURFACE** — with Kristian's brainstorm typed
-underneath it. That brainstorm is the bridge between the 2019 coinage and the 2024 essay:
+**`lecture-new-design-commons/2022 AIGA Design Conference Symposium Pr.txt`** — the AIGA
+Design Educators CFP for Seattle 2022, theme **SURFACE**, with Kristian's brainstorm typed
+underneath it. *Filed under NDC, not here* — the talk he was actually proposing became "A
+New Design Commons," per `workshop-open-source-design/workshop-open-source-design.md:69`.
+Pointer only.
+
+What it contains, and why it matters to this lecture:
 
 > Signs Signaling on Surfaces.
 > Signs on Surfaces Signaling Sustainably
 > Surfacing old signs for new signaling.
-> Surfacing old signs for new sustainable signaling.
 > Sustainable Signaling thru surfacing seasoned signs.
 
-Three things this settles. **One:** the sustainability branch and the definitional branch
-were still one thing in 2022 — he's trying to title them as a single talk. **Two:**
-"surface" is the AIGA theme's word, not his, which is why *substrate* eventually won — it
-survives the move off flat planes, and "surface" doesn't. **Three:** it explains the Ben
-Duvall quote's centrality — Duvall's line is literally *surface + sign = a work of graphic
-design*, so the CFP theme handed him the exact frame he was already arguing against.
+**Read the context before using these.** They come immediately after *"Okay, do I pitch
+free culture as a paper/lecture… or do I do a workshop???"* — so they are candidate titles
+for the **commons/free-culture talk**, not for a definitional essay. In 2022 the phrase was
+still a title he was reaching for, attached to whatever talk was in front of him.
 
-The same file's second half is unrelated to this lecture: a public-domain/free-culture
-workshop pitch (Flickr Commons, "who gets to design?", vernacular designing). That half is
-workshop #1/#4 material — see `workshop-semiotic-commons/copyright-and-the-commons.md`.
+Three things it does settle:
+
+1. **The phrase was doing triple duty as late as 2022** — sustainability, commons, and
+   definition, all reachable from the same six words. The fork into two lectures happened
+   after this, not before.
+2. **"Surface" is AIGA's word, not his.** That's why *substrate* won: substrate survives
+   the move off flat planes, surface doesn't. The 2019 entries already said "substrates";
+   2022 is the year the conference theme pulled it back toward "surfaces" and it didn't
+   stick.
+3. **It explains why Ben Duvall is load-bearing.** Duvall's line is literally *surface +
+   sign = a work of graphic design* — the conference handed him the exact frame he was
+   already arguing against.
 
 ## The other half of "What is design?" — the label question
 

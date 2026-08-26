@@ -3,7 +3,7 @@ title: Everything Is a Remix
 part: Two — The Semiotic Commons
 status: drafting
 sources:
-  - workshop-open-source-design/A New Design Commons.txt      # §§ "Reinventing Design as Open Source" (lines ~136–176) is POLISHED prose — reuse it, don't rewrite it
+  - lecture-new-design-commons/A New Design Commons.txt      # §§ "Reinventing Design as Open Source" (lines ~136–176) is POLISHED prose — reuse it, don't rewrite it
   - workshop-open-source-design/Why Libre Design.txt          # §§ "What is free cultural production anyway?", "Spectacular Vernacular"
   - workshop-open-source-design/Response to copying.txt
   - workshop-semiotic-commons/variations-on-a-norwegian-folktale.md

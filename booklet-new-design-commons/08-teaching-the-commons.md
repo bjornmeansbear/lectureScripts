@@ -3,7 +3,7 @@ title: Teaching the Commons
 part: Four — The Lever
 status: drafting
 sources:
-  - workshop-open-source-design/A New Design Commons.txt      # §§ on pedagogy — "we as design educators need to adopt this as part of our pedagogy"
+  - lecture-new-design-commons/A New Design Commons.txt      # §§ on pedagogy — "we as design educators need to adopt this as part of our pedagogy"
   - lecture-what-is-sustainable-graphic-design/HixsonLied-VisitingArtistLecture.md                        # host's intro: the Color and Composition assignment redesign, three semesters
   - workshop-semiotic-commons/copyright-and-the-commons.md     # written explicitly to be run by someone else
   - workshop-open-source-design/MICAGD Summer Camp Libre Graphics (transcript).txt

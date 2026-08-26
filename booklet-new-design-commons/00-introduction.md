@@ -3,10 +3,10 @@ title: A New Design Commons
 part: Introduction
 status: drafting
 sources:
-  - workshop-open-source-design/A New Design Commons.txt        # primary — essentially the finished intro
-  - workshop-open-source-design/A New Design Commons (0202209252330).txt
-  - workshop-open-source-design/NDC lecture script.txt          # NOTE: differs from lecture-new-design-commons/ file of same name
-  - lecture-new-design-commons/NDC lecture script.txt           # different content, same name
+  - lecture-new-design-commons/A New Design Commons.txt        # primary — essentially the finished intro
+  - lecture-new-design-commons/A New Design Commons (0202209252330).txt
+  - lecture-new-design-commons/NDC lecture script.txt
+  - lecture-new-design-commons/2022 AIGA Design Conference Symposium Pr.txt   # the CFP this talk was written for
 ---
 
 # A New Design Commons
@@ -103,7 +103,8 @@ TO DO:
     Illustrator splash screens" was not supported by either source.
   - Cut or keep the Keedy "Global Style" passage? It's good but it's the one paragraph
     here that assumes art-school context.
-  - Reconcile the two NDC lecture scripts — different files, identical names.
+  - The two NDC lecture scripts turned out to be the same file (one stray blank
+    line). Duplicate removed 2026-08-26; nothing to reconcile.
   - The Amanda Yeh quote is personal correspondence. Get her okay before print, and
     decide whether she's named or anonymized.
   - The Stallman quote on free software combining capitalist, socialist and anarchist
