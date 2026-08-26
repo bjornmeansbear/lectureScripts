@@ -8,7 +8,7 @@
 
 A list of things I can come and do at your school.
 
-I teach at MICA in graphic design, product design, and the new design and innovation department, just finished a four-year tenure as chair of undergraduate design, and run my climate-design studio, Wjerk. Before that: book covers and annual reports, a decade art-directing magazines around Baltimore, a farm, a permaculture garden, homemade biodiesel, cars converted to run on vegetable oil, and a set of hand-built machines that grind milk jugs into something you can mold. I started college as a physics major and switched to art in my senior year. Almost none of it I knew how to do before I did it.
+I teach at MICA in graphic design and design and innovation, and I run Wjerk, a climate-design studio. I was Undergraduate Design Chair from 2022 to 2026. Before all that: book covers and annual reports, a decade art-directing magazines around Baltimore, a farm, a permaculture garden, homemade biodiesel, cars converted to run on vegetable oil, and a set of hand-built machines that grind milk jugs into something you can mold. I started college as a physics major and switched to art in my senior year. Almost none of it I knew how to do before I did it.
 
 The through-line is narrower than that list. What values does a thing carry, and does its form say so? That question turns up in open source software, in the public domain, in a chair, in a bucket of ground-up milk jugs, in a zine made out of somebody else's pictures.
 
@@ -121,7 +121,7 @@ Contact: kbjornard@mica.edu
 
 ## For your poster
 
-Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MICA in graphic design, product design, and the new design and innovation department. He served four years as chair of undergraduate design and leads Wjerk, a climate-design studio. His practice connects editorial design, circular economies, and open source tools to advance ecological restoration and systems change. Over twenty years, he has worked across publishing, biodiesel production, brand and identity systems, permaculture, the dynamic web, plastic recycling, and regenerative design. He focuses on solutions that restore more than they consume and champions transparency in copyright and knowledge sharing.
+Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MICA in graphic design and design and innovation, and served as Undergraduate Design Chair from 2022 to 2026. He leads Wjerk, a climate-design studio. His practice connects editorial design, circular economies, and open source tools to advance ecological restoration and systems change. Over twenty years, he has worked across publishing, biodiesel production, brand and identity systems, permaculture, the dynamic web, plastic recycling, and regenerative design. He focuses on solutions that restore more than they consume and champions transparency in copyright and knowledge sharing.
 
 *Shorter, if the poster is small:* Kristian Bjørnard is a designer, educator, and sustainabilitist who leads Wjerk, a climate-design studio. He holds an MFA in Graphic Design from MICA and a BA in Studio Art from Kalamazoo College.
 
@@ -130,7 +130,7 @@ Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MI
 <!-- TO DO before this gets printed
 
 CONFIRM BEFORE SENDING — I wrote these from the repo and may have them wrong:
-- CHAIR, PAST TENSE. Both the intro and the back-page bio now say you finished a four-year tenure as chair of undergraduate design, matching `workshop-semiotic-commons/variations-pitch-booklet.md:120` (Aug 2026). The Notion "Current KB Bio" top entry still says you currently chair GD and Product Design — that entry was last edited Dec 2025 and looks stale. Worth updating Notion so the next person pulling your bio doesn't get the old one.
+- ~~Chair~~ CONFIRMED: Undergraduate Design Chair, Fall 2022 to summer 2026. Now faculty in Graphic Design and Design and Innovation — **not** product design. Two other places still say otherwise and are worth fixing: the Notion "Current KB Bio" top entry (says you currently chair GD and Product Design, last edited Dec 2025), and `workshop-semiotic-commons/variations-pitch-booklet.md:120` (says you teach in graphic and product design).
 - ~~Fees~~ RECONCILED against the sheets. Everything on the menu is $2,000–$3,000 except the futures afternoon. Still worth confirming the numbers are current, since they were set months ago.
 - 3P is deliberately OFF this menu (2026-08-26) — not travellable right now, the equipment doesn't move. `workshop-circular-economy-design/workshop-3p-plastic.md` stays in the repo and stays real; put it back on the menu if the rig ever travels, or pitch it separately to anyone who can come to MICA.
 
