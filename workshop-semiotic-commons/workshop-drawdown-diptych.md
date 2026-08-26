@@ -61,7 +61,7 @@ $2,000–$3,000 plus travel and materials, matching the semiotic workshop. Add $
 
 ## Prior versions
 
-- **University of Utah, 2021 — the first run.** Five weeks, embedded in a class.
+- **University of Utah, 2021 — the first run.** Five weeks, embedded in a class, and taught **entirely remotely**. Worth knowing: the whole method survives being run over video. The pile is a shared drive instead of a table, and the final crit is a screen full of posters instead of a wall.
 - **MICA, as a four-week unit.** Assigned week one. Students return week two with research and mood boards, and poster work starts in class that day. Poster drafts week three. Finals week four. Full syllabus, week-by-week deliverables, and a poster-designer inspiration list (Anette Lenz, Art Sims, Bráulio Amado, Daniel Eatock, Emory Douglas, Jean Benoit Levy, Philippe Apeloig, Shun Ishizuka, Sindiso Nyoni, Skolos and Wedell, Vincent Perrottet, Yve Ludwig) are in `drawdown-diptych-full-syllabus.md`, this folder.
 - The weekend and two-day versions above compress that unit. Not yet run in the short form.
 

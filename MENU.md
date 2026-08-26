@@ -24,7 +24,9 @@ Universities and colleges. Art and design classrooms.
 
 I've taught first-years through advanced graduate students — general visual fundamentals classes, graphic design, product design, and design teams that don't belong to any one discipline. Everything here can be tuned to the level in the room. Tell me who I'd be working with and I'll adjust the brief rather than hand you a fixed one.
 
-Groups of 12 to 25 work best. Most workshops want a studio space with wall room and access to printing. Lectures can be given remotely — the Nebraska one was.
+Groups of 12 to 25 work best. Most workshops want a studio space with wall room and access to printing.
+
+Remote works, and not just for lectures. The Nebraska lecture was over Zoom, and the first run of #2 was a five-week remote workshop. If travel is the obstacle, it doesn't have to be the obstacle.
 
 ---
 
@@ -61,7 +63,7 @@ Groups of 12 to 25 work best. Most workshops want a studio space with wall room 
 *Run at Nebraska–Lincoln, Utah, MICA twice, and HAW Hamburg.*
 
 **2. DRAWDOWN DIPTYCHS** The same engine, pointed somewhere else. Each student picks one real climate solution from Project Drawdown, researches it past the summary page, and builds two posters that argue with it — all from public domain and Creative Commons material. Saturday morning is the part that matters: everyone explains how they got from a solution to an image that isn't a picture of that solution. A wind farm is easy to photograph and hard to mean anything with. Ends with the posters on the wall as an exhibition instead of a table crit.
-*First run at the University of Utah, 2021, over five weeks. Since taught as a four-week unit at MICA. The weekend version compresses that.*
+*First run at the University of Utah, 2021 — five weeks, taught entirely over video. Since taught as a four-week unit at MICA. The weekend version compresses that.*
 
 **3. THE LIBRE DESIGNER** A weekend in tools you don't rent. Students work in F/LOSS software, post files publicly, and critique each other through issue queues instead of a crit circle. The argument underneath: the tools you use decide what you can make and who gets to make it.
 *From a full MICA semester course, spring 2018. Presented at AIGA MAKE that June.*
