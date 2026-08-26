@@ -109,7 +109,13 @@ Any of these run 45 minutes to an hour, with time after. They pair well with a w
 
 I'm based in Baltimore, MD, and available to travel.
 
-Workshops are two days, $2,000–$3,000 plus travel and materials. Most have a single-day version. The single-afternoon speculative futures workshop is $1,500–$2,500. Lectures on their own, or free if I'm already there for a workshop.
+Most workshops run two days or a weekend, at $2,000–$3,000 plus travel and materials. Most have a single-day version.
+
+Two are priced differently. **3P: People Processing Plastic** is $3,500–$5,000, because the equipment has to travel. **Design the Future Today** is a single afternoon at $1,500–$2,500, or $2,500–$3,500 run over several days with time to iterate.
+
+Book two workshops on one visit and the second adds $500–$1,000 rather than doubling the fee.
+
+Lectures on their own, or free if I'm already there for a workshop.
 
 Prices are negotiable, especially if travel and lodging are covered.
 
@@ -129,8 +135,7 @@ Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MI
 
 CONFIRM BEFORE SENDING — I wrote these from the repo and may have them wrong:
 - CHAIR, PAST TENSE. Both the intro and the back-page bio now say you finished a four-year tenure as chair of undergraduate design, matching `workshop-semiotic-commons/variations-pitch-booklet.md:120` (Aug 2026). The Notion "Current KB Bio" top entry still says you currently chair GD and Product Design — that entry was last edited Dec 2025 and looks stale. Worth updating Notion so the next person pulling your bio doesn't get the old one.
-- ~~Education~~ CONFIRMED: Kalamazoo College 1999–2003, BA Studio Art. MICA GDMFA 2007–09. The back-page bio already states both correctly.
-- Fees. Copied from the individual sheets; check they're still what you want.
+- ~~Fees~~ RECONCILED against all nine sheets. The menu had said a flat "two days, $2,000–$3,000" — which understated 3P by up to $2,000 and dropped the multi-day futures price and the joint-booking rate. Booking section now matches the sheets. Still worth confirming the numbers are current, since they were set months ago.
 
 STRUCTURE
 - Numbering runs 1-18 straight through so a poster version can key to it. If this becomes a zine instead, the lectures probably want to be a spread of their own.
@@ -141,7 +146,4 @@ VOICE / CUTS
 - "a bucket of ground-up milk jugs" in the intro is doing the concrete work for the whole abstract sentence before it. Keep it even if you cut elsewhere.
 - #7 and #4 both admit they haven't been run. That's two admissions in nine. Fine, and probably better than hiding it, but you may want #4 to lead with the 2009 installation instead so the untested part lands second.
 - The Gropius reference in #15 is unexplained on purpose. If the audience is undergrads, it needs four more words.
-
-MISSING
-- No images. A riso zine wants at least the four objects from #10 and a photo of the 3P grinder.
 -->
