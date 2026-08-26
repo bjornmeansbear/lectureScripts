@@ -129,9 +129,22 @@ Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MI
 
 <!-- TO DO before this gets printed
 STRUCTURE
-- Numbering runs 1-17 straight through so a poster version can key to it. If this becomes a zine instead, the lectures probably want to be a spread of their own.
-- I did NOT paste the eight full workshop sheets in. Eight sheets is 30+ pages and kills the zine. Better: this is the menu, and the full sheet goes out as a PDF when somebody asks about a specific one. That also gives you a reason to reply personally.
-- If you do want them bound in, the order should be #1, #3, #5 first — the three with the most real teaching behind them.
+- FORMAT DECIDED 2026-08-26: **letter-sized**, with each workshop getting its own one-pager designed to fit one letter sheet front and back. The menu stays the menu; the sheets go out individually. Straight 1-17 numbering works for this — no zine spread needed.
+- **Length audit against front/back letter.** With headings, whitespace, and room for one image, a letter sheet front/back holds roughly 700-900 words of pitch prose. Counting only pitch-facing text (everything above "Notes to self"):
+
+  | Sheet | Words | Fits? |
+  |---|---|---|
+  | Make It Mean Something | 524 | yes, room for an image |
+  | Spontaneous Lamp | 618 | yes |
+  | Sustainabilitist Principles | 679 | yes |
+  | Drawdown Diptychs | 824 | tight |
+  | Structured Creativity | 857 | tight |
+  | Form, Content, Context | 1,170 | ~30% over |
+  | The Libre Designer | 1,453 | ~60% over |
+  | Design the Future Today | 3,264 | 4x over |
+
+  Five fit as written. Three need cutting, and Design the Future Today needs rebuilding rather than trimming — it's an outlier by a factor of four, because it still carries full session detail the others summarize.
+- If sheets ever do get bound together, lead with #1, #3, #5 — the three with the most real teaching behind them.
 
 VOICE / CUTS
 - "a bucket of ground-up milk jugs" in the intro is doing the concrete work for the whole abstract sentence before it. Keep it even if you cut elsewhere.
