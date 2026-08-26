@@ -3,9 +3,9 @@ title: Signs Signaling Sustainability
 part: Three — The Ecological Commons
 status: drafting
 sources:
-  - 02021140252WhatIsSGD.md                                                  # §§ Good Formalism → Signs Signaling Sustainability → Conclusion
-  - HixsonLied-VisitingArtistLecture.md                                      # delivered version + greenwashing Q&A
-  - ASustainableDesigner.md
+  - lecture-what-is-sustainable-graphic-design/02021140252WhatIsSGD.md                                                  # §§ Good Formalism → Signs Signaling Sustainability → Conclusion
+  - lecture-what-is-sustainable-graphic-design/HixsonLied-VisitingArtistLecture.md                                      # delivered version + greenwashing Q&A
+  - lecture-what-is-sustainable-graphic-design/ASustainableDesigner.md
   - workshop-sustainabilitist-principles/Toward a Sustainabilitist aesthetic.txt
   - workshop-sustainabilitist-principles/Aesthetics, Taste, and Sustainability.txt
   - workshop-sustainabilitist-principles/SignsSignalingSustainability-Conversation Scaffold.txt

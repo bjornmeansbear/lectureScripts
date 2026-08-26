@@ -3,14 +3,14 @@ title: Design for the Welfare of All Life
 part: Three — The Ecological Commons
 status: drafting
 sources:
-  - 02021140252WhatIsSGD.md                                        # SPINE — most complete draft; has "Define Sustainability"
-  - WhatIsSGD.md                                                   # shorter draft — tighter phrasing in places
-  - HixsonLied-VisitingArtistLecture.md                            # delivered version + audience Q&A
+  - lecture-what-is-sustainable-graphic-design/02021140252WhatIsSGD.md                                        # SPINE — most complete draft; has "Define Sustainability"
+  - lecture-what-is-sustainable-graphic-design/WhatIsSGD.md                                                   # shorter draft — tighter phrasing in places
+  - lecture-what-is-sustainable-graphic-design/HixsonLied-VisitingArtistLecture.md                            # delivered version + audience Q&A
   - workshop-sustainabilitist-principles/Understanding sustainability.txt
-  - 0202104121724-WhatIsSGD.pdf                                    # four PDF exports at root, near-identical names
-  - 0202104131308-WhatIsSGD.pdf
-  - 202104110137-WhatIsSGD.pdf
-  - 202104090111-WhatIsSustainableGraphicDesign.pdf
+  - lecture-what-is-sustainable-graphic-design/0202104121724-WhatIsSGD.pdf                                    # four PDF exports, near-identical names
+  - lecture-what-is-sustainable-graphic-design/0202104131308-WhatIsSGD.pdf
+  - lecture-what-is-sustainable-graphic-design/202104110137-WhatIsSGD.pdf
+  - lecture-what-is-sustainable-graphic-design/202104090111-WhatIsSustainableGraphicDesign.pdf
 ---
 
 # Design for the Welfare of All Life
@@ -83,7 +83,7 @@ Next: what beauty has to do with it.
 
 <!--
 TO DO:
-  - 02021140252WhatIsSGD.md is the spine and this draft follows it closely. The
+  - lecture-what-is-sustainable-graphic-design/02021140252WhatIsSGD.md is the spine and this draft follows it closely. The
     Ecovention Europe follow-up (the 100%-ink-coverage palette, running text to full
     column height, reusing the Green Acres grid) is the *answer* to the Green Acres
     failure and is currently in essay 07's territory. Decide where it goes — it may

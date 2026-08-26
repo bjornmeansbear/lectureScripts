@@ -3,9 +3,9 @@ title: Sustainable Design Doesn't Exist
 part: Three — The Ecological Commons
 status: drafting
 sources:
-  - HixsonLied-VisitingArtistLecture.md                                  # § The Sustainabilitist Principles — tightest telling
-  - 02021140252WhatIsSGD.md                                              # §§ The sustainabilitist principles, What does SGD look like
-  - ASustainableDesigner.md
+  - lecture-what-is-sustainable-graphic-design/HixsonLied-VisitingArtistLecture.md                                  # § The Sustainabilitist Principles — tightest telling
+  - lecture-what-is-sustainable-graphic-design/02021140252WhatIsSGD.md                                              # §§ The sustainabilitist principles, What does SGD look like
+  - lecture-what-is-sustainable-graphic-design/ASustainableDesigner.md
   - workshop-sustainabilitist-principles/sustainabilitist-principles-source.md
   - 0202103132325-TheseGesturesAreUndoubtedlyUtopian.md
 ---
@@ -69,9 +69,9 @@ Next: what we're actually trying to sustain.
 <!--
 TO DO:
   - The Hixson-Lied telling is the tightest and this draft leans on it. Check the
-    Sustainabilitist Principles description against 02021140252WhatIsSGD.md §21–31,
+    Sustainabilitist Principles description against lecture-what-is-sustainable-graphic-design/02021140252WhatIsSGD.md §21–31,
     which calls it "a modular manifesto" — better phrase than anything here.
-  - ASustainableDesigner.md:49 has ((Future cone!?)) at exactly this pivot. That's a
+  - lecture-what-is-sustainable-graphic-design/ASustainableDesigner.md:49 has ((Future cone!?)) at exactly this pivot. That's a
     pointer to essay 08. Left as a cross-reference; consider making it explicit in prose.
   - Is "book share" the right term? It appears twice in the transcript. Baltimore has
     The Book Thing — check whether that's what this was.
