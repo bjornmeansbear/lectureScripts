@@ -82,7 +82,7 @@ All the materials are free. Every workshop in here lives in a public repository 
 Any of these run 45 minutes to an hour, with time after. They pair well with a workshop the following day.
 
 **10. WHAT IS SUSTAINABLE GRAPHIC DESIGN?** It doesn't exist. That's the lecture. What exists is design for the welfare of all life, which is a harder and more useful thing to aim at. Ends on four objects that manage it.
-*Given as the Hixson-Lied visiting artist lecture, University of Nebraska–Lincoln, 2021.*
+*Given as the Hixson-Lied Visiting Artist Lecture at the University of Nebraska–Lincoln School of Art, Art History & Design, April 2021.*
 
 **11. A NEW DESIGN COMMONS** Adobe announced it was buying Figma for twenty billion dollars, and a former student wrote to me that morning about what it meant to rent everything you design with. Three enclosures — tools, images, materials — and what commoning each one would look like.
 *Written for AIGA Surface, 2022.*
@@ -130,7 +130,6 @@ Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MI
 CONFIRM BEFORE SENDING — I wrote these from the repo and may have them wrong:
 - CHAIR, PAST TENSE. Both the intro and the back-page bio now say you finished a four-year tenure as chair of undergraduate design, matching `workshop-semiotic-commons/variations-pitch-booklet.md:120` (Aug 2026). The Notion "Current KB Bio" top entry still says you currently chair GD and Product Design — that entry was last edited Dec 2025 and looks stale. Worth updating Notion so the next person pulling your bio doesn't get the old one.
 - ~~Education~~ CONFIRMED: Kalamazoo College 1999–2003, BA Studio Art. MICA GDMFA 2007–09. The back-page bio already states both correctly.
-- ~~Hixson-Lied~~ CONFIRMED 2021. #10 now reads "the Hixson-Lied visiting artist lecture, University of Nebraska–Lincoln, 2021" — check that's the right way to name the series.
 - Fees. Copied from the individual sheets; check they're still what you want.
 
 STRUCTURE

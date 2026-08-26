@@ -1,12 +1,12 @@
 # What is Sustainable Graphic Design?
 
-Hixson-Lied College Visiting Artist Lecture Series, University of Nebraska–Lincoln. Delivered remotely (Zoom), with live audience Q&A relayed by the host throughout.
+Hixson-Lied Visiting Artist Lecture, 14 April 2021. Presented by the University of Nebraska–Lincoln School of Art, Art History & Design; Kristian was the Foundations visiting artist for the 2020–21 series. Delivered remotely (Zoom), with live audience Q&A relayed by the host throughout. [Event listing](https://events.unl.edu/2021/04/14/154600/)
 
 Host: Byron Anway. Audience questions from Sam Bendix, Jen Landis, Sue Gardner, Pierce, and Adria.
 
 Cleaned transcript. Raw machine output: [HixsonLied-VisitingArtistLecture.txt](HixsonLied-VisitingArtistLecture.txt)
 
-Related: [WhatIsSGD.md](WhatIsSGD.md) and [02021140252WhatIsSGD.md](02021140252WhatIsSGD.md) are written drafts of this same lecture. [lecture-utopian-gestures/WhatIsASustainabilitist.md](../WhatIsASustainabilitist.md) is a *different* attempt at a Nebraska talk — only its "Sustainabilitist Principles" and "Green Acres" sections overlap with what was actually delivered here.
+Related: [WhatIsSGD.md](WhatIsSGD.md) and [02021140252WhatIsSGD.md](02021140252WhatIsSGD.md) are written drafts of this same lecture. [WhatIsASustainabilitist.md](../lecture-utopian-gestures/WhatIsASustainabilitist.md) is a *different* attempt at a Nebraska talk — only its "Sustainabilitist Principles" and "Green Acres" sections overlap with what was actually delivered here.
 
 ---
 
