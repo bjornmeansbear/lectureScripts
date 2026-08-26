@@ -6,6 +6,10 @@
 
 ---
 
+> **Not on the current à la carte menu (2026-08-26).** This isn't a travelling workshop right now — the grinding, melting, and molding rig doesn't move, and a visiting-artist slot has no time to troubleshoot hand-built equipment. Keep it live for anyone who can come to MICA, and put it back on `MENU.md` if the rig ever travels. Nothing below is retracted; the curriculum is real and taught.
+
+---
+
 ## The pitch
 
 Plastic is one of the most recyclable materials there is, and almost none of it actually gets recycled — it's treated as too low-value to bother with, so it ends up as trash, then as poison. 3P is a traveling, palletized processing station: a home oven rebuilt into a plastic melter, a hand-built grinder, a shop press. Found HDPE goes in. Designed objects come out, made in public, by whoever's in the room.

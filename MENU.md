@@ -30,19 +30,18 @@ All the materials are free. Every workshop in here lives in a public repository 
 6. Structured Creativity — a weekend sprint through human-centered design
 7. Form, Content, Context — does ideology show up in form, or only in the artist statement
 8. Spontaneous Lamp — build what you need from what's already in the building
-9. 3P: People Processing Plastic — grind it, melt it, mold it
 
 **Lectures**
 
-10. What Is Sustainable Graphic Design?
-11. A New Design Commons
-12. Climate Design
-13. These Gestures Are Undoubtedly Utopian
-14. Signs Signaling on Substrates
-15. BauErden
-16. Being Professional?
-17. Design Thinking, and What's Wrong With It
-18. Ethnographic Research for Designers
+9. What Is Sustainable Graphic Design?
+10. A New Design Commons
+11. Climate Design
+12. These Gestures Are Undoubtedly Utopian
+13. Signs Signaling on Substrates
+14. BauErden
+15. Being Professional?
+16. Design Thinking, and What's Wrong With It
+17. Ethnographic Research for Designers
 
 ---
 
@@ -72,36 +71,33 @@ All the materials are free. Every workshop in here lives in a public repository 
 **8. SPONTANEOUS LAMP** Build a working lamp out of what's already in the building, engineered so it comes apart again into its original parts. No special equipment, no lead time.
 *Light logistics — this one travels anywhere.*
 
-**9. 3P: PEOPLE PROCESSING PLASTIC** Collect HDPE, grind it, melt it, mold it, in public, where people can watch. The honest caveat is in the name of the equipment: hand-built, and finicky. A cold two-day booking doesn't have the troubleshooting time a semester has. Worth doing anyway, with buy-in.
-*Multi-semester curriculum at MICA, developed with Christopher Attenborough.*
-
 ---
 
 ## Lectures
 
 Any of these run 45 minutes to an hour, with time after. They pair well with a workshop the following day.
 
-**10. WHAT IS SUSTAINABLE GRAPHIC DESIGN?** It doesn't exist. That's the lecture. What exists is design for the welfare of all life, which is a harder and more useful thing to aim at. Ends on four objects that manage it.
+**9. WHAT IS SUSTAINABLE GRAPHIC DESIGN?** It doesn't exist. That's the lecture. What exists is design for the welfare of all life, which is a harder and more useful thing to aim at. Ends on four objects that manage it.
 *Given as the Hixson-Lied Visiting Artist Lecture at the University of Nebraska–Lincoln School of Art, Art History & Design, April 2021.*
 
-**11. A NEW DESIGN COMMONS** Adobe announced it was buying Figma for twenty billion dollars, and a former student wrote to me that morning about what it meant to rent everything you design with. Three enclosures — tools, images, materials — and what commoning each one would look like.
+**10. A NEW DESIGN COMMONS** Adobe announced it was buying Figma for twenty billion dollars, and a former student wrote to me that morning about what it meant to rent everything you design with. Three enclosures — tools, images, materials — and what commoning each one would look like.
 *Written for AIGA Surface, 2022.*
 
-**12. CLIMATE DESIGN** So you want to be a climate designer. The carbon cycle, the glossary, and what a communication designer can actually do about any of it.
+**11. CLIMATE DESIGN** So you want to be a climate designer. The carbon cycle, the glossary, and what a communication designer can actually do about any of it.
 
-**13. THESE GESTURES ARE UNDOUBTEDLY UTOPIAN** Twenty years of my own work, read back as one argument I didn't know I was making. Part revisionist history, part utopian speculation.
+**12. THESE GESTURES ARE UNDOUBTEDLY UTOPIAN** Twenty years of my own work, read back as one argument I didn't know I was making. Part revisionist history, part utopian speculation.
 
-**14. SIGNS SIGNALING ON SUBSTRATES** A definition of graphic design that doesn't mention paper. Signs, signaling, substrates — where a substrate can be a screen, a chair, a room, or somebody's attention. If what makes you a designer is technical skill, automation takes the job. If it's intent, it doesn't.
+**13. SIGNS SIGNALING ON SUBSTRATES** A definition of graphic design that doesn't mention paper. Signs, signaling, substrates — where a substrate can be a screen, a chair, a room, or somebody's attention. If what makes you a designer is technical skill, automation takes the job. If it's intent, it doesn't.
 *Draft. The strongest version of this is still in a notebook.*
 
-**15. BAUERDEN** Fifteen minutes. A manifesto, read aloud, in the shape of the one Gropius wrote. Our client is our climate.
+**14. BAUERDEN** Fifteen minutes. A manifesto, read aloud, in the shape of the one Gropius wrote. Our client is our climate.
 
-**16. BEING PROFESSIONAL?** For graduating students. What a practice can look like when your values pick your jobs. Less career advice than an argument that the ideology shows up in how you work even when you don't choose the what.
+**15. BEING PROFESSIONAL?** For graduating students. What a practice can look like when your values pick your jobs. Less career advice than an argument that the ideology shows up in how you work even when you don't choose the what.
 *Given at Kalamazoo College, 2022.*
 
-**17. DESIGN THINKING, AND WHAT'S WRONG WITH IT** Herbert Simon's 1969 definition, which predates the brand and survives the critique, then the road from the Design Methods movement to IDEO packaging it for sale.
+**16. DESIGN THINKING, AND WHAT'S WRONG WITH IT** Herbert Simon's 1969 definition, which predates the brand and survives the critique, then the road from the Design Methods movement to IDEO packaging it for sale.
 
-**18. ETHNOGRAPHIC RESEARCH FOR DESIGNERS** Thin description and thick description, taught through a wink. Then out of the room to go look at something, with the ethics briefing first.
+**17. ETHNOGRAPHIC RESEARCH FOR DESIGNERS** Thin description and thick description, taught through a wink. Then out of the room to go look at something, with the ethics briefing first.
 
 ---
 
@@ -111,7 +107,7 @@ I'm based in Baltimore, MD, and available to travel.
 
 Most workshops run two days or a weekend, at $2,000–$3,000 plus travel and materials. Most have a single-day version.
 
-Two are priced differently. **3P: People Processing Plastic** is $3,500–$5,000, because the equipment has to travel. **Design the Future Today** is a single afternoon at $1,500–$2,500, or $2,500–$3,500 run over several days with time to iterate.
+**Design the Future Today** is priced differently: a single afternoon at $1,500–$2,500, or $2,500–$3,500 run over several days with time to iterate.
 
 Book two workshops on one visit and the second adds $500–$1,000 rather than doubling the fee.
 
@@ -135,15 +131,16 @@ Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MI
 
 CONFIRM BEFORE SENDING — I wrote these from the repo and may have them wrong:
 - CHAIR, PAST TENSE. Both the intro and the back-page bio now say you finished a four-year tenure as chair of undergraduate design, matching `workshop-semiotic-commons/variations-pitch-booklet.md:120` (Aug 2026). The Notion "Current KB Bio" top entry still says you currently chair GD and Product Design — that entry was last edited Dec 2025 and looks stale. Worth updating Notion so the next person pulling your bio doesn't get the old one.
-- ~~Fees~~ RECONCILED against all nine sheets. The menu had said a flat "two days, $2,000–$3,000" — which understated 3P by up to $2,000 and dropped the multi-day futures price and the joint-booking rate. Booking section now matches the sheets. Still worth confirming the numbers are current, since they were set months ago.
+- ~~Fees~~ RECONCILED against the sheets. Everything on the menu is $2,000–$3,000 except the futures afternoon. Still worth confirming the numbers are current, since they were set months ago.
+- 3P is deliberately OFF this menu (2026-08-26) — not travellable right now, the equipment doesn't move. `workshop-circular-economy-design/workshop-3p-plastic.md` stays in the repo and stays real; put it back on the menu if the rig ever travels, or pitch it separately to anyone who can come to MICA.
 
 STRUCTURE
-- Numbering runs 1-18 straight through so a poster version can key to it. If this becomes a zine instead, the lectures probably want to be a spread of their own.
+- Numbering runs 1-17 straight through so a poster version can key to it. If this becomes a zine instead, the lectures probably want to be a spread of their own.
 - I did NOT paste all nine full workshop sheets in. Nine sheets is 30+ pages and kills the zine. Better: this is the menu, and the full sheet goes out as a PDF when somebody asks about a specific one. That also gives you a reason to reply personally.
 - If you do want them bound in, the order should be #1, #3, #5 first — the three with the most real teaching behind them.
 
 VOICE / CUTS
 - "a bucket of ground-up milk jugs" in the intro is doing the concrete work for the whole abstract sentence before it. Keep it even if you cut elsewhere.
 - #7 and #4 both admit they haven't been run. That's two admissions in nine. Fine, and probably better than hiding it, but you may want #4 to lead with the 2009 installation instead so the untested part lands second.
-- The Gropius reference in #15 is unexplained on purpose. If the audience is undergrads, it needs four more words.
+- The Gropius reference in #14 is unexplained on purpose. If the audience is undergrads, it needs four more words.
 -->
