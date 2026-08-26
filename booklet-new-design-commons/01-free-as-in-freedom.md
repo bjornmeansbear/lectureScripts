@@ -7,7 +7,7 @@ sources:
   - workshop-open-source-design/FLOS Design lecture.txt
   - workshop-open-source-design/Open Source Design.txt
   - workshop-open-source-design/Floss design.txt
-  - theLibreDesigner.md                                   # §§ Libre Not Gratis, A note on licenses
+  - workshop-open-source-design/theLibreDesigner.md                                   # §§ Libre Not Gratis, A note on licenses
 ---
 
 # Free as in Freedom

@@ -1,9 +1,20 @@
 # Lecture Scripts
 
-A place to start and sync lecture ideas; when they get fleshed out they'll probably be bumped into their own directories/repositories
+Lecture and workshop material, one directory per topic.
 
-CC license info coming shortly... or license with something else?
+- `lecture-*` — a talk and its drafts, transcripts, and exports
+- `workshop-*` — a pitchable workshop, its source material, and its license
+- `booklet-new-design-commons/` — nine essays drawing on both; sources stay where
+  they are and get cited by path, never copied in
+- `SampleSlides/` — slide exports
+- `SHARED-COMPONENTS.md` — the ledger of what's reused across more than one of the
+  above. Read it before starting a new write-up.
 
-What to do about images in here?
+Root used to be a flat pile of drafts. It isn't any more — if you add something,
+put it in a directory.
 
-What to do about anything at all?
+## Open
+
+- Licensing: CC BY-SA 4.0 files currently sit inside individual workshop folders.
+  Probably wants hoisting to one root LICENSE.
+- What to do about images in here?

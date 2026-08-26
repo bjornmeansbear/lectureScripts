@@ -7,9 +7,9 @@ sources:
   - lecture-what-is-sustainable-graphic-design/HixsonLied-VisitingArtistLecture.md                                            # § Coda — earliest version, sustainability framing
   - workshop-designing-for-the-future/workshop-designing-for-the-future.md         # Voros, Candy, Bookchin
   - workshop-designing-for-the-future/2023-WesternMichigan-DesignForTheFuture.md
-  - UtopianGestures.md
+  - lecture-utopian-gestures/UtopianGestures.md
   - lecture-what-is-sustainable-graphic-design/ASustainableDesigner.md                                                        # line 49 — ((Future cone!?)) placeholder
-  - 0202103132325-TheseGesturesAreUndoubtedlyUtopian.md                            # line 239 — empty section header
+  - lecture-utopian-gestures/0202103132325-TheseGesturesAreUndoubtedlyUtopian.md                            # line 239 — empty section header
 ---
 
 # Future Possibles
@@ -89,7 +89,7 @@ TO DO:
   - This is the only essay in the booklet written from scratch rather than compressed
     from existing prose. Read it hardest.
   - Once you're happy with it: fill lecture-what-is-sustainable-graphic-design/ASustainableDesigner.md:49 and
-    0202103132325-TheseGesturesAreUndoubtedlyUtopian.md:239 with a pointer here.
+    lecture-utopian-gestures/0202103132325-TheseGesturesAreUndoubtedlyUtopian.md:239 with a pointer here.
   - DECISION: the light-cone derivation is in here as one paragraph. SHARED-COMPONENTS.md
     flags it as also belonging to the unwritten GD3 relativity lecture. Fine to appear in
     both — but if this booklet is the canonical home, note that there.

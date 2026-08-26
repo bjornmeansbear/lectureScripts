@@ -7,7 +7,7 @@ sources:
   - lecture-what-is-sustainable-graphic-design/HixsonLied-VisitingArtistLecture.md                        # host's intro: the Color and Composition assignment redesign, three semesters
   - workshop-semiotic-commons/copyright-and-the-commons.md     # written explicitly to be run by someone else
   - workshop-open-source-design/MICAGD Summer Camp Libre Graphics (transcript).txt
-  - theLibreDesigner.md                                        # § Why Share more
+  - workshop-open-source-design/theLibreDesigner.md                                        # § Why Share more
 ---
 
 # Teaching the Commons

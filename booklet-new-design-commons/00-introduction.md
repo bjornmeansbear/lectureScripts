@@ -5,8 +5,8 @@ status: drafting
 sources:
   - workshop-open-source-design/A New Design Commons.txt        # primary — essentially the finished intro
   - workshop-open-source-design/A New Design Commons (0202209252330).txt
-  - workshop-open-source-design/NDC lecture script.txt          # NOTE: differs from the root file of the same name
-  - NDC lecture script.txt                                      # root copy — different content, same name
+  - workshop-open-source-design/NDC lecture script.txt          # NOTE: differs from lecture-new-design-commons/ file of same name
+  - lecture-new-design-commons/NDC lecture script.txt           # different content, same name
 ---
 
 # A New Design Commons

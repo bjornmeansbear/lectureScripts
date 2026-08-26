@@ -7,7 +7,7 @@ sources:
   - lecture-what-is-sustainable-graphic-design/02021140252WhatIsSGD.md                                              # §§ The sustainabilitist principles, What does SGD look like
   - lecture-what-is-sustainable-graphic-design/ASustainableDesigner.md
   - workshop-sustainabilitist-principles/sustainabilitist-principles-source.md
-  - 0202103132325-TheseGesturesAreUndoubtedlyUtopian.md
+  - lecture-utopian-gestures/0202103132325-TheseGesturesAreUndoubtedlyUtopian.md
 ---
 
 # Sustainable Design Doesn't Exist

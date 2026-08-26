@@ -3,7 +3,7 @@ title: The Libre Designer
 part: One — The Tools Commons
 status: drafting
 sources:
-  - theLibreDesigner.md                                                    # root — structured outline, the spine
+  - workshop-open-source-design/theLibreDesigner.md                                                    # structured outline, the spine
   - workshop-open-source-design/The Libre Designer (transcript).txt
   - workshop-open-source-design/Libre Designing (transcript).txt
   - workshop-open-source-design/MICAGD Summer Camp Libre Graphics (transcript).txt

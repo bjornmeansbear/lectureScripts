@@ -7,7 +7,7 @@ sources:
   - workshop-open-source-design/Why Libre Design.txt          # §§ "What is free cultural production anyway?", "Spectacular Vernacular"
   - workshop-open-source-design/Response to copying.txt
   - workshop-semiotic-commons/variations-on-a-norwegian-folktale.md
-  - UtopianGestures.md
+  - lecture-utopian-gestures/UtopianGestures.md
 ---
 
 # Everything Is a Remix

@@ -25,11 +25,34 @@ This file is the map so it doesn't have to be re-found.
 at `:230`, and at `:463` you wrote both branches as one line: *"pragmatic utopian. signs
 on substrates signalling sustainability."*
 
+## The missing link: "surfaces" → "substrates" (2022)
+
+**`2022 AIGA Design Conference Symposium Pr.txt`, now in this folder.** The AIGA Design
+Educators CFP for Seattle 2022, theme **SURFACE** — with Kristian's brainstorm typed
+underneath it. That brainstorm is the bridge between the 2019 coinage and the 2024 essay:
+
+> Signs Signaling on Surfaces.
+> Signs on Surfaces Signaling Sustainably
+> Surfacing old signs for new signaling.
+> Surfacing old signs for new sustainable signaling.
+> Sustainable Signaling thru surfacing seasoned signs.
+
+Three things this settles. **One:** the sustainability branch and the definitional branch
+were still one thing in 2022 — he's trying to title them as a single talk. **Two:**
+"surface" is the AIGA theme's word, not his, which is why *substrate* eventually won — it
+survives the move off flat planes, and "surface" doesn't. **Three:** it explains the Ben
+Duvall quote's centrality — Duvall's line is literally *surface + sign = a work of graphic
+design*, so the CFP theme handed him the exact frame he was already arguing against.
+
+The same file's second half is unrelated to this lecture: a public-domain/free-culture
+workshop pitch (Flickr Commons, "who gets to design?", vernacular designing). That half is
+workshop #1/#4 material — see `workshop-semiotic-commons/copyright-and-the-commons.md`.
+
 ## The other half of "What is design?" — the label question
 
 Not about what design *is*; about whether the job title is worth keeping.
 
-- `0202103132325-TheseGesturesAreUndoubtedlyUtopian.md:154` — in this repo. The salvaged
+- `lecture-utopian-gestures/0202103132325-TheseGesturesAreUndoubtedlyUtopian.md:154` — in this repo. The salvaged
   silverware roll vs. the folding "hobo knife": if fixing what needs fixing is already good
   design, *"do I want to be a 'designer' then? Why not just a vernacular crafter or
   builder?"* Papanek's coffee-can radio, Zomes, counterculture modernism.
