@@ -159,11 +159,11 @@ STRUCTURE
   | Sustainabilitist Principles | 679 | yes |
   | Drawdown Diptychs | 824 | tight |
   | Structured Creativity | 857 | tight |
-  | Form, Content, Context | 1,170 | ~30% over |
+  | Form, Content, Context | 901 | **fixed** — was 1,170 |
   | The Libre Designer | 1,453 | ~60% over |
   | Design the Future Today | 784 | **fixed** — was 3,264 |
 
-  Six fit now. Design the Future Today was rebuilt 2026-08-26 by splitting the file: the pitch stays, and the lecture in full, the diffusion-model explanation, tool selection, and the bibliography moved to `facilitator-guide.md` in the same folder. Nothing was deleted. Two left — The Libre Designer and Form, Content, Context — and both look like the same problem, running material sitting inside a pitch.
+  Six fit now. Design the Future Today was rebuilt 2026-08-26 by splitting the file: the pitch stays, and the lecture in full, the diffusion-model explanation, tool selection, and the bibliography moved to `facilitator-guide.md` in the same folder. Nothing was deleted. Form, Content, Context fixed 2026-08-26 — it was never over-described. Its bibliography ran 339 words, 29% of the sheet, with a full annotation per entry; the sheet now carries bare names and the annotated version lives in `reading-list.md`. One left: **The Libre Designer**, 1,453, and that one really is over-described — "Day one — enclosure and precedent" alone is 459 words, roughly the length of an entire other sheet, plus 263 words of prior-versions history.
 - If sheets ever do get bound together, lead with #1, #3, #5 — the three with the most real teaching behind them.
 
 VOICE / CUTS
