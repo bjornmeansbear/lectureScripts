@@ -8,7 +8,7 @@
 
 ## The pitch
 
-A preferable future is unique to each person. The point isn't to predict what's coming. It's to decide what you'd actually want, then ask whether the thing you're making now belongs in it.
+A preferable future is unique to each person. The point isn't to predict what's coming. It's to decide what you'd actually want, then ask whether the things you're making now belong in that future.
 
 Students write a description of their own preferable future, then spend the session turning that description into images — writing prompts, running them through text-to-image tools, and finding out what the tools get right, what they flatten, and what they can't do at all.
 
@@ -69,9 +69,8 @@ Running it: the lecture in full, how diffusion models actually work, tool select
 
 ---
 
-## Notes to self
+## Notes
 
-- Split into pitch sheet and facilitator's guide 2026-08-26, to fit one letter sheet front and back. If anything here needs restoring, it's in the guide, not deleted.
 - "Which AI tool" is a moving target. The category is text-to-image diffusion and the specific tool doesn't matter much, but the free tiers change constantly — re-verify the week before teaching, and ask the host about their Creative Cloud license first.
-- The teaching goal has widened past futures studies plus a tools exercise. The workshop's oldest finding — broad prompts give sci-fi mush, specific objects give usable images — turns out to be a fact about prompt-embedding density and training distribution. Design lesson and technical lesson are one lesson. That's the version worth pitching.
+- The teaching goal has widened past futures studies plus a tools exercise. The workshop's oldest finding — broad prompts give sci-fi mush, specific objects give usable images — turns out to be a fact about prompt-embedding density and training distribution. Design lesson and technical lesson are one lesson. 
 - Title alternates: *Preferable Futures* · *Does This Exist in Your Future?* · *The Future, Specifically*
