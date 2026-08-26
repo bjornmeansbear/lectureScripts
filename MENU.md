@@ -18,6 +18,16 @@ All the materials are free. Every workshop in here lives in a public repository 
 
 ---
 
+## Who it's for
+
+Universities and colleges. Art and design classrooms.
+
+I've taught first-years through advanced graduate students — general visual fundamentals classes, graphic design, product design, and design teams that don't belong to any one discipline. Everything here can be tuned to the level in the room. Tell me who I'd be working with and I'll adjust the brief rather than hand you a fixed one.
+
+Groups of 12 to 25 work best. Most workshops want a studio space with wall room and access to printing. Lectures can be given remotely — the Nebraska one was.
+
+---
+
 ## The list
 
 **Workshops**
