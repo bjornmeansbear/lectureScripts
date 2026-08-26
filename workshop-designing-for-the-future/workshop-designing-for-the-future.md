@@ -1,8 +1,6 @@
 # DESIGN THE FUTURE TODAY
 
-*A workshop on speculative design, preferable futures, and what AI image tools are actually good and bad at*
-
-> Working title, matching the original 2023 session name. Alternates at bottom.
+*A workshop on speculative design, preferable futures, and what AI image tools are good and bad at*
 
 ---
 
@@ -73,4 +71,3 @@ Running it: the lecture in full, how diffusion models actually work, tool select
 
 - "Which AI tool" is a moving target. The category is text-to-image diffusion and the specific tool doesn't matter much, but the free tiers change constantly — re-verify the week before teaching, and ask the host about their Creative Cloud license first.
 - The teaching goal has widened past futures studies plus a tools exercise. The workshop's oldest finding — broad prompts give sci-fi mush, specific objects give usable images — turns out to be a fact about prompt-embedding density and training distribution. Design lesson and technical lesson are one lesson. 
-- Title alternates: *Preferable Futures* · *Does This Exist in Your Future?* · *The Future, Specifically*

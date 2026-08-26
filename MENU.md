@@ -121,13 +121,17 @@ Most workshops run two days or a weekend, at $2,000–$3,000 plus travel and mat
 
 **Design the Future Today** is priced differently: a single afternoon at $1,500–$2,500, or $2,500–$3,500 run over several days with time to iterate.
 
+The day counts are a shape, not a rule. Any of these can be broken across separate sessions, spread over more days, or run as a few afternoons instead of one block — whatever fits the calendar you already have.
+
 Book two workshops on one visit and the second adds $500–$1,000 rather than doubling the fee.
 
 Lectures on their own, or free if I'm already there for a workshop.
 
 Prices are negotiable, especially if travel and lodging are covered.
 
-For an in-person visit, months ahead is best and a year isn't too early, since departments schedule that far out anyway. Ask anyway if it's shorter than that. If travel is covered I'll try to make it work, and a weekend is easiest. Remote sessions can come together in a few weeks.
+For an in-person visit, months ahead is best and a year isn't too early, since departments schedule that far out anyway. Ask anyway if it's shorter than that — if travel is covered I'll try to make it work, and a weekend is the easiest thing to say yes to on short notice. Remote sessions can come together in a few weeks.
+
+If you're in or near Baltimore, I can come back more than once. Something that works better as four afternoons across a month than as one weekend is easy to arrange, and it costs you no travel.
 
 Kristian Bjørnard
 
