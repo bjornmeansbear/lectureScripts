@@ -55,7 +55,7 @@ $3,500–$5,000 plus travel, shipping, and materials — higher than the other w
 ## Prior versions
 
 - Ongoing public performances and processing events — follow [@people_processing_plastic](https://www.instagram.com/people_processing_plastic/) on Instagram.
-- MICA, ongoing — 3P has run as the curricular foundation for a circular economy class across multiple semesters, developed with Chris Attenborough, Karl Williamson, Justin Beitzel, and MICA's digital fabrication staff. This is real, tested classroom material, not a proposal — but it's never been packaged as a standalone traveling workshop before. See `3p-case-study-source.md` in this folder, or the [live case study](https://a.wjerk.shop/case-study-3p.html).
+- MICA, ongoing — 3P has run as the curricular foundation for a circular economy class across multiple semesters, developed with Christopher Attenborough, Karl Williamson, Justin Beitzel, and MICA's digital fabrication staff. This is real, tested classroom material, not a proposal — but it's never been packaged as a standalone traveling workshop before. See `3p-case-study-source.md` in this folder, or the [live case study](https://a.wjerk.shop/case-study-3p.html).
 
 ---
 
@@ -63,7 +63,7 @@ $3,500–$5,000 plus travel, shipping, and materials — higher than the other w
 
 - This is the best-tested material of any workshop on the menu — it just needs repackaging from "semester-long class" into "one or two travelable days," not invention from scratch. The real open risk is equipment reliability in a compressed, one-off format, not the content itself.
 - The equipment logistics are the real open question: does the station travel with Kristian, get partially rebuilt on-site from Precious Plastic's open plans, or does the host institution need its own? Affects the fee and the lead time a department would need before booking. There's some smaller-scale gear already on hand — worth figuring out if that's enough to start local and travel with, before committing to building a second full station.
-- Chris Attenborough is a real collaborator and co-authority on this material — worth deciding whether he's part of the traveling workshop offer, a credited source, or kept separate from the pitch.
+- Christopher Attenborough is credited as a collaborator wherever this workshop is described (confirmed 2026-08-26). Still open: whether he travels with it as co-facilitator, which changes the fee.
 - A related zine/play script about plastic recycling is "in progress" per the case study — could become workshop takeaway material once it exists.
 - Companion workshop: Spontaneous Lamp (`workshop-spontaneous-lamp.md`, same folder) covers the same circular economy territory at object scale instead of industrial-material scale — much lighter logistics, no group-workshop track record yet. Pitch both; let a department pick based on their facilities and appetite for risk.
 - Title alternates: *People Processing Plastic* (full name) · *The Circular Shop* · *Plastic, Reconsidered*

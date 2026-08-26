@@ -51,8 +51,8 @@ All the materials are free. Every workshop in here lives in a public repository 
 **1. MAKE IT MEAN SOMETHING** Two days. Everyone contributes images to one shared pile. We print it grayscale and cut it up. Each student collages an eight-page zine retelling a public-domain folktale, with no words. Then the maker flips the pages while somebody else reads the zine out loud. The maker says nothing. Whatever the reader finds in the pictures is what the zine says. Sometimes that matches what the maker meant. Often it doesn't. Day two, the story compresses into one poster, built only from images already used in somebody's zine.
 *Run at Nebraska–Lincoln, Utah, MICA twice, and HAW Hamburg.*
 
-**2. DRAWDOWN DIPTYCHS** The same engine, pointed somewhere else. The source is a real Project Drawdown climate solution instead of a folktale, and the output is two posters that have to work together. Bookable on its own or as a second day attached to #1.
-*Taught as a four-week unit at MICA, compressed here into two days.*
+**2. DRAWDOWN DIPTYCHS** The same engine, pointed somewhere else. Each student picks one real climate solution from Project Drawdown, researches it past the summary page, and builds two posters that argue with it — all from public domain and Creative Commons material. Saturday morning is the part that matters: everyone explains how they got from a solution to an image that isn't a picture of that solution. A wind farm is easy to photograph and hard to mean anything with. Ends with the posters on the wall as an exhibition instead of a table crit.
+*First run at the University of Utah, 2021, over five weeks. Since taught as a four-week unit at MICA. The weekend version compresses that.*
 
 **3. THE LIBRE DESIGNER** A weekend in tools you don't rent. Students work in F/LOSS software, post files publicly, and critique each other through issue queues instead of a crit circle. The argument underneath: the tools you use decide what you can make and who gets to make it.
 *From a full MICA semester course, spring 2018. Presented at AIGA MAKE that June.*
@@ -73,7 +73,7 @@ All the materials are free. Every workshop in here lives in a public repository 
 *Light logistics — this one travels anywhere.*
 
 **9. 3P: PEOPLE PROCESSING PLASTIC** Collect HDPE, grind it, melt it, mold it, in public, where people can watch. The honest caveat is in the name of the equipment: hand-built, and finicky. A cold two-day booking doesn't have the troubleshooting time a semester has. Worth doing anyway, with buy-in.
-*Multi-semester curriculum at MICA, with Chris Attenborough.*
+*Multi-semester curriculum at MICA, developed with Christopher Attenborough.*
 
 ---
 
@@ -82,7 +82,7 @@ All the materials are free. Every workshop in here lives in a public repository 
 Any of these run 45 minutes to an hour, with time after. They pair well with a workshop the following day.
 
 **10. WHAT IS SUSTAINABLE GRAPHIC DESIGN?** It doesn't exist. That's the lecture. What exists is design for the welfare of all life, which is a harder and more useful thing to aim at. Ends on four objects that manage it.
-*Given as a visiting artist lecture at Nebraska–Lincoln.*
+*Given as the Hixson-Lied visiting artist lecture, University of Nebraska–Lincoln, 2021.*
 
 **11. A NEW DESIGN COMMONS** Adobe announced it was buying Figma for twenty billion dollars, and a former student wrote to me that morning about what it meant to rent everything you design with. Three enclosures — tools, images, materials — and what commoning each one would look like.
 *Written for AIGA Surface, 2022.*
@@ -129,10 +129,8 @@ Kristian Bjørnard is a designer and educator in Baltimore, MD. He teaches at MI
 
 CONFIRM BEFORE SENDING — I wrote these from the repo and may have them wrong:
 - CHAIR, PAST TENSE. Both the intro and the back-page bio now say you finished a four-year tenure as chair of undergraduate design, matching `workshop-semiotic-commons/variations-pitch-booklet.md:120` (Aug 2026). The Notion "Current KB Bio" top entry still says you currently chair GD and Product Design — that entry was last edited Dec 2025 and looks stale. Worth updating Notion so the next person pulling your bio doesn't get the old one.
-- Kalamazoo 2003, MFA at MICA 2007-09. From KzooProfessionalPracticeScript.md.
-- Hixson-Lied year (~2021?) and the exact host title for #10.
-- Whether the Drawdown unit was 4 weeks, and what year.
-- Chris Attenborough's name and whether he wants to be listed.
+- ~~Education~~ CONFIRMED: Kalamazoo College 1999–2003, BA Studio Art. MICA GDMFA 2007–09. The back-page bio already states both correctly.
+- ~~Hixson-Lied~~ CONFIRMED 2021. #10 now reads "the Hixson-Lied visiting artist lecture, University of Nebraska–Lincoln, 2021" — check that's the right way to name the series.
 - Fees. Copied from the individual sheets; check they're still what you want.
 
 STRUCTURE
