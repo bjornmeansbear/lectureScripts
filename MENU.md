@@ -130,8 +130,8 @@ Prices are negotiable, especially if travel and lodging are covered.
 For an in-person visit, months ahead is best and a year isn't too early, since departments schedule that far out anyway. Ask anyway if it's shorter than that. If travel is covered I'll try to make it work, and a weekend is easiest. Remote sessions can come together in a few weeks.
 
 Kristian Bjørnard
-kbjornard@mica.edu
-[PHONE]
+
+[CONTACT — set email and phone in the layout, not in this file. See TO DO.]
 
 ---
 
@@ -168,6 +168,6 @@ VOICE / CUTS
 - ~~Gropius~~ Now reads "the one Gropius wrote to open the Bauhaus in 1919." Costs nothing for readers who already know, and rescues the reference for those who don't.
 
 MISSING
-- **Phone number.** The contact block has a `[PHONE]` placeholder. Decide whether it's your cell or an office line before this prints — a cell on a document going to strangers is a decision, not an oversight.
+- **Contact details go in at layout, not here.** This repo is public, so the file carries a `[CONTACT]` marker instead of a phone number and address. Type them into the InDesign file. Still to decide: cell or an office/Google Voice line — this document outlives any one booking cycle, so a number you can retire is worth having.
 - **No images.** The one real gap left. A riso zine wants, at minimum: the four objects from #9 (Amager Bakke vapor ring, Coreil-Allen crosswalk, solar.lowtechmagazine.com, DC High Water Mark), a spread of student zines from #1, and the 2009 Sustainabilitist Principles piece for #4. Two-colour riso means they want to be high-contrast or halftoned anyway — the bitmapped treatment on the Low-tech Magazine site is the obvious model, and it's already one of the examples.
 -->
