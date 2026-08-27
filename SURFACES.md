@@ -30,27 +30,83 @@ Five of the nine case studies aren't referenced anywhere in this repo. Two of th
 | [carbon-sequestering-book](https://a.wjerk.shop/case-study-carbon-sequestering-book.html) | A Carbon Sequestering Book | Fits the SGD lecture and the climate-design material. No link either way. |
 | [drawing-on-tempered-glass](https://a.wjerk.shop/case-study-drawing-on-tempered-glass.html) | Drawing on Tempered Glass | No obvious match in this repo yet. Possibly nothing — worth a look. |
 
-## are.na — never connected
+## are.na — 518 channels, now mapped
 
-**No index of are.na channels exists anywhere in this repo.** What's here are incidental mentions buried in transcripts and essays. Channels are named out loud while teaching and then not written down, which means a participant can find them and this repo can't.
+Recovered 2026-08-27 via `scripts/arena-channels.py` (v3 API, personal access token in a gitignored `.env`). Before that, no index existed anywhere and channels were named out loud in workshops and never written down.
 
-Confirmed channel URLs found in the material:
+**There is a naming taxonomy already in use.** It maps onto this repo more closely than anything here anticipated:
 
-- [`kristian-bjornard/free-libre-open-design`](https://www.are.na/kristian-bjornard/free-libre-open-design) — `workshop-open-source-design/Why Libre Design.txt:1165`
-- [`kristian-bjornard/libretype`](https://www.are.na/kristian-bjornard/libretype) — "KB Libre Type Are.na Channel," `workshop-open-source-design/theLibreDesigner.md:195`
+| Prefix | Means | Example |
+|---|---|---|
+| `Lecture:` | one per talk | Lecture: Utopian Gestures |
+| `Workshop:` | one per workshop | Workshop: Copyright & a New Design Commons |
+| `Project:` | one per assignment/brief | Project: Speed and Speculation |
+| `§` | sustainability research | § The Sustainabilitist — **2,957 blocks** |
+| `£` | libre / open source | £ FLOSD Free Libre Open Design — 874 blocks |
+| `Shirt:` | one per shirt | Shirt: Signs Signaling on Substrates |
+| `Wjerk:` / `Ω Wjerk:` | studio and client work | Wjerk: Precious Plastics |
+| `BRN:` | book reading notes | BRN: Ways of Seeing |
+| `://` | web, interface | :// what is an interface? |
 
-Referenced in live teaching but **URL not recorded anywhere**:
+### Lecture channels → this repo
 
-- An open-source fonts collection — "This is my own collection on Arena of open source fonts," `workshop-semiotic-commons/20250110 190300-EF09B66C.txt:1127`. May or may not be the same as `libretype`.
-- A copyright / book-references channel — "this will take you to a whole arena board of like information about copyright and book references," `workshop-semiotic-commons/20250121 173715-8A05BF57.txt:437`. Directly relevant to `copyright-and-the-commons.md` and to workshops #1 and #4.
+| Channel | Blocks | Here |
+|---|---|---|
+| [Lecture: What is Design?](https://www.are.na/kristian-bjornard/lecture-what-is-design) | 67 | **Nothing.** `Lectures To Writeup.txt:33` has this slot empty. 67 blocks of research already exist. |
+| [Lecture: Signs Signaling Substrates Slide Images](https://www.are.na/kristian-bjornard/lecture-signs-signaling-substrates-slide-images) | 11 | `lecture-signs-signaling-on-substrates/` |
+| [Lecture: Signs Signaling Sustainability (Art, etc.)](https://www.are.na/kristian-bjornard/lecture-signs-signaling-sustainability-art-etc) | 99 | `booklet-new-design-commons/07-…` |
+| [Lecture: Surface — A New Design Commons](https://www.are.na/kristian-bjornard/lecture-surface-a-new-design-commons) | 309 | `lecture-new-design-commons/` — note "Surface," confirming the AIGA CFP link |
+| [Lecture: Utopian Gestures](https://www.are.na/kristian-bjornard/lecture-utopian-gestures) | 46 | `lecture-utopian-gestures/` |
+| [Lecture: The Libre Designer](https://www.are.na/kristian-bjornard/lecture-the-libre-designer) | 74 | `workshop-open-source-design/` |
+| [Lecture: Why Designer's Don't F/LOS](https://www.are.na/kristian-bjornard/lecture-why-designer-s-don-t-f-los) | 18 | same |
+| [Lecture: What Does Sustainable Graphic Design Look Like](https://www.are.na/kristian-bjornard/lecture-what-does-sustainable-graphic-design-look-like) | 20 | `lecture-what-is-sustainable-graphic-design/` |
+| [Lecture: WDSGDLL-20200316](https://www.are.na/kristian-bjornard/lecture-wdsgdll-20200316) | 24 | same, dated 16 March 2020 |
+| [Lecture: Carbon Cycle](https://www.are.na/kristian-bjornard/lecture-carbon-cycle) · [Climate Change Notes](https://www.are.na/kristian-bjornard/lecture-climate-change-notes) · [CD→SSS](https://www.are.na/kristian-bjornard/lecture-cd-sss) | 29 / 19 / 57 | `lecture-climate-design/` |
+| [Lecture: Some Semiotics](https://www.are.na/kristian-bjornard/lecture-some-semiotics) · [Semiotics, Building, Speed?](https://www.are.na/kristian-bjornard/lecture-semiotics-building-speed) | 94 / 8 | `workshop-semiotic-commons/` |
+| [Lecture: Design for the Future Today](https://www.are.na/kristian-bjornard/lecture-design-for-the-future-today) | 111 | `workshop-designing-for-the-future/` |
+| [Lecture: Intro to Motion](https://www.are.na/kristian-bjornard/lecture-intro-to-motion) · [What is Time?](https://www.are.na/kristian-bjornard/lecture-what-is-time) · [Newton vs Aristotle](https://www.are.na/kristian-bjornard/lecture-newton-vs-aristotle-motion) · [Everything is a Motion Graphic](https://www.are.na/kristian-bjornard/lecture-everything-is-a-motion-graphic) · [Slowing down graphic design](https://www.are.na/kristian-bjornard/lecture-slowing-down-graphic-design) | 84 / 32 / 8 / 3 / 19 | `lecture-time-speed-motion/` — five channels for a folder holding two text files |
+| [Lecture: Entropy](https://www.are.na/kristian-bjornard/lecture-entropy) | 5 | Listed twice in `Lectures To Writeup.txt`, unwritten |
+| [Lecture: Remix](https://www.are.na/kristian-bjornard/lecture-remix) · [Design as a common good](https://www.are.na/kristian-bjornard/lecture-design-as-a-common-good) | 1 / 10 | booklet 03, NDC |
+| [Lecture: Mending Nets](https://www.are.na/kristian-bjornard/lecture-mending-nets) · [Lecture: Kintsugi](https://www.are.na/kristian-bjornard/lecture-kintsugi) | 21 / 22 | **Nothing here at all.** Both private. Repair as a subject — not in `Lectures To Writeup.txt` either. |
 
-Loose blocks cited in the writing:
+### The two channels that were lost
 
-- `are.na/block/4299163` — `lecture-what-is-sustainable-graphic-design/WhatIsSGD.md:188`
-- `are.na/block/13817473` — the Nico Chilla block on problem-solving, the one the 2021 "what is design" reply answers. See `lecture-signs-signaling-on-substrates/sources-and-pointers.md`.
-- `are.na/block/48146892` — the SEGD environmental-graphic-design paper, via `sentence-a-day/sad2021tw/tiddlers/MM_ MM050 (020260700).tid:821`
+Both named aloud in the January 2025 workshop transcripts with no URL recorded. Found:
 
-Also worth knowing: the 2023 futures lecture actively teaches are.na as a tool — *"it's like Pinterest without all the garbage"* (`workshop-designing-for-the-future/2023-Fall-FutureCone-DesignForTheFuture.txt:105`).
+- **"my own collection on Arena of open source fonts"** → [£ LibreType](https://www.are.na/kristian-bjornard/libretype), 232 blocks. Same channel already cited in `theLibreDesigner.md:195`.
+- **"a whole arena board of information about copyright and book references"** → [Workshop: Copyright & a New Design Commons](https://www.are.na/kristian-bjornard/workshop-copyright-a-new-design-commons), 224 blocks. Belongs to `workshop-semiotic-commons/copyright-and-the-commons.md` and to workshop #1's Day One.
+
+**Stale URL:** `Why Libre Design.txt:1165` cites `are.na/kristian-bjornard/free-libre-open-design`. The channel is now at [`flosd-free-libre-open-design`](https://www.are.na/kristian-bjornard/flosd-free-libre-open-design), 874 blocks. The old link is likely dead.
+
+### The big research collections
+
+Not lecture-specific. These are where the thinking accumulates.
+
+- [§ The Sustainabilitist](https://www.are.na/kristian-bjornard/the-sustainabilitist) — **2,957 blocks.** Largest by far, and the throughline of the whole practice.
+- [§ @ ¬ Sustainable Aesthetics.](https://www.are.na/kristian-bjornard/sustainable-aesthetics) — 1,093
+- [£ FLOSD Free Libre Open Design](https://www.are.na/kristian-bjornard/flosd-free-libre-open-design) — 874
+- [Wjerk: Use This For Something](https://www.are.na/kristian-bjornard/wjerk-use-this-for-something) — 520
+- [§ SGD](https://www.are.na/kristian-bjornard/sgd) — 514
+- [Chair-ness](https://www.are.na/kristian-bjornard/chair-ness) — 485
+- [Wjerk](https://www.are.na/kristian-bjornard/wjerk) — 400
+- [3P: People Processing Plastic](https://www.are.na/kristian-bjornard/3p-people-processing-plastic) — 124
+
+### Four surfaces for one project
+
+**Chair-ness** is the clearest case of the same work living everywhere and connecting nowhere: an are.na channel (485 blocks), a published [case study](https://a.wjerk.shop/case-study-chairness.html), `workshop-circular-economy-design/chair-case-studies.md` here, and a "Chair project w/ Chris Attenborough" page in Notion. None of the four referenced any of the others before today.
+
+### Gaps
+
+- **No Drawdown Diptychs channel.** The workshop is built on visual research from open sources and has no collection.
+- **No Solarpunk channel**, though the lecture is listed and a [case study](https://a.wjerk.shop/case-study-solarpunk-boombox.html) exists.
+- `Shirt: Signs Signaling on Substrates` (13 blocks) — the phrase became a shirt. Another surface for `lecture-signs-signaling-on-substrates/`.
+
+### Re-running this
+
+```
+python3 scripts/arena-channels.py           # all 518
+python3 scripts/arena-channels.py libre     # filter by title or slug
+```
 
 ## bjornpaedia — barely connected
 

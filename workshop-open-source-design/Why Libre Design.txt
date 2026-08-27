@@ -1162,7 +1162,7 @@ Still need dates, authors, etc. and to format according to CMOS.
 - Brian Eno on Genius, and “Scenius”: http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/
 - Havoc Pennington, Free Software UI, April 2002, http://ometer.com/free-software-ui.html (accessed 2018-04-22)
 
-— https://www.are.na/kristian-bjornard/free-libre-open-design
+— https://www.are.na/kristian-bjornard/flosd-free-libre-open-design  [slug updated 2026-08-27; was free-libre-open-design]
 
 »»»»»»»»»
 

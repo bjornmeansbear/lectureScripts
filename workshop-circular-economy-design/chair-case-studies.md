@@ -4,7 +4,7 @@
 
 *Written fresh for this repo — not drawn from the Cambridge University Press essay this idea originated in, pending a check on what that contract actually restricts. Same throughline, same real objects, new words.*
 
-*Related, and not previously linked from here: the published [Chair-ness](https://a.wjerk.shop/case-study-chairness.html) case study on a.wjerk.shop. Check it before extending this file — see `SURFACES.md`.*
+*This project exists on four surfaces and, until 2026-08-27, none of them referenced each other: this file, the published [Chair-ness](https://a.wjerk.shop/case-study-chairness.html) case study, the [Chair-ness are.na channel](https://www.are.na/kristian-bjornard/chair-ness) (485 blocks), and a "Chair project w/ Chris Attenborough" page in Notion. Check all four before extending this file — see `SURFACES.md`.*
 
 A chair is a good teaching object because everyone already has a relationship to one. Compare a few real, well-documented chairs side by side, and the differences in how each one sources, uses, and disposes of material stop being abstract — they're right there in the object.
 
