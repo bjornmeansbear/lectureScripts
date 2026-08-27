@@ -28,7 +28,8 @@ That is a coherent model, and most of the parts already exist. What's missing is
 | Research & writing | `bjornpaedia.wjerk.shop` | `~/Code/sentence-a-day` | 1,400+ tiddlers |
 | Visual research | are.na | — | 518 channels |
 | Drafts | Notion | — | bios, essays, project pages |
-| Syndication | [Medium](https://medium.com/@bjornmeansbear) | — | essays republished *from* bjornpaedia — downstream, not a source |
+| Syndication | [Medium](https://medium.com/@bjornmeansbear) | — | essays republished *from* bjornpaedia and ookb.co — downstream, not a source |
+| Old studio | `ookb.co` / `test.ookb.co` | — | The Office of Kristian Bjørnard. Original publication venue for the 2015 Pure Content essay; also hosts `ookb.co/cape` |
 
 ### Where the loops are complete, and where they break
 

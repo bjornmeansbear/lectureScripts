@@ -6,8 +6,13 @@ The idea underneath everything else in this repo, and the oldest thing in it. Li
 
 **CAPE** = Create Anywhere Publish Everywhere. The software and service built on that idea. Nearly a decade of work with developer **Kai Curry**.
 
+## Chronology
+
+Full dated sequence, 2006 to now, in `CHRONOLOGY.md`. Short version: CAPE built with Kai Curry 2011–2014, a lecture in 2014, the essay published at test.ookb.co on 14 May 2015 and on Medium 2 June 2015, then the paper at Web Archives 2015 in November.
+
 ## In this folder
 
+- `CHRONOLOGY.md` — the dated sequence, with a source for every entry.
 - `2014-medium-framing-note.md` — the dating and context for CAPE, plus evidence of an **earlier 2014 lecture**. The only part of the Medium essay not already in bjornpaedia.
 - `2015-WebArchives-paper-proposal.md` — **the talk itself.** Title, abstract, and bio as submitted, recovered from email 2026-08-27. The only surviving document of the presentation.
 - `compiled-from-tiddlers.md` — **generated, do not edit.** All nine source tiddlers rendered into one readable document, 5,272 words. Regenerate with `scripts/tiddlers-to-md.py`.
