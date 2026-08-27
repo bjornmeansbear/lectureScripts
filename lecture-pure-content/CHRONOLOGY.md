@@ -6,6 +6,7 @@ Assembled 2026-08-27 from email, Medium, bjornpaedia, and Kristian's own recolle
 |---|---|---|
 | 2006 | Looking for a way to run a car on something other than diesel, finds **Sunday's Energy** in Minneapolis running biodiesel workshops and engine conversions. Ends up working there. | `020211106222232 Ideas.tid` |
 | c.2007–2010 | **Better Living Through Sustainability**, his own site, built on Drupal. Later archived as static HTML, now tiddlers. Domain finally let go in 2026 after 19 years. | `Better Living Through Sustainability Archive.tid` |
+| **29 Sept 2013** | **"Striving For Static Sites"** published at test.ookb.co — the **earliest dated piece** in this cluster. Surveys Jekyll, Ruhoh, Nanoc, Wintersmith, and finds all of them built for blogs rather than whole sites: *"none of the generators I have played with tried do very well at correctly managing or compiling a whole site."* Names a real artifact — **rwdfoundation.org**, running a custom version of Ruhoh with proper nesting. | Medium footer |
 | **2011–2014** | **CAPE** built and explored with **Kai Curry** — *"a bunch of custom cobbled together tools and ideas."* Trying to feed content direct to InDesign for better print control than HTML/CSS print styling allowed. | Medium framing note |
 | **2013/14 or 2014/15** | **Bunting Teaching Fellow in Graphic Design, MICA.** The fellowship that funded the research. His submitted 2015 bio says *2013/2014*; he recalls *2014–2015*. Minor discrepancy, unresolved. | Paper proposal bio; his recollection |
 | **2014** | The writings assembled into **a lecture**. *"The following essay is from a series of writings I turned into a lecture in 2014."* | Medium framing note |
@@ -26,6 +27,17 @@ Four versions of the same text, in order:
 4. **The conference paper proposal**, submitted for November 2015 — the **expanded, latest** version. Adds *"Several experiments will showcase…"* and tightens the wording (*"meta data integrated into content"* where the essay says *"added to"*).
 
 So the proposal is the most developed text and the tiddler is the least. If one version becomes canonical, it should be the proposal — with the essay's publication dates attached.
+
+## The tiddlers are ookb.co essays
+
+Two of the nine now have confirmed original publication at **test.ookb.co**, then syndication to Medium:
+
+- `Striving For Static Sites` → 29 September 2013
+- `Towards Purer Content` → 14 May 2015, Medium 2 June 2015
+
+That is almost certainly true of the rest. **Each one probably has a recoverable date on Medium**, which would date the whole body of writing rather than just these two. Worth an hour with the Medium archive: <https://medium.com/@bjornmeansbear>.
+
+It also settles what these tiddlers *are*. Not notes — published essays, chunked into the wiki years later. The wiki is the fourth home for this text, after ookb.co, Medium, and the lecture.
 
 ## Still open
 
