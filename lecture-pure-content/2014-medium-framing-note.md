@@ -20,4 +20,12 @@ The essay body is already in bjornpaedia as `From Indesign to Pure Content.tid` 
 
 **~~Date conflict~~ RESOLVED 2026-08-27: CAPE ran ≈2011–2023.** This note's *2011–2014* is the intensive tool-building period with Kai; the practice continued for another decade. Kristian's first answer of ≈2012–2023 was revised to 2011 once this note surfaced — *"cool I was working on it even earlier than I thought."* The case study dek now says 2011–2023.
 
-**Medium is a surface nobody had recorded**, and it is downstream of bjornpaedia rather than upstream: "originally published at bjornpaedia.com." Which is the whole thesis operating — one source, several renderings.
+**Medium is a surface nobody had recorded, and it was downstream on purpose.** Both essays carry an "originally published at" line — `test.ookb.co` for the 2013 and 2015 pieces, `bjornpaedia.com` for the later republication. Kristian's account, 2026-08-27:
+
+> I was trying to not publish TO medium directly, but get things somewhere else then use medium to promote them further but try to link people back.
+
+So the canonical copy stays on a site he controls, Medium carries a rendering for reach, and the rendering points home. That is a deliberate distribution strategy, not a side effect of the tooling — and it is the same argument as pure content, applied to *where* rather than *how*: own the source, syndicate the copies, never let a platform become the original.
+
+This has an established name in the IndieWeb world — **POSSE**, *Publish on Own Site, Syndicate Elsewhere*. Whether or not he used the term, that's the pattern, and he was running it while Medium was actively trying to become everyone's original.
+
+It also means **every Medium post should have an "originally published at" line pointing somewhere**, which makes Medium a usable index for dating the rest of the essays even where the original host is gone.
