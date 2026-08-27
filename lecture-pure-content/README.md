@@ -37,6 +37,23 @@ That's deliberate. The tiddlers are canonical; this folder holds a rendering. Ed
 
 `Towards Purer Content` being tagged into two lectures at once is the argument for chunking, demonstrated: one chunk, two talks, no duplicate.
 
+## The actual premise
+
+Kristian, 2026-08-27, on what CAPE was really for:
+
+> we were thinking you'd do things wherever it made the most sense, and then we'd have some magical way to collect all your content and make it reusable and repurposeable as we went along
+
+That is the humane version, and it's worth keeping over the tidier ones. The point was never to make people change how they work. Let the photographer stay on Flickr, the writer stay in Google Docs, the spreadsheet stay a spreadsheet. Put the intelligence in the **collection layer** instead of the authoring one. *"Whatever you are already using for content management or creation, please continue to use it. CAPE just wants that content."*
+
+**This sits in real tension with The Libre Designer, and the tension is productive.**
+
+- *The Libre Designer* says the tool matters enormously: a tool you can't get your work back out of is a risk, so use F/LOSS and open formats.
+- *CAPE* says the tool barely matters: use whatever suits the job, we'll extract and re-render it.
+
+Both are his, roughly a decade apart. They reconcile like this: **CAPE's permissiveness is only affordable when the content can actually get out.** Its whole premise depends on extractability — and extractability is exactly what open formats guarantee and proprietary ones don't. So libre isn't a competing position, it's CAPE's precondition. The 2013 static-sites essay is already halfway there, complaining that the tools produce content you can't restructure.
+
+Nobody has written that connection down. It would make a strong piece, and it needs no new research — both halves are in this repo.
+
 ## Elsewhere
 
 - **are.na** — [CAPE / Pure Content](https://www.are.na/kristian-bjornard/cape-pure-content), 26 blocks
