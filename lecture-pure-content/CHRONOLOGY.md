@@ -41,9 +41,16 @@ It also settles what these tiddlers *are*. Not notes — published essays, chunk
 
 ## What CAPE used
 
-Formats, per Kristian 2026-08-27: **Markdown, XML, JSON, YAML** — whichever suited the tool, kept as close to plain text as possible so content stayed easy to edit and easy to port. Metadata attached wherever it could be added without wrapping the content, to keep things linkable and adaptable.
+The pipeline, per Kristian 2026-08-27. Many formats were tried; this is what stuck:
 
-InDesign took XML; web things took JSON. The implementation language, framework, and host are still unrecorded anywhere.
+1. **Authoring** — Markdown with YAML headers, kept as near plain text as possible so it stayed easy to edit and easy to port.
+2. **Interfaces** over that, so nobody had to hand-write the front matter.
+3. **JSON feeds** generated from it.
+4. **Renderers** — site builders, PDF generators, InDesign via XML, whatever needed feeding.
+
+Markdown in, JSON out, renderers downstream. That is now approximately how the static web works — front matter plus a JSON API plus a build step. They arrived at it around 2012 by trying things until something stopped breaking.
+
+Still unrecorded anywhere: what it was *implemented* in — language, framework, host.
 
 ## Still open
 

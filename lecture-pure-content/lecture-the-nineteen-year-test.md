@@ -59,7 +59,9 @@ Half of it searched across content feeds — anything with an API or an RSS feed
 
 The other half turned those results into things. XML, JSON, templates, a page, a site, a booklet. It watched for changes and regenerated what was affected. Static files, no database at request time.
 
-We used Markdown, XML, JSON, YAML — whichever suited the tool in front of us. The rule was to stay as close to plain text as we could, so the content was easy to edit and easy to move. Then we added metadata wherever we could attach it without wrapping the content in something, so a thing could be linked and adapted later.
+We tried a lot of formats. What we kept was Markdown with YAML headers, and interfaces to make that easy to edit so nobody had to hand-write the metadata. That got turned into JSON feeds. The feeds went to site builders, PDF generators, whatever needed them.
+
+Markdown in, JSON out, renderers downstream. That is the whole shape of it, and it is now roughly how the static web works. We got there around 2012 by trying things until something stopped breaking.
 
 Plain text is not a preference. It is the only format I have watched survive four migrations without anyone maintaining it.
 
@@ -125,7 +127,7 @@ DELIVERY
 - Sections are chunk-sized on purpose. If this goes into bjornpaedia, each `##` becomes a tiddler and the lecture becomes an assembly tiddler with a `list:` field. See sessions/NEXT-tiddler-migration.md.
 
 GAPS
-- Formats now recorded (Markdown, XML, JSON, YAML, plain text, metadata wherever it would attach). Still unrecorded: the **implementation** — language, framework, host. Only you and Kai know that.
+- Pipeline now recorded: Markdown + YAML front matter, editing interfaces over it, out to JSON feeds, then to site builders and PDF generators. Still unrecorded: what any of it was *written in* — language, framework, host.
 - The booklet is unnamed. Hopkins Conference Books, ICFP, and Print from the Browser are empty tiddlers referenced in These Gestures Are Undoubtedly Utopian, and are almost certainly the real examples. Name one and the print section gets teeth.
 - rwdfoundation.org ran a custom Ruhoh. Worth checking whether it survives.
 
