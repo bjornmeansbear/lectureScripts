@@ -18,6 +18,6 @@ The essay body is already in bjornpaedia as `From Indesign to Pure Content.tid` 
 
 **The print mechanism, named.** XML fed to InDesign, where structure already in the XML maps automatically onto paragraph styles that share the tag names. That is the concrete answer to "how did you generate print from the same source," which the case study claims and never explains. `InDesign likes XML, most web things like JSON` is the same point in the essay body.
 
-**⚠ Date conflict, unresolved.** This note says CAPE ran **2011–2014**. Kristian said **≈2012–2023** when asked directly on 2026-08-27, and that range is currently published in the case study dek on `a.wjerk.shop`. Both can be true — the tool-building may be 2011–14 and the practice continued far longer — but the page currently asserts one of them. **Needs his call before the dek is trusted.**
+**~~Date conflict~~ RESOLVED 2026-08-27: CAPE ran ≈2011–2023.** This note's *2011–2014* is the intensive tool-building period with Kai; the practice continued for another decade. Kristian's first answer of ≈2012–2023 was revised to 2011 once this note surfaced — *"cool I was working on it even earlier than I thought."* The case study dek now says 2011–2023.
 
 **Medium is a surface nobody had recorded**, and it is downstream of bjornpaedia rather than upstream: "originally published at bjornpaedia.com." Which is the whole thesis operating — one source, several renderings.

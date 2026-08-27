@@ -4,7 +4,7 @@ The idea underneath everything else in this repo, and the oldest thing in it. Li
 
 **Pure content**, in Kristian's words (2026-08-27): the abstract concept powering CAPE. Publishing everywhere required clear, structured content *"that didn't try to imply too much (or at all) what it should look like or be used for."* Content that carries no presentation and no intended use. Style is applied later, per context, and can change infinitely without touching the source.
 
-**CAPE** = Create Anywhere Publish Everywhere. The software and service built on that idea. Nearly a decade of work with developer **Kai Curry**.
+**CAPE** = Create Anywhere Publish Everywhere. The software and service built on that idea. ≈2011–2023, built with developer **Kai Curry**.
 
 ## Chronology
 
