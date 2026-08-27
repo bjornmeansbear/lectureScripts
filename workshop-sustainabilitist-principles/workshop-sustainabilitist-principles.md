@@ -60,6 +60,10 @@ $2,000–$3,000 plus travel and materials. Single-day version available — lect
 
 ## Notes to self
 
+- **Elsewhere.** 
+  - are.na — [§ The Sustainabilitist](https://www.are.na/kristian-bjornard/the-sustainabilitist) (2957) · [§ @ ¬ Sustainable Aesthetics.](https://www.are.na/kristian-bjornard/sustainable-aesthetics) (1093) 
+  - Case study — [The Sustainabilitist Principles](https://a.wjerk.shop/case-study-sustainabilitist-principles.html)
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - Unlike workshop #3 (Open Source Design), this one's hands-on structure isn't invented from nothing — it's a direct translation of a real, already-successful piece of Kristian's own work into a group exercise. Worth flagging as the strongest-grounded new proposal of the three drafted so far, even though it's never been run as a workshop specifically.
 - "Solutions" and "Quality" share nearly identical definition text in the source wiki — worth Kristian's eye on whether that's a duplication bug or an intentional echo before using both in workshop material.
 - "Thrift" is named in the manifesto's principle list but has no definition page — a real gap to fill before this goes out.

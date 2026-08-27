@@ -67,6 +67,10 @@ Running it: the lecture in full, the issue-queue method, and the bibliography ar
 
 ## Notes to self
 
+- **Elsewhere.** 
+  - are.na — [£ FLOSD Free Libre Open Design](https://www.are.na/kristian-bjornard/flosd-free-libre-open-design) (874) · [£ LibreType](https://www.are.na/kristian-bjornard/libretype) (232) · [£ Libre Designer Book?](https://www.are.na/kristian-bjornard/libre-designer-book) (119) · [£ Design without Adobe](https://www.are.na/kristian-bjornard/design-without-adobe) (78) · [Lecture: The Libre Designer](https://www.are.na/kristian-bjornard/lecture-the-libre-designer) (74) · [Lecture: Why Designer's Don't F/LOS](https://www.are.na/kristian-bjornard/lecture-why-designer-s-don-t-f-los) (18) 
+  - Case study — [The Libre Designer](https://a.wjerk.shop/case-study-libre-designer.html)
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - Split into pitch sheet and facilitator's guide 2026-08-26 to fit one letter sheet front and back. Nothing deleted — the long Day one lecture, the full Knuth/Metafont story, the Stallman caveat, and the bibliography are all in the guide.
 - Title alternates: *Copy, Transform, Combine* (Kirby Ferguson's formula) · *Design Commons Toolkit* · *Open Source Design: A Practicum*
 - Real people in this world, not just cited influences: David Crossland (Google Fonts), Loraine Furter and Eric Schrijver (Open Source Publishing). Their MICA visits are the literal origin of this material. That origin story is in the guide — worth telling in the room, too long for the sheet.

@@ -69,6 +69,9 @@ Annotated, with why each one is here: [reading-list.md](reading-list.md).
 
 ## Notes to self
 
+- **Elsewhere.** 
+  - are.na — [Shirt: form content context](https://www.are.na/kristian-bjornard/shirt-form-content-context) (16). The shirt exists and the workshop doesn't link to it; this is one of only two ideas in the practice that made it onto a shirt.
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - This needs a real trial run before it's pitched anywhere — more than any other workshop on the menu, the exercise design (not just the timing) is untested.
 - Overlaps with `workshop-semiotic-commons/`: both test whether meaning actually transfers through form, rather than just asserting that it does. Semiotic workshop tests narrative/reading; this one tests ideology/political position. Worth being explicit about that distinction if a department is choosing between the two.
 - Christopher Alexander's *Notes on the Synthesis of Form* and *A Pattern Language* are both referenced loosely in the source notes but not with real citations yet — track down proper editions/pages before this goes public.

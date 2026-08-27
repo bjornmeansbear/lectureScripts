@@ -55,6 +55,10 @@ $2,000–$3,000 plus travel and materials. Single-day version available.
 
 ## Notes to self
 
+- **Elsewhere.** 
+  - are.na — [Spontaneous Lamp](https://www.are.na/kristian-bjornard/spontaneous-lamp) (6) 
+  - Case study — [Spontaneous Lamp](https://a.wjerk.shop/case-study-spontaneous-lamp.html)
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - This is the lightest-logistics, easiest-to-book workshop on the whole menu — but also has the least group-workshop track record. Worth a trial run before the first real pitch, same as Open Source Design and Form/Content/Context.
 - Companion workshop: 3P — People Processing Plastic (`workshop-3p-plastic.md`, same folder) covers the same circular economy territory at industrial-material scale, with real multi-semester classroom validation but much heavier equipment logistics. Pitch both; let a department pick based on their facilities and appetite for risk.
 - Title alternates: *Spontaneous Objects* (if generalizing past lamps specifically) · *Build It to Take It Apart*

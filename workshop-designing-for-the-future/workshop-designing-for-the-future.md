@@ -69,5 +69,8 @@ Running it: the lecture in full, how diffusion models actually work, tool select
 
 ## Notes
 
+- **Elsewhere.** 
+  - are.na — [Lecture: Design for the Future Today](https://www.are.na/kristian-bjornard/lecture-design-for-the-future-today) (111)
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - "Which AI tool" is a moving target. The category is text-to-image diffusion and the specific tool doesn't matter much, but the free tiers change constantly — re-verify the week before teaching, and ask the host about their Creative Cloud license first.
 - The teaching goal has widened past futures studies plus a tools exercise. The workshop's oldest finding — broad prompts give sci-fi mush, specific objects give usable images — turns out to be a fact about prompt-embedding density and training distribution. Design lesson and technical lesson are one lesson. 

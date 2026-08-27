@@ -78,6 +78,10 @@ Note: the two-day zine-and-poster structure described above has been run once, a
 
 ## Notes to self
 
+- **Elsewhere.** 
+  - are.na — [Lecture: Some Semiotics](https://www.are.na/kristian-bjornard/lecture-some-semiotics) (94) · [Lecture: Semiotics, Building, Speed?](https://www.are.na/kristian-bjornard/lecture-semiotics-building-speed) (8) · [Workshop: Copyright & a New Design Commons](https://www.are.na/kristian-bjornard/workshop-copyright-a-new-design-commons) (224)
+  - are.na has no `Workshop:` channel for this one — the Copyright channel above covers Day One only.
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - Title alternates: *The Commons Is a Pile of Paper* · *Someone Else Reads It* ·
   *Retelling* · *Public Domain Studio*
 - The reading-aloud moment is the strongest thing in the workshop. Lead with it if a

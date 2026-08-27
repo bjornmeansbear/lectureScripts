@@ -67,6 +67,9 @@ $2,000–$3,000 plus travel and materials, matching the semiotic workshop. Add $
 
 ## Notes to self
 
+- **Elsewhere.** 
+  - are.na — **no channel yet, and this workshop is built on visual research.** Name it `Workshop: Drawdown Diptychs` (see `SURFACES.md`). The students build a pile every time it runs; none of it is kept.
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - This is genuinely two products, same as circular economy ended up being: the **sprint** (a weekend, standalone or paired with the semiotic workshop) and the **full embedded unit** (four to five weeks, a real class takeover, priced and scoped differently). Keep both live rather than picking one — a department with only a guest-visit budget wants the sprint; a department that wants to hand over real curriculum wants the full unit.
 - The unit has been taught at two lengths now, five weeks and four. If a department asks what the minimum is, four weeks is proven and the weekend is not yet.
 - Worth deciding whether to fold this in as a formal second offering under workshop #1, or keep it fully independent on the menu. Leaning toward: independent, since it stands on its own and the sustainability crossover gives it a different pitch angle (works for design departments *and* for sustainability/environmental studies programs, which #1 alone doesn't reach).

@@ -65,6 +65,10 @@ $3,500–$5,000 plus travel, shipping, and materials — higher than the other w
 
 ## Notes to self
 
+- **Elsewhere.** 
+  - are.na — [3P: People Processing Plastic](https://www.are.na/kristian-bjornard/3p-people-processing-plastic) (124) · [Wjerk: Precious Plastics](https://www.are.na/kristian-bjornard/wjerk-precious-plastics) (115) 
+  - Case study — [3P: People Processing Plastic](https://a.wjerk.shop/case-study-3p.html)
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - This is the best-tested material of any workshop on the menu — it just needs repackaging from "semester-long class" into "one or two travelable days," not invention from scratch. The real open risk is equipment reliability in a compressed, one-off format, not the content itself.
 - The equipment logistics are the real open question: does the station travel with Kristian, get partially rebuilt on-site from Precious Plastic's open plans, or does the host institution need its own? Affects the fee and the lead time a department would need before booking. There's some smaller-scale gear already on hand — worth figuring out if that's enough to start local and travel with, before committing to building a second full station.
 - Christopher Attenborough is credited as a collaborator wherever this workshop is described (confirmed 2026-08-26). Still open: whether he travels with it as co-facilitator, which changes the fee.

@@ -79,6 +79,9 @@ Pulled from the DI200 reading list and research channel — real citations, not 
 
 ## Notes to self
 
+- **Elsewhere.** 
+  - are.na — **no channel yet.** Name it `Workshop: Structured Creativity` (see `SURFACES.md`).
+  - Full map of every surface: `SURFACES.md` at the repo root.
 - This is genuinely untested, more than any workshop on the menu so far — the course it compresses hasn't been taught yet. Treat as a placeholder shape until DI200 actually runs.
 - **Update this file as DI200 comes together** — that was the explicit reason for building it now instead of waiting. Come back after each stretch of the real course runs and pull in what actually worked.
 - The real course uses a paid institutional partner (a Baltimore hotel) for its main brief — too heavy for a weekend visit. A lighter local-site brief, matching the course's own lighter example options (a train station, a farmers market, a public waterfront), is the right substitute for the sprint version.
