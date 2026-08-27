@@ -85,10 +85,25 @@ Maps each project across its other homes: case studies on `a.wjerk.shop`, the wi
 
 ---
 
+## Day two — are.na, and the loop model
+
+Wrote `scripts/arena-channels.py` against the v3 API (spec: `~/Code/sentence-a-day/openapi`; token in a gitignored `.env`; Cloudflare rejects urllib's default UA with error 1010, so the script sets its own).
+
+**518 channels**, already organized in a taxonomy nobody had written down: `Lecture:`, `Workshop:`, `Project:`, `Shirt:`, `§` sustainability, `£` libre, `Wjerk:`, `BRN:`.
+
+Found: `Lecture: What is Design?` with 67 blocks, for the slot with no material here. Both lost channels — the fonts one is `£ LibreType`, the copyright one is `Workshop: Copyright & a New Design Commons` (224 blocks). Two lectures existing only as private channels, Kintsugi and Mending Nets, both about repair. Five channels feeding `lecture-time-speed-motion/`. `§ The Sustainabilitist` at 2,957 blocks. A stale URL in `Why Libre Design.txt`, corrected.
+
+Then the model Kristian described: lecture → shirt → workshop, each tied to a case study or to bjornpaedia, forming loops. Six surfaces total, including `stuff.wjerk.shop` (the `~/Code/shirts` repo). Coverage table for 23 topics is in `SURFACES.md`.
+
+Headline: **the shirt leg is nearly absent**, and the two that exist are the two most definitional ideas — the shirt is functioning as a compression test. Nothing has all six surfaces; Libre Designer and Sustainabilitist Principles have five and are one shirt short.
+
 ## Threads left open
 
 - The genus half of "What is design?" — undrafted, material located.
-- are.na URLs for the two unrecorded channels.
+- ~~are.na URLs~~ recovered, both. See `SURFACES.md`.
+- The shirt leg: two shirts would complete five-of-six loops (Libre Designer, Sustainabilitist Principles).
+- A repair lecture — Kintsugi and Mending Nets research exists, nothing written.
+- Five orphaned case studies with nothing drawing on them.
 - Images for the menu and sheets.
 - Fees — confirm current.
 - The **"Chair project w/ Chris Attenborough"** Notion doc KB mentioned and didn't finish pointing at. Not looked at. Relates to `chair-case-studies.md` and the Chair-ness case study.
