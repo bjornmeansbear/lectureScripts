@@ -101,6 +101,31 @@ Not lecture-specific. These are where the thinking accumulates.
 - **No Solarpunk channel**, though the lecture is listed and a [case study](https://a.wjerk.shop/case-study-solarpunk-boombox.html) exists.
 - `Shirt: Signs Signaling on Substrates` (13 blocks) — the phrase became a shirt. Another surface for `lecture-signs-signaling-on-substrates/`.
 
+### Naming new channels
+
+The taxonomy already works. The gap is that only one `Workshop:` channel exists, so workshop research has nowhere consistent to go. Convention going forward, so a channel and a folder find each other later:
+
+**`Workshop: <exact title from MENU.md>`** — matching the menu means the channel, the pitch sheet, and the folder all carry the same name.
+
+| Menu title | Folder | Channel |
+|---|---|---|
+| Make It Mean Something | `workshop-semiotic-commons/` | — |
+| Drawdown Diptychs | `workshop-semiotic-commons/` | — |
+| The Libre Designer | `workshop-open-source-design/` | `Lecture:` exists, no `Workshop:` |
+| The Sustainabilitist Principles | `workshop-sustainabilitist-principles/` | — |
+| Design the Future Today | `workshop-designing-for-the-future/` | `Lecture:` exists, no `Workshop:` |
+| Structured Creativity | `workshop-structured-creativity/` | — |
+| Form, Content, Context | `workshop-form-content-context/` | `Shirt:` exists, no `Workshop:` |
+| Spontaneous Lamp | `workshop-circular-economy-design/` | — |
+| *(off menu)* 3P | `workshop-circular-economy-design/` | `3P: People Processing Plastic`, 124 blocks |
+| *(not on menu)* Copyright & the Commons | `workshop-semiotic-commons/copyright-and-the-commons.md` | **[Workshop: Copyright & a New Design Commons](https://www.are.na/kristian-bjornard/workshop-copyright-a-new-design-commons)**, 224 blocks — the only one that exists |
+
+Three of these already have a `Lecture:` or `Shirt:` channel holding overlapping research. Those don't need merging; a workshop and its lecture are different collections. But when a workshop channel gets made, cross-link it to the lecture one in are.na so the pair is visible from either side.
+
+**When a workshop names a channel out loud in the room, add the URL to this file the same week.** That's the failure that lost two channels for a year — they were findable by everyone who attended and by nobody afterward.
+
+Worth noting: `Workshop: Copyright & a New Design Commons` is research for a workshop that doesn't formally exist yet. `copyright-and-the-commons.md` is currently workshop #1's Day One lecture *and* the leading candidate for a standalone #4 (see `SHARED-COMPONENTS.md`). The channel having its own name suggests it was already being treated as its own thing.
+
 ### Re-running this
 
 ```
