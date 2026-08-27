@@ -43,25 +43,20 @@ What is design?             → HALF DONE. lecture-signs-signaling-on-substrates
 F/LOS Daily
 Other Libre-related stuff???  → workshop-open-source-design/ (are.na: The Libre Designer 74, Why Designer's Don't F/LOS 18, £ FLOSD 874)
 
-Pure Content                → NOT nothing — this is the organizing principle, not a lecture topic.
-                              Write once, restyle endlessly; content sacrosanct, style variable.
-                              You already built it once: "CAPE — create anywhere publish everywhere,"
-                              per your own bio: "treating content as a pure material that could move
-                              fluidly between platforms." Live instances: a.wjerk.shop's
-                              case-study-template.html + generate-case-studies.sh, and connections.md's
-                              plan to stamp "Elsewhere" blocks from connections.json at build time.
-                              The tiddler chunking question is the same idea applied to prose.
-
-
-ON ARE.NA BUT NEVER ON THIS LIST
-Added 2026-08-27. Each has a "Lecture:" channel and was never written down as something to write up.
-
-Utopian Gestures            → lecture-utopian-gestures/ exists (4 drafts). are.na 46.
-Surface — A New Design Commons  → lecture-new-design-commons/ exists. are.na 309 — the biggest lecture channel.
-Signs Signaling on Substrates   → lecture-signs-signaling-on-substrates/ exists. are.na 11 + a shirt.
-Design as a common good     → no folder. are.na 10.
-Remix                       → no folder. Feeds booklet-new-design-commons/03. are.na 1.
-Kintsugi                    → no folder. are.na 22 — museum + public domain images of golden repair.
-Mending Nets                → no folder. are.na 21 — Homer, Sorolla, Utamaro, nets being mended.
-                              Kintsugi and Mending Nets are a pair: repair made visible, not hidden.
-                              Both updated 20 Aug 2026. Images gathered, no argument written yet.
+Pure Content                → NOT nothing. This is a real lecture AND the architecture underneath everything.
+                              Kristian's own definition, 2026-08-27: "pure content" is the abstract concept
+                              powering CAPE. Creating anywhere to publish everywhere required clear,
+                              structured content "that didn't try to imply too much (or at all) what it
+                              should look like or be used for."
+                              So: content that carries no presentation and no intended use. Style is applied
+                              later, per context, and can change infinitely without touching the source.
+                              Built once as CAPE — "create anywhere publish everywhere" — per his bio:
+                              "treating content as a pure material that could move fluidly between platforms
+                              ... generating print documents from custom server workflows."
+                              Live descendants: a.wjerk.shop's case-study-template.html +
+                              generate-case-studies.sh; connections.md's plan to stamp Elsewhere blocks
+                              from connections.json at build; sentence-a-day's renderTiddlers.sh.
+                              NOTE THE SYMMETRY: this is "signs signaling on substrates" applied to text.
+                              There, the substrate is variable and the signalling intent is what's fixed.
+                              Here, the rendering is variable and the content is what's fixed. Same claim,
+                              two domains, twenty years apart. Neither lecture has been written.
