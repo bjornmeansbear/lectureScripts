@@ -45,16 +45,21 @@ Kristian, 2026-08-27, on what CAPE was really for:
 
 That is the humane version, and it's worth keeping over the tidier ones. The point was never to make people change how they work. Let the photographer stay on Flickr, the writer stay in Google Docs, the spreadsheet stay a spreadsheet. Put the intelligence in the **collection layer** instead of the authoring one. *"Whatever you are already using for content management or creation, please continue to use it. CAPE just wants that content."*
 
-**This sits in real tension with The Libre Designer, and the tension is productive.**
+**It is not in tension with The Libre Designer. It depends on it.** Kristian's correction, 2026-08-27:
 
-- *The Libre Designer* says the tool matters enormously: a tool you can't get your work back out of is a risk, so use F/LOSS and open formats.
-- *CAPE* says the tool barely matters: use whatever suits the job, we'll extract and re-render it.
+> CAPE only works if you have open formats, frameworks, documented structure guidelines… open APIs, the rest all are required… so it's still a Libre mentality I think
 
-Both are his, roughly a decade apart. They reconcile like this: **CAPE's permissiveness is only affordable when the content can actually get out.** Its whole premise depends on extractability — and extractability is exactly what open formats guarantee and proprietary ones don't. So libre isn't a competing position, it's CAPE's precondition. The 2013 static-sites essay is already halfway there, complaining that the tools produce content you can't restructure.
+That's the right resolution, and stronger than calling libre a mere precondition. CAPE's permissiveness about *tools* is only purchasable with strictness about *formats*. "Use whatever you like" is affordable exactly to the degree that RSS, XML, JSON, Markdown, YAML, and open APIs exist underneath it. Take those away and "create anywhere" becomes "your content is stuck in six places at once," which is worse than one.
 
-Nobody has written that connection down. It would make a strong piece, and it needs no new research — both halves are in this repo.
+So the two projects are one position at different altitudes. **The Libre Designer argues for the substrate; CAPE is what the substrate makes possible.**
 
-## Elsewhere
+**The history bears it out, unhappily.** CAPE was built on Flickr's API, Instagram's API, Dropbox, RSS. Most of that closed or narrowed across the decade that followed — Instagram's API gutted, Twitter's shut, RSS quietly abandoned by the platforms that had carried it. CAPE didn't fail as an idea. Its substrate was enclosed underneath it.
+
+That makes this a fourth enclosure story for `booklet-new-design-commons/`, which currently runs three — tools, images and culture, materials. **The enclosure of the open web's plumbing** belongs alongside them, and CAPE is the case study: a working system that stopped being possible because the commons it stood on was fenced.
+
+Nobody has written that down. It needs no new research; every piece is in this repo.
+
+## Elsewhere## Elsewhere
 
 - **are.na** — [CAPE / Pure Content](https://www.are.na/kristian-bjornard/cape-pure-content), 26 blocks
 - **Published** — <https://www.ookb.co/cape/>, from the `url` field on the CAPE tiddler
