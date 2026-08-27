@@ -105,12 +105,41 @@ The question — small reusable chunks vs. one long essay — is answered by Kri
 
 Full plan, the format spec, the collision problem, and the recommended order: `sessions/NEXT-tiddler-migration.md`.
 
+## Day two, later — Pure Content, and a case study shipped
+
+**"Pure Content" turned out to be the biggest thing in the archive, and this repo knew nothing about it.**
+
+`Lectures To Writeup.txt` listed it under General. I first marked it "nothing anywhere." Wrong twice over. It is (a) the organising principle behind everything else here, and (b) already written — **~5,300 words across nine tiddlers** in bjornpaedia, tagged `CAPE` / `[[Pure Content]]` / `Writing`, chunked and hub-linked in exactly the pattern the migration plan proposes. `What is CAPE?` at 2,264 words is probably the library/archive conference talk itself, given c.2012–2014.
+
+Kristian's definition, in his words: pure content is the abstract concept powering CAPE — publishing everywhere required structured content *"that didn't try to imply too much (or at all) what it should look like or be used for."*
+
+**The symmetry worth writing up:** Pure Content and Signs Signaling on Substrates are the same claim in two domains. Both say the carrier is variable and the thing carried is fixed — rendering vs. content in one, substrate vs. signalling intent in the other. A decade apart, neither written as a lecture. Logged in `SHARED-COMPONENTS.md`.
+
+### What got built
+
+- **`scripts/tiddlers-to-md.py`** — inverse of the md-to-tiddlers converter. Renders a set of tiddlers into one markdown document.
+- **`lecture-pure-content/`** — README plus `compiled-from-tiddlers.md`, all 5,272 words. **Marked generated, do not edit.** The tiddlers stay canonical; this is a rendering. Copying the prose in would have been the exact drift this repo spent two days documenting, and the material argues against it.
+- **`a.wjerk.shop/case-study-cape.html`** — written, built, and pushed. 1,127 words, text-first, slotted into the case-study ring between The Libre Designer and Drawing on Tempered Glass with both neighbours rewired and an index tile added. Build verified before pushing: assembles clean, tokens resolve, 1.11 MB.
+
+### Two facts that made the case study
+
+**Sunday's Energy was their own company, not a client.** Kristian went looking in 2006 for a way to run a car on something other than diesel, found a Minneapolis group running biodiesel workshops and engine conversions, ended up working there, then ran it with Kai Curry. They made biodiesel, websites, and assorted eco-things. The websites paid for the biodiesel, and building sites for organisations with no CMS budget is what produced CAPE. Constraint first, philosophy afterward.
+
+**The nineteen-year test.** `Better Living Through Sustainability`, his own site c.2007–2010, was built on Drupal, later archived as static HTML, and now lives as tiddlers in bjornpaedia transcluded into pages that didn't exist when it was written. Three platforms, none of which the content was written for. He let the domain expire in 2026 after nineteen years. The writing outlived the database, the site, and the address — the only test of pure content that means anything, and not one you can run quickly. It was sitting in a tiddler.
+
+### Duplication found
+
+Four separate inventories of are.na now exist: `a.wjerk.shop/arena-inventory.md`, `a.wjerk.shop/connections.md`, `sad2021tw/tiddlers/All Are.na Channels.tid`, and this repo's `SURFACES.md`. **`connections.md` is the best of them** — it models the concept rather than the project as the connecting unit, gives channels a role, and is headed for `connections.json` stamped at build. SURFACES.md now defers to it at the top. Consolidate to one before adding anything else.
+
 ## Threads left open
 
 - The genus half of "What is design?" — undrafted, material located.
 - ~~are.na URLs~~ recovered, both. See `SURFACES.md`.
 - The shirt leg: two shirts would complete five-of-six loops (Libre Designer, Sustainabilitist Principles).
-- **The tiddler migration** — see `sessions/NEXT-tiddler-migration.md`. Tool is built, order is decided, nothing written yet.
+- **The tiddler migration** — see `sessions/NEXT-tiddler-migration.md`. Tool is built, order is decided, nothing written to the wiki yet. Read the nine CAPE tiddlers first; they're the finished example.
+- **Which conference was the Pure Content talk, and what year?** Nothing in any file names it. Everything else about that decade is documented except where it was delivered. Only Kristian has this.
+- **Screenshots for the CAPE case study** — one hero, one index tile (`i/cape-dither.png`, 800×450). Two marked TODOs in the HTML with the SPEC.md §3 requirements inline.
+- **Consolidate the four are.na inventories** into `connections.md`.
 - A repair lecture — Kintsugi and Mending Nets are **image collections**, not argument research. Sourcing is already all public domain. No argument written yet.
 - Five orphaned case studies with nothing drawing on them.
 - Images for the menu and sheets.
