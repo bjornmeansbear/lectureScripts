@@ -8,6 +8,75 @@ Local sibling repos, browsable directly: `~/Code/a.wjerk.shop`, `~/Code/bjornpae
 
 ---
 
+## The loop
+
+The goal, in Kristian's words (2026-08-27): **lectures** on things; **shirts** that condense a lecture into a semiotic gesture that goes out and lives in the world; **workshops** that make people do it. Each of the three tied back to a case study on `a.wjerk.shop` or to research and writing on `bjornpaedia.wjerk.shop`, so the whole thing reads as loops rather than as scattered outputs — a real picture of how the practice works.
+
+That is a coherent model, and most of the parts already exist. What's missing is almost never the material. It's the link.
+
+### The six surfaces
+
+| Surface | Lives at | Local repo | Holds |
+|---|---|---|---|
+| Lectures & workshops | this repo | `~/Code/lectureScripts` | scripts, pitch sheets, transcripts |
+| Shirts | `stuff.wjerk.shop` | `~/Code/shirts` | the store |
+| Case studies | `a.wjerk.shop` | `~/Code/a.wjerk.shop` | 10 finished projects |
+| Research & writing | `bjornpaedia.wjerk.shop` | `~/Code/sentence-a-day` | 1,400+ tiddlers |
+| Visual research | are.na | — | 518 channels |
+| Drafts | Notion | — | bios, essays, project pages |
+
+### Where the loops are complete, and where they break
+
+L = lecture · S = shirt · W = workshop · C = case study · A = are.na · B = bjornpaedia
+
+| Topic | L | S | W | C | A | B |
+|---|---|---|---|---|---|---|
+| Signs Signaling on Substrates | ✓ draft | **✓** | — | — | ✓ 11 | ✓ |
+| Form, Content, Context | listed | **✓** | ✓ | — | ✓ | ✓ |
+| The Libre Designer / open source | ✓ | — | ✓ | ✓ | ✓ 874 | ✓ |
+| The Sustainabilitist Principles | ✓ | — | ✓ | ✓ | ✓ 2,957 | ✓ |
+| Semiotic commons / Make It Mean Something | ✓ | — | ✓ | — | ✓ 94 | ✓ |
+| Copyright & the commons | ✓ | — | ~ #4 | — | ✓ 224 | ✓ |
+| A New Design Commons | ✓ | — | — | — | ✓ 309 | ✓ |
+| What is Sustainable Graphic Design | ✓ | — | — | — | ✓ 514 | ✓ |
+| Climate design | ✓ | — | — | — | ✓ ×3 | ✓ |
+| Futures / speculative design | ✓ | — | ✓ | — | ✓ 111 | ✓ |
+| Utopian gestures | ✓ | — | — | — | ✓ 46 | ✓ |
+| Time, speed, motion | thin | — | — | — | ✓ ×5 | ✓ |
+| BauErden | ✓ | — | — | — | ✓ 10 | ✓ |
+| Chair-ness | — | — | ~ | ✓ | ✓ 485 | ✓ |
+| 3P plastic | — | — | ✓ off-menu | ✓ | ✓ 124 | ✓ |
+| Spontaneous Lamp | — | — | ✓ | ✓ | ✓ 6 | ✓ |
+| Entropy | listed ×2 | — | — | — | ✓ 5 | ✓ |
+| Solarpunk | listed | — | — | ✓ | — | ✓ |
+| Carbon sequestering book | — | — | — | ✓ | — | ? |
+| Green Acres → Ecovention | — | — | — | ✓ | — | ✓ |
+| MICA grad zine | — | — | — | ✓ | — | ? |
+| Repair — Kintsugi, Mending Nets | — | — | — | — | ✓ ×2 | ? |
+| Drawing on tempered glass | — | — | — | ✓ | — | ? |
+
+### What the table says
+
+**The shirt leg is almost entirely missing.** Two shirts map to ideas — *Signs Signaling on Substrates* and *form content context*. Both happen to be the two most abstract, most definitional things in the practice, which suggests the shirt is doing exactly the job intended: it's the compression test. If an idea can't survive being a shirt, it may not be finished. Eight shirt channels exist; six are about type, music, or jokes rather than about the work.
+
+**Nothing has all six.** The Libre Designer and the Sustainabilitist Principles have five — everything but a shirt. They're the closest to a complete loop, and each is one shirt away.
+
+**Five case studies are orphans.** Solarpunk Boombox, Carbon Sequestering Book, Green Acres → Ecovention, MICA Grad Zine, Drawing on Tempered Glass have a finished public case study and no lecture, workshop, or shirt pulling from them. Two of those are things the booklet says it still needs.
+
+**Two lectures exist only as are.na channels.** Kintsugi and Mending Nets — both private, both about repair, neither anywhere else. Repair is a subject the practice clearly circles and has never written down.
+
+**Time/speed/motion is inverted.** Five are.na channels feeding a folder with two text files. The research is done; the lecture isn't.
+
+### Closing loops, cheapest first
+
+1. **Link what exists.** Chair-ness alone is a channel, a case study, a repo, a Notion page, and a file here — five surfaces, no cross-references until today. No new work, just links.
+2. **Two shirts.** *The Libre Designer* and *The Sustainabilitist Principles* each complete a five-of-six loop with one gesture.
+3. **Two booklet essays** adopt the orphaned case studies instead of drafting from nothing.
+4. **The repair lecture.** Two channels of research already gathered, nothing written.
+5. **Time/speed/motion** — assemble from five channels plus the GD3 material.
+
+---
+
 ## Linked already
 
 | Project | Here | Case study |
