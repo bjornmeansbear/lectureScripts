@@ -52,7 +52,7 @@ L = lecture · S = shirt · W = workshop · C = case study · A = are.na · B = 
 | Carbon sequestering book | — | — | — | ✓ | — | ? |
 | Green Acres → Ecovention | — | — | — | ✓ | — | ✓ |
 | MICA grad zine | — | — | — | ✓ | — | ? |
-| Repair — Kintsugi, Mending Nets | — | — | — | — | ✓ ×2 | ? |
+| Repair — Kintsugi, Mending Nets | — | — | — | — | ✓ ×2 *images only* | ? |
 | Drawing on tempered glass | — | — | — | ✓ | — | ? |
 
 ### What the table says
@@ -63,7 +63,15 @@ L = lecture · S = shirt · W = workshop · C = case study · A = are.na · B = 
 
 **Five case studies are orphans.** Solarpunk Boombox, Carbon Sequestering Book, Green Acres → Ecovention, MICA Grad Zine, Drawing on Tempered Glass have a finished public case study and no lecture, workshop, or shirt pulling from them. Two of those are things the booklet says it still needs.
 
-**Two lectures exist only as are.na channels.** Kintsugi and Mending Nets — both private, both about repair, neither anywhere else. Repair is a subject the practice clearly circles and has never written down.
+**Two lectures exist only as are.na channels.** Kintsugi and Mending Nets, both private, both updated 20 August 2026 — the most recently active thing in this map.
+
+Checked their contents 2026-08-27, and they are **image collections, not argument research**. Kintsugi: 22 blocks of tea bowls and golden repair from Wikimedia Commons, the Met, the Walters, LACMA, Britannica, rawpixel. Mending Nets: 21 blocks of the same subject in painting — Winslow Homer, Sorolla, Israëls, Avercamp, Utamaro, Kuniyoshi — from WikiArt, Artsy, the British Museum, Artvee.
+
+Two things follow. **The effort is larger than "write it up"** — what's gathered is pictures, at the stage `Lecture: Signs Signaling Substrates Slide Images` is at, not the stage `Lecture: Utopian Gestures` is at (that one holds essays, talks, and notes for a lecture that exists). There is no argument yet.
+
+**But the sourcing is already right.** Every block in both channels is public domain or open-licensed, from museum and commons collections — the same discipline the semiotic workshop teaches. Whatever these become, they were gathered the way the practice says to gather.
+
+The pair is thematically tight: kintsugi makes the break visible in gold; mending nets is repair as ordinary labour, painted over and over across four centuries. Repair made visible rather than hidden. That connects to the circular-economy material (repair against replacement) and to the Signs Signaling Sustainability argument that form should declare its values.
 
 **Time/speed/motion is inverted.** Five are.na channels feeding a folder with two text files. The research is done; the lecture isn't.
 
