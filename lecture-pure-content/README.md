@@ -53,6 +53,10 @@ That's the right resolution, and stronger than calling libre a mere precondition
 
 So the two projects are one position at different altitudes. **The Libre Designer argues for the substrate; CAPE is what the substrate makes possible.**
 
+**And they share a single goal, stated by Kristian in one line:** *"it wants to keep you from being locked into any one tool or service."* That is the whole of it. Libre pursues it by choosing tools you can walk away from. CAPE pursues it by making the content walk away from any tool. Same objective, two strategies, and each covers the other's blind spot — libre can't help with the tool a client forces on you, and CAPE can't help when the format has no exit.
+
+Which is also the through-line to *Signs Signaling on Substrates*: don't be defined by the carrier. Tool, format, medium, substrate — the argument is the same one, made four times about four different things.
+
 **The history bears it out, unhappily.** CAPE was built on Flickr's API, Instagram's API, Dropbox, RSS. Most of that closed or narrowed across the decade that followed — Instagram's API gutted, Twitter's shut, RSS quietly abandoned by the platforms that had carried it. CAPE didn't fail as an idea. Its substrate was enclosed underneath it.
 
 That makes this a fourth enclosure story for `booklet-new-design-commons/`, which currently runs three — tools, images and culture, materials. **The enclosure of the open web's plumbing** belongs alongside them, and CAPE is the case study: a working system that stopped being possible because the commons it stood on was fenced.
