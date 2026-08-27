@@ -97,12 +97,21 @@ Then the model Kristian described: lecture → shirt → workshop, each tied to 
 
 Headline: **the shirt leg is nearly absent**, and the two that exist are the two most definitional ideas — the shirt is functioning as a compression test. Nothing has all six surfaces; Libre Designer and Sustainabilitist Principles have five and are one shirt short.
 
+## Started, then stopped — the tiddler migration
+
+Chunking lectureScripts material into bjornpaedia tiddlers. Converter written and dry-run tested; **nothing written to `sentence-a-day`**, which is still clean.
+
+The question — small reusable chunks vs. one long essay — is answered by Kristian's own 2021 work: chunks, assembled by transclusion, 100–200 words each. 92 tiddlers already use the pattern.
+
+Full plan, the format spec, the collision problem, and the recommended order: `sessions/NEXT-tiddler-migration.md`.
+
 ## Threads left open
 
 - The genus half of "What is design?" — undrafted, material located.
 - ~~are.na URLs~~ recovered, both. See `SURFACES.md`.
 - The shirt leg: two shirts would complete five-of-six loops (Libre Designer, Sustainabilitist Principles).
-- A repair lecture — Kintsugi and Mending Nets research exists, nothing written.
+- **The tiddler migration** — see `sessions/NEXT-tiddler-migration.md`. Tool is built, order is decided, nothing written yet.
+- A repair lecture — Kintsugi and Mending Nets are **image collections**, not argument research. Sourcing is already all public domain. No argument written yet.
 - Five orphaned case studies with nothing drawing on them.
 - Images for the menu and sheets.
 - Fees — confirm current.
