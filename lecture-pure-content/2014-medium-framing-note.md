@@ -32,4 +32,11 @@ So the canonical copy stays on a site he controls, Medium carries a rendering fo
 
 This has an established name in the IndieWeb world — **POSSE**, *Publish on Own Site, Syndicate Elsewhere*. Whether or not he used the term, that's the pattern, and he was running it while Medium was actively trying to become everyone's original.
 
+**Kristian's framing, 2026-08-27: POSSE is a subset of the CAPE ideal.** Broadly right, with one asymmetry worth keeping:
+
+- **Publish side — POSSE is a subset.** Both keep the canonical copy somewhere you control and send renderings out. But POSSE's *everywhere* means other websites; CAPE's means other **media** — XML into InDesign, JSON to a widget, a press-ready booklet. Print has no POSSE equivalent.
+- **Create side — POSSE is *stricter*, not smaller.** POSSE requires you author on your own site. CAPE says create *anywhere*, explicitly including platforms you don't control — Flickr, Dropbox, Google Docs, someone else's Git repo — then pull it in and purify it.
+
+So: POSSE is CAPE's publish axis, narrowed to the web and hardened on origin. CAPE is the larger idea; POSSE carries a discipline about ownership that CAPE never insisted on, and which the loss of `test.ookb.co` argues for.
+
 It also means **every Medium post should have an "originally published at" line pointing somewhere**, which makes Medium a usable index for dating the rest of the essays even where the original host is gone.
