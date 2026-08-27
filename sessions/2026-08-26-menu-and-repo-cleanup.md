@@ -131,6 +131,42 @@ Kristian's definition, in his words: pure content is the abstract concept poweri
 
 Four separate inventories of are.na now exist: `a.wjerk.shop/arena-inventory.md`, `a.wjerk.shop/connections.md`, `sad2021tw/tiddlers/All Are.na Channels.tid`, and this repo's `SURFACES.md`. **`connections.md` is the best of them** — it models the concept rather than the project as the connecting unit, gives channels a role, and is headed for `connections.json` stamped at build. SURFACES.md now defers to it at the top. Consolidate to one before adding anything else.
 
+## Day two, last stretch — the Pure Content archaeology
+
+What began as "which conference was that?" turned into recovering the whole body of work. Sequence of what surfaced, in the order it came:
+
+**The conference.** *Towards Purer Content*, at **Web Archives 2015: Capture, Curate, Analyze**, University of Michigan, 12–13 November 2015. I briefly published this on the live case study when the only evidence was a registration email, then reverted it — attendee mail is not a speaking slot. Kristian confirmed he presented; he also attended the *Using Web Archives* workshop as part of attending.
+
+**The paper proposal itself**, recovered from email and saved verbatim as `2015-WebArchives-paper-proposal.md`. It carries **WYSIWYM over WYSIWYG** — *what you see is what you mean* — the sharpest phrasing of the whole idea, and it appears nowhere else in the archive, tiddlers included.
+
+**It was the second delivery.** The first was the **Bunting Teaching Fellow presentation at MICA**, probably spring 2015, showing the experiments. The fellowship was sitting in the bio he'd submitted with the paper — funding, research, first talk, and paper were one arc, and the evidence had been recovered an hour earlier without anyone noticing.
+
+**Dates.** `Striving For Static Sites` published at test.ookb.co **29 Sept 2013** — earliest dated piece, and the origin complaint: every static generator was built for blogs, not whole sites. `Towards Purer Content` at test.ookb.co **14 May 2015**, Medium **2 June 2015**. CAPE itself ≈**2011–2023**, revised back a year from his own first estimate once the Medium note surfaced.
+
+**The tiddlers are published essays, not notes.** Two of nine have confirmed test.ookb.co originals with Medium syndication; the rest almost certainly do too, and **each probably has a recoverable date on Medium**. That would date the whole corpus.
+
+**Medium was downstream on purpose.** Publish somewhere you control, syndicate for reach, link home. POSSE, before that helped. It's also what let us date two essays after `test.ookb.co` died.
+
+### The argument that came out of it
+
+Worked out across several exchanges, and the best thing found in two days:
+
+- CAPE's premise, in his words: *"you'd do things wherever it made the most sense, and then we'd have some magical way to collect all your content."* The intelligence goes in the collection layer, not the authoring one.
+- I framed CAPE and The Libre Designer as in tension. **He corrected it and was right:** *"CAPE only works if you have open formats… open APIs… so it's still a Libre mentality."* Permissiveness about tools is only purchasable with strictness about formats.
+- And CAPE **was itself FLOSS** — open components, proprietary assembly. The same model the workshop menu uses now: free materials, paid facilitation.
+- The shared goal, one line: *"it wants to keep you from being locked into any one tool or service."*
+- Which makes **four things one argument**: pure content (format), CAPE (tool), the libre designer (vendor), signs signaling on substrates (medium). Don't be defined by the carrier.
+- **CAPE died of enclosure, not of being wrong.** Flickr's API, Instagram's, Twitter's, RSS. A fourth enclosure story for the booklet, which currently runs three.
+
+### Built
+
+- `scripts/tiddlers-to-md.py`, and `lecture-pure-content/` as a **rendering** of the canonical tiddlers, not a copy.
+- `CHRONOLOGY.md` — every date sourced, 2006 to now.
+- **`lecture-the-nineteen-year-test.md`** — a new lecture, third version of the talk, 1,256 words, sections sized as chunk tiddlers. The 2015 paper argued pure content was achievable; this one reports the result. Never delivered.
+- `a.wjerk.shop/case-study-cape.html` — written, built, pushed, live.
+
+**The pipeline, finally recorded:** Markdown + YAML front matter → editing interfaces over it → JSON feeds → site builders, PDF generators, InDesign via XML. Markdown in, JSON out, renderers downstream — roughly how the static web works now, arrived at around 2012 by trying things until something stopped breaking.
+
 ## Threads left open
 
 - The genus half of "What is design?" — undrafted, material located.
@@ -140,6 +176,11 @@ Four separate inventories of are.na now exist: `a.wjerk.shop/arena-inventory.md`
 - ~~Which conference~~ **RESOLVED**: *Towards Purer Content*, Web Archives 2015: Capture, Curate, Analyze, University of Michigan, 12–13 November 2015. The talk title matches an existing tiddler exactly, which is therefore likely the talk's own text.
 - **Screenshots for the CAPE case study** — one hero, one index tile (`i/cape-dither.png`, 800×450). Two marked TODOs in the HTML with the SPEC.md §3 requirements inline.
 - **Consolidate the four are.na inventories** into `connections.md`.
+- **What CAPE was implemented in** — language, framework, host. Formats and pipeline are recorded; the build is not. Only Kristian and Kai Curry know.
+- **Name the booklet.** `Hopkins Conference Books`, `ICFP`, `Print from the Browser` are empty tiddlers and almost certainly the real print examples. The case study and the new lecture both claim the print half without one.
+- **Dates for the other seven essays**, recoverable from Medium in about an hour.
+- **`rwdfoundation.org`** — a named CAPE artifact running custom Ruhoh. Still standing?
+- **Read the new lecture cold** before delivering. The four-carriers list is its newest and least-tested claim.
 - A repair lecture — Kintsugi and Mending Nets are **image collections**, not argument research. Sourcing is already all public domain. No argument written yet.
 - Five orphaned case studies with nothing drawing on them.
 - Images for the menu and sheets.
