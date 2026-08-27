@@ -39,6 +39,12 @@ That is almost certainly true of the rest. **Each one probably has a recoverable
 
 It also settles what these tiddlers *are*. Not notes — published essays, chunked into the wiki years later. The wiki is the fourth home for this text, after ookb.co, Medium, and the lecture.
 
+## What CAPE used
+
+Formats, per Kristian 2026-08-27: **Markdown, XML, JSON, YAML** — whichever suited the tool, kept as close to plain text as possible so content stayed easy to edit and easy to port. Metadata attached wherever it could be added without wrapping the content, to keep things linkable and adaptable.
+
+InDesign took XML; web things took JSON. The implementation language, framework, and host are still unrecorded anywhere.
+
 ## Still open
 
 - **The 2014 lecture venue.** The first outing, a year before Web Archives, unnamed anywhere. This is now the only unanswered question about the whole body of work.
