@@ -8,6 +8,7 @@ The idea underneath everything else in this repo, and the oldest thing in it. Li
 
 ## In this folder
 
+- `2014-medium-framing-note.md` — the dating and context for CAPE, plus evidence of an **earlier 2014 lecture**. The only part of the Medium essay not already in bjornpaedia.
 - `2015-WebArchives-paper-proposal.md` — **the talk itself.** Title, abstract, and bio as submitted, recovered from email 2026-08-27. The only surviving document of the presentation.
 - `compiled-from-tiddlers.md` — **generated, do not edit.** All nine source tiddlers rendered into one readable document, 5,272 words. Regenerate with `scripts/tiddlers-to-md.py`.
 
