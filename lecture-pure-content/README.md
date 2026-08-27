@@ -8,7 +8,7 @@ The idea underneath everything else in this repo, and the oldest thing in it. Li
 
 ## Chronology
 
-Full dated sequence, 2006 to now, in `CHRONOLOGY.md`. Short version: CAPE built with Kai Curry 2011–2014, a lecture in 2014, the essay published at test.ookb.co on 14 May 2015 and on Medium 2 June 2015, then the paper at Web Archives 2015 in November.
+Full dated sequence, 2006 to now, in `CHRONOLOGY.md`. Short version: CAPE built with Kai Curry 2011–2014; the writings assembled into a lecture in 2014; **first delivered as the Bunting Teaching Fellow presentation at MICA, probably spring 2015**; the essay published at test.ookb.co 14 May 2015 and on Medium 2 June; then given a second time as a paper at **Web Archives 2015**, University of Michigan, 12–13 November 2015.
 
 ## In this folder
 
