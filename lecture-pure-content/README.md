@@ -57,6 +57,10 @@ So the two projects are one position at different altitudes. **The Libre Designe
 
 Which is also the through-line to *Signs Signaling on Substrates*: don't be defined by the carrier. Tool, format, medium, substrate — the argument is the same one, made four times about four different things.
 
+**And CAPE was itself FLOSS.** Kristian, 2026-08-27: *"CAPE was mostly open source software… the way we implemented it on specific client sites was proprietary, but the idea and the actual components were FLOSS."* Which makes "still a Libre mentality" literal rather than philosophical — the thing was built as open software, on open components, against open formats. The 2013 static-sites essay names some of them: Jekyll, Ruhoh, Nanoc, Wintersmith, with `rwdfoundation.org` running a custom Ruhoh.
+
+The split is worth stating plainly, because it's a defensible and unglamorous model that plenty of studios could copy: **open components, proprietary assembly.** The parts are free and the specific client implementation is the paid work. Nothing about it required inventing a business model — it's how open source has always paid for itself.
+
 **The history bears it out, unhappily.** CAPE was built on Flickr's API, Instagram's API, Dropbox, RSS. Most of that closed or narrowed across the decade that followed — Instagram's API gutted, Twitter's shut, RSS quietly abandoned by the platforms that had carried it. CAPE didn't fail as an idea. Its substrate was enclosed underneath it.
 
 That makes this a fourth enclosure story for `booklet-new-design-commons/`, which currently runs three — tools, images and culture, materials. **The enclosure of the open web's plumbing** belongs alongside them, and CAPE is the case study: a working system that stopped being possible because the commons it stood on was fenced.
