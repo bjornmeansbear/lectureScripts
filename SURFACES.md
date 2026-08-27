@@ -1,5 +1,9 @@
 # Surfaces
 
+> **⚠ Read `~/Code/a.wjerk.shop/connections.md` first.** That file is the canonical cross-property map and it is further along than this one — it models **the concept, not the project, as the connecting unit**, gives every are.na channel a *role* (`sourcing` / `bibliography` / `archive` / `working` / `moodboard`), and is meant to become `connections.json` that the build stamps onto pages automatically. Its companion `arena-inventory.md` has all 518 channels with visibility counts and fuller prefix semantics than the table below.
+>
+> This file was written 2026-08-26/27 without knowing that existed, so parts of it duplicate that work by hand. **Where they disagree, `connections.md` wins.** What's still worth keeping here is the lecture-channel → repo-folder mapping and the loop/coverage table, neither of which that file has. Merge these two rather than maintaining both.
+
 The same work lives in more than one place. This file maps each project across all of them, so material already written somewhere doesn't get rewritten here.
 
 `SHARED-COMPONENTS.md` tracks reuse *inside* this repo — one idea appearing in two workshops. This tracks the same work across *different surfaces*: raw material here, a polished case study on `a.wjerk.shop`, research and notes on `bjornpaedia.wjerk.shop`, visual research on are.na, a pitch line in `MENU.md`.

@@ -106,3 +106,32 @@ So the order matters:
 2. Dry-run the item at the top of the order table.
 3. Check the collision list against `~/Code/sentence-a-day/sad2021tw/tiddlers`.
 4. `--write`, then review in the wiki before committing — `sentence-a-day` is its own repo, currently clean on `master`.
+
+---
+
+## Correction, same day — this overlaps existing work
+
+`~/Code/a.wjerk.shop` already contains `connections.md` and `arena-inventory.md`, both pulled 2026-08-27. They cover much of what `lectureScripts/SURFACES.md` covers, and are better in three ways:
+
+- **The connecting unit is the concept, not the project.** "A project draws on concepts; a concept has a canonical tiddler, a research channel, and maybe a lecture and an object." That is the right model and SURFACES.md doesn't have it.
+- **Channels have a `role`** — `sourcing` / `bibliography` / `archive` / `working` / `moodboard` — which says what a channel is *for* rather than what it holds, and determines how it should be rendered on a page.
+- **It's headed for automation.** `connections.md` becomes `connections.json`; the build stamps an "Elsewhere" block onto each page from it and checks the links resolve. SURFACES.md is hand-maintained markdown, which will drift.
+
+`arena-inventory.md` also has all 518 channels with visibility counts (231 closed / 173 public / 114 private) and fuller prefix semantics — including `mm-` (43) and the course-code prefixes (`di200-`, `di220-`, `gd-prd-223-`, `ad1/2-`, `gd1/2/3-`, `gd105-`) that SURFACES.md missed entirely.
+
+**Next session: merge, don't maintain both.** SURFACES.md keeps two things that file doesn't have — the lecture-channel → repo-folder mapping, and the loop/coverage table across lecture / shirt / workshop / case study / are.na / bjornpaedia. Fold those into `connections.md` and leave a pointer behind.
+
+## And this answers the "pure content" question
+
+The machinery is already half-built on the case-study side:
+
+- `case-study-template.html` with `{{TITLE}}`, `{{DESCRIPTION}}`, `{{IMAGE}}`
+- `generate-case-studies.sh`
+- `build.sh`, `SPEC.md`, `methodology.md`
+- `renderTiddlers.sh` in `sentence-a-day`, which already renders every tiddler to static HTML
+
+So: **yes, case studies should pull their text from tiddlers — at build time, not runtime.** Tiddler is canonical, the template is the styling, the build joins them. That's the same pattern as `connections.json`, applied to prose instead of links.
+
+This is "Pure Content" from `Lectures To Writeup.txt`, and it isn't a lecture topic — it's the architecture. Kristian built it once already as **CAPE, "create anywhere publish everywhere"** (per his own bio: "treating content as a pure material that could move fluidly between platforms... generating print documents from custom server workflows"). The tiddler-chunking question is the same principle applied to prose.
+
+**Open, and worth deciding before any migration:** if tiddlers become canonical for case-study prose, the markdown in `lectureScripts` stops being a source and becomes a *rendering* too. That's a bigger change than chunking, and it decides whether this repo holds content or only holds working drafts.

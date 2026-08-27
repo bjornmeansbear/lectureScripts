@@ -43,7 +43,14 @@ What is design?             → HALF DONE. lecture-signs-signaling-on-substrates
 F/LOS Daily
 Other Libre-related stuff???  → workshop-open-source-design/ (are.na: The Libre Designer 74, Why Designer's Don't F/LOS 18, £ FLOSD 874)
 
-Pure Content                → nothing anywhere
+Pure Content                → NOT nothing — this is the organizing principle, not a lecture topic.
+                              Write once, restyle endlessly; content sacrosanct, style variable.
+                              You already built it once: "CAPE — create anywhere publish everywhere,"
+                              per your own bio: "treating content as a pure material that could move
+                              fluidly between platforms." Live instances: a.wjerk.shop's
+                              case-study-template.html + generate-case-studies.sh, and connections.md's
+                              plan to stamp "Elsewhere" blocks from connections.json at build time.
+                              The tiddler chunking question is the same idea applied to prose.
 
 
 ON ARE.NA BUT NEVER ON THIS LIST
