@@ -3,39 +3,58 @@ Lectures To Writeup
 
 Already together, just needs clarity
 
+~~ = written up in this repo. → = where it lives.
+Reconciled against the 26 "Lecture:" channels on are.na, 2026-08-27. See SURFACES.md.
+
 GD3 related:
-Time + motion + gd
-Newton
-Aristotle
-Entropy
-Fast/Slow design
-Relativity
-Comics?
+Time + motion + gd          → lecture-time-speed-motion/ (raw only; are.na: Intro to Motion 84, What is Time? 32)
+Newton                      → are.na: Newton vs Aristotle (Motion) 8
+Aristotle                   → same channel as Newton
+Entropy                     → nothing here. are.na: Lecture: Entropy 5
+Fast/Slow design            → lecture-time-speed-motion/Slow Design.txt (are.na: Slowing down graphic design 19)
+Relativity                  → delivered inside workshop-designing-for-the-future/2023-Fall-FutureCone (see SHARED-COMPONENTS)
+Comics?                     → nothing anywhere
+Everything is a Motion Graphic  → are.na only, 3 blocks. NOT previously on this list.
 What else do I talk about in GD3???
 
 AD1/AD2
-~~Form Content Context~~
-Ideologies?
-The Future Cone
-Semiotics
+~~Form Content Context~~    → workshop-form-content-context/ + Shirt: form content context
+Ideologies?                 → folded into workshop-form-content-context/
+~~The Future Cone~~         → workshop-designing-for-the-future/ + two delivered transcripts
+~~Semiotics~~               → workshop-semiotic-commons/ (are.na: Some Semiotics 94)
 ???
 
 SGD
-What is sustainability
-~~What is sustainable GD~~
-What is climate change?
-The Carbon Cycle
-Entropy
-What is a climate designer?
-Solarpunk
-What is an eco-narrative?
-Signs Signaling Sustainability
+What is sustainability      → nothing written. Source: workshop-sustainabilitist-principles/Understanding sustainability.txt
+~~What is sustainable GD~~  → lecture-what-is-sustainable-graphic-design/ (delivered UNL 14 Apr 2021)
+What is climate change?     → lecture-climate-design/ (raw only; are.na: Climate Change Notes 19)
+The Carbon Cycle            → lecture-climate-design/ (raw only; are.na: Carbon Cycle 29)
+Entropy                     → see GD3 above, same gap
+What is a climate designer?  → lecture-climate-design/climateDesign.txt has the outline
+Solarpunk                   → nothing here, no are.na channel. But a.wjerk.shop has the Solarpunk Boombox case study.
+What is an eco-narrative?   → nothing anywhere
+~~Signs Signaling Sustainability~~  → booklet-new-design-commons/07 (drafted); are.na 99
 
 General
-What is design?
+What is design?             → HALF DONE. lecture-signs-signaling-on-substrates/ is the "what graphic design is" half.
+                              The broad half — "translating intention into things" — is undrafted.
+                              are.na: Lecture: What is Design? 67 blocks, and there is no folder for it.
 
 F/LOS Daily
-Other Libre-related stuff???
+Other Libre-related stuff???  → workshop-open-source-design/ (are.na: The Libre Designer 74, Why Designer's Don't F/LOS 18, £ FLOSD 874)
 
-Pure Content
+Pure Content                → nothing anywhere
 
+
+ON ARE.NA BUT NEVER ON THIS LIST
+Added 2026-08-27. Each has a "Lecture:" channel and was never written down as something to write up.
+
+Utopian Gestures            → lecture-utopian-gestures/ exists (4 drafts). are.na 46.
+Surface — A New Design Commons  → lecture-new-design-commons/ exists. are.na 309 — the biggest lecture channel.
+Signs Signaling on Substrates   → lecture-signs-signaling-on-substrates/ exists. are.na 11 + a shirt.
+Design as a common good     → no folder. are.na 10.
+Remix                       → no folder. Feeds booklet-new-design-commons/03. are.na 1.
+Kintsugi                    → no folder. are.na 22 — museum + public domain images of golden repair.
+Mending Nets                → no folder. are.na 21 — Homer, Sorolla, Utamaro, nets being mended.
+                              Kintsugi and Mending Nets are a pair: repair made visible, not hidden.
+                              Both updated 20 Aug 2026. Images gathered, no argument written yet.
