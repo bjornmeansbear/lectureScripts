@@ -58,8 +58,10 @@ Pure Content                → ALREADY WRITTEN. ~5,300 words across nine tiddle
                                   11w  CAPE                              — hub, <<list-links>>
 
                               Plus an are.na channel: CAPE / Pure Content (26 blocks).
-                              Delivered at Web Archives 2015: Capture, Curate, Analyze, University of
-                              Michigan, 12–13 November 2015. Found 2026-08-27.
+                              Venue still unconfirmed. Web Archives 2015 (U Michigan, Nov 2015) turned up
+                              2026-08-27 but the evidence is attendee mail only — a registration confirmation
+                              and a "Dear participant" workshop assignment. Attending, not presenting.
+                              See lecture-pure-content/README.md before asserting a venue anywhere.
 
                               His definition, 2026-08-27: pure content is the abstract concept powering
                               CAPE. Publishing everywhere required structured content "that didn't try to

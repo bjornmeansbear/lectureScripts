@@ -109,7 +109,7 @@ Full plan, the format spec, the collision problem, and the recommended order: `s
 
 **"Pure Content" turned out to be the biggest thing in the archive, and this repo knew nothing about it.**
 
-`Lectures To Writeup.txt` listed it under General. I first marked it "nothing anywhere." Wrong twice over. It is (a) the organising principle behind everything else here, and (b) already written — **~5,300 words across nine tiddlers** in bjornpaedia, tagged `CAPE` / `[[Pure Content]]` / `Writing`, chunked and hub-linked in exactly the pattern the migration plan proposes. `What is CAPE?` at 2,264 words is probably the conference talk itself — **Web Archives 2015: Capture, Curate, Analyze**, University of Michigan, 12–13 November 2015.
+`Lectures To Writeup.txt` listed it under General. I first marked it "nothing anywhere." Wrong twice over. It is (a) the organising principle behind everything else here, and (b) already written — **~5,300 words across nine tiddlers** in bjornpaedia, tagged `CAPE` / `[[Pure Content]]` / `Writing`, chunked and hub-linked in exactly the pattern the migration plan proposes. `What is CAPE?` at 2,264 words is probably the conference talk itself. The venue is still unconfirmed.
 
 Kristian's definition, in his words: pure content is the abstract concept powering CAPE — publishing everywhere required structured content *"that didn't try to imply too much (or at all) what it should look like or be used for."*
 
@@ -137,7 +137,7 @@ Four separate inventories of are.na now exist: `a.wjerk.shop/arena-inventory.md`
 - ~~are.na URLs~~ recovered, both. See `SURFACES.md`.
 - The shirt leg: two shirts would complete five-of-six loops (Libre Designer, Sustainabilitist Principles).
 - **The tiddler migration** — see `sessions/NEXT-tiddler-migration.md`. Tool is built, order is decided, nothing written to the wiki yet. Read the nine CAPE tiddlers first; they're the finished example.
-- ~~Which conference~~ **FOUND**: Web Archives 2015: Capture, Curate, Analyze, University of Michigan, 12–13 November 2015.
+- **Which conference — still open.** Web Archives 2015 (U Michigan, Nov 2015) surfaced but the evidence is attendee mail only, not a speaking slot. A claim to the contrary was briefly published on the case study and reverted. See `lecture-pure-content/README.md`.
 - **Screenshots for the CAPE case study** — one hero, one index tile (`i/cape-dither.png`, 800×450). Two marked TODOs in the HTML with the SPEC.md §3 requirements inline.
 - **Consolidate the four are.na inventories** into `connections.md`.
 - A repair lecture — Kintsugi and Mending Nets are **image collections**, not argument research. Sourcing is already all public domain. No argument written yet.
