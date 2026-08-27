@@ -18,7 +18,11 @@ The essay body is already in bjornpaedia as `From Indesign to Pure Content.tid` 
 
 **The print mechanism, named.** XML fed to InDesign, where structure already in the XML maps automatically onto paragraph styles that share the tag names. That is the concrete answer to "how did you generate print from the same source," which the case study claims and never explains. `InDesign likes XML, most web things like JSON` is the same point in the essay body.
 
-**~~Date conflict~~ RESOLVED 2026-08-27: CAPE ran ≈2011–2023.** This note's *2011–2014* is the intensive tool-building period with Kai; the practice continued for another decade. Kristian's first answer of ≈2012–2023 was revised to 2011 once this note surfaced — *"cool I was working on it even earlier than I thought."* The case study dek now says 2011–2023.
+**~~Date conflict~~ RESOLVED 2026-08-27: CAPE ran ≈2011–2023.** There was never really a conflict. This note was written in **late 2014 or early 2015**, from inside the project, when *2011–2014* was simply the truth so far — in his words, *"it wasn't completely clear then that we would keep doing more work with that at the time."*
+
+So the range isn't a claim about the whole span, it's a snapshot with a date on it. Which is the useful thing about a primary source and the trap in reading one: it tells you what was true when it was written, not what turned out to be true. The work ran another eight years after this sentence was typed.
+
+Kristian's first answer today was ≈2012–2023, revised back to 2011 once this note surfaced — *"cool I was working on it even earlier than I thought."* The case study dek now says ≈2011–2023, with the intensive tool-building noted as the first few years.
 
 **Medium is a surface nobody had recorded, and it was downstream on purpose.** Both essays carry an "originally published at" line — `test.ookb.co` for the 2013 and 2015 pieces, `bjornpaedia.com` for the later republication. Kristian's account, 2026-08-27:
 
