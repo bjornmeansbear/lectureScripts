@@ -38,7 +38,12 @@ That's deliberate. The tiddlers are canonical; this folder holds a rendering. Ed
 
 ## Open
 
-- **Which conference, and what year?** Nothing in any file names it. Everything else about this work is documented except where it was delivered.
+- **Which conference, and what year?** Still unknown. Searched 2026-08-27 — **don't repeat these:**
+  - Gmail: `kbjornard@mica.edu` has **nothing before 2015**. A c.2012–14 talk would have been on another address (ookb.co, sundaysenergy, or a personal account). Dead end unless an old mailbox is still reachable.
+  - All of `~/Code` grepped for the obvious venue names — MARAC, Code4Lib, LITA, DLF Forum, Museums and the Web, MCN, THATCamp, SAA, ACRL, Personal Digital Archiving. **No hits anywhere.**
+  - `Hopkins Conference Books`, `ICFP`, and `Print from the Browser` are referenced in `These Gestures Are Undoubtedly Utopian.tid` but the tiddlers are **empty**. Those look like print-from-database *clients* rather than the speaking venue — worth writing up either way, since they're the concrete proof for the print half of CAPE.
+  - Not yet tried: Google Drive (a deck from then would name it on the title slide), the `sundaysenergy` GitHub org, and the live `ookb.co/cape` page.
+  - Baltimore-area candidates worth a memory jog: **MARAC** (Mid-Atlantic Regional Archives Conference) is the most plausible given the region; then Code4Lib, LITA Forum, DLF Forum, MCN, Museums and the Web, Maryland Library Association.
 - **This should probably be a Wjerk case study.** Nearly a decade of work with Kai Curry, and it's the only major body of work in the practice with no case study. It would also be the only one on `a.wjerk.shop` that's about process and infrastructure rather than an object — which is a gap in that set, not a mismatch. Kai should be credited the way Christopher Attenborough is on 3P.
 - **It is also the architecture the rest of this work is heading toward.** `a.wjerk.shop` has `case-study-template.html` and `generate-case-studies.sh`; `connections.md` plans to stamp Elsewhere blocks from `connections.json` at build; `sentence-a-day` has `renderTiddlers.sh`. All CAPE, rebuilt. A case study could say so.
 - **The symmetry with Signs Signaling on Substrates.** Both say the carrier is variable and the thing carried is fixed — rendering vs. content here, substrate vs. signalling intent there. A decade apart. See `SHARED-COMPONENTS.md`.
