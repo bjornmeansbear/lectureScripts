@@ -1,6 +1,6 @@
 # Pure Content / CAPE
 
-The idea underneath everything else in this repo, and the oldest thing in it. Listed as a lecture in `Lectures To Writeup.txt` under General. Where it was delivered is still unconfirmed — see Open.
+The idea underneath everything else in this repo, and the oldest thing in it. Listed as a lecture in `Lectures To Writeup.txt` under General. Delivered as **“Towards Purer Content”** at **Web Archives 2015: Capture, Curate, Analyze**, University of Michigan, **12–13 November 2015**.
 
 **Pure content**, in Kristian's words (2026-08-27): the abstract concept powering CAPE. Publishing everywhere required clear, structured content *"that didn't try to imply too much (or at all) what it should look like or be used for."* Content that carries no presentation and no intended use. Style is applied later, per context, and can change infinitely without touching the source.
 
@@ -38,10 +38,11 @@ That's deliberate. The tiddlers are canonical; this folder holds a rendering. Ed
 
 ## Open
 
-- **Which conference — still open.** **Web Archives 2015: Capture, Curate, Analyze** (University of Michigan, 12–13 November 2015) surfaced 2026-08-27 and looked like the answer, but the evidence is **attendee mail only**: a registration confirmation, plus a workshop assignment addressed "Dear participant" placing him in *Using Web Archives*, Friday 13 November, 10:40am, Hatcher Gallery. That is attending, not presenting.
-  - It may still be the right conference — people do both — but nothing found so far shows a speaking slot.
-  - **Do not assert a venue without a programme listing, an acceptance email, or a slide deck.** A claim to this effect was briefly published on the a.wjerk.shop case study and reverted the same day.
-  - What would settle it: the conference programme (the site may be archived — fittingly, in a web archive), a Google Drive deck from 2012–15, or acceptance mail on an ookb.co / sundaysenergy / personal address.
+- ~~Which conference~~ **RESOLVED 2026-08-27.** *Towards Purer Content*, at **Web Archives 2015: Capture, Curate, Analyze**, University of Michigan, 12–13 November 2015.
+  - The talk title is Kristian's recollection, and it matches an existing tiddler exactly — `Towards Purer Content`, 206 words, tagged `Essays [[Utopian Gestures]] [[Pure Content]] OnMedium`. **That tiddler is almost certainly the talk's abstract or its surviving text**, which makes it the most important of the nine rather than the smallest.
+  - The two emails found are attendee mail — a registration confirmation, and a workshop assignment placing him in *Using Web Archives*, Friday 13 November, 10:40am, Hatcher Gallery. He attended that workshop as part of attending; it isn't evidence against presenting.
+  - Still unlocated, and worth having: a programme listing, an acceptance email, or the deck. The conference site may well be archived — fittingly, in a web archive.
+
 - **Still to write up:** `Hopkins Conference Books`, `ICFP`, and `Print from the Browser` — referenced in `These Gestures Are Undoubtedly Utopian.tid`, all three tiddlers empty. These read as the print-from-database clients, which makes them the concrete proof for CAPE's print half. The case study currently claims that half with no named example.
 - **This should probably be a Wjerk case study.** Nearly a decade of work with Kai Curry, and it's the only major body of work in the practice with no case study. It would also be the only one on `a.wjerk.shop` that's about process and infrastructure rather than an object — which is a gap in that set, not a mismatch. Kai should be credited the way Christopher Attenborough is on 3P.
 - **It is also the architecture the rest of this work is heading toward.** `a.wjerk.shop` has `case-study-template.html` and `generate-case-studies.sh`; `connections.md` plans to stamp Elsewhere blocks from `connections.json` at build; `sentence-a-day` has `renderTiddlers.sh`. All CAPE, rebuilt. A case study could say so.

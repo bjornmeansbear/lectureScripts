@@ -54,14 +54,13 @@ Pure Content                → ALREADY WRITTEN. ~5,300 words across nine tiddle
                                  432w  Decoupling content from its site
                                  324w  Striving For Static Sites
                                  240w  Create Anywhere Publish Everywhere
-                                 206w  Towards Purer Content             — tagged Essays + [[Utopian Gestures]]
+                                 206w  Towards Purer Content             — THE TALK. Also tagged [[Utopian Gestures]]
                                   11w  CAPE                              — hub, <<list-links>>
 
                               Plus an are.na channel: CAPE / Pure Content (26 blocks).
-                              Venue still unconfirmed. Web Archives 2015 (U Michigan, Nov 2015) turned up
-                              2026-08-27 but the evidence is attendee mail only — a registration confirmation
-                              and a "Dear participant" workshop assignment. Attending, not presenting.
-                              See lecture-pure-content/README.md before asserting a venue anywhere.
+                              Delivered as "Towards Purer Content" at Web Archives 2015: Capture, Curate,
+                              Analyze, University of Michigan, 12-13 November 2015. Resolved 2026-08-27.
+                              The tiddler of that name (206w, tagged Essays) is likely the talk's own text.
 
                               His definition, 2026-08-27: pure content is the abstract concept powering
                               CAPE. Publishing everywhere required structured content "that didn't try to
