@@ -135,3 +135,31 @@ So: **yes, case studies should pull their text from tiddlers — at build time, 
 This is "Pure Content" from `Lectures To Writeup.txt`, and it isn't a lecture topic — it's the architecture. Kristian built it once already as **CAPE, "create anywhere publish everywhere"** (per his own bio: "treating content as a pure material that could move fluidly between platforms... generating print documents from custom server workflows"). The tiddler-chunking question is the same principle applied to prose.
 
 **Open, and worth deciding before any migration:** if tiddlers become canonical for case-study prose, the markdown in `lectureScripts` stops being a source and becomes a *rendering* too. That's a bigger change than chunking, and it decides whether this repo holds content or only holds working drafts.
+
+---
+
+## The migration already happened once — look at Pure Content first
+
+Found 2026-08-27, after the plan above was written. **Pure Content / CAPE is already chunked in bjornpaedia**, ~5,300 words across nine tiddlers, tagged `CAPE` / `[[Pure Content]]` / `Writing`, with a `<<list-links>>` hub. It is the finished example of everything this plan proposes, done years ago.
+
+```
+2264w  What is CAPE?                     ← likely the c.2012–14 library/archive conference talk
+ 872w  Content is King
+ 472w  From Indesign to Pure Content
+ 455w  Extra Thoughts on CAPE
+ 432w  Decoupling content from its site
+ 324w  Striving For Static Sites
+ 240w  Create Anywhere Publish Everywhere
+ 206w  Towards Purer Content             ← tagged Essays + [[Utopian Gestures]]
+  11w  CAPE                              ← hub
+```
+
+**Read these before converting anything.** They show the tag vocabulary actually in use (`Writing`, `Essays`, `OnMedium`), how a hub tiddler works, and how a chunk gets cross-tagged into more than one lecture — `Towards Purer Content` belongs to both Pure Content and Utopian Gestures. Two lectures, one chunk, no duplication. That is the whole argument for chunking, demonstrated.
+
+The direction of travel is also worth noting: for this topic the **wiki is ahead of `lectureScripts`**, not behind. The migration is not one-way. Some topics need pushing into tiddlers; this one needs pulling out, or just linking to.
+
+Not recorded anywhere yet: **which conference**, and when. Worth asking Kristian and adding it — everything else about this body of work is documented except where it was delivered.
+
+## Another duplication to fold in
+
+`sad2021tw/tiddlers/All Are.na Channels.tid` already lists are.na channels. Along with `a.wjerk.shop/arena-inventory.md` and `connections.md`, that makes **three** places inventorying are.na, plus `SURFACES.md` as a fourth. Consolidate to one before adding anything else.

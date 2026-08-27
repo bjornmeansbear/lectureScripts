@@ -43,20 +43,33 @@ What is design?             → HALF DONE. lecture-signs-signaling-on-substrates
 F/LOS Daily
 Other Libre-related stuff???  → workshop-open-source-design/ (are.na: The Libre Designer 74, Why Designer's Don't F/LOS 18, £ FLOSD 874)
 
-Pure Content                → NOT nothing. This is a real lecture AND the architecture underneath everything.
-                              Kristian's own definition, 2026-08-27: "pure content" is the abstract concept
-                              powering CAPE. Creating anywhere to publish everywhere required clear,
-                              structured content "that didn't try to imply too much (or at all) what it
-                              should look like or be used for."
-                              So: content that carries no presentation and no intended use. Style is applied
-                              later, per context, and can change infinitely without touching the source.
-                              Built once as CAPE — "create anywhere publish everywhere" — per his bio:
-                              "treating content as a pure material that could move fluidly between platforms
-                              ... generating print documents from custom server workflows."
-                              Live descendants: a.wjerk.shop's case-study-template.html +
-                              generate-case-studies.sh; connections.md's plan to stamp Elsewhere blocks
-                              from connections.json at build; sentence-a-day's renderTiddlers.sh.
+Pure Content                → ALREADY WRITTEN. ~5,300 words across nine tiddlers in bjornpaedia,
+                              tagged CAPE / [[Pure Content]] / Writing, already chunked and interlinked
+                              in exactly the pattern the migration plan describes. Found 2026-08-27.
+
+                                2264w  What is CAPE?                     — likely the conference talk itself
+                                 872w  Content is King
+                                 472w  From Indesign to Pure Content
+                                 455w  Extra Thoughts on CAPE
+                                 432w  Decoupling content from its site
+                                 324w  Striving For Static Sites
+                                 240w  Create Anywhere Publish Everywhere
+                                 206w  Towards Purer Content             — tagged Essays + [[Utopian Gestures]]
+                                  11w  CAPE                              — hub, <<list-links>>
+
+                              Plus an are.na channel: CAPE / Pure Content (26 blocks).
+                              Kristian gave this as a talk at a library/archive conference c.2012–2014.
+                              The conference itself is not named in any file yet — worth adding.
+
+                              His definition, 2026-08-27: pure content is the abstract concept powering
+                              CAPE. Publishing everywhere required structured content "that didn't try to
+                              imply too much (or at all) what it should look like or be used for."
+
+                              From "Towards Purer Content": "Word processors wrap text in formatting hard
+                              to remove for use in other contexts... This impure content withers and dies,
+                              chained into a file format, storage method, or self-imposed style prison."
+
                               NOTE THE SYMMETRY: this is "signs signaling on substrates" applied to text.
-                              There, the substrate is variable and the signalling intent is what's fixed.
-                              Here, the rendering is variable and the content is what's fixed. Same claim,
-                              two domains, twenty years apart. Neither lecture has been written.
+                              There, the substrate is variable and the signalling intent is fixed. Here,
+                              the rendering is variable and the content is fixed. Same claim, two domains,
+                              a decade apart. The design half is a draft; this half is done and unlinked.
