@@ -9,6 +9,10 @@ Lecture and workshop material, one directory per topic.
 - `SampleSlides/` — slide exports
 - `SHARED-COMPONENTS.md` — the ledger of what's reused across more than one of the
   above. Read it before starting a new write-up.
+- `SURFACES.md` — where each project also lives: published case studies on
+  `a.wjerk.shop`, notes on `bjornpaedia.wjerk.shop`, are.na channels. Check it before
+  writing something that may already exist in finished form.
+- `MENU.md` — the à la carte menu of bookable lectures and workshops.
 
 Root used to be a flat pile of drafts. It isn't any more — if you add something,
 put it in a directory.

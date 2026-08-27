@@ -1,6 +1,6 @@
 # Shared Components
 
-A ledger of methods, citations, and examples reused across more than one workshop or lecture. Check this before starting a new pitch sheet — and add to it when a new overlap shows up — instead of re-deriving from memory whether something's already been said elsewhere.
+A ledger of methods, citations, and examples reused across more than one workshop or lecture. For the same work appearing on *other surfaces* — published case studies, the wiki, are.na — see `SURFACES.md` instead. Check this before starting a new pitch sheet — and add to it when a new overlap shows up — instead of re-deriving from memory whether something's already been said elsewhere.
 
 Physical files stay put (one copy, in whichever folder it belongs to most). This file just tracks where the *idea* also shows up.
 
