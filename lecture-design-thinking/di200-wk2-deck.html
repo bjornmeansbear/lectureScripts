@@ -1,0 +1,1241 @@
+<title>Before We Go In, Week Two</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&display=swap">
+
+<style>
+  /* ==========================================================
+     DI 200 — Week 2. Mon 31 Aug 2026.
+
+     Palette: kit.css tokens only. Every bg/text, bg/muted,
+     bg/accent triple recomputed and verified >= 7:1 (AAA):
+
+       §1 s-open   gray-0        16.94 / 11.87 /  7.39   where we are + what ethnography is
+       §2 s-make   purple-1      14.89 / 10.55 /  9.67   grounded theory
+       §3 s-eth    pink-0        12.92 /  8.46 / 11.89   ethics + reflexivity
+       §4 s-see    light-gray-0  16.85 / 11.72 / 11.10   observations + field notes
+       §5 s-field  dark-gray-8   16.82 /  9.36 /  7.71   the round, outside
+       §6 s-close  brown-8       16.94 /  9.37 /  7.74   notes into patterns + close
+
+     Section order changed 31 Aug; the colours and their verified
+     ratios did not. Number keys 1-6 follow the order above.
+
+     Committed single-theme: projected, not read in a viewer's
+     OS theme, so section color IS the navigation.
+
+     LAYOUT ARCHETYPES — a closed set. Six, each with a trigger.
+     Nothing in this deck uses a layout outside this list, and
+     no slide shrinks its type to fit (see RULES.md).
+
+       .title-slide  deck open, once
+       .opener       section break; carries an image slot
+       (bare)        a statement — one line, nothing under it
+       ul / ul.tight a parallel scannable list
+       .cols         a comparison; contrast is spatial
+       .card         a workshop instruction: time, steps, deliverable
+       .fieldnote    the note demo grid, 2 or 3 columns
+
+     ========================================================== */
+  :root {
+    --gray-0: rgb(247,248,238);   --gray-1: rgb(234,234,224);
+    --gray-7: rgb(52,51,42);
+    --dark-gray-0: rgb(242,248,248); --dark-gray-3: rgb(181,188,188);
+    --dark-gray-8: rgb(19,23,23);
+    --light-gray-0: rgb(239,251,233);
+    --light-gray-7: rgb(43,55,37);   --light-gray-8: rgb(16,25,11);
+    --brown-3: rgb(192,185,181);  --brown-8: rgb(25,21,19);
+    --pink-0: rgb(255,203,232);   --pink-2: rgb(255,163,197);
+    --pink-3: rgb(255,129,169);
+    --pink-6: rgb(164,0,65);      --pink-7: rgb(116,0,37);
+    --pink-8: rgb(69,0,11);
+    --purple-1: rgb(252,224,244);  --purple-7: rgb(67,41,60);
+    --purple-8: rgb(34,14,29);
+
+    --font-display: 'Syne', system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --font-sans: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace;
+
+    --color-bg: var(--gray-0);
+    --color-text: var(--brown-8);
+    --color-muted: var(--gray-7);
+    --color-accent: var(--pink-6);
+  }
+
+  .s-open  { --color-bg: var(--gray-0);       --color-text: var(--brown-8);      --color-muted: var(--gray-7);       --color-accent: var(--pink-6); }
+  .s-see   { --color-bg: var(--light-gray-0); --color-text: var(--light-gray-8); --color-muted: var(--light-gray-7); --color-accent: var(--pink-7); }
+  .s-eth   { --color-bg: var(--pink-0);       --color-text: var(--brown-8);      --color-muted: var(--pink-7);       --color-accent: var(--pink-8); }
+  .s-field { --color-bg: var(--dark-gray-8);  --color-text: var(--dark-gray-0);  --color-muted: var(--dark-gray-3);  --color-accent: var(--pink-3); }
+  .s-make  { --color-bg: var(--purple-1);     --color-text: var(--purple-8);     --color-muted: var(--purple-7);     --color-accent: var(--pink-7); }
+  .s-close { --color-bg: var(--brown-8);      --color-text: var(--gray-0);       --color-muted: var(--brown-3);      --color-accent: var(--pink-3); }
+
+  /* ---- image beats ----------------------------------------
+     Slots carry intent, not filenames. A slide declares
+     data-img + data-img-brief; script probes images/<slot>.jpg
+     and only paints it if it actually loads.
+
+     Working build is loud: press D (or load with #dev) to show
+     every unfilled slot's name and brief in accent.
+     Presentation build is silent: an unfilled slot falls back
+     to the flat section ground and says nothing to the room.
+
+     Scrim verified against a hypothetical pure-white photo at
+     --scrim 0.80:  gray-0 9.04 : 1   gray-1 8.00 : 1   pink-2 5.21 : 1
+     Real photographs run darker, so actual contrast only improves.
+     Dial per-slide for an already-dark image and recompute:
+       0.75 -> 7.53 / 6.66 / 4.33      0.70 -> 6.27 / 5.55 / 3.61
+     ---------------------------------------------------------- */
+  .beat {
+    --scrim: 0.80;
+    --color-text: var(--gray-0);
+    --color-muted: var(--gray-1);
+    --color-accent: var(--pink-2);
+    background: var(--brown-8) var(--img, none) center / cover no-repeat;
+  }
+  .beat::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--brown-8);
+    opacity: var(--scrim);
+  }
+  .beat.no-img::before { opacity: 1; }
+  .beat > * { position: relative; z-index: 1; }
+  .credit:empty { display: none; }
+  .credit {
+    position: absolute;
+    left: 8cqw; bottom: 10cqh;
+    font-family: var(--font-mono);
+    font-size: 1.2cqw;
+    letter-spacing: 0.08em;
+    color: var(--color-muted);
+    max-width: 60cqw;
+  }
+  /* The desk-only slot report. Opaque block, never a scrim — it has to
+     stay legible over whatever the headline or a placed photo is doing.
+     pink-2 on brown-8 = 9.76:1 (AAA). Dev chrome only; never projected. */
+  .slot {
+    display: none;
+    position: absolute;
+    left: 8cqw; right: 8cqw; bottom: 11cqh;
+    z-index: 3;
+    font-family: var(--font-mono);
+    font-size: 1.3cqw;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--pink-2);
+    background: var(--brown-8);
+    border-left: 0.4cqw solid var(--pink-2);
+    padding: 1.4cqh 1.6cqw;
+  }
+  body.dev .beat.no-img .slot { display: block; }
+  .slot b { display: block; text-transform: uppercase; letter-spacing: 0.16em; }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--brown-8);
+    color: var(--gray-0);
+    font-family: var(--font-sans);
+    overflow: hidden;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+
+  .stage {
+    position: relative;
+    width: min(100vw, 177.78vh);
+    height: min(56.25vw, 100vh);
+    container-type: size;
+    overflow: hidden;
+  }
+
+  .slide {
+    position: absolute;
+    inset: 0;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    padding: 9cqh 8cqw 13cqh;
+    gap: 3.4cqh;
+    background: var(--color-bg);
+    color: var(--color-text);
+  }
+  .slide.on { display: flex; }
+
+  h1, h2 {
+    font-family: var(--font-display);
+    font-weight: 800;
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    margin: 0;
+    text-wrap: balance;
+  }
+  h1 { font-size: 8.2cqw; }
+  h2 { font-size: 5.4cqw; }
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 3.2cqw;
+    line-height: 1.1;
+    margin: 0;
+    text-wrap: balance;
+  }
+  p { font-size: 2.6cqw; line-height: 1.4; margin: 0; max-width: 60ch; }
+  .lead { font-size: 3.3cqw; line-height: 1.3; }
+  .small { font-size: 2cqw; line-height: 1.45; color: var(--color-muted); }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 1.5cqw;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  .accent { color: var(--color-accent); }
+  strong { font-weight: 700; }
+
+  a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+    text-decoration-thickness: 0.06em;
+  }
+  a:focus-visible { outline: 0.25cqw solid var(--color-accent); outline-offset: 0.3cqw; }
+
+  .url {
+    display: block;
+    margin-top: 0.5cqh;
+    font-family: var(--font-mono);
+    font-size: 1.4cqw;
+    color: var(--color-muted);
+    overflow-wrap: anywhere;
+  }
+
+  blockquote {
+    margin: 0;
+    border-left: 0.5cqw solid var(--color-accent);
+    padding-left: 2.6cqw;
+    font-size: 3.6cqw;
+    line-height: 1.24;
+    font-weight: 500;
+  }
+  cite {
+    display: block;
+    margin-top: 1.8cqh;
+    font-style: normal;
+    font-size: 1.8cqw;
+    color: var(--color-muted);
+  }
+
+  ul { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 2cqh; }
+  li { font-size: 2.5cqw; line-height: 1.3; display: flex; gap: 1.8cqw; align-items: baseline; }
+  li .mk {
+    flex: none;
+    font-family: var(--font-mono);
+    font-size: 1.5cqw;
+    color: var(--color-accent);
+    min-width: 2.4cqw;
+  }
+  ul.tight li { font-size: 2.1cqw; }
+  ul.tight { gap: 1.5cqh; }
+
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 4cqw; align-items: start; }
+  .cols.three { grid-template-columns: 1fr 1fr 1fr; gap: 3cqw; }
+  .col { display: flex; flex-direction: column; gap: 1.8cqh; }
+  .col.ruled { border-left: 2px solid currentColor; padding-left: 3cqw; }
+
+  /* ---- workshop instruction card ---- */
+  .card { border: 2px solid currentColor; padding: 3.4cqh 3cqw 0; display: flex; flex-direction: column; gap: 2.2cqh; }
+  .card .hdr { display: flex; align-items: baseline; gap: 2.4cqw; }
+  .card .clock {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 4.2cqw;
+    color: var(--color-accent);
+    font-variant-numeric: tabular-nums;
+    flex: none;
+  }
+  .card ul.tight { gap: 1.2cqh; }
+  .card .deliv {
+    margin: 0 -3cqw;
+    border-top: 2px solid currentColor;
+    padding: 1.8cqh 3cqw;
+    font-family: var(--font-mono);
+    font-size: 1.6cqw;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+  }
+  .card .deliv b { color: var(--color-accent); text-transform: uppercase; letter-spacing: 0.16em; }
+
+  /* ---- fieldnote demo ---- */
+  .fieldnote {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-family: var(--font-mono);
+    font-size: 1.6cqw;
+    line-height: 1.45;
+    border: 1px solid currentColor;
+  }
+  .fieldnote.three { grid-template-columns: 1fr 1fr 1fr; }
+  .fieldnote > div { padding: 1.8cqh 2cqw; }
+  .fieldnote > div + div { border-left: 1px solid currentColor; }
+  .fieldnote .hd {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 1.3cqw;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 1cqh;
+  }
+
+  .tilt { display: inline-block; transform: rotate(-7deg); transform-origin: left center; }
+
+  .opener { justify-content: center; gap: 2cqh; }
+  .opener h1 { font-size: 9cqw; }
+  .opener .rule { height: 4px; background: var(--color-accent); width: 26cqw; }
+
+  .bar {
+    position: absolute;
+    pointer-events: none;
+    left: 8cqw; right: 8cqw; bottom: 5cqh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    border-top: 1px solid currentColor;
+    padding-top: 1.4cqh;
+    font-family: var(--font-mono);
+    font-size: 1.4cqw;
+    color: var(--color-muted);
+    letter-spacing: 0.06em;
+  }
+  .bar .no { font-variant-numeric: tabular-nums; }
+
+  .title-slide { justify-content: flex-end; padding-bottom: 17cqh; }
+  .title-slide .rule { height: 4px; background: var(--color-accent); width: 24cqw; }
+
+  .nav { position: fixed; bottom: 1.2rem; right: 1.2rem; display: flex; gap: 0.5rem; z-index: 10; }
+  .nav button {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    padding: 0.45rem 0.7rem;
+    background: var(--brown-8);
+    color: var(--gray-0);
+    border: 1px solid var(--gray-0);
+    cursor: pointer;
+    line-height: 1;
+  }
+  .nav button:hover, .nav button:active { background: var(--gray-0); color: var(--brown-8); }
+  .nav button:focus-visible { outline: 3px solid var(--pink-3); outline-offset: 2px; }
+
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+
+<div class="stage" id="stage">
+<!-- ============ §1 WHERE WE ARE / WHAT ETHNOGRAPHY IS ============ -->
+
+  <section class="slide s-open title-slide on">
+    <div class="eyebrow">DI 200 · Dolphin 300 · Mon 31 Aug</div>
+    <h1>Before We Go In</h1>
+    <h2>(or, learning to notice on purpose)</h2>
+    <div class="rule"></div>
+    <p class="small">Ethnography, Ethics, Fieldnotes — Week 2</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="eyebrow">Calendar Updates</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span><strong>Today, 31 Aug.</strong> Here. All day.</span></li>
+      <li><span class="mk">—</span><span><strong>Mon 7 Sep.</strong> Labor Day. <span class="accent">No class.</span></span></li>
+      <li><span class="mk">—</span><span><strong>Mon 14 Sep.</strong> The Hilton. Now the first visit day!</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <h2>We are not starting from nothing.</h2>
+    <p class="lead">You read Blauvelt and Kolko. Two arguments about designers borrowing methods.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="eyebrow">Blauvelt · “Design’s Ethnographic Turn,” 2007</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>A booklet called <em>An Ethnography Primer</em> arrives in his mail and makes him uneasy. What is he uneasy about?</span></li>
+      <li><span class="mk">—</span><span>Design borrowed the method. What exactly did it borrow, and what did it leave behind?</span></li>
+      <li><span class="mk">—</span><span>In his account, who is design ethnography <em>for</em>? Is that the same audience anthropology writes for?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="eyebrow">Kolko · “Abductive Thinking and Sensemaking,” 2010</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Kolko says synthesis happens in private and nobody teaches it. Think of the last project you “figured out” — can you say where the figuring actually happened?</span></li>
+      <li><span class="mk">—</span><span>Abduction is a leap — you pick one explanation and drop the rest as too confusing.</span></li>
+      <li><span class="mk">—</span><span>If the leap cannot be made rigorous, what makes one leap better than another?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="card">
+      <div class="hdr">
+        <span class="clock">10 min</span>
+        <h3>Argue it with the person next to you</h3>
+      </div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span><strong>Blauvelt:</strong> design took anthropology’s methods and left the rigor behind.</span></li>
+        <li><span class="mk">02</span><span><strong>Kolko:</strong> the leap from data to insight is the thing designers are actually good at, and it's not that rigorous a process…</span></li>
+        <li><span class="mk">03</span><span>Both of them can be right. Work out where that leaves the kinds of observations we are going to make.</span></li>
+        <li>&nbsp;</li>
+      </ul>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §2 THE FIFTY ============ -->
+
+  <section class="slide s-open">
+    <div class="eyebrow">Four people, asked what ethnography is</div>
+    <ul class="tight">
+      <li><span class="mk">1922</span><span><strong>Bronisław Malinowski.</strong> The goal is <span class="accent">“to grasp the native’s point of view, his relation to life, to realise his vision of his world.”</span> He lived in the village for two years to do it.</span></li>
+      <li><span class="mk">1973</span><span><strong>Clifford Geertz.</strong> Not a method, a kind of writing — <strong>thick description.</strong> Behaviour is only legible inside the webs of meaning people have spun around it.</span></li>
+      <li><span class="mk">1988</span><span><strong>John Van Maanen.</strong> Representing other people’s social reality by analysing your own experience among them. You are in the account.</span></li>
+      <li><span class="mk">2014</span><span><strong>Tim Ingold.</strong> <em>“That’s enough about ethnography!”</em> Calling every conversation with a stranger ethnography empties the word.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="eyebrow">The same word, two documents</div>
+    <div class="cols">
+      <div class="col">
+        <h3 class="accent">d.school, <em>Introduction to Design Thinking</em></h3>
+        <p class="small">The Empathize mode: <span class="accent">“Observe. View users and their behavior in the context of their lives.”</span></p>
+        <p class="small">An afternoon. Possibly a morning.</p>
+      </div>
+      <div class="col ruled">
+        <h3 class="accent">Malinowski, 1922</h3>
+        <p class="small">Learn the language. Live there. Stay until they forget to perform for you.</p>
+        <p class="small">Two years.</p>
+      </div>
+    </div>
+    <p class="lead">Both of these call themselves ethnography. That gap is the whole of Blauvelt’s essay.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <blockquote>A researcher is part of a social setting for a prolonged period.</blockquote>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="eyebrow">What the discipline asks for</div>
+    <h1>Weeks, months,<br>years.</h1>
+    <p class="lead accent">We have five days across a semester.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <p class="lead">We're really just doing</p>
+    <h1>Ethnography <span class="accent">light.</span></h1>
+    <p class="small">We can still find out meaningful information, make meaningful outputs.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="cols">
+      <div class="col">
+        <h3 class="accent">What survives</h3>
+        <ul class="tight">
+          <li><span class="mk">✓</span><span>Being in the place, on its terms</span></li>
+          <li><span class="mk">✓</span><span>Their categories before yours</span></li>
+          <li><span class="mk">✓</span><span>Writing it down the same day</span></li>
+          <li><span class="mk">✓</span><span>Evidence before conclusions</span></li>
+        </ul>
+      </div>
+      <div class="col ruled">
+        <h3 class="accent">What does not</h3>
+        <ul class="tight">
+          <li><span class="mk">✕</span><span><strong>Duration.</strong> You never stop being a visitor</span></li>
+          <li><span class="mk">✕</span><span><strong>The language.</strong> You do not learn how they talk to each other</span></li>
+          <li><span class="mk">✕</span><span><strong>The relationship.</strong> Nobody owes you a second conversation</span></li>
+          <li><span class="mk">✕</span><span><strong>The right to generalize.</strong> You saw a Monday</span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <div class="cols">
+      <div class="col">
+        <h3 class="accent">Say and do</h3>
+        <p class="small">A camera gets you these. Today is only this column.</p>
+      </div>
+      <div class="col ruled">
+        <h3 class="accent">Think and feel</h3>
+        <p class="small">You have to ask for these. Interviews are Week 4.</p>
+      </div>
+    </div>
+    <p class="lead">That gap is not a flaw in the exercise. It is the ceiling of observation, and finding it is the point.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-open">
+    <h2>You never pretend to be a guest.</h2>
+    <blockquote>I&rsquo;d like to come and hang around and ask some questions.</blockquote>
+    <p class="small">Overt, every time. Covert work is hard and it is not ours. If someone asks what you are doing, you tell them — the same sentence you would have used if they had not asked.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+
+<!-- ============ §2 GROUNDED THEORY ============ -->
+
+  <section class="slide s-make opener beat"
+           data-img="beat-ground"
+           data-img-brief="something built from the ground up out of many small parts — a dry-stone wall, a cairn, a nest. No plan imposed from above.">
+    <div class="eyebrow">Part two · why we write notes this way</div>
+    <h1>The theory comes<br>out of the data.</h1>
+    <div class="rule"></div>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-make">
+    <div class="eyebrow">Glaser &amp; Strauss, 1967 · <em>The Discovery of Grounded Theory</em></div>
+    <h2>Grounded theory.</h2>
+    <p class="lead">Two sociologists at UC San Francisco, sitting in hospitals watching people die.</p>
+    <p class="small">They had no hypothesis to test. They had notes, and they built the account out of the notes.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-make">
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">Normal science</div>
+        <ul class="tight">
+          <li><span class="mk">01</span><span>Start with a hypothesis</span></li>
+          <li><span class="mk">02</span><span>Collect data to test it</span></li>
+          <li><span class="mk">03</span><span>Confirm or reject</span></li>
+        </ul>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">Grounded theory</div>
+        <ul class="tight">
+          <li><span class="mk">01</span><span>Collect</span></li>
+          <li><span class="mk">02</span><span>Compare</span></li>
+          <li><span class="mk">03</span><span>The concepts emerge from the data</span></li>
+        </ul>
+      </div>
+    </div>
+    <p class="lead accent">You do not arrive with a hypothesis. You leave with a question.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-make">
+    <h2>Constant comparison.</h2>
+    <p class="lead">Every new note gets held against the pile. Similarities, differences. A concept surfaces. Then you compare it against the next notes, and the next.</p>
+    <p class="small">It does not stop until new notes stop changing the groups. That has a name — saturation — and you will not reach it today. You will feel yourself getting closer, which is enough.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-make">
+    <h2>This is why nothing interpretive goes on the card.</h2>
+    <p class="lead accent">If the conclusion is already on the note, the theory did not come out of the data. It came in with you.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+
+<!-- ============ §3 ETHICS + REFLEXIVITY ============ -->
+
+  <section class="slide s-eth opener beat"
+           data-img="beat-ethics"
+           data-img-brief="working people in their own workplace, absorbed, not posing for anyone. The room belongs to them.">
+    <div class="eyebrow">Part three · nobody enters the site without this</div>
+    <h1>Say it<br>out loud.</h1>
+    <div class="rule"></div>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h1>Consent is<br>not transitive.</h1>
+    <p class="lead">The Hilton agreed to host us. No individual worker agreed to anything.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <div class="eyebrow">Memorize this. Three sentences. Today you say it out loud.</div>
+    <blockquote>Hi — I'm a design student at MICA. We're doing a class project about how this building works, and I'd love to hear how your job actually goes if you have a few minutes.<br><br>
+      Nothing you say goes to management with your name on it, and you can stop any time or tell me to go away.<br><br>
+      Is now okay, or is there a better time?</blockquote>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h2>If you can't say it without reading it, you're not ready to talk to anybody.</h2>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <div class="card">
+      <div class="hdr">
+        <span class="clock">15′</span>
+        <h3>Say it to a face</h3>
+      </div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Pairs. One is the student, one is a housekeeper mid-shift who did not ask for this.</span></li>
+        <li><span class="mk">02</span><span>Say all three sentences. No notes, no phone, no reading.</span></li>
+        <li><span class="mk">03</span><span>The worker says <strong>no</strong>. The student takes the no and leaves. Practice that specifically.</span></li>
+        <li><span class="mk">04</span><span>Swap. Then swap partners and do it again with someone you don't know.</span></li>
+      </ul>
+      <div class="deliv"><b>Bring back</b> &nbsp;the sentence that felt fake in your mouth. We fix those together before the 14th.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h2>“No” is free for you and expensive for them.</h2>
+    <p class="lead accent">One no ends it. No rephrasing, no trying their coworker instead.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <div class="cols">
+      <div class="col">
+        <h3 class="accent">Record</h3>
+        <ul class="tight">
+          <li><span class="mk">✓</span><span>Spaces, objects, wear, traces, hand-written signs</span></li>
+          <li><span class="mk">✓</span><span>Your own drawings, always</span></li>
+          <li><span class="mk">✓</span><span>Quotes attributed by role</span></li>
+          <li><span class="mk">✓</span><span>Counts, durations, sequences</span></li>
+        </ul>
+      </div>
+      <div class="col ruled">
+        <h3 class="accent">Never</h3>
+        <ul class="tight">
+          <li><span class="mk">✕</span><span><strong>Faces.</strong> Not in the background, not “they're blurry”</span></li>
+          <li><span class="mk">✕</span><span><strong>Name badges</strong> or anything with a name on it</span></li>
+          <li><span class="mk">✕</span><span><strong>Guest information</strong> — room numbers, screens, luggage tags</span></li>
+          <li><span class="mk">✕</span><span>Audio without asking, as its own question</span></li>
+          <li><span class="mk">✕</span><span><strong>Following anyone.</strong> Not down a corridor, not “just to see where they go”</span></li>
+          <li><span class="mk">✕</span><span><strong>Standing over someone’s work area</strong> or approaching anyone mid-task</span></li>
+        </ul>
+      </div>
+    </div>
+    <p class="small">Applies on campus today too. Everyone you'll walk past this morning is a person who did not sign up for your class.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h3>The four you will actually meet</h3>
+    <ul class="tight">
+      <li><span class="mk">—</span><span><strong>Someone's upset:</strong> stop, apologize once, don't explain, leave. Tell me that day.</span></li>
+      <li><span class="mk">—</span><span><strong>Someone tells you something serious:</strong> listen, take no notes, don't repeat it. Tell me. Not course material.</span></li>
+      <li><span class="mk">—</span><span><strong>Asked to leave:</strong> leave immediately. No clarifying questions.</span></li>
+      <li><span class="mk">—</span><span><strong>You made a mistake:</strong> tell me. Reporting it costs you nothing. Hiding it doesn't.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §4 THE ROUND ============ -->
+
+  <section class="slide s-eth">
+    <h1>You are the<br><span class="accent">instrument.</span></h1>
+    <p class="lead">There is no sensor. There is you — tired, opinionated, holding a notebook in a lobby you have never been in.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <h2>So write yourself down too.</h2>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>What did you assume walking in?</span></li>
+      <li><span class="mk">—</span><span>What irritated you — and was that the place, or was it you?</span></li>
+      <li><span class="mk">—</span><span>What did you want to be true?</span></li>
+    </ul>
+    <p class="small">Put it in the commentary column and label it. <span class="accent">“I was annoyed by the wait and I think it shaped the next ten minutes of notes”</span> is better data than pretending you were not.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-eth">
+    <div class="cols">
+      <div class="col">
+        <h3 class="accent">Realist</h3>
+        <p class="small">Neutral, third person, detached. Opinions left out.</p>
+      </div>
+      <div class="col ruled">
+        <h3 class="accent">Critical</h3>
+        <p class="small">Name the power imbalance. Who is marginalized here, and by what.</p>
+      </div>
+    </div>
+    <p class="small">This building makes you pick. City-owned, $301M borrowed, workers struck in 2024 and won. You can write a detached account of that lobby — you would just be leaving out the thing that shapes it most.</p>
+    <p class="lead accent">A critical stance is something you take in your writing. It is not an interview topic you spring on someone at work.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+
+<!-- ============ §4 OBSERVATIONS + FIELD NOTES ============ -->
+
+  <section class="slide s-see opener beat"
+           data-img="beat-fifty"
+           data-img-brief="someone taught to look — a lesson in progress, plain light, no rhetoric. Instruction as ordinary labour.">
+    <div class="eyebrow">Part four · what counts as evidence</div>
+    <h1>Not everything<br>you write down<br>is evidence.</h1>
+    <div class="rule"></div>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <div class="eyebrow">One test. Use it on every line you are about to write.</div>
+    <h1 class="accent">Could a camera<br>have caught it?</h1>
+    <p class="small">If yes, it is an observation. If no, it is something else — and something else is not worthless, it just has to be labelled.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <div class="fieldnote three">
+      <div>
+        <span class="hd">Observation</span>
+        10:14 — person reaches the doors, stops, looks left at the sign, looks back at the doors, waits ~6 sec, then goes right
+      </div>
+      <div>
+        <span class="hd">Interpretation</span>
+        The entrance doesn't say which side opens. They are using the sign to check a guess they already made
+      </div>
+      <div>
+        <span class="hd">Question</span>
+        Does this happen to people who have been here before? Ask someone at the desk: do they get asked?
+      </div>
+    </div>
+    <p class="small">Three different kinds of thing. The failure is not having interpretations — it is writing one down as though a camera caught it.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">Not evidence</div>
+        <ul class="tight">
+          <li><span class="mk">✕</span><span>“People are confused”</span></li>
+          <li><span class="mk">✕</span><span>“The signage is bad”</span></li>
+          <li><span class="mk">✕</span><span>“It feels unwelcoming”</span></li>
+          <li><span class="mk">✕</span><span>“They waited a while”</span></li>
+        </ul>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">Evidence</div>
+        <ul class="tight">
+          <li><span class="mk">✓</span><span>“Paused 6 sec at the door”</span></li>
+          <li><span class="mk">✓</span><span>“Looked at the sign, then asked staff”</span></li>
+          <li><span class="mk">✓</span><span>“Three people in nine minutes did the same thing”</span></li>
+          <li><span class="mk">✓</span><span>“Hand-lettered sign taped over the plaque”</span></li>
+        </ul>
+      </div>
+    </div>
+    <p class="small">The left column is a conclusion wearing a note's clothing. You cannot check it, cluster it, or argue with it later.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <h2>Full notes within twenty-four hours.</h2>
+    <p class="lead">Memory for this collapses overnight. You keep the gist and lose every specific, and the specifics are the entire value.</p>
+    <p class="small accent">On the 14th we write on the light rail home. Not that evening. On the train.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <div class="eyebrow">A fieldworker, on her first weeks of dissertation notes</div>
+    <blockquote>I wrote my fieldnotes as a running log of everything I saw. The stuff I wrote in those first few weeks ended up being almost completely unusable. Because it lacked detail. And because it lacked context.</blockquote>
+    <p class="small">Writing more is not the fix. Choosing what to write up is the skill.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <div class="eyebrow">After you leave. Three steps, in this order.</div>
+    <ul class="tight">
+      <li><span class="mk">01</span><span><strong>Dump.</strong> Running log of everything you saw. Fast, ugly, no editing. Ten minutes.</span></li>
+      <li><span class="mk">02</span><span><strong>Circle three.</strong> The three moments most worth keeping — plus <span class="accent">anything that does not fit the pattern.</span> Always circle the thing that does not fit.</span></li>
+      <li><span class="mk">03</span><span><strong>Write those three up properly.</strong> Context, who was there, what happened, in what order, what changed.</span></li>
+    </ul>
+    <p class="small">You are not writing down everything. There are not enough hours and there never will be.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <div class="eyebrow">Three ways ethnographers get data · Angrosino</div>
+    <div class="cols three">
+      <div class="col"><h3 class="accent">Observe</h3><p class="small">Perceiving what people do and how they relate, in the setting itself. Today, and most of the 14th.</p></div>
+      <div class="col ruled"><h3 class="accent">Interview</h3><p class="small">Directing a conversation to get information. Week 4.</p></div>
+      <div class="col ruled"><h3 class="accent">Archive</h3><p class="small">The material already lying around. Floor plans, printed signage, their own briefing deck, the menu, the schedule on the wall.</p></div>
+    </div>
+    <p class="lead accent">You have been ignoring the third one. It is free, it needs nobody’s consent, and it is sitting on every surface of that building.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <div class="eyebrow">d.school Ethnography Field Guide · the observation scaffold</div>
+    <div class="fieldnote three">
+      <div><span class="hd">What?</span>What is the person doing? The obvious and the surprising. Objective facts only — no guessing yet.</div>
+      <div><span class="hd">How?</span>How are they doing it? Does it take effort? Are they rushed, careful, stuck? Is it working for them or against them?</div>
+      <div><span class="hd">Why?</span>Why this way? Here you are guessing at motivation — <span class="accent">and you mark it as a guess.</span> This is the column that becomes your interview questions.</div>
+    </div>
+    <p class="small">Divide the sheet in three. When you do not know what to write, start at What and walk right.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-see">
+    <div class="eyebrow">What a fieldnote has in it · Singleton &amp; Straits, via Sangasubana 2011</div>
+    <ul class="tight">
+      <li><span class="mk">01</span><span><strong>Running description.</strong> The setting, the people, individual actions, group behaviour, points of view. Record it; do not analyse it while you are still standing there.</span></li>
+      <li><span class="mk">02</span><span><strong>Forgotten episodes.</strong> Things from earlier that come back to you on site. Write them down the moment they surface.</span></li>
+      <li><span class="mk">03</span><span><strong>Ideas for next time.</strong> Who to look for, where to stand, what to follow up.</span></li>
+      <li><span class="mk">04</span><span><strong>Personal impressions and feelings.</strong> Your own reactions — <span class="accent">they are the clue to what is biasing the rest of the page.</span></span></li>
+      <li><span class="mk">05</span><span><strong>Methodological notes.</strong> What went wrong with your method. Where you could not see. What you would do differently.</span></li>
+    </ul>
+    <p class="small">Header on every page: your name · the place · the date · time in, time out. Draw the plan before you write a word.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §3 ETHICS, REHEARSED ============ -->
+
+
+<!-- ============ §5 THE ROUND ============ -->
+
+  <section class="slide s-field opener beat"
+           data-img="beat-round"
+           data-img-brief="a threshold — people arriving somewhere, the moment before they know where to go.">
+    <div class="eyebrow">Part five · out of the room</div>
+    <h1>Go stand there<br>and shut up.</h1>
+    <div class="rule"></div>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="eyebrow">Three named methods for arrival — the Hilton toolkit</div>
+    <ul class="tight">
+      <li><span class="mk">01</span><span><strong>Service safari.</strong> Walk it as a first-timer. Note where <em>you</em> got stuck.</span></li>
+      <li><span class="mk">02</span><span><strong>Behavioral mapping.</strong> Draw the plan. Draw the paths people actually take on it.</span></li>
+      <li><span class="mk">03</span><span><strong>Timed flow counts.</strong> One spot, one window, count. A number nobody can argue with.</span></li>
+    </ul>
+    <p class="small">Week 1's four still stand. These three are what arrival needs.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <h2>The first twenty minutes are worthless. Sit through them.</h2>
+    <p class="lead accent">You are looking for the ordinary, not the remarkable.</p>
+    <p class="small">That effect has a name — <strong>reactivity.</strong> People behave differently because you are visibly there. It fades if you are boring and stay put. The weird thing happened once; the thing that happens two hundred times is where the design problem lives.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="eyebrow">Pick a post. One per pair, and you stay in it.</div>
+    <div class="cols">
+      <div class="col">
+        <ul class="tight">
+          <li><span class="mk">—</span><span>A building entrance at a class change</span></li>
+          <li><span class="mk">—</span><span>The café or coffee line</span></li>
+          <li><span class="mk">—</span><span>An elevator lobby</span></li>
+          <li><span class="mk">—</span><span>A stairwell landing</span></li>
+        </ul>
+      </div>
+      <div class="col ruled">
+        <ul class="tight">
+          <li><span class="mk">—</span><span>The library entrance or circulation desk</span></li>
+          <li><span class="mk">—</span><span>A corridor with a bulletin board</span></li>
+          <li><span class="mk">—</span><span>A crosswalk or street corner</span></li>
+          <li><span class="mk">—</span><span><strong>The loading dock or a service entrance</strong></span></li>
+        </ul>
+      </div>
+    </div>
+    <p class="small accent">Somebody takes the loading dock. It is the least glamorous post here and the Hilton is full of them.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="eyebrow">Rules for the round</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span><strong>Pairs. Stay in your post the whole time.</strong> No wandering to find something better.</span></li>
+      <li><span class="mk">—</span><span><strong>Do not talk to anyone today.</strong> Today is looking only. Interviews are Week 4.</span></li>
+      <li><span class="mk">—</span><span><strong>Phones down</strong> except to photograph traces. No faces, same as the hotel.</span></li>
+      <li><span class="mk">—</span><span><strong>Be back in this room on time.</strong> Not five minutes after.</span></li>
+    </ul>
+    <p class="lead accent">You will be bad at this today, somewhere it costs nothing. That is what today is for.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="card">
+      <div class="hdr">
+        <span class="clock">60′</span>
+        <h3>Fifty observations</h3>
+      </div>
+      <ul class="tight">
+        <li><span class="mk">00–05</span><span><strong>Draw the space.</strong> Plan view. Doors, seats, sightlines, where the light is. No words yet.</span></li>
+        <li><span class="mk">05–15</span><span><strong>Service safari.</strong> Walk it as a stranger. Mark on your drawing every place <em>you</em> hesitated.</span></li>
+        <li><span class="mk">15–25</span><span><strong>Timed flow count.</strong> One spot, one window, count. Write the number and the window.</span></li>
+        <li><span class="mk">25–60</span><span><strong>Sit still and number them, 1 to 50.</strong> One observation per line. Timestamp constantly. Run What / How / Why when you stall.</span></li>
+      </ul>
+      <div class="deliv"><b>Bring back</b> &nbsp;fifty numbered lines · ten with a count or a duration · five about something <span class="accent">absent</span> · three verbatim quotes · one drawing · and one thing you cannot explain yet. Solve nothing.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="eyebrow">What you are watching for</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Where do people <strong>stop</strong> without meaning to?</span></li>
+      <li><span class="mk">—</span><span>What do they do <strong>before</strong> they ask for help?</span></li>
+      <li><span class="mk">—</span><span>What is obvious to a regular and invisible to a first-timer?</span></li>
+      <li><span class="mk">—</span><span>What did somebody <strong>fix themselves</strong> — the doorstop, the taped sensor, the hand-lettered sign?</span></li>
+    </ul>
+    <p class="lead accent">Somebody designed that space, and then reality filed a complaint in marker.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <h2>Fifty is more than you think is there.</h2>
+    <p class="lead">The first fifteen are the ones anybody would get. Somewhere around thirty you run out of obvious and start actually looking.</p>
+    <p class="small accent">The last ten are where the real observations live. That is the whole reason the number is fifty and not twenty.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <h1>Do not solve<br>anything today.</h1>
+    <p class="lead">The moment you have a fix, you stop seeing. You will spend the rest of the hour collecting proof you were right.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-field">
+    <div class="card">
+      <div class="hdr">
+        <span class="clock">15′</span>
+        <h3>Dump, before you eat</h3>
+      </div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Back in the room. Silent. Expand every line that only makes sense to you into one a stranger could picture.</span></li>
+        <li><span class="mk">02</span><span>Circle the three moments most worth keeping — and <span class="accent">anything that did not fit.</span></span></li>
+        <li><span class="mk">03</span><span>Write one sentence about what surprised you, and note that it surprised you.</span></li>
+      </ul>
+      <div class="deliv"><b>Now</b> &nbsp;while it is still in your head. After lunch it is gone and you will not know it is gone.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §5 NOTES INTO PATTERNS ============ -->
+
+
+<!-- ============ §6 WHAT TO DO WITH THE NOTES / CLOSE ============ -->
+
+  <section class="slide s-close opener beat"
+           data-img="beat-make"
+           data-img-brief="many hands over one shared task — sorting, gathering, mending. Nobody doing it alone.">
+    <div class="eyebrow">Part six · afternoon</div>
+    <h1>Nobody saw<br>enough alone.</h1>
+    <div class="rule"></div>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="card">
+      <div class="hdr">
+        <span class="clock">20′</span>
+        <h3>Sort your fifty</h3>
+      </div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Three columns on a sheet: <strong>O</strong> / <strong>I</strong> / <strong>Q</strong>.</span></li>
+        <li><span class="mk">02</span><span>Put every one of your fifty in exactly one column. No line gets two homes.</span></li>
+        <li><span class="mk">03</span><span>Count each column. Write the three numbers at the top.</span></li>
+        <li><span class="mk">04</span><span>Take your five weakest O's and rewrite them so a camera could have caught them.</span></li>
+      </ul>
+      <div class="deliv"><b>Bring back</b> &nbsp;your three numbers, and the five rewrites — the before and the after, both legible.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="card">
+      <div class="hdr">
+        <span class="clock">25′</span>
+        <h3>Merge</h3>
+      </div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Pairs, then fours. Read each other's notes from the round out loud.</span></li>
+        <li><span class="mk">02</span><span>Where you both saw it: keep the <strong>more specific</strong> one. Not the better-written one.</span></li>
+        <li><span class="mk">03</span><span>Where you disagree: keep both, and write down that you disagree. That is a finding.</span></li>
+        <li><span class="mk">04</span><span>Anything only a second visit could answer goes on a separate <span class="accent">questions</span> list.</span></li>
+      </ul>
+      <div class="deliv"><b>Bring back</b> &nbsp;one merged set for the four of you, and the questions list. The questions list is for the 14th.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <h2>Two people watched the same door and saw different things.</h2>
+    <p class="lead accent">That is not a problem with your notes. That is why we go in teams.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="eyebrow">Not today</div>
+    <h2>Affinity maps. Journey maps. Service blueprints.</h2>
+    <p class="lead">Real methods. You will learn them.</p>
+    <p class="small">Today you only need the thing underneath all of them: get the notes where you can see them all at once, and move them until they group.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="eyebrow">Coding — the three passes. This is the morning, applied.</div>
+    <ul class="tight">
+      <li><span class="mk">01</span><span><strong>Open coding.</strong> One short tag per note. No categories decided in advance.</span></li>
+      <li><span class="mk">02</span><span><strong>In vivo codes.</strong> Use their words, not yours. <span class="accent">“the mornings are the worst”</span> — not “morning workflow inefficiency.”</span></li>
+      <li><span class="mk">03</span><span><strong>Axial coding.</strong> Group the tags. What clusters is the finding.</span></li>
+    </ul>
+    <p class="small">Tags to start from, and abandon the moment your own are better: <span class="accent">hesitation · wayfinding · signage · waiting · crowding · friction · workaround · staff support · access · comfort · asks for help · hidden labour</span></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <h1 class="accent">Code what happened,<br>not what you concluded.</h1>
+    <p class="small">“Bad design” is not a code. It is a verdict, and you filed it before the evidence was in.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="card">
+      <div class="hdr">
+        <span class="clock">30′</span>
+        <h3>Code, then cluster</h3>
+      </div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>One note per card. <strong>Nothing but the observation on the card.</strong></span></li>
+        <li><span class="mk">02</span><span>Tag each. Short. Two words at most. Reuse a tag the moment it fits twice.</span></li>
+        <li><span class="mk">03</span><span>Put them on the wall. Move them until things sit next to what they belong with.</span></li>
+        <li><span class="mk">04</span><span>Name each cluster <em>after</em> it exists. Never before.</span></li>
+      </ul>
+      <div class="deliv"><b>Bring back</b> &nbsp;a wall. Photograph it before you take it down — that photo is a document, not a souvenir.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <h2>A theme is what you saw more than once.</h2>
+    <p class="lead">Anything you saw once is a story. Keep it, it might be the best thing you have — but it is not yet a pattern.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <h2>“Emergence” is not mystical.</h2>
+    <p class="lead">You reach for a tag you have already used. That reuse <em>is</em> the finding — the concept came out of the data, because you did not have it before you started tagging.</p>
+    <p class="small accent">Nothing emerges from twelve notes. Things emerge from a hundred and twenty. That is why the pile has to be pooled.</p>
+    <p class="small">And you start this <em>while you are still collecting</em> — the tag you keep reusing on the 14th tells you what to go look at before you leave the building.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="eyebrow">One pair’s notes, tagged. Watch the right-hand column.</div>
+    <div class="fieldnote">
+      <div><span class="hd">Observation</span>
+        10:14 — person reaches doors, looks left at sign, waits 6 sec, goes right<br><br>
+        10:22 — two people at the doors look back and forth, then check phones<br><br>
+        10:31 — hand-lettered sign taped over the brass plaque<br><br>
+        10:40 — guest asks the desk “which way to the ballroom”<br><br>
+        10:44 — agent points without looking up
+      </div>
+      <div><span class="hd">Codes</span>
+        <span class="accent">hesitation</span> · signage<br><br>
+        <span class="accent">hesitation</span> · phone as backup<br><br>
+        staff workaround · signage<br><br>
+        <span class="accent">hesitation</span> · asks staff<br><br>
+        asks staff · <span class="accent">asked this a lot</span>
+      </div>
+    </div>
+    <p class="small">Nobody decided on <em>hesitation</em> in advance. It is there three times because you kept needing it.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="eyebrow">And the tags that keep landing next to each other</div>
+    <h3>hesitation + signage + asks staff + staff workaround</h3>
+    <p class="lead">People stop at the entrance because the signage answers the wrong question — and the desk has quietly absorbed that as part of the job.</p>
+    <p class="small accent">The idea is in none of the five notes. It is in the fact that the same tags kept coming back, and that somebody had already taped up a fix.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="eyebrow">Every group writes one. Out loud, to the room.</div>
+    <h2>People struggle with ___<br>because ___,<br>which affects ___.</h2>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="card">
+      <div class="hdr">
+        <span class="clock">30′</span>
+        <h3>Say what you found</h3>
+      </div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>One or two pattern statements per group. Full sentences, all three blanks filled.</span></li>
+        <li><span class="mk">02</span><span>Under each one, name the notes it came from. If you can't, it isn't a pattern yet.</span></li>
+        <li><span class="mk">03</span><span>Three minutes to the room. One pattern, one question you still can't answer.</span></li>
+      </ul>
+      <div class="deliv"><b>Bring back</b> &nbsp;the sentence, and the note numbers under it. Evidence trail or it didn't happen.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+<!-- ============ §6 THE TWO WEEKS ============ -->
+
+  <section class="slide s-close opener beat"
+           data-img="beat-close"
+           data-img-brief="the ground before the work starts — prepared, waiting, nothing harvested yet.">
+    <div class="eyebrow">The two weeks</div>
+    <h1>Fourteen days.</h1>
+    <div class="rule"></div>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="eyebrow">Debrief — answer these to the person next to you</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>What did you write out there that you now know was an interpretation?</span></li>
+      <li><span class="mk">—</span><span>What did your partner see that you walked straight past?</span></li>
+      <li><span class="mk">—</span><span>What will you do differently on the 14th, specifically?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="eyebrow">Monday the 14th, in order</div>
+    <ul class="tight">
+      <li><span class="mk">01</span><span>They present to <em>us</em> first. Their building, their operation, their framing. Take notes on it — that briefing is data too.</span></li>
+      <li><span class="mk">02</span><span>We split to posts. Two columns, timestamps, drawings. Same as today.</span></li>
+      <li><span class="mk">03</span><span>Consent before any conversation. The three sentences, from memory.</span></li>
+      <li><span class="mk">04</span><span>Notes written up on the light rail home. Not that evening. On the train.</span></li>
+      <li><span class="mk">05</span><span>Everything into the shared pool that night, tagged.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <h2>Where does everyone’s data actually live?</h2>
+    <p class="lead">Twenty people, six hours, several hundred notes. If it sits in twenty notebooks it is twenty small studies, and no theme can emerge across them.</p>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>One note per row, with <strong>who / where / when</strong> and the tags in their own column</span></li>
+      <li><span class="mk">—</span><span>Everyone can add, everyone can read, nobody can quietly overwrite</span></li>
+      <li><span class="mk">—</span><span>Photos land in the same place as the notes</span></li>
+      <li><span class="mk">—</span><span>Sortable by tag — that is the whole point</span></li>
+    </ul>
+    <p class="lead accent">Today it is paper on a wall. Before the 14th I will hand you the shared one — this is what it has to do.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <h2>Before the 14th</h2>
+    <ul class="tight">
+      <li><span class="mk">01</span><span><strong>Merged set + coded wall photo</strong> from today, posted to Canvas by Wednesday. While you still remember it.</span></li>
+      <li><span class="mk">02</span><span><strong>One more round, alone.</strong> A public place off campus. 20 minutes, timestamps, 15 notes.</span></li>
+      <li><span class="mk">03</span><span><strong>Two questions</strong> only the Hilton can answer. Bring them written down.</span></li>
+      <li><span class="mk">04</span><span><strong>The three sentences, memorized.</strong> I will ask you to say them at the door.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <div class="eyebrow">The standard for the whole semester</div>
+    <h2>Would the person who gave you twenty minutes in September look at your final project in December and think their time was well spent?</h2>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide s-close">
+    <h1>Look carefully.<br>Write it <span class="accent">down.</span></h1>
+    <p class="lead">Then wait to be right.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+</div>
+
+<div class="nav">
+  <button id="prev" aria-label="Previous slide">←</button>
+  <button id="next" aria-label="Next slide">→</button>
+</div>
+
+<script>
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var i = 0, total = slides.length;
+
+  slides.forEach(function (s, n) {
+    var no = s.querySelector('.bar .no');
+    if (no) no.textContent = (n + 1) + ' / ' + total;
+  });
+
+  /* ---- image slots -------------------------------------------------
+     Probe images/<slot>.jpg. Paint it only if it actually decodes.
+     Unfilled slots stay silent for the room; press D to see them. */
+  slides.forEach(function (s) {
+    var slot = s.getAttribute('data-img');
+    if (!slot) return;
+    var report = s.querySelector('.slot');
+    if (report) {
+      report.innerHTML = '<b>slot: ' + slot + '</b>' +
+        (s.getAttribute('data-img-brief') || '');
+    }
+    s.classList.add('no-img');
+    var probe = new Image();
+    probe.onload = function () {
+      s.style.setProperty('--img', "url('images/" + slot + ".jpg')");
+      s.classList.remove('no-img');
+      var c = s.querySelector('.credit');
+      var credit = s.getAttribute('data-img-credit');
+      if (c && credit) c.textContent = credit;
+    };
+    probe.src = 'images/' + slot + '.jpg';
+  });
+
+  var secOrder = ['s-open','s-make','s-eth','s-see','s-field','s-close'];
+  var secStart = secOrder.map(function (cls) {
+    for (var n = 0; n < total; n++) { if (slides[n].classList.contains(cls)) return n; }
+    return 0;
+  });
+
+  function show(n) {
+    i = Math.max(0, Math.min(total - 1, n));
+    slides.forEach(function (s, n2) { s.classList.toggle('on', n2 === i); });
+    try { history.replaceState(null, '', '#' + (i + 1)); } catch (e) {}
+  }
+
+  document.getElementById('next').addEventListener('click', function () { show(i + 1); });
+  document.getElementById('prev').addEventListener('click', function () { show(i - 1); });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ') { e.preventDefault(); show(i + 1); }
+    else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); show(i - 1); }
+    else if (e.key === 'Home') { show(0); }
+    else if (e.key === 'End') { show(total - 1); }
+    else if (e.key >= '1' && e.key <= '6') { show(secStart[parseInt(e.key, 10) - 1]); }
+    else if (e.key === 'd' || e.key === 'D') { document.body.classList.toggle('dev'); }
+    else if (e.key === 'f' || e.key === 'F') {
+      if (document.fullscreenElement) document.exitFullscreen();
+      else document.documentElement.requestFullscreen();
+    }
+  });
+
+  if ((location.hash || '').indexOf('dev') > -1) document.body.classList.add('dev');
+  var start = parseInt((location.hash || '').replace('#', ''), 10);
+  show(isNaN(start) ? 0 : start - 1);
+</script>
