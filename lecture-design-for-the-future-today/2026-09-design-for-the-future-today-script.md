@@ -2,6 +2,8 @@
 version: variation on the 31 August 2026 delivery
 length: ~30 minutes
 sources: examples-and-references.md
+figmaSlides: https://www.figma.com/proto/ltomqlGJOWEk1NEu0T9LSr/AY26-Lectures-and-Presentations?node-id=1082-643&p=f&viewport=173%2C99%2C0.02&t=HkbPrlgShqzRbQZX-1&scaling=contain&content-scaling=fixed&page-id=1082%3A638
+figmaMain: https://www.figma.com/design/ltomqlGJOWEk1NEu0T9LSr/AY26-Lectures-and-Presentations?node-id=1082-638
 ---
 
 # Design for the Future Today
@@ -64,7 +66,7 @@ It's now. And now it's now again. And now it's now again.
 
 Anything before that is the past. Anything after it is the future. We're all slowly time traveling, ever so slowly, into it.
 
-Time keeps on slipping into the future. Steve Miller Band, 1976.
+> Time keeps on slipping into the future. Steve Miller Band, 1976.
 
 You can't guarantee what happens next, so everything ahead is a potential outcome. And the farther out you go, the wider those outcomes spread. That's the cone.
 
@@ -78,31 +80,13 @@ There are a bunch of P words for the bands.
 
 **Possible.** Not impossible, but it needs knowledge we don't have yet.
 
-**Preposterous.** Ridiculous. Never going to happen. Except that a lot of what's sitting in your pocket was preposterous a few decades ago.
+**Preposterous.** Ridiculous. Never going to happen. Except that a lot of what we experience everyday or what's sitting in your pocket was preposterous even a few decades ago.
 
 **Preferable.** This one isn't a band. It's scattered all through the others. It's what you specifically want, or think ought to happen. It can be preposterous too. And yes, it's you projecting your own ideals, which is completely fine when you're a designer who can actually build things to explain what you mean.
 
 I didn't originate any of this. I got it from Joseph Voros, and I got to Voros through Dunne & Raby, who got it from Stuart Candy.
 
-## 4. Why bother
-
-*[Spaceship Earth]*
-
-Buckminster Fuller said the Earth needs a better operating manual. We're all Earthstronauts, flying around on Spaceship Earth, the same way astronauts fly in a shuttle. There's no resupply mission coming. We have to make this planet work cyclically.
-
-So the preferable futures I care about are the sustainable ones. Circular ones. Decarbonized. Decolonized.
-
-*[Blue Marble]*
-
-Now. In 1966, Stewart Brand started making buttons that asked a question: why haven't we seen a photograph of the whole Earth yet?
-
-There wasn't one. Nobody had taken it. He printed the buttons anyway and pestered NASA for two years, because he believed that if people could see the planet whole, they would think about it differently.
-
-Earthrise came back in 1968. Blue Marble in 1972. Those images became the icon of the entire environmental movement.
-
-He didn't design a product. He designed a demand for an image that didn't exist yet.
-
-## 5. Defuturing
+## 4. Defuturing
 
 *[cone, collapsing]*
 
@@ -110,9 +94,7 @@ Tony Fry gives us the other direction.
 
 Unsustainable options remove potential futures. A species goes extinct and every future containing it goes with it. Fry calls this defuturing.
 
-Draw it on the cone. The bands get eaten from the outside in. Preposterous goes first, then possible, then plausible. And what you're left with is the projected line and nothing else.
-
-That's the part worth sitting with. Defuturing doesn't end in extinction. It ends in no alternatives.
+Defuturing doesn't end in extinction. It ends in no futures.
 
 Three things about it.
 
@@ -122,41 +104,63 @@ Nobody intends it. It's the ordinary output of competent, well-meaning professio
 
 And the timescales don't match. You spec a material in an afternoon. It's in the ground for five hundred years. Your decisions will outlast you by centuries and almost nothing in your education takes that seriously.
 
+## 5. Why bother
+
+*[Spaceship Earth]*
+
+Buckminster Fuller said the Earth needs a better operating manual. We're all Earthstronauts, flying around on Spaceship Earth, the same way astronauts fly in a shuttle. There's no resupply mission coming. We have to make this planet work cyclically.
+
+So the preferable futures I care about are the sustainable ones. Circular ones. Decarbonized. Decolonized.
+
 ## 6. Speculative design
 
-*[Dunne & Raby, Technological Dreams Series: No. 1, Robots, 2007]*
+*[Dunne & Raby, Speculative Design book cover]*
+
+I got into this through the book Speculative Design by Dunne and Raby.
 
 Dunne & Raby are a design duo who use design to critique what mainstream design takes for granted.
 
-This is Robots. Four of them. Each one does a completely ordinary domestic job. What's designed is the temperament it brings to the job.
-
-Robot 1 runs the computers that manage your house. You never interact with it. It can't stand electromagnetic interference, so when a TV or a phone comes on, it moves to the quietest part of the room. Its ring-shaped middle is a calm zone that's nice to sit in, so you end up putting your furniture inside it. You arrange your living room around wherever the robot decided to go.
-
-Robot 2 is home security run on anxiety. Someone walks in, it turns to face them and analyzes them with its many eyes. Get closer and it gets more agitated. You interact with it by learning not to startle it.
-
-Robot 3 guards your data behind a retinal scan. Not the instant beep you get in films. It makes you stare into its eyes for a long time before it believes you're you. Security as an intimate ritual.
-
-Robot 4 is brilliant and physically helpless. It depends on you to carry it anywhere. Its voice slowly develops its own language while keeping traces of human speech in it.
-
-I used to describe these as robots we can control. That's wrong. Control is exactly the wrong word. Every one of them makes the human accommodate the object.
-
-And look at the four jobs: home server, security camera, password manager, smart assistant. That's Nest, Ring, 1Password, Alexa. In 2007 they named the four product categories that actually showed up. They got the functions right and made the feelings wrong on purpose.
-
-Which is the argument. Mainstream design wants technology invisible, frictionless, obedient. These are needy, visible, demanding. Because if a machine has no needs, you never have to think about it, and not thinking about it is how a surveillance device ends up on your kitchen counter. Robot 2 is a security camera you can't forget is watching you. Alexa's smoothness is the design decision that lets you forget.
-
 *[United Micro Kingdoms]*
 
-United Micro Kingdoms is four versions of a near-future UK. It builds a whole visual language to make each one legible.
+A key project in the book was United Micro Kingdoms — four versions of a near-future UK. It builds a whole visual language to make each one legible.
 
-They call this speculative design. It started out as critical design. Things made in the present whose job is to critique a projected future.
+They call this speculative design. Speculating through the tools of design on a potential future.
+
+*[Dunne & Raby, Design Noir; Critical Design]*
+
+Before Speculative design, they had this other book, Design Noir that I think over time I actually like better... in there they talk about "critical design", design that critiques the status quo.
+
+*[Dunne & Raby, Technological Dreams Series: No. 1, Robots, 2007]*
+
+This is "Robots." There are four of them. The whole point is that you look at these and say, that's not a robot. But why can't a robot look like this?
+
+Their word for these is cohabitants. Not smart machines, not artificial life. Things you live with. Each one does a single domestic job, and what's designed is the temperament it brings to it.
+
+The red ring is my favorite. It runs your house and communicates with your other robots, self-contained, doing something we assume is very smart. The only thing it worries about is electromagnetic fields, so when a phone or a TV comes on, it moves itself to where the EMFS are the least in the room/house. And the one thing it offers you is the space inside the ring, where you can stand free of that radiation.
+
+One is nervous about the room. Someone walks in, it turns to face them and studies them with its many eyes, and if they come closer it gets hysterical. Its neurosis is the point — that's exactly what makes it good at home security. The temperament came first and the job got handed to it afterwards.
+
+One is nervous about you specifically. It holds your data, and it doesn't believe you're you, so it makes you stare into its eyes for a long time before it lets go. Not the quick glance of a retinal scan you get in films.
+
+And one is brilliant but can't move, so you have to carry move it around… it listens to you and adds its own thoughts…
+
+These are robots that make the human accommodate the object.
+
+And look at the four jobs: home server, security camera, password manager, smart assistant. That's Nest, Ring, 1Password, Siri. In 2007 they named the four product categories that actually showed up. They got the functions right and made the feelings completely different.
+
+Usually designers make technology friendlier, easier, more attractive. These do the opposite on purpose. Because if a machine has no needs, you never have to think about it, and not thinking about it is how a surveillance device ends up on your kitchen counter.
+
+Their question is the one worth taking with you. How do you want your robots to relate to you? Subservient, intimate, dependent, equal?
+
+So, this is critical design. Things made in the present whose job is to critique a projected future.
 
 Another way to say it: design that gives you options beyond the moderno, techno, capitalist set already stacked on the shelves at Target and sitting in your Amazon cart.
 
 ## 7. Design fiction
 
-*[Star Fleet Technical Manual, 1975]*
-
 Julian Bleecker calls his version design fiction. He got there through this.
+
+*[Star Fleet Technical Manual, 1975]*
 
 Franz Joseph was a professional aerospace draftsman. His daughter was a Star Trek fan, so he started drawing blueprints, and in 1975 Ballantine published them as a real trade book that sold like a real reference manual.
 
@@ -166,9 +170,9 @@ And it has the Federation treaties.
 
 Anyone can draw a spaceship. Somebody sat down and drafted the diplomatic paperwork for a government that does not exist.
 
-It's a brand manual for a world that isn't there, sold in bookstores. And it's 1975. Bleecker doesn't name design fiction until 2009. The practice ran thirty-four years ahead of the theory, invented by a draftsman doing sincere technical documentation.
+It's a brand manual for a world that isn't there. And it's 1975. Bleecker doesn't name design fiction until 2009. The practice ran thirty-four years ahead of the theory, invented by a draftsman doing sincere technical documentation.
 
-One distinction, because somebody always asks. Franz Joseph documented a fiction somebody else made. Design fiction runs the other way. The artifact comes first and you infer the world from it. What the Technical Manual handed design fiction was the form. Total commitment to the register of real documentation. No winking.
+One distinction, because somebody always asks. Franz Joseph documented a fiction somebody else made. Design fiction runs the other way. The artifact comes first and you infer the world from it. What the Technical Manual handed design fiction was the form. Total commitment to the register of real documentation.
 
 *[IKEA near future catalog]*
 
@@ -184,19 +188,31 @@ Superflux built the whole room. This is a London apartment in 2050, after climat
 
 ## 8. Visions that cut the line
 
+*[Blue Marble]*
+
+In 1966, Stewart Brand started making buttons that asked a question: why haven't we seen a photograph of the whole Earth yet?
+
+There wasn't one. Nobody had taken it. He printed the buttons anyway and pestered NASA for two years, because he believed that if people could see the planet whole, they would think about it differently.
+
+Earthrise came back in 1968. Blue Marble in 1972. Those images became the icon of the entire environmental movement.
+
+He designed a demand for an image that didn't exist yet.
+
+That's the maybe simplest version of this move. A button with a question printed on it.
+
 *[Engelbart, 1968]*
 
 In 1962 Douglas Engelbart wrote that his goal was augmenting human intellect. Not a product. A preferable future.
 
 In December 1968 he demoed the mouse, hypertext links, windows, video conferencing, and two people editing the same document at the same time. At a moment when a computer was a batch-processing machine that an institution owned.
 
-The demo was held together with a leased microwave link and homemade hardware. It barely worked. Everything about how you use a computer descends from that room.
+The demo was held together with a leased microwave link and homemade hardware. It barely worked. But, nearly everything about how you use a computer descends from that room.
 
 *[Knowledge Navigator, 1987]*
 
-In 1987 Apple published a concept video called Knowledge Navigator. A folding touchscreen tablet, video calls, a conversational agent. Jobs isn't even there, he's at NeXT. It's a design fiction made by the company that eventually shipped the thing.
+In 1987 Apple published a concept video called Knowledge Navigator. A folding touchscreen tablet, video calls, a conversational agent. Jobs isn't even there, he's at NeXT. It's a design fiction made by a company…
 
-In 1999 Jobs points Apple at it without the technology to build it.
+In 1999 Jobs points Apple at his version without the technology to build it yet.
 
 Around 2005 and 2006 the capability finally arrives. Multitouch. Batteries. Processors.
 
@@ -216,9 +232,9 @@ The object arrived. The preferable future didn't. That can happen to your projec
 
 *[Wikipedia]*
 
-One more, because Jobs had a giant company and a mountain of capital and you don't. In 2001, an encyclopedia anyone could edit was preposterous enough that the serious version, Nupedia, was the expert-reviewed one. Nupedia failed. Wikipedia cut off the future where knowledge is made by credentialed people and sold to you.
+One more, because Jobs had a giant company and a mountain of capital and you don't. In 2001, an encyclopedia anyone could edit was preposterous. Wikipedia cut off the future where knowledge is made by credentialed people and sold to you.
 
-Nobody marshaled capital for that. The line moved anyway.
+Nobody marshaled much capital for that. The line moved anyway.
 
 ## 9. Whose preferable future
 
@@ -244,9 +260,9 @@ Gary Hustwit made Helvetica. Objectified. Rams. In 2024 he made a documentary ab
 
 Eno spent his career making generative music. Systems that produce the piece, instead of a person composing every note.
 
-So Hustwit and Brendan Dawes built software that generates the film. Every screening pulls a different sequence out of hundreds of hours of Eno's archive. Different scenes, different order, different music. They put the number at 52 quintillion possible versions.
+So Hustwit and Brendan Dawes built software that generates the film. Every screening pulls a different sequence out of hundreds of hours of Eno's archive. Same skeleton but different scenes, different order, different music. They put the number at 52 quintillion possible versions.
 
-Here's the part I like. You can't stream it. There is no fixed version to stream. You have to be in the room, and the film you see is the only time that film exists.
+Here's the part I like. You can't stream it (I mean, criterion collection does have a version... but...). There is no fixed version to stream. You have to be in the room, and the film you see is the only time that film exists.
 
 Before this, a film was a fixed object. Every print identical. That had been true since cinema started. It isn't true anymore.
 
@@ -260,15 +276,15 @@ A friend of mine wanted low carbon paper, so he set up an experiment at Universi
 
 This is the solar powered version of Low Tech Magazine. The site is designed to run on very little energy, and it shows you the battery charge, so you know how long it'll be up before it goes offline.
 
-This is a friend in Baltimore. Reverberation Crosswalk Number Two, over by a school. He wants the city more walkable, so he makes crosswalks more visible and calms traffic, one intersection at a time. He's done them all over the city now.
+This is a friend in Baltimore. Graham Coreil Allen's Reverberation Crosswalk Number Two, over by a school. He wants the city more walkable, so he makes crosswalks more visible and calms traffic, one intersection at a time. He's done them all over the city now.
 
-These are things that exist in his preferable future, made in the present.
+These are things realted to an idea that exists in his preferable future — walkable cities — now made real in the present.
 
-That's the whole method. Envision your preferable future, then design the things that belong in it now, so we start having them.
+That's the whole method. Envision your preferable future, then design the things that belong in it now, so we start having them. Don't wait.
 
-It's also a way to decide what to work on. If a project doesn't live in your preferable future, maybe you shouldn't take it. Somebody whose preferable future it does fit can work on it instead.
+It's also a way to decide what to work on. If a project doesn't live in your preferable future, maybe you shouldn't do it. Somebody whose preferable future it does fit can work on it instead.
 
-And it gives you a better question for your degree project than "is this any good." Every project is a vector on that cone. Engelbart widened it. Brand widened it. Wikipedia widened it. Extraction and lock-in and disposability narrow it.
+And it gives you a better question for your degree project than "is this any good." Every project is a vector on that cone.
 
 Which way does yours point?
 

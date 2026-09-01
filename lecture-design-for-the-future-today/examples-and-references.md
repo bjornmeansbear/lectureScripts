@@ -92,11 +92,30 @@ The fiction was right about function and deliberately wrong about affect. The ta
 
 The argument for students: mainstream design makes technology invisible, frictionless, servile. These are needy, visible, demanding. If a machine has no needs, you never have to think about it — and not thinking about it is how a surveillance device ends up on a kitchen counter. Robot 2 is a security camera you cannot forget is watching, because it visibly flinches. Alexa's smoothness *is* the design decision that lets you forget.
 
+**From Dunne & Raby's own project text** (worth having in full — it is sharper than any summary):
+
+> Over the coming years, robots are destined to play a significant part in our daily lives — not as super smart, functional machines, nor as pseudo life forms, but as **technological cohabitants**. But how will we interact with them? What new interdependencies and relationships might emerge? These objects are meant to spark a discussion about how we'd like our robots to relate to us: **subservient, intimate, dependent, equal?**
+
+Three details from that text worth knowing, beyond what is above:
+
+- **Robot 2 inverts the design process.** "In the future products/robots might not be designed for specific tasks or jobs. Instead they might be given jobs based on behaviours and qualities that emerge over time." The neurosis came first; the security job was assigned to it afterwards. "Home security makes good use of this robot's neurosis."
+- **Robot 3 is also a furniture question.** It "asks what new forms of furniture might evolve in response to future technological developments" — same thread as putting a chair inside Robot 1's ring.
+- **Robot 4 is the darkest line in the project.** "Neediness is designed into very smart products to maintain a feeling of control." The helplessness is deliberate, so the owner still feels in charge of something smarter than they are. In 2026, in front of students who use AI assistants daily, this is the line that will land hardest. It is in the script.
+
+Credits, if a slide needs them: video by **Noam Toran**, robot sound design by **Scanner**, computer modelling by **Graeme Findlay**, commissioned by **Jan Boelen** at **Z33**. In the permanent collections of MoMA and Fnac, Paris.
+
 **Keep the self-correction in the delivered version.** In the recording the line runs: robots "that humans can wield control over" — then, immediately, *"control is maybe not the right word."* That hesitation is the project's thesis. Dunne & Raby designed the absence of control; all four require the human to accommodate the object. Do not edit it out. It is the moment the idea arrives.
 
 Practical: the objects are catalogued individually at MoMA, so there are citable images. The project also exists substantially as a **film** of people interacting with them — the video does more work than photographs of the objects.
 
-- MoMA: [Robot 1](https://www.moma.org/collection/works/110124) · [Robot 3](https://www.moma.org/collection/works/110126) · [Robot 4](https://www.moma.org/collection/works/110127)
+**Sources for everything quoted above:**
+
+- [Dunne & Raby, project page](https://dunneandraby.co.uk/content/projects/10/0#) — the project statement, the four robot texts, and the credits. Primary source; quote from here.
+- [MoMA audio: Paola Antonelli with Fiona Raby and Anthony Dunne](https://www.moma.org/audio/playlist/234/3004) — where "why can't robots look like this?" and Dunne's "design for debate" come from. Also the red ring in Raby's own words.
+
+Also useful:
+
+- MoMA collection entries, for citable images: [Robot 1](https://www.moma.org/collection/works/110124) · [Robot 3](https://www.moma.org/collection/works/110126) · [Robot 4](https://www.moma.org/collection/works/110127)
 - [Galerie des Galeries project page](https://www.galeriedesgaleries.com/en/invites/dunne-raby/technological-dreams-series-no-1-robots)
 
 ### Near Future Laboratory — Bleecker's own studio
@@ -255,3 +274,13 @@ Whisper mangled three names in `2026-08-31-design-for-the-future-today-transcrip
 Also note: the recording's closing line, "to keep that from being the only way," repeats about a dozen times at the end of the transcript. That's a whisper artifact from trailing silence, not something said.
 
 One factual fix for the edited script, beyond the names: the talk calls the Star Fleet Technical Manual "the fan fiction, the fan made book." It was a licensed Ballantine trade book by a professional draftsman. See the section above.
+
+---
+
+https://www.hustwit.com/eno
+
+from Julian Bleecker: Eno.
+What happens when futures work intersects the grounded circuits of meaning and material culture and not just other futures workers or foresight ‘experts’? Gary Hustwit and his generative documentary ‘Eno’, and Brian (Eno) are a kind of futurist of the best sort — they make the worlds they imagine and do so materially — and shape culture far more than the futurists who think getting a certificate in Foresight is good enough to call yourself one.
+
+https://nearfuturelaboratory.com/events/2024/09/brain-dead-gary-hustwit-eno-collaboration/
+
