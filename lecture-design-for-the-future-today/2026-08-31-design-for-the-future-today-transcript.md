@@ -206,15 +206,3 @@ And then Dunne & Raby sort of talk about this as well where they are really inte
 The everyday agendas of our moderno-techno-capitalist overlords.
 And so that's why we should design for the future today.
 To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
-To keep that from being the only way.
