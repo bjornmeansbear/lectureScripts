@@ -1,0 +1,641 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:26.200
+ Okay, I think I will talk to you today about how we might design in consideration of the
+
+00:00:26.200 --> 00:00:33.920
+ future, and why thinking about the future is useful in your design experiments that you're
+
+00:00:33.920 --> 00:00:37.640
+ working on now.
+
+00:00:37.640 --> 00:00:45.560
+ So to get started, just sort of think about what do you picture when you hear the future?
+
+00:00:45.560 --> 00:00:50.640
+ Is it perhaps robots running around helping us all the time?
+
+00:00:50.640 --> 00:00:58.360
+ Is it maybe this space where we are starting to bring the technological and the natural
+
+00:00:58.360 --> 00:01:00.360
+ closer together?
+
+00:01:00.360 --> 00:01:10.080
+ Do you think exclusively about goofy stainless steel cars from the 80s?
+
+00:01:10.080 --> 00:01:20.800
+ Maybe it's we're all doing Google Glass VR headsets everywhere.
+
+00:01:20.800 --> 00:01:24.800
+ Maybe it's like we're all in the Matrix.
+
+00:01:24.800 --> 00:01:31.220
+ You might also have more of a utopian or like positive version where the future has solved
+
+00:01:31.220 --> 00:01:40.440
+ a lot of people's problems, or maybe it's dystopian and the future is just rampant with humanity's
+
+00:01:40.440 --> 00:01:45.080
+ problems destroying the world.
+
+00:01:45.080 --> 00:01:47.220
+ This ironically is not a future photo.
+
+00:01:47.220 --> 00:02:00.160
+ So it's a past photo from the wildfires in 2020 in California.
+
+00:02:00.160 --> 00:02:08.680
+ Maybe our view of the future is we've left, you know, we're all one Earth in harmony together,
+
+00:02:08.680 --> 00:02:17.400
+ or maybe it's that we've kind of abandoned Earth for the stars.
+
+00:02:17.400 --> 00:02:24.020
+ And so what's hard about talking about the future is that what it really is, at least
+
+00:02:24.020 --> 00:02:31.540
+ in English, as a word it just means what is next, like what's going to happen, what is
+
+00:02:31.540 --> 00:02:32.540
+ going to be.
+
+00:02:32.540 --> 00:02:39.220
+ It's not really a defined space, it's just what we haven't gotten to yet.
+
+00:02:39.220 --> 00:02:46.940
+ And that means that a lot of choices we make now might lead to very different kinds of futures.
+
+00:02:46.940 --> 00:02:56.020
+ I think the other thing to think about when you think about the future is the past also
+
+00:02:56.020 --> 00:03:03.740
+ comes along with the future.
+
+00:03:03.740 --> 00:03:09.020
+ So how do we make sense of future possibilities?
+
+00:03:09.020 --> 00:03:14.400
+ In this evolved out of something called forecasting.
+
+00:03:14.400 --> 00:03:23.540
+ And the main way that people, the main way, useful way I've seen people kind of like help each
+
+00:03:23.540 --> 00:03:30.980
+ other think about different futures is using this tool called the future cone.
+
+00:03:30.980 --> 00:03:39.380
+ So time is a thing that, at least according to how we experience it, moves forward.
+
+00:03:39.380 --> 00:03:48.100
+ So in my timeline, it's moving to the right, and we're experiencing now.
+
+00:03:48.100 --> 00:03:49.100
+ Right?
+
+00:03:49.100 --> 00:03:55.540
+ It's now, now, and now it's now again, and now it's now again.
+
+00:03:55.540 --> 00:04:04.260
+ So anything before, anything that's happened before now is the past.
+
+00:04:04.260 --> 00:04:07.760
+ Anything that happens after now is the future.
+
+00:04:07.760 --> 00:04:15.260
+ Because we're always like slowly time, you know, ever so slowly time traveling into the future.
+
+00:04:15.260 --> 00:04:16.260
+ Right?
+
+00:04:16.260 --> 00:04:22.260
+ Because it's now again.
+
+00:04:22.260 --> 00:04:31.260
+ And so the future, you can't guarantee what exactly will happen, which means everything
+
+00:04:31.260 --> 00:04:36.260
+ in the future is a potential outcome.
+
+00:04:36.260 --> 00:04:51.980
+ And the farther and farther ahead into the future, you get the wider and wider those outcomes become.
+
+00:04:51.980 --> 00:04:57.980
+ And so there's going to be a bunch of P words describing the kind of categories of outcomes.
+
+00:04:57.980 --> 00:05:02.860
+ So at the kind of most lame is the projected future.
+
+00:05:02.860 --> 00:05:04.700
+ This is just the default future.
+
+00:05:04.700 --> 00:05:12.700
+ If nothing changes, and we just kind of extrapolate the present day out, this is the future that we will reach.
+
+00:05:12.700 --> 00:05:33.420
+ I find that this is not a particularly interesting place to think about, other than that, like, I don't know about you, but I don't particularly want the present just extrapolated out forever into the future, because there's a bunch of things I don't like about the present.
+
+00:05:33.420 --> 00:05:50.140
+ But, like, I know that I'm going to reach this conclusion slide at some point in this talk, and so I know that that's a projected future that we'll all arrive at together.
+
+00:05:50.140 --> 00:06:01.100
+ Certainty lives in this place to a certain extent, especially in the near future.
+
+00:06:01.100 --> 00:06:04.660
+ Now, what most people are talking about when they talk about the future is the probable future.
+
+00:06:04.660 --> 00:06:07.460
+ This is, like, predictions about what is likely to happen.
+
+00:06:07.460 --> 00:06:14.460
+ You know, it's highly likely that, like...
+
+00:06:14.460 --> 00:06:18.140
+ Well, I need some example.
+
+00:06:18.140 --> 00:06:24.300
+ Or, it's highly likely that X, and I can put an image on there.
+
+00:06:26.240 --> 00:06:40.800
+ There's the plausible what we believe could happen with what we know and with the technology we have today, and so this is like, you know, there's a new MNRA vaccine for potentially preventing cancers.
+
+00:06:40.800 --> 00:06:58.200
+ Maybe it is plausible that there is some kind of intervention that we come up with for that that's starting to live pretty far out from the projected or even the probable future, however.
+
+00:06:58.200 --> 00:07:04.480
+ But it's into the plausible, the realm of, like, this could happen if we can keep investing money or if we keep doing this.
+
+00:07:08.880 --> 00:07:20.440
+ And then there's the possible in general, where it's not impossible, but it's highly unlikely given current research or abilities.
+
+00:07:20.440 --> 00:07:27.760
+ And so this is, like, futures that we still might think could happen, but it needs some future knowledge we don't possess.
+
+00:07:31.280 --> 00:07:36.200
+ This is, like, the United States becomes all renewable energy-powered.
+
+00:07:37.080 --> 00:07:38.780
+ Well, frankly, that's even just plausible.
+
+00:07:38.780 --> 00:07:40.340
+ Like, we can do it.
+
+00:07:42.180 --> 00:07:54.120
+ But is it possible, like, a lot of behaviors have to change to make that happen, which maybe is even harder than just, like, inventing new technology?
+
+00:07:55.740 --> 00:08:03.420
+ And then there's the preposterous, which these are things that, at least in the present, we say these are ridiculous or these are impossible or these will never happen.
+
+00:08:04.780 --> 00:08:06.020
+ This could be the realm of fantasy.
+
+00:08:06.020 --> 00:08:15.980
+ This could also just be that, like, people aren't thinking very interestingly about what's around them.
+
+00:08:17.060 --> 00:08:24.980
+ Many of the things that we have in our immediate present are things that, even a few decades ago, were preposterous.
+
+00:08:26.420 --> 00:08:49.460
+ And then one other sort of subspace, which isn't, like, a whole section of the cone, but is maybe, like, a bunch of different little places in and amongst the cone, is the preferable.
+
+00:08:49.460 --> 00:08:55.260
+ And so this is, like, what you specifically want or think should or ought to happen.
+
+00:08:56.420 --> 00:08:59.000
+ This could be preposterous as well.
+
+00:09:00.960 --> 00:09:17.140
+ And that might mean that you're just projecting your own ideals or your own concepts, which is fine, frankly, from the perspective of being an artist or a designer who can actually create things to explain their ideas.
+
+00:09:20.820 --> 00:09:26.280
+ Um, so I didn't originate this, the person I got these ideas from was Joseph Voros.
+
+00:09:26.280 --> 00:09:34.260
+ And I got led to his version of these things from Don and Robbie, who got their ideas from this guy, Stuart Candy.
+
+00:09:35.420 --> 00:09:47.640
+ So, whew, that's a lot of future cone relationships.
+
+00:09:47.640 --> 00:09:53.360
+ So, why should we think about future possibles at all?
+
+00:09:53.360 --> 00:10:11.100
+ So, for one, I think, if you want to help maintain Spaceship Earth, Buckminster Fuller talked about how Earth needs a better operating manual.
+
+00:10:11.900 --> 00:10:22.980
+ And we're all Earthstronauts flying around space on Spaceship Earth, the same way that astronauts fly in the space shuttle because there's no resupply mission coming.
+
+00:10:22.980 --> 00:10:27.900
+ We have to figure out how to make this planet work cyclically.
+
+00:10:33.900 --> 00:10:54.040
+ So, I like to think about preferable futures, like sustainable ones, or circular ones, or less, you know, like a decolonized versions of the future, decarbonized versions of the future.
+
+00:10:54.040 --> 00:11:03.040
+ And I kind of arrived at these, thinking through this book, spiked into everything that I read when I was in grad school.
+
+00:11:05.120 --> 00:11:13.940
+ And so, Dune and Robbie are a design team, design duo, who use their skills as designers to kind of come up with
+
+00:11:18.620 --> 00:11:30.460
+ projects that critique the current view of mainstream designing.
+
+00:11:30.460 --> 00:11:43.200
+ This was called robots, and so these are all different robots that humans actually have to, like, directly interact with to trigger the task or the thing that the robot does.
+
+00:11:43.200 --> 00:11:54.620
+ And so they're not, like, autonomous robots, they're robots that, like, humans can wield control over.
+
+00:11:54.620 --> 00:11:55.820
+ Control is maybe not the right word.
+
+00:11:55.820 --> 00:12:06.040
+ But they're not, you know, walking, talking, murdering versions of artificial intelligence that are able to just roam.
+
+00:12:06.040 --> 00:12:22.160
+ They're like robots that co-exist as house products instead, which is maybe more interesting than the kind of HomePod things we've ended up with from Google and Amazon and Apple.
+
+00:12:22.160 --> 00:12:29.420
+ Anyway, they have more fantastical projects.
+
+00:12:29.420 --> 00:12:52.380
+ Like, this is humans in a future world where we need a lot more help finding edible food, and so these are all people with suits that enable food foraging from the sort of wastelands that are left more easily.
+
+00:12:52.380 --> 00:13:16.380
+ And then I think the project that I kind of got turned on by them was this one called the United Micro Kingdoms, and again, it's sort of using design to both create a kind of semiotic language to describe this future, but also, like, really pretty clearly articulate what's special or unique about these four different
+
+00:13:16.380 --> 00:13:44.380
+ different versions of a new UK in the not so distant future, but they call this speculative design, and they evolved that from actually originally kind of calling it critical design, and so to them, this is design where they're making things in the present, but the present
+
+00:13:44.380 --> 00:13:51.380
+ things are intended to be critiques of projected futures.
+
+00:13:51.380 --> 00:14:09.380
+ So, this could also be reframed as like, can we design things in the present that point us to envisioned futures, and ultimately, these are really just designs that challenge the kind of current status quo ideas or current projected future ideas.
+
+00:14:09.380 --> 00:14:36.380
+ And sort of reframed as maybe also just like design that actually tries to provide you options beyond the sort of typical moderno, techno, capitalist set of options that like, the existing piles of things on target shelves and Amazon carts do.
+
+00:14:36.380 --> 00:14:55.380
+ And so again, and so we can apply this back to the future cone, each design project might live in like a different place more or less plausible, but more or less positive or negative on the future cone.
+
+00:14:55.380 --> 00:15:02.380
+ So, a different way this is described is by this guy, Julian Bleeker, he calls it design fiction.
+
+00:15:02.380 --> 00:15:09.380
+ He gets, he got into this because he like loved Star Trek as a kid and got like a book of all of the,
+
+00:15:09.380 --> 00:15:36.380
+ all of the, like the fan fiction, the fan made book of like Star Trek branding guidelines that also has like, you know, schematics for things like the communicators and stuff in that series.
+
+00:15:36.380 --> 00:16:01.380
+ And this idea that like you could get so into a science fiction show that he would make a brand guideline about how to use the typography for that thing was really interesting to him and he, and he sort of grew that into working with giant clients in a variety of different ways with sort of a similar speculative touch.
+
+00:16:01.380 --> 00:16:14.380
+ And so he refers to design fictions as, um, they're objects from near futures that sort of ask us what directions things can go or evolve.
+
+00:16:14.380 --> 00:16:16.380
+ So this is a project he was working on with Ikea.
+
+00:16:16.380 --> 00:16:28.380
+ Um, and these are like example objects from that Ikea could sell.
+
+00:16:28.380 --> 00:16:42.380
+ Um, and that turned into this like Ikea near future catalog, which at the surface just sort of looks like a regular catalog.
+
+00:16:42.380 --> 00:16:57.380
+ But then you see that like there's some sort of flair coming out of this magazine they're looking at all of these things about kitchen stuff is based on like renting it by the hour.
+
+00:16:57.380 --> 00:17:01.380
+ It's like so many credits per hour to use.
+
+00:17:01.380 --> 00:17:09.380
+ And this guy is sitting in like with VR glasses and like a giant projection on his wall instead of just being in a normal office.
+
+00:17:09.380 --> 00:17:28.380
+ And so Julian bleaker sort of version of this is like real normal design objects that are not confusing at all, but the sort of like sneak in these other ways you might be thinking about or potentially helping you picture how the future would be different.
+
+00:17:28.380 --> 00:17:39.380
+ He's also thinking about how it's the same like just because we're 10 years in the future or 50 years in the future doesn't mean that everything else from the present is also gone or missing.
+
+00:17:39.380 --> 00:17:51.380
+ And so how do these future ideas sort of also fit into our regular everyday things.
+
+00:17:51.380 --> 00:17:58.380
+ So the sort of other way that bleaker describes himself is being an archeologist or an anthropologist of the future.
+
+00:17:58.380 --> 00:18:18.380
+ Like we've taken our weird little time machine to the future and we're in this room and we see a couple of little tidbits that like clue us in on what the new politics or processes or whatever of this future world are.
+
+00:18:18.380 --> 00:18:24.380
+ And so that means another way to think about you as designers thinking about whatever world building you're doing in your projects.
+
+00:18:24.380 --> 00:18:38.380
+ And how do you like hint or clue in people to those things without having to do tons of exposition or tons of explanation every time you need somebody to kind of get there with you.
+
+00:18:38.380 --> 00:18:47.380
+ So tangible prototypes of material cultural artifacts of possible near futures.
+
+00:18:47.380 --> 00:18:51.380
+ That's what bleaker is saying a design fiction is.
+
+00:18:51.380 --> 00:18:57.380
+ I think this fits really nicely with making design projects especially in a thesis context.
+
+00:18:57.380 --> 00:19:00.380
+ Okay.
+
+00:19:00.380 --> 00:19:08.380
+ So just some like concrete ways to think about like how does this, how to help understand this.
+
+00:19:08.380 --> 00:19:19.380
+ So, Steve Jobs gets people at Apple to start working on what becomes the iPhone in 1999.
+
+00:19:19.380 --> 00:19:30.380
+ At the time, cell phones are barely even an everyday thing anyway.
+
+00:19:30.380 --> 00:19:34.380
+ So like very few people are using a cell phone every day in 1999.
+
+00:19:34.380 --> 00:19:44.380
+ So the idea that you would have like a tiny little touch screen computer that did all this other stuff on top of being a cell phone is already like a far-fetched reality.
+
+00:19:44.380 --> 00:19:46.380
+ Like it's hard to get batteries that last that long.
+
+00:19:46.380 --> 00:19:51.380
+ It's hard to get processors that are good enough that can be small enough.
+
+00:19:51.380 --> 00:20:02.380
+ It lives in, if not the probable, maybe even in the improbable space in terms of how could we actually make it.
+
+00:20:02.380 --> 00:20:07.380
+ But it's in Steve Jobs' preferred future.
+
+00:20:07.380 --> 00:20:21.380
+ And so he has this vision and he's able, you know, as a powerful white male running a giant capitalist company,
+
+00:20:21.380 --> 00:20:36.380
+ is able to marshal a bunch of resources and a bunch of other human energy around like reorienting culture to point to this preferable future of his.
+
+00:20:38.380 --> 00:20:47.380
+ And so even in 2007 when he finally like announces the iPhone, it's still not in the, it's still barely functioning.
+
+00:20:47.380 --> 00:20:56.380
+ And so even then it's like a projected, like possible future, not necessarily the, I mean, a possible future,
+
+00:20:56.380 --> 00:21:11.380
+ not necessarily the projected or probably even like, it's in the plausible.
+
+00:21:11.380 --> 00:21:20.380
+ Maybe not even quite the problem because like he demos it and they're really like making the demos work behind backstage and projecting them
+
+00:21:20.380 --> 00:21:22.380
+ and making it look like what he's doing is working.
+
+00:21:22.380 --> 00:21:24.380
+ Like the software isn't working yet.
+
+00:21:25.380 --> 00:21:28.380
+ They're not sure they can actually make enough of them.
+
+00:21:28.380 --> 00:21:35.380
+ Um, but he has sort of like brought this closer to reality.
+
+00:21:35.380 --> 00:21:39.380
+ And then finally it does launch, it's super successful.
+
+00:21:39.380 --> 00:21:44.380
+ And you could say that like the old projected future line just got like cut off.
+
+00:21:44.380 --> 00:21:54.380
+ And now this new space of the future cone that allows for like iPhones to exist creates like the new projected future line moving forward.
+
+00:21:54.380 --> 00:22:00.380
+ So we've like jumped to a different reality with a different set of future possibles now.
+
+00:22:00.380 --> 00:22:03.380
+ And what is possible is like changed.
+
+00:22:03.380 --> 00:22:07.380
+ The probabilities of what the rest of our futures hold are different.
+
+00:22:07.380 --> 00:22:18.380
+ So, you know, like Steve Jobs was able to reorient people towards his preferable future.
+
+00:22:18.380 --> 00:22:19.380
+ Okay.
+
+00:22:19.380 --> 00:22:21.380
+ Some other ways you can think about this or use this.
+
+00:22:21.380 --> 00:22:26.380
+ And these are AI examples, but it's not useful that you need to do this.
+
+00:22:26.380 --> 00:22:30.380
+ I just think they illustrate my point nicely.
+
+00:22:30.380 --> 00:22:39.380
+ There's someone Katie Patrick really cares about environmentalism and climate change.
+
+00:22:39.380 --> 00:22:41.380
+ And she calls herself a behavioral engineer.
+
+00:22:41.380 --> 00:22:55.380
+ And so she's been for the last five years making like tons, doing tons of exercises with people to try to show them what a city that's bike friendly looks like.
+
+00:22:55.380 --> 00:23:03.380
+ Or what a more solar powered local food producing neighborhood could look like.
+
+00:23:03.380 --> 00:23:14.380
+ And her belief is that like people have a hard time getting into these things because they just like don't understand how to picture what this will look like.
+
+00:23:14.380 --> 00:23:24.380
+ They don't really get what how might or might not actually affect their neighborhood or like what about their city might be better or more interesting.
+
+00:23:24.380 --> 00:23:30.380
+ More positive, more healthy, more safe, if they buy into some of these ideas.
+
+00:23:30.380 --> 00:23:37.380
+ And so her intent is to like work with people to try to help them visualize their things.
+
+00:23:37.380 --> 00:23:54.380
+ And she's found that like tools like Mid Journey and stuff are often very good at doing like basic banal things like New York with a bunch of, or a New Yorkish kind of city with a bunch of scaffolded green space everywhere and more walking paths.
+
+00:23:54.380 --> 00:24:07.380
+ Or like, you know, here's a monorail, a street that's still a street with kind of typical cars, but they've just like let much more of nature kind of take over.
+
+00:24:07.380 --> 00:24:22.380
+ And if you can help people envision these things that maybe they can then see their preferable future actually envision it and then start working towards those things themselves.
+
+00:24:22.380 --> 00:24:35.380
+ Angela Ogunlana sort of describes this similarly that if we believe something is going to happen in the future, we will act specific ways in the present.
+
+00:24:35.380 --> 00:24:46.380
+ So to Katie Patrick's point, if we can help people like really think about what their future might hold, maybe they would act to get themselves there.
+
+00:24:46.380 --> 00:24:51.380
+ Angela Ogunlana is sort of talking about preppers and why preppers are so weird.
+
+00:24:51.380 --> 00:24:54.380
+ But yeah, I think the idea works.
+
+00:24:54.380 --> 00:25:03.380
+ And then one more example, this guy Curry Hackett, sort of like reverse of Katie Patrick.
+
+00:25:03.380 --> 00:25:29.380
+ He's been making all these images of like alternative African American pasts that were like African Americans were empowered and not sort of disenfranchised and how that sort of isn't about envisioning the preferable future directly,
+
+00:25:29.380 --> 00:25:44.380
+ but is envisioning this different past that like leads to a different preferable future and kind of opens up a different future cone of possibilities.
+
+00:25:44.380 --> 00:25:54.380
+ Okay, and then lastly in the kind of another group in kind of the Dun & Robbie space.
+
+00:25:54.380 --> 00:25:59.380
+ This is Parsons and Charlesworth and they have this cool project called Multi Species Inc.
+
+00:25:59.380 --> 00:26:22.380
+ And a lot of these are design prototypes meant to look like real designed things or like design artifacts that kind of envision this world where humans are more in harmony in understanding and trying to connect with like the natural world around them.
+
+00:26:22.380 --> 00:26:49.380
+ And again, like these are designed things that are understandable and like not so far fetched that they really do help you critique or to me help me sort of humorously critique or ponder these sort of other ways we could be participating with the world around us.
+
+00:26:49.380 --> 00:27:12.380
+ Okay, so especially for a project like your senior degree project, you want this to kind of have legs beyond being done in May, I would hope.
+
+00:27:12.380 --> 00:27:19.380
+ And, and I think this is also just like a mentality that's useful for making things period.
+
+00:27:19.380 --> 00:27:29.380
+ That you envision your preferable future and that you design things that belong in your preferable future now.
+
+00:27:29.380 --> 00:27:31.380
+ And so we start having them.
+
+00:27:31.380 --> 00:27:38.380
+ And this can also be a way to think about like what projects should you or shouldn't you do.
+
+00:27:38.380 --> 00:27:49.380
+ Like if you get asked to do something and that just like doesn't live in your preferable future, then maybe you shouldn't work on it.
+
+00:27:49.380 --> 00:27:52.380
+ Maybe it's not a thing you should work on.
+
+00:27:52.380 --> 00:27:59.380
+ But somebody else who's preferable future that does fit in can work on it.
+
+00:27:59.380 --> 00:28:05.380
+ And just a few other random examples.
+
+00:28:05.380 --> 00:28:10.380
+ This is a paper project of a friend of mine.
+
+00:28:10.380 --> 00:28:12.380
+ He wanted to make low carbon paper.
+
+00:28:12.380 --> 00:28:25.380
+ And so this was an experiment he set up at University of Illinois where they're making paper from like perennial prairie grass and agricultural waste.
+
+00:28:25.380 --> 00:28:29.380
+ And so this is paper that actually like draws down carbon out of the atmosphere.
+
+00:28:29.380 --> 00:28:36.380
+ It's like carbon negative paper.
+
+00:28:36.380 --> 00:28:43.380
+ This is the solar powered version of lowtechmagazine.com where the actual design of the site is like meant to be low energy.
+
+00:28:43.380 --> 00:28:47.380
+ And it even shows you like how charged the battery is.
+
+00:28:47.380 --> 00:28:52.380
+ And so like how much time the website will be up for before it goes offline.
+
+00:28:52.380 --> 00:29:03.380
+ This is a friend of mine who works in and around Baltimore on cool projects.
+
+00:29:03.380 --> 00:29:07.380
+ This one's called Reverberation Crosswalk number two.
+
+00:29:07.380 --> 00:29:09.380
+ It's over by a school.
+
+00:29:09.380 --> 00:29:16.380
+ And he's really into making cities more walkable and more bikeable.
+
+00:29:16.380 --> 00:29:23.380
+ And this sort of like thing he leaned into was well what if we make crosswalks more noticeable.
+
+00:29:23.380 --> 00:29:30.380
+ What if we work on traffic calming to slow down traffic on urban streets.
+
+00:29:30.380 --> 00:29:41.380
+ And so every project they do you know it's like one more intersection closer to the city being pedestrian friendly.
+
+00:29:41.380 --> 00:29:46.380
+ And so this is like things that exist in his preferable future that he makes in the present.
+
+00:29:46.380 --> 00:29:51.380
+ He's made them all over Baltimore now.
+
+00:29:51.380 --> 00:29:56.380
+ Okay.
+
+00:29:56.380 --> 00:30:09.380
+ So I'll leave you with a last thought or two.
+
+00:30:09.380 --> 00:30:23.380
+ One is that we do need other people thinking about other ways things can be.
+
+00:30:23.380 --> 00:30:37.380
+ Because if we just accept how everything is we're all constrained by those limitations.
+
+00:30:37.380 --> 00:30:56.380
+ And then Dun and Robbie sort of talk about this as well where they are really interested in using design in a sort of parallel way to question and challenge the sort of status quo of things.
+
+00:30:56.380 --> 00:31:07.380
+ The everyday agendas of our moderno-techno-capitalist overlords.
+
+00:31:07.380 --> 00:31:16.380
+ And so that's why we should design for the future today.
+
+00:31:16.380 --> 00:31:17.380
+ To keep that from being the only way.
+
+00:31:17.380 --> 00:31:18.380
+ To keep that from being the only way.
+
+00:31:18.380 --> 00:31:19.380
+ To keep that from being the only way.
+
+00:31:19.380 --> 00:31:20.380
+ To keep that from being the only way.
+
+00:31:20.380 --> 00:31:20.380
+ To keep that from being the only way.
+
+00:31:20.380 --> 00:31:21.380
+ To keep that from being the only way.
+
+00:31:21.380 --> 00:31:22.380
+ To keep that from being the only way.
+
+00:31:22.380 --> 00:31:23.380
+ To keep that from being the only way.
+
+00:31:23.380 --> 00:31:24.380
+ To keep that from being the only way.
+
+00:31:24.380 --> 00:31:25.380
+ To keep that from being the only way.
+
+00:31:25.380 --> 00:31:26.380
+ To keep that from being the only way.
+
+00:31:26.380 --> 00:31:27.380
+ To keep that from being the only way.
+
+00:31:27.380 --> 00:31:28.380
+ To keep that from being the only way.
+
