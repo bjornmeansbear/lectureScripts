@@ -254,12 +254,70 @@ And the degree-project question stops being "is this a good idea" and becomes **
 
 Build notes: animate across three slides (full cone -> ghost appears -> collapse to line) so the loss is watched rather than described, and leave the shaded region unlabeled until the third beat.
 
+### Parsons & Charlesworth (Jessica Charlesworth & Tim Parsons) — seven built slides, no script text
+
+Seven slides exist in the deck (`4.3 Jessica Charlesworth and Tim Parsons`) and the script has never mentioned them. Their line, on every one: *"an art and design studio that develops tangible worlds as discursive tools for critically appraising urgent issues."*
+
+Kristian's read, 2026-09-02: same vein as Dunne & Raby, but **more performative**, and a wider range of tools — drawing, sketching, models, full-size functioning designs, film. He particularly wants the multispecies sustainability work.
+
+**Multispecies Inc.** is a fictional company making tools for "multispecies living," and they act as its de facto employees — designing, prototyping and publishing on its behalf since 2022, with real interviews with ecologists and scholars feeding it. Dunne & Raby make objects and put them in a vitrine; P&C staff an organization in public.
+
+The sharpest thing on their project page is that it is built to fail on purpose:
+
+> it will highlight the inevitably human-centric nature of design, in that, even while attempting to place other species first, the protagonists are constantly thwarted by the limits of human knowledge and imagination
+
+They designed a company whose thesis is that the company cannot succeed. Same shape as the shipping-container wrinkle above — a preferable future with the problem baked in.
+
+**Future Climate Souvenirs** does something §1 has no example of. Their framing: the climate crisis "through humor and speculation rather than doomsday scenarios." *Future Climate Souvenirs of New York* is six patches and a baseball cap from future nature reserves and ecotourist sites. Not utopian, not dystopian — a gift shop. Foster gives §1 *mundane* as the third option; this gives it *funny*, and it is merchandise from Bleecker's archaeology. A 2025 Chicago Architecture Biennial edition exists with a kiosk stand.
+
+Also **Catalog for the Post-Human** (Venice Architecture Biennale 2021) — ClickbaitWear, Mycopops, the NootDial, plus an infomercial and a trade-fair stand. That is the range of media.
+
+**One real fact worth carrying:** the project responds partly to the **zoöp**, an actual company structure giving non-human life a voice in governance. Real, not fiction. Same move as the Stallman note above — the designed object is a legal instrument — pointed at ecology.
+
+**Where they go: end of §7, right after Superflux.** The section then escalates cleanly, all three already built as slides:
+
+- Bleecker's IKEA catalog — an artifact
+- Superflux's apartment — a space you walk into
+- Parsons & Charlesworth — an organization you can transact with
+
+Each rung bigger than the last, and it hands into §10, because P&C have already crossed from speculating to operating — the move seniors are being asked to make.
+
+They also give §5 something it lacks. Sustainable, circular, decarbonized, decolonized — none of those is *non-human-centric*, which is what Multispecies Inc. asks about.
+
+**Open question, blocking the draft.** Kristian says "full size actually functioning designs." The site shows objects, prototypes, an infomercial, a trade-fair stand, a biennial kiosk — but not which pieces actually work versus which are convincing props. That distinction is the whole Dunne & Raby contrast, since the robots are non-functional props for debate. Answer it before writing the passage.
+
+- [Multispecies Inc.](https://parsonscharlesworth.com/multispecies-inc/)
+- [parsonscharlesworth.com](https://parsonscharlesworth.com/)
+
 ### Teaching tools
 
 - **"The Thing From The Future"** — Candy & Jeff Watson (Situation Lab). Candy is already cited for the cone; this is his instrument. A ~20-minute generative exercise for seniors stuck on degree projects.
 - **Extrapolation Factory** (Chris Woebken & Elliott Montgomery) — publish an operator's manual for running futures workshops.
 
 ---
+
+## Loose ends from the 2026-09-02 session
+
+**Credit the cone properly.** The band definitions on the slides are close to verbatim from Epaminondas Christophilopoulos, ["Special Relativity Theory Expands the Futures Cone's Conceptualisation of the Futures and The Pasts"](https://jfsdigital.org/articles-and-essays/vol-26-no-1-september-2021/special-relativity-theory-expands-the-futures-cones-conceptualisation-of-the-futures-and-the-pasts/), *Journal of Futures Studies* 26(1), Sept 2021 — which is in the are.na channel. Compare slide `2 Future Cone 09` against the paper's gloss on Voros: identical. Given every other slide carries `TYPE:`/`IMAGE:` and a licence URL, the band slides want a Voros (2017) credit via this. The paper also gives the fuller lineage: **Charles Taylor, 1990** ("cone of plausibility," built for geopolitical scenario planning), then Hancock and Bezold, then Voros's seven-band version in 2003. The script says Voros ← Dunne & Raby ← Candy, which is the design-world path, not the origin.
+
+**Blauvelt's other connection, unused.** *Defuturing the Image of the Future* notes that world's fairs staged Indigenous people in "living dioramas" as the past against which the future was measured. That is Blauvelt, Whyte and Prado & Oliveira converging on one exhibition format. Probably too heavy to open §8 with, but it is the strongest connective tissue available if §8 and §9 should ever be one argument.
+
+**The Lost Cause sentence, §9.** What separates Hackett from revisionism is that his work is openly fiction; speculative history claiming to be documentation is propaganda. The honesty about being invented is what does the ethical work. Undecided whether it earns a line or the room gets there alone.
+
+**Still unbuilt: the mirrored cone.** §3 now describes a double cone — past cone below, future cone above, now as the pinch point — and the deck does not draw it. One added frame in the existing `2 Future Cone` build.
+
+**are.na candidates reviewed 2026-09-02, not yet used:**
+
+- **CopenHill / Amager Bakke** (the Quartz piece) → §10. Every "make it now" example is individual-scale; this is the same move at civic scale. Note the vapour ring was never built — see `booklet-new-design-commons/07-signs-signaling-sustainability.md`.
+- **Coca-Cola Y3000** → §1. The AI-generated "flavor of the future." Foster's cinematic-aesthetics-without-a-plot, in a can.
+- **The Tomorrow Times / 2030 newspaper** → §7, beside the IKEA catalog. A purchasable artifact from the future.
+- **ISS Archaeology (Justin Walsh) + Hale's *The Brick Moon* (1869)** → §7. Bleecker's "archaeologist of the future" is a metaphor; Walsh literally does archaeology of the ISS, and Hale wrote the first fictional space station a century before anyone built one. Delightful, not necessary.
+- **James Auger interview → "perceptual bridge."** §7 already asks how you clue somebody into a world without explaining it. Auger named that problem.
+- **Bookchin, "Utopia, not futurism"** → §9 or §11. Non-designer, same register as Imarisha.
+- **Lisa Kay Solomon, "How to Be a Good Ancestor"** → §4, on the time-asymmetry point.
+- **Backcasting** → §10. The method paragraph already *is* backcasting; naming it gives students something searchable.
+
+Reviewed and skipped: Jaron Lanier's "There Is No A.I.", Purism convergence, the postcyberpunk manifesto, Folklore/Ark. Not on any thread the talk runs.
 
 ## Transcript name corrections
 
