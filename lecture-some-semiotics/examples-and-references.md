@@ -495,7 +495,71 @@ the HAL launch year and the Rietveld painting date before they go on a slide.
 
 ---
 
-## 4 · From the are.na channel
+## 4 · The Chair-ness deck — already built
+
+Figma page `0:1`, **AD1: Chair-ness (Knowledge Domain / SLG)**, in the same file as the
+semiotics deck. 26 slides. Most of what §5, §8 and §13 need is already made — pull it
+across rather than building it.
+
+| Node | What it is | Where it goes |
+|---|---|---|
+| `55:1425` | The line-drawing chair — chair-ness as pure line | §5 opener |
+| `55:1409` | "A designed object for sitting, typically with a seat, back, and often legs" | §5 |
+| `1:2` | Function / structure / intention, with Thonet No. 14 | §5 |
+| `55:1432` | Grid of many chairs — Panton, Bofinger, Hand Chair, Carbon Balloon, Bina | §8 |
+| `1:9` | **The blob diagram** — Form/Content/Context, chair at the intersection | §13 |
+| `13:60` | Enzo Mari, Sedia 1, *Autoprogettazione*, 1973 | see below |
+| `13:63` | **Joseph Kosuth, One and Three Chairs, 1965** | §5 close |
+| `155:2` | **Yoko Ono** — the burning chair quote | §11 |
+
+### Kosuth is the best thing on that page
+
+*One and Three Chairs* (1965): a wooden folding chair, a life-size photograph of that chair,
+and an enlarged dictionary definition of the word "chair" — all three hung together as one
+work.
+
+It is the denotation ladder, built. The object, an icon of it, and the words for it, in one
+room. A student who has been half-listening for four minutes gets the entire section in one
+look.
+
+**And the dictionary panel inside the artwork contains the department-chair joke.** The
+definition Kosuth photographed runs: *a seat with a back, and often arms, usually for one
+person; a seat of office or authority, or the office itself; the person occupying the seat
+or office, esp. the chairman of a meeting.* The gag lands and then the artwork turns out to
+have been holding it since 1965. That's now the close of §5.
+
+### The blob diagram — and a correction
+
+`1:9` is the diagram you talk yourself out of on the tape ("I think I can leave out my sort
+of blob diagram"). I cut it on that basis. **That was wrong.**
+
+Three overlapping fields with the line-drawing chair sitting where they meet, and Form,
+Content and CONTEXT each set in a different typeface — a grotesque, a serif, an engraved
+outline. The diagram enacts the argument it's making. The 3005 table states the same thing
+and demonstrates nothing.
+
+It's now §13's main slide. Keep 3005 as the backup for a room that wants the tidy version.
+
+### Yoko Ono, for Saussure
+
+> There is no chair that two see together. I think it is possible to see a chair as it is.
+> But when you burn the chair, you suddenly realize that the chair in your head did not burn
+> or disappear.
+
+Burn the signifier; the signified is untouched. It's the cleanest statement of Saussure's
+split available and it isn't by Saussure. Slide `155:2`, already built with a photo of a
+chair burning in the Indiana woods (Unsplash, free licence, credit is on the slide).
+
+### Enzo Mari, not for this lecture
+
+*Sedia 1* from *Proposta per un'autoprogettazione* (1973) — Mari published the drawings so
+anyone could build the furniture from rough boards. Authored design, given away. It belongs
+to `../workshop-open-source-design/` and the commons material, and it sits one slide away
+from the monobloc argument in §8 if you ever want to connect them. Flagging, not scheduling.
+
+---
+
+## 5 · From the are.na channel
 
 96 blocks, read 2026-09-03. Most of it is background reading you've already metabolised —
 Saussure explainers, eight different SlideServe intro decks, the Wikipedia spine. What
@@ -609,7 +673,7 @@ anything readable. The Noun Project cow block is in twice (16 and 36).
 
 ---
 
-## 5 · If you assign one thing
+## 6 · If you assign one thing
 
 **Chandler's *Semiotics for Beginners*** for the students who want the field mapped — free,
 online, already in your channel three times over, and it covers Hall and the criticisms of

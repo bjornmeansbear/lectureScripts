@@ -16,13 +16,13 @@ arena: https://www.are.na/kristian-bjornard/lecture-some-semiotics
 
 *[Magritte, The Treachery of Images, 1929]*
 
-Who recognizes this painting?
+Does anyone recognize this painting?
 
 You probably saw it in art history. It's Magritte. The painting is called *The Treachery of Images*, and written across the bottom is *Ceci n'est pas une pipe.* This is not a pipe.
 
 So what's the point of painting a pipe and then telling me it isn't one?
 
-It's a painting of a pipe. It's meant to make you think of pipe-ness. It is not a pipe. You can't smoke it.
+It's a painting of a pipe. It's meant to make you think of pipe-ness. It is literally *not* a pipe.
 
 That's not hard to grasp. It is strange, though. And once you've noticed it you start wondering what else a pipe is standing in for, if it isn't just being a pipe. That's where we live as graphic designers.
 
@@ -30,13 +30,13 @@ That's not hard to grasp. It is strange, though. And once you've noticed it you 
 
 I used to design for one of the art museums in town and we made this mug. It says "this is not a coffee mug" on the mug. My mom asked why I would do that. I said because it's a tea mug.
 
-Okay. Joke's over.
+Designer Joke or dad joke?
 
 *[SEMIOTICS!]*
 
 Semiotics is the study of signs and symbols and how they carry meaning.
 
-For us that's text and images. It's also the materials you pick. The form of an object. How an interface works. The shape of the legs on a chair. The sound a button makes when you press it.
+For you graphic designers that is text and images, the paper stock, what is happening on screens. For product designers, that might also be the materials you pick, how different parts are connected. The form of an object. How an interface works. The shape of the legs on a chair. The sound a button makes when you press it.
 
 It's the philosophy you're already using as a designer, whether or not you know the word. How do we make choices about how a thing looks and works and what it's made of. And then what meaning do people get out of that.
 
@@ -44,7 +44,7 @@ It's the philosophy you're already using as a designer, whether or not you know 
 
 > Semiotics tells us things we already know in a language we will never understand.
 
-We're going to do this with two things all the way through. A chair and a cat.
+We're going to do this with two things — A chair and a cat.
 
 ## 2. Signs signaling on substrates
 
@@ -68,7 +68,7 @@ Everything we understand got made up by somebody.
 
 Tying a concept to a word. Tying a concept to a form. Bolting simple concepts together into complicated ones. All of it invented, all of it agreed on by a culture.
 
-When cultures don't agree, that's where the conflict is. And there are concepts that have no sign at all in some places, because the thing doesn't exist there, so the word doesn't either.
+When cultures don't agree, that's where the conflict is. And there are concepts that have no sign at all in some places, because the concept doesn't exist there, so a word or image to convey that doesn't either.
 
 *[Nothing has intrinsic meaning!]*
 
@@ -78,9 +78,9 @@ Nothing has intrinsic meaning.
 
 But meaning matters. Being clear matters.
 
-I don't think the modernists were right that there's one correct universal way to say a thing. I do think that when you make something, people in different times and places will read it differently, and that's fine.
+I don't think the modernists were right that there's one correct universal way to state a concept, to convey a meaning. I do think that when you make something, people in different times and places will read it differently, and that's fine.
 
-It's less fine if you're trying to keep people out of a nuclear waste site for ten thousand years. Different problem.
+Although, it's less fine if you're trying to keep people out of a nuclear waste site for ten thousand years. Different problem perhaps for a different talk.
 
 ## 4. Barthes
 
@@ -90,13 +90,13 @@ French. Post-war. Wrote about art and everyday culture. He called himself a *phi
 
 He spent a lot of time explaining how ordinary French things — a car, a haircut, steak and chips — get enormous importance thrust on them.
 
-He's good on the two kinds of meaning a sign carries, and that's what we want him for.
+He's good on the two kinds of meaning a sign carries — denotation and conotation.
 
 ## 5. Denotation, or what a chair is
 
 *[Denotation]*
 
-Denotation is the literal definition. The dictionary meaning. As close to fact-based reporting as meaning-making gets.
+Denotation is the literal definition of a sign. The dictionary meaning. As close to fact-based reporting as meaning-making gets.
 
 *[chair · chair icon · C-H-A-I-R · 의자 · stol · 椅子 · the definition]*
 
@@ -104,7 +104,21 @@ The word "chair." An icon of a chair. C-H-A-I-R, five letters we decided mean ch
 
 All of those are trying to say the same thing. What they're trying to convey is chair-ness.
 
-So let's judge some chair-ness.
+*[chair-ness]*
+
+So here's my definition. A designed object for sitting, typically with a seat, a back, and often legs.
+
+"Typically" and "often" are doing a lot of work in that sentence. Strip out the style and the material and the history, and what's actually left is three things.
+
+- **Function.** It supports a seated body.
+- **Structure.** There's a surface to sit on.
+- **Intention.** Somebody meant it to provide respite or support.
+
+That's chair-ness. Everything else is negotiable.
+
+I've been running a project on this for a few years with Christopher Attenborough, building chairs out of whatever's around, and that definition is what's survived a couple hundred of them.
+
+So let's test it.
 
 *[stool]*
 
@@ -112,21 +126,35 @@ A stool. No back. Is that chair-ness?
 
 *[beanbag]*
 
-A beanbag. No legs, no back, no frame.
+A beanbag. No legs, no back, no frame. Still a chair???
 
 *[throne]*
 
-A throne. That's all chair, plus something else. Hold that one.
+A throne. That's all chair, plus something else.
 
 *[tree stump]*
 
 Somebody sits on this stump every day on their walk. Is it a chair?
 
-It's a chair because somebody uses it as one. Nothing about the object changed. Remember that, we're coming back to it in about twenty minutes.
+Now look at what just happened to my definition. Function, yes. Structure, yes. Intention — no. Nobody meant this. A tree meant it.
+
+So either the stump isn't a chair, or intention doesn't have to come from whoever made the thing. It can come from whoever uses it.
+
+Nothing about the object changed. Remember that. We'll return to the "reader" bringing the intention…
 
 *[chair, the word]*
 
 And then "chair" doesn't have to have anything to do with sitting at all. You can chair a meeting. You can be the chair of a department. I was, for a while. The job did not come with a seat.
+
+*[Joseph Kosuth, One and Three Chairs, 1965]*
+
+Somebody made this whole argument as an artwork sixty years ago.
+
+A wooden folding chair. A photograph of that same chair, life size. And an enlarged dictionary definition of the word "chair." All three on the wall together, and all three are one piece.
+
+That's the ladder we just climbed, standing in a room. The object. A picture of it. And the words for it.
+
+Now read what the dictionary panel actually says. A seat with a back, and often arms, usually for one person. Then: a seat of office or authority, or the office itself. Then: the person occupying the seat or office, especially the chairman of a meeting.
 
 ## 6. Is anything neutral?
 
@@ -304,6 +332,14 @@ Signifier and signified. The word "cat," the sound a cat makes, a picture of fur
 
 He's a modernist about it. One to one. Get the system right and meaning becomes an algorithm.
 
+*[burning chair]*
+
+Yoko Ono got at the same split in one sentence, and she did it with a chair.
+
+> There is no chair that two see together. I think it is possible to see a chair as it is. But when you burn the chair, you suddenly realize that the chair in your head did not burn or disappear.
+
+Burn the signifier. The signified is untouched.
+
 *[Charles Sanders Peirce, 1839–1914, USA]*
 
 Peirce — it's pronounced "purse" — is American. He's in Baltimore for a while, teaching at Hopkins. And he wants logical rules for *any* kind of sign, not just words.
@@ -390,7 +426,9 @@ If that one is interesting to you, go read Baudrillard. *Simulacra and Simulatio
 
 Last thing. All of it depends on context. Where a sign is, when it is, and who's standing in front of it.
 
-*[Form / Content / Context]*
+*[the blob diagram — Form / Content / Context, with the chair at the intersection]*
+
+Here's the version of this I actually draw. Three overlapping fields, and the chair sits where they overlap. Notice the three words aren't set the same way, which is the whole point showing up in the lettering.
 
 Modernists worked on **form**. Single forms, maximum meaning, and the designer decides what the form means.
 

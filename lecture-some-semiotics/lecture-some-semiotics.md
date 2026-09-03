@@ -772,8 +772,14 @@ In `cuts-and-restores.md`, with the restore order for 35 and 45 minutes.
   slide — the painting, then the mug.
 - **The Beatrice Warde crystal goblet has no slide.** It's carrying §6, which is a payload
   section, off a spoken aside.
-- **Chair slides don't exist yet.** §5 and §8 both need building. Shot list is in
-  `examples-and-references.md`.
+- **Chair slides mostly exist already** — on a different page of the same Figma file,
+  `AD1: Chair-ness (Knowledge Domain / SLG)`, page `0:1`. Built and ready to pull:
+  the line-drawing chair (`55:1425`), the plain definition (`55:1409`), the
+  function/structure/intention triad with Thonet No. 14 (`1:2`), a grid of many chairs
+  (`55:1432`), the blob diagram (`1:9`), Kosuth (`13:63`), the Ono burning chair
+  (`155:2`), and Enzo Mari's Sedia 1 (`13:60`).
+  Still to build: the chair-ness edge cases for §5 (stool, beanbag, throne, tree stump) and
+  the six-materials run for §8. Shot list is in `examples-and-references.md`.
 - **Blurry images.** You hit these live around the Duvall slides — "they've gotten quite
   blurry, I don't know if that means they're missing from Figma."
 - **Ray cats have no slide.** §7 now ends on them. One slide is enough — a cat and the

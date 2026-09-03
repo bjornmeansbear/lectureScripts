@@ -85,7 +85,13 @@ biography, the Saussure mustache, the Target logo run — were made because they
 weakest minutes on the tape, not because of arithmetic. Putting them back gets you a longer
 lecture rather than a better one. Restore whole blocks from the list above instead.
 
-**What never comes back:** the blob diagram, and the Emigre digression in the form it took
-on tape. If Emigre returns it should return as §6's answer to "so what did designers do
+**Correction, 2026-09-03:** the blob diagram is *not* cut. I dropped it on the strength of
+the transcript, where you talk yourself out of it mid-sentence. Then I looked at it — it's
+on the Chair-ness page, node `1:9` — and it's better than the 3005 table it was competing
+with. The chair sits at the intersection of the three fields, and Form, Content and Context
+are each set in a different typeface, so the diagram performs its own argument. It's now
+§13's main slide and the table is the backup.
+
+**What never comes back:** the Emigre digression in the form it took on tape. If Emigre returns it should return as §6's answer to "so what did designers do
 once they stopped believing in neutral?" — with Katherine McCoy and David Carson named —
 rather than as the aside you talked yourself out of mid-sentence.
