@@ -70,6 +70,16 @@ Around 2006 several computer companies started putting bamboo shells on laptops.
 
 A trope can be stolen. A value has to be enacted, and it shows up in what the object does rather than in how it's finished.
 
+Peirce has the vocabulary for why, and it's worth borrowing. He sorts signs by how they relate to the thing they point at. An icon resembles it — a leaf. A symbol means it by convention — the recycling triangle. An index is physically caused by it — smoke, a footprint, a path worn across a lawn.
+
+Greenwashing runs on icons and symbols, and the recycling triangle is the whole case in one mark. It borrows the form of the Möbius loop, which means recyclable, and puts a resin identification number inside it, which means what plastic this is. Nothing on the container is false. Almost nobody reads it correctly, and a #6 clamshell nothing will ever recycle still gets to wear it.
+
+You can draw an icon of anything and assign a symbol to anything. Both cost an afternoon. An index costs whatever the thing costs, because the thing has to have happened. The crosswalk is paint somebody put on a real intersection. The solar site goes dark when the battery does.
+
+Indices can be faked. That is forgery, and it is a different act — a molded weld seam, a distressed jean, a stamped "handmade." Faking an icon is design. Faking an index is a lie about what happened.
+
+Biology and economics both arrived at this without design. Zahavi's handicap principle says the peacock's tail is honest because it is a burden; Spence's signalling theory says the same about a degree. A signal is trustworthy in proportion to what it costs to fake. That is the whole reason enacted values look different from applied ones.
+
 ## What I actually think now
 
 > There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named. It is never twice the same, because it always takes its shape from the particular place in which it occurs.

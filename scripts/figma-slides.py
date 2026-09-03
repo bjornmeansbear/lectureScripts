@@ -6,9 +6,10 @@ Why this exists: several lectures in this repo have a finished deck and no scrip
 record of the argument, and it is locked inside Figma where nothing can grep it,
 diff it, or cross-reference it from SHARED-COMPONENTS.md. This pulls it out.
 
-It also surfaces frames that are built but hidden — the Design for the Future
-deck was carrying finished Clarke and Dator slides that never got delivered
-because `visible: false` made them invisible to everyone including their author.
+Hidden frames are marked `[hidden]` rather than dropped. Hiding a frame is how
+a slide gets benched from the current cut of a talk while staying in the file,
+so the dump shows what is on the bench alongside what is in — the Design for
+the Future deck keeps finished Clarke and Dator slides that way.
 
 The output is a dated snapshot. Figma stays source of truth. Regenerate, don't edit.
 
@@ -31,11 +32,35 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
 
 API = "https://api.figma.com"
+RETRIES = 4  # Figma throttles a burst of page requests; a loop over a whole file hits it
+
+
+def fetch(url, token, what):
+    """GET with backoff on throttling and transient server errors."""
+    req = urllib.request.Request(url, headers={
+        "X-Figma-Token": token, "Accept": "application/json"})
+    for attempt in range(RETRIES):
+        try:
+            with urllib.request.urlopen(req) as resp:
+                return json.load(resp)
+        except urllib.error.HTTPError as exc:
+            if exc.code in (429, 500, 502, 503, 504) and attempt < RETRIES - 1:
+                wait = 2 ** attempt
+                print(f"  {exc.code} on {what}, retrying in {wait}s…", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            body = exc.read().decode("utf-8", "replace")[:400]
+            hint = ""
+            if exc.code == 403:
+                hint = ("\nA 403 usually means the token lacks file_content:read, "
+                        "or you can't see this file.")
+            sys.exit(f"HTTP {exc.code} on {what}\n{body}{hint}")
 
 
 def load_token():
@@ -79,10 +104,10 @@ def parse_target(target):
             node = (q.get("page-id") or q.get("node-id") or [None])[0]
         else:
             node = (q.get("node-id") or q.get("page-id") or [None])[0]
-        if not node:
-            sys.exit("URL has no node-id. Open the page in Figma and copy its link.")
-        return key, node.replace("-", ":")
+        return key, (node.replace("-", ":") if node else None)
     parts = target.split()
+    if len(parts) == 1:
+        return parts[0], None
     if len(parts) != 2:
         sys.exit("Pass a Figma URL, or 'FILEKEY NODEID'.")
     return parts[0], parts[1].replace("-", ":")
@@ -90,19 +115,13 @@ def parse_target(target):
 
 def get_nodes(key, node, token):
     url = f"{API}/v1/files/{key}/nodes?" + urllib.parse.urlencode({"ids": node})
-    req = urllib.request.Request(url, headers={
-        "X-Figma-Token": token,
-        "Accept": "application/json",
-    })
-    try:
-        with urllib.request.urlopen(req) as resp:
-            return json.load(resp)
-    except urllib.error.HTTPError as exc:
-        body = exc.read().decode("utf-8", "replace")[:400]
-        hint = ""
-        if exc.code == 403:
-            hint = "\nA 403 usually means the token lacks file_content:read, or you can't see this file."
-        sys.exit(f"HTTP {exc.code} fetching {node} from {key}\n{body}{hint}")
+    return fetch(url, token, f"{node} in {key}")
+
+
+def get_pages(key, token):
+    """Top-level canvases only — depth=1 keeps this cheap on a big file."""
+    doc = fetch(f"{API}/v1/files/{key}?depth=1", token, f"page list for {key}")
+    return doc.get("name"), (doc.get("document") or {}).get("children") or []
 
 
 def walk_text(node, out, max_text):
@@ -124,6 +143,9 @@ def main():
         description="Dump a Figma page's frames and on-slide text to markdown.")
     ap.add_argument("target", help="Figma URL with a node-id, or 'FILEKEY NODEID'")
     ap.add_argument("-o", "--out", help="write here instead of stdout")
+    ap.add_argument("--list-pages", action="store_true",
+                    help="list every page in the file and exit — one per line, "
+                         "'NODEID<tab>NAME', so a shell loop can dump them all")
     ap.add_argument("--min-width", type=float, default=1000.0,
                     help="ignore frames narrower than this (default 1000, "
                          "which drops scratch groups and keeps 1920px slides)")
@@ -142,6 +164,17 @@ def main():
 
     key, node_id = parse_target(args.target)
     token = load_token()
+
+    if args.list_pages:
+        fname, pages = get_pages(key, token)
+        print(f"{fname} — {len(pages)} pages", file=sys.stderr)
+        for pg in pages:
+            print(f"{pg.get('id')}\t{pg.get('name')}")
+        return
+
+    if not node_id:
+        sys.exit("No node-id in that URL. Use --list-pages to see what's in the "
+                 "file, or copy a page-specific link from Figma.")
 
     print(f"fetching {node_id} from {key}…", file=sys.stderr)
     data = get_nodes(key, node_id, token)

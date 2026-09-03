@@ -143,7 +143,23 @@ A sign is anything that can be interpreted as having meaning.
 
 > "Big Red Boots are REALLY not shaped like feet, but they are EXTREMELY shaped like boots."
 
-Anchor the section on this, not the definitions. An object built to resemble the *sign* of a boot rather than the *function* of one — iconicity and reference coming apart in a thing you can buy.
+Anchor the section on this, not the definitions. The boot isn't shaped like a foot, it's shaped like the *cartoon convention* for a boot — an icon whose object is itself a symbol, a resemblance to something that was already arbitrary.
+
+Which makes it the second kind of overlap, not a repeat of the first. The cat glyph at 505 is symbol and icon *at once*, superimposed in one mark. The Big Red Boot is an icon *of* a symbol, one nested inside the other. Two structures, two slides, both already built — and together they close the run a rung above the definitions it opened with.
+
+**Three things to add when this gets written.**
+
+*Say they're Peirce's.* Icon/index/symbol is his second trichotomy — the sign classified by how it relates to its object. Right now slides 1000–1011 teach the triad and 2000 starts what reads like a new topic. Attributing it makes the two runs one argument: the triad says meaning is a relation, this names the three kinds.
+
+*They're aspects, not bins.* Most signs are two at once. A photograph of a cat is iconic and indexical — it resembles a cat, and light bounced off a real one to make it. A deer crossing sign is an icon inside a symbol. Teaching them as exclusive categories is what intro treatments get wrong, and designers hit the overlap constantly.
+
+**The demonstration is already built — reach back, don't build.** Slide 503 is "cat" in a neutral grotesque; slide 505 is "Cat" in a display face whose *C* is a cat, ears and eyes and a curling tail making the bowl. That glyph is a letter and a picture of a cat at once — symbol and icon in one mark, in type, which is the most designerly version of the point available. Slide 600, the ICE cooler, does the same thing: Latin letterforms with icicles growing off them. Re-show 505 here and the categories stop being categories in front of the room, using evidence they already accepted in §6.
+
+That 503/505 pair also carries §5's argument. The plain grotesque is the "neutral" one, and §5 has already established that neutrality is a claim rather than a state. Two slides, three jobs — connotation, the Modernism critique, and the icon/symbol overlap.
+
+*The index is the one that pays off — and it connects to `booklet-new-design-commons/07-signs-signaling-sustainability.md`.* You can draw an icon of anything and assign a symbol to anything; both cost an afternoon. An index costs whatever the thing costs, because the thing has to have happened. Which is why greenwashing runs on icons and symbols. The recycling triangle is the case: a Möbius loop, which means recyclable, wrapped around a resin code, which means what plastic this is — a connotation that hardened into a fact, which is Barthes's myth from §8 arriving in a second place. Indices can be faked, but that's forgery, and forgery is a different act than design. Underneath it is costly signalling, which biology (Zahavi's handicap principle) and economics (Spence) reached independently: a signal is trustworthy in proportion to what it costs to fake.
+
+Note: an empty litter box works by physical association rather than causation, which Peirce allows but a sharp student will push on — a cat didn't cause the litter box, a cat owner did. Put cat poop in it and the gap closes: a trace is the paradigm index, physically made by the thing it points at, same category as the footprint. Also the better slide.
 
 ## 12. Context — slides 3000–3005
 
