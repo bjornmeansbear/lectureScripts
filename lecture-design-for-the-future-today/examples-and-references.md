@@ -256,6 +256,13 @@ Build notes: animate across three slides (full cone -> ghost appears -> collapse
 
 ### Parsons & Charlesworth (Jessica Charlesworth & Tim Parsons) — seven built slides, no script text
 
+- https://parsonscharlesworth.com/
+- https://parsonscharlesworth.com/multispecies-inc/
+- https://parsonscharlesworth.com/multispecies-inc-at-space-time-gallery/
+- https://parsonscharlesworth.com/multispecies-inc-works-on-paper/
+- https://parsonscharlesworth.com/eco-fables-tales-of-multispecies-inc/
+- https://parsonscharlesworth.com/multispecies-inc-book/
+
 Seven slides exist in the deck (`4.3 Jessica Charlesworth and Tim Parsons`) and the script has never mentioned them. Their line, on every one: *"an art and design studio that develops tangible worlds as discursive tools for critically appraising urgent issues."*
 
 Kristian's read, 2026-09-02: same vein as Dunne & Raby, but **more performative**, and a wider range of tools — drawing, sketching, models, full-size functioning designs, film. He particularly wants the multispecies sustainability work.
@@ -284,7 +291,29 @@ Each rung bigger than the last, and it hands into §10, because P&C have already
 
 They also give §5 something it lacks. Sustainable, circular, decarbonized, decolonized — none of those is *non-human-centric*, which is what Multispecies Inc. asks about.
 
-**Open question, blocking the draft.** Kristian says "full size actually functioning designs." The site shows objects, prototypes, an infomercial, a trade-fair stand, a biennial kiosk — but not which pieces actually work versus which are convincing props. That distinction is the whole Dunne & Raby contrast, since the robots are non-functional props for debate. Answer it before writing the passage.
+**Resolved 2026-09-03 — and it reframes the Dunne & Raby contrast.**
+
+The apparatuses exist at three different degrees of realness, and the ladder is the point.
+
+**Represented — and this is most of it.** Pencil drawings, models, digital collages and photo compositions. The Tree Kin-Gatherer, the Fog Distributor, the systems map, the works on paper. Tableaux, in their own word: scenes of life arranged for picturesque or dramatic effect. Their text concedes the mix — the drawings "illustrate imaginary *and real* contraptions."
+
+**Mocked up and performed.** The Nomadic Fog Collector exists as a mock, and it gets performed — a person out in the world operating it, not an object sitting in a case. This is the rung Dunne & Raby don't have. Their robots were filmed, but filmed as objects; here somebody wears the thing in public.
+
+**Actually built.** The Algae Kin-Gatherer is a real outdoor sculpture. It got made.
+
+And the media around all of it are fully realized rather than mocked: a RISO-printed artist's book with six stories and a pull-out poster, designed with Michael Savona, in a purchasable limited edition; *Eco-Fables: Tales of Multispecies Inc.* as a working Unity environment projected on gallery windows; a reading by Taja Cheek (L'Rain) at NEW INC's Microbial Chorale dinner at the Ace Hotel; shows at the Design Museum, London (*More Than Human*) and Space & Time Gallery, Chicago.
+
+So the contrast with Dunne & Raby is not that these work and those don't. **Dunne & Raby make props that mimic a type they aren't** — four non-functional objects in a vitrine, one register, held at one distance. **Parsons & Charlesworth run the whole ladder at once**, from a pencil drawing to a performed mock to a sculpture that got built, plus books and software that are real instances of their type. The bulk is still representation — drawings, models, photo compositions — but the ladder extends further at the far end than Dunne & Raby's does, and the fiction gets held at several distances simultaneously. That is what the wider range of tools is actually for.
+
+**The book cover is an index — and it links this lecture to the semiotics one.**
+
+> Each cotton rag paper cover was hand-made at the artist's studio. The cover is hand-cast into a mold taken from the surface of an ash tree killed by the emerald ash borer beetle. The indentations in the cover are the channels created by the larvae, which disrupt tree's ability to carry nutrients.
+
+The larval channels physically caused the mold. That is a trace, the paradigm case of a Peircean index — same category as the footprint. A climate fiction whose physical cover is real evidence of real ecological damage, in a project about the limits of representing non-human life. They did not draw the beetle. They cast what it did. See the index/greenwashing entry in `SHARED-COMPONENTS.md`; this is the same argument arriving as an object.
+
+**Their own framing of the third option**, which is §1's problem in their words: the project works "in contrast with utopian or dystopian climate futures."
+
+**More worth knowing.** *The System* is Multispecies Inc.'s AI ally, issuing orders to members to maintain ecological equilibrium — a governance fiction, not a gadget. The project came out of real grants: Headlands Center for the Arts, a Canada Council research grant, NEW INC, and the AHRC-funded **Design for the Unthinkable World**, which asked six design studios to design for a non-human-centric future.
 
 - [Multispecies Inc.](https://parsonscharlesworth.com/multispecies-inc/)
 - [parsonscharlesworth.com](https://parsonscharlesworth.com/)
@@ -295,6 +324,24 @@ They also give §5 something it lacks. Sustainable, circular, decarbonized, deco
 - **Extrapolation Factory** (Chris Woebken & Elliott Montgomery) — publish an operator's manual for running futures workshops.
 
 ---
+
+## Delivery and structure — open questions
+
+**Run the examples fast.** Kristian, 2026-09-03: *"I like having all of these examples… I need to get better at showing them fast and furiously, and not labor over each one, but really provide the audience with THE POINT and many different ways of understanding bringing the future to life today in our designs."*
+
+The deck already knows this. Its fourth section is literally named `4 Quick Examples`. The script is the part that forgot — it currently gives every example three or four paragraphs of equal weight.
+
+**§9 is where that costs the most.** Six examples — Futurama, Brand's button, Engelbart, Knowledge Navigator into the iPhone, the Dynabook, Wikipedia — all written at full weight, when five of them exist to establish that the move repeats and only one needs to land slowly. State the point once at the top, then run them. That is a rewrite into a different prose form, not new research. §11 has the same shape with the small-scale examples.
+
+**§8 was added to make that possible.** Naming three modes — make the picture / build the small real thing / hold it for decades — gives the room a slot to drop each example into, so an example can cost one line instead of a setup. The bet is that §9 and §11 get faster now that their examples are labelled. If they don't, §8 is dead weight and should come out.
+
+**Length.** The talk is now twelve sections for ~30 minutes. §8 only pays for itself if the sections after it shrink.
+
+**§3 is still the heaviest section, and it's early.** Six bands, the mirrored cone, the light-cone material, and Clarke. Dator's four archetypes already came out for this reason. Watch it in delivery.
+
+**§8 has no slides.** The three modes and the communicator → StarTAC beat are script-only. The deck has nothing for them.
+
+**Cooper's Star Trek claim is testimony, not documentation.** He has said in interviews many times that the communicator is what he was chasing. That is his own account, repeated and credible, but it is not a contemporaneous record — so *"he's said that's what he was chasing"* is the phrasing that holds up on stage. Dates that are documented: communicator on screen 1966, first handheld call 3 April 1973, Motorola StarTAC 1996, Franz Joseph's blueprints 1975.
 
 ## Loose ends from the 2026-09-02 session
 

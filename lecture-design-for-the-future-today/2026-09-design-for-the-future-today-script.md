@@ -218,7 +218,49 @@ That's the skill worth stealing for your own projects. How do you clue somebody 
 
 Superflux built the whole room. This is a London apartment in 2050, after climate collapse. Improvised growing systems in the windows. Recipes for what's actually available. You walk into it.
 
-## 8. Visions that cut the line
+*[Parsons & Charlesworth, Multispecies Inc.]*
+
+Jessica Charlesworth and Tim Parsons run a studio in Chicago. Since 2022 they've been working for a company called Multispecies Inc., which doesn't exist.
+
+Multispecies Inc. makes tools for living with other species. A way to make kin with algae. A wearable for feeling the health of a tree. A nomadic fog collector. They design the products, they draft the internal memos, they publish the book of short stories, and they show up as employees.
+
+Most of it is drawings and models and photo compositions. Some of it got built — there's a real Algae Kin-Gatherer sitting outdoors as a sculpture. The fog collector exists as a mock, and they perform with it.
+
+That range is the thing. Dunne & Raby's robots sit in a case, one fiction at one distance from you. This is the same fiction held at four distances at once. Drawn, modeled, performed, built.
+
+And they designed it to fail. Their own project text:
+
+> even while attempting to place other species first, the protagonists are constantly thwarted by the limits of human knowledge and imagination
+
+They built a company whose thesis is that the company can't work. You can't get far enough outside your own head to design for a tree. Hitting that wall is the project.
+
+Bleecker hands you an artifact. Superflux builds you a room. These two staffed an organization.
+
+Their own line for what they're steering around is worth stealing. The work stands, they say, "in contrast with utopian or dystopian climate futures." Which is where we started.
+
+## 8. Three ways to do it
+
+You've seen a pile of examples now and they aren't all doing the same job. There are three moves in here, and it's worth pulling them apart, because you're going to pick one.
+
+**Make the picture.** Build something that lets people see the future you want. The catalog. The room. The manual. The robots. None of it has to work. The job is to make a world thinkable that wasn't.
+
+**Build the small real thing.** Not a picture of it. The actual object, at whatever size you can manage this year.
+
+**Hold it for decades.** You get an idea, you don't let go, you keep working, and the world slowly arrives where you were already standing.
+
+*[communicator → StarTAC]*
+
+Here's all three coming out of one prop.
+
+The communicator shows up on Star Trek in 1966. Martin Cooper was an engineer at Motorola, and he's said that's what he was chasing. In 1973 he stood on a sidewalk in New York and made the first handheld mobile phone call. Motorola shipped the StarTAC in 1996, and it flipped open.
+
+That manual I showed you has blueprints for the communicator in it. Franz Joseph published those in 1975 — two years after Cooper already made the call.
+
+So the same fiction went two directions out of the same room. One person drew it carefully. Another spent thirty years building it.
+
+Both are real work. They take different amounts of your life.
+
+## 9. Visions that cut the line
 
 *[Futurama, 1939]*
 
@@ -274,7 +316,7 @@ One more, because Jobs had a giant company and a mountain of capital and you don
 
 Nobody marshaled much capital for that. The line moved anyway.
 
-## 9. Whose preferable future
+## 10. Whose preferable future
 
 Katie Patrick calls herself a behavioral engineer. She spends her time helping people picture a bike-friendly city, or a neighborhood with solar and local food. Her theory is that people can't get behind these things because they can't see them.
 
@@ -304,7 +346,7 @@ It also means the cone opens backwards. The past you're standing in decides whic
 
 Walidah Imarisha says all organizing is science fiction. That comes out of organizing work, not design school, and I think it's the best sentence anyone has written about this.
 
-## 10. Make the thing now
+## 11. Make the thing now
 
 *[ENO, Gary Hustwit, 2024]*
 
@@ -346,7 +388,7 @@ If your project doesn't sound a little silly when you say it out loud, it's prob
 
 Which way does yours point?
 
-## 11. Closer
+## 12. Closer
 
 > "We need utopian thinking because without it, we are constrained by the tyranny of the possible"
 > Stephen Duncombe
