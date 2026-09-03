@@ -4,6 +4,7 @@ length: ~30 minutes
 sources: examples-and-references.md
 figmaSlides: https://www.figma.com/proto/ltomqlGJOWEk1NEu0T9LSr/AY26-Lectures-and-Presentations?node-id=1082-643&p=f&viewport=173%2C99%2C0.02&t=HkbPrlgShqzRbQZX-1&scaling=contain&content-scaling=fixed&page-id=1082%3A638
 figmaMain: https://www.figma.com/design/ltomqlGJOWEk1NEu0T9LSr/AY26-Lectures-and-Presentations?node-id=1082-638
+arena: https://www.are.na/kristian-bjornard/lecture-design-for-the-future-today
 ---
 
 # Design for the Future Today
@@ -28,15 +29,20 @@ Maybe we're all one Earth, in harmony. Maybe we left for the stars.
 
 Here's what these have in common. They're basically mythologies and sci fi movies…
 
+And look at which ones came easily. This room can picture the world ending in detail. Nobody pictured a different economy.
+
+> "It's easier to imagine the end of the world than the end of capitalism."
+> Mark Fisher, Capitalist Realism
+
+Fisher built a book around that line. He credits it to Fredric Jameson and Slavoj Žižek, so it isn't his, but he's the one who made it stick.
+
 Nick Foster has a name for the problem. He says designers "grab at cinematic aesthetics without a plot." You get the look of a future with no life happening inside it.
 
-Foster ran design at Google X. The moonshot factory. His argument is that real futures are mundane, in three specific ways.
+Foster ran design at Google X. The moonshot factory. His argument is that real futures are mundane, in three specific ways. 
 
-They're full of background talent. Not heroes, not super-users. The extras.
-
-They're accretive. New things pile on top of old things instead of replacing them. He says humans are covetous and sentimental and resourceful. We cling to things.
-
-And they're partly broken. Wifi passwords. Battery life. Compatibility. Things that almost work.
+- They're full of background talent. Not heroes, not super-users. The extras.
+- They're accretive. New things pile on top of old things instead of replacing them. He says humans are covetous and sentimental and resourceful. We cling to things.
+- And they're partly broken. Wifi passwords. Battery life. Compatibility. Things that almost work.
 
 So when I ask you to picture the future, don't picture a big budget movie. Picture a Tuesday. Ridley scott was pretty good at this actually.. Alien? Blade runner?
 
@@ -48,7 +54,7 @@ It isn't a defined space. It's whatever we haven't gotten to yet.
 
 Which means a lot of choices we make right now lead to very different versions of it.
 
-And the past comes along. Nothing gets cleanly replaced. There's a building down the street from 1910 and people go to work in it today. Cars routinely last twenty or thirty years. The 1970s are still here in 2026, in the housing stock and the plumbing and the road layout and playlists and the streaming movies.
+And the past comes along. Nothing gets cleanly replaced. There's a building down the street from 1910 and people go to work in it today. Cars routinely last twenty or thirty years. The 1970s are still here in 2026 on our road layouts and playlists.
 
 That's Foster's accretive space again. The new never fully eclipses the old.
 
@@ -60,17 +66,17 @@ Faulkner said it shorter.
 
 *[futures cone]*
 
-Time moves forward, at least the way we experience it. On my timeline it moves to the right, and we're standing at now.
+Time moves forward, at least the way we experience it. On my timeline it moves to the right, and we're here at "now."
 
 It's now. And now it's now again. And now it's now again.
 
-Anything before that is the past. Anything after it is the future. We're all slowly time traveling, ever so slowly, into it.
+Anything before that is the past. Anything after it is the future. We're all slowly time traveling.
 
 > Time keeps on slipping into the future. Steve Miller Band, 1976.
 
-You can't guarantee what happens next, so everything ahead is a potential outcome. And the farther out you go, the wider those outcomes spread. That's the cone.
+You can't guarantee what happens next, so everything ahead is a potential outcome. And the farther out you go, the wider those outcomes spread. That's the future cone.
 
-There are a bunch of P words for the bands.
+Now, I think the future — and the present — should have more aliteration. So, here are a bunch of P words for the sections of the future cone.
 
 **Projected.** The default. Nothing changes, you extrapolate today forward, this is where you land. I don't find it very interesting, mostly because I don't want the present extended forever. There's a lot about the present I don't like.
 
@@ -78,31 +84,59 @@ There are a bunch of P words for the bands.
 
 **Plausible.** What could happen with what we know and the technology we have.
 
-**Possible.** Not impossible, but it needs knowledge we don't have yet.
+**Possible.** Not impossible, but it needs knowledge we don't have yet. As you get to these wider and wider cones; you have to change more and more in the present to sort of "redirect" society and culture toward them…
 
-**Preposterous.** Ridiculous. Never going to happen. Except that a lot of what we experience everyday or what's sitting in your pocket was preposterous even a few decades ago.
+**Preposterous.** Ridiculous. Never going to happen. Except that a lot of what we experience everyday or what's sitting in your pocket was preposterous even a few decades ago. So this is also maleable. However in the "now" it can seem impossible.
 
 **Preferable.** This one isn't a band. It's scattered all through the others. It's what you specifically want, or think ought to happen. It can be preposterous too. And yes, it's you projecting your own ideals, which is completely fine when you're a designer who can actually build things to explain what you mean.
 
+*[cone, mirrored]*
+
+One more thing about this diagram, which most people who use it leave out.
+
+I drew the past as a line. It isn't. Mirror the cone, and the past opens backwards the same way the future opens forward, with now as the pinch point in the middle.
+
+Physicists working in relativty and quantum mechanics draw it this. They call it a light cone. Same shape — the vertex is a single event, everything that could have caused it below, everything it can affect above.
+
+So the past is plural too. And "now" is the only place the two halves touch.
+
+One difference. In physics you can't move the edge of the cone. In design that's really the job.
+
 I didn't originate any of this. I got it from Joseph Voros, and I got to Voros through Dunne & Raby, who got it from Stuart Candy.
+
+*[Four Futures]*
+
+Jim Dator ran the futures program at the University of Hawaii for decades, and he sorts them by shape instead of by likelihood.
+
+Growth, and it keeps going. Discipline, where we hit a limit and organize around it. Collapse. Transformation, where the thing turns into something else entirely.
+
+Four buckets instead of five bands. If the cone idea doesn't stick, the buckets might.
+
+Dator also has a "law.""
+
+> Any useful idea about the future should appear ridiculous.
+
+That is the preposterous band, defended. If your degree project doesn't sound a little silly when you say it out loud, it's probably sitting in the probable.
 
 ## 4. Defuturing
 
 *[cone, collapsing]*
 
-Tony Fry gives us the other direction.
-
-Unsustainable options remove potential futures. A species goes extinct and every future containing it goes with it. Fry calls this defuturing.
+Tony Fry gives us another thing to consider re: the Future. It's not  infinite potential. Unsustainable options remove potential futures. A species goes extinct and every future containing it goes with it. Fry calls this defuturing.
 
 Defuturing doesn't end in extinction. It ends in no futures.
 
-Three things about it.
+It's cumulative and it doesn't come back. A material nobody can un-mix is a permanently smaller cone.
 
-It's cumulative and it doesn't come back. A bad logo is bad. A material nobody can un-mix is a permanently smaller cone.
+That's not a figure of speech. Things mix and they don't unmix. That asymmetry is the second law of thermodynamics, and it's the reason time has a direction at all. Entropy is a real constraint.
 
 Nobody intends it. It's the ordinary output of competent, well-meaning professional practice. Your good intentions don't exempt your project, because the mechanism runs on effects.
 
 And the timescales don't match. You spec a material in an afternoon. It's in the ground for five hundred years. Your decisions will outlast you by centuries and almost nothing in your education takes that seriously.
+
+Andrew Blauvelt says it in design terms. He's a designer and a curator, and he wrote this for Designs for Different Futures, a museum show about all of this. His description of defuturing is a future that is only the present, extended.
+
+Which is the projected line. The default band, dressed up and sold to you as tomorrow.
 
 ## 5. Why bother
 
@@ -188,9 +222,15 @@ Superflux built the whole room. This is a London apartment in 2050, after climat
 
 ## 8. Visions that cut the line
 
+*[Futurama, 1939]*
+
+At the 1939 World's Fair, General Motors built Futurama. Norman Bel Geddes designed it. You sat in a moving chair and rode over a model of America in 1960, with automated highways and suburbs and farms growing artificial crops. Thirty thousand people a day went through it, and on the way out they handed you a button that said I HAVE SEEN THE FUTURE.
+
+The largest company in the world built the future, and the future had highways in it.
+
 *[Blue Marble]*
 
-In 1966, Stewart Brand started making buttons that asked a question: why haven't we seen a photograph of the whole Earth yet?
+In 1966, Stewart Brand started making buttons too. His asked a question: why haven't we seen a photograph of the whole Earth yet?
 
 There wasn't one. Nobody had taken it. He printed the buttons anyway and pestered NASA for two years, because he believed that if people could see the planet whole, they would think about it differently.
 
@@ -240,15 +280,29 @@ Nobody marshaled much capital for that. The line moved anyway.
 
 Katie Patrick calls herself a behavioral engineer. She spends her time helping people picture a bike-friendly city, or a neighborhood with solar and local food. Her theory is that people can't get behind these things because they can't see them.
 
-Angela Oguntala puts the mechanism plainly. If we believe something is going to happen, we act specific ways in the present. She's talking about preppers, but it works.
+Angela Oguntala puts the mechanism plainly. If we believe something is going to happen, we act specific ways in the present. She's talking about preppers, but it works here too — we have to SHOW people where we could go so we can work int he present to get there.
 
-Curry Hackett runs it backwards. He makes images of alternative African American pasts, where Black people were empowered rather than disenfranchised. Not a preferable future directly. A different past, which opens a different cone.
+Curry Hackett runs it backwards. He makes images of African American pasts that never happened, where African American people were empowered rather than disenfranchised. These are photographs from speculative pasts, built the way Bleecker builds a speculative future and for the same reason. Put a thing in front of people and they can see the world it belongs to.
+
+Bleecker puts the artifact ahead of you. Hackett puts it behind you. Both are trying to point us to a future we can build now.
+
+And that's the whole trick, again. You can't get behind something you can't picture. So he builds the picture.
 
 Now the uncomfortable part.
 
 Luiza Prado and Pedro Oliveira wrote a cheat sheet for less colonialist speculative design, and it's aimed straight at Dunne & Raby. The critique is that this whole field defaults to a white, European, middle-class future and calls it the future.
 
 So whose preferable future are you designing? The cone doesn't ask you that. You have to.
+
+Though the physics version does. Everybody agrees on the shape of a light cone. Nobody agrees on where now is — two people moving relative to each other slice the present differently, and there is no universal one. The diagram is shared. The vertex is yours.
+
+Kyle Whyte is a Potawatomi philosopher who writes about climate change. His argument is that the dystopia has already happened. Ecosystems destroyed. People moved off their land. Food systems broken. All of it already done to Indigenous peoples by colonialism, capitalism and industry, over centuries.
+
+> Had someone told our ancestors a story of what today's times are like for Indigenous peoples, our ancestors would surely have thought they were hearing dystopian tales.
+
+What this room pictures as the future is somebody's past. Whyte quotes Lawrence Gross on what follows from that: Indians survived the apocalypse. So the useful question is what you do after the end of the world, and some people can already answer it.
+
+It also means the cone opens backwards. The past you're standing in decides which futures you can see at all. Hackett is making that argument with pictures. Faulkner made it in one line.
 
 Walidah Imarisha says all organizing is science fiction. That comes out of organizing work, not design school, and I think it's the best sentence anyone has written about this.
 
@@ -258,15 +312,15 @@ Walidah Imarisha says all organizing is science fiction. That comes out of organ
 
 Gary Hustwit made Helvetica. Objectified. Rams. In 2024 he made a documentary about Brian Eno.
 
-Eno spent his career making generative music. Systems that produce the piece, instead of a person composing every note.
+Eno spent his career making generative music. Systems that produce the piece.
 
-So Hustwit and Brendan Dawes built software that generates the film. Every screening pulls a different sequence out of hundreds of hours of Eno's archive. Same skeleton but different scenes, different order, different music. They put the number at 52 quintillion possible versions.
+So Hustwit and Brendan Dawes cnceptually collaborated with Eno on the documentary and built software that generates the film. Every screening pulls a different sequence out of hundreds of hours of Eno's archive. Same skeleton but different scenes, different combinations, different music. They put the number at 52 quintillion possible versions.
 
-Here's the part I like. You can't stream it (I mean, criterion collection does have a version... but...). There is no fixed version to stream. You have to be in the room, and the film you see is the only time that film exists.
+Here's the part I like. You can't stream it (I mean, criterion collection does have a version... but... it's not the same). There is no fixed version to stream. You have to be in the room, and the film you see is the only time that film exists.
 
 Before this, a film was a fixed object. Every print identical. That had been true since cinema started. It isn't true anymore.
 
-They had an idea about what a film could be. Then they went and actually made it.
+They had an idea about what a film could be. Then went and actually made it.
 
 *[perennial prairie paper · lowtechmagazine.com · Reverberation Crosswalk]*
 
@@ -276,19 +330,22 @@ A friend of mine wanted low carbon paper, so he set up an experiment at Universi
 
 This is the solar powered version of Low Tech Magazine. The site is designed to run on very little energy, and it shows you the battery charge, so you know how long it'll be up before it goes offline.
 
-This is a friend in Baltimore. Graham Coreil Allen's Reverberation Crosswalk Number Two, over by a school. He wants the city more walkable, so he makes crosswalks more visible and calms traffic, one intersection at a time. He's done them all over the city now.
+This is a friend in Baltimore. Graham Coreil Allen's Reverberation Crosswalks. He wants the city more walkable, so he makes crosswalks more visible and calms traffic, one intersection at a time. He's done them all over the city now.
 
-These are things realted to an idea that exists in his preferable future — walkable cities — now made real in the present.
+These are things related to a key idea in his preferable future — walkable cities — now realized in the present.
 
 That's the whole method. Envision your preferable future, then design the things that belong in it now, so we start having them. Don't wait.
 
 It's also a way to decide what to work on. If a project doesn't live in your preferable future, maybe you shouldn't do it. Somebody whose preferable future it does fit can work on it instead.
 
-And it gives you a better question for your degree project than "is this any good." Every project is a vector on that cone.
+And it gives you a better question for judging your work than "does this look any good?" Every project is a vector on that cone, now its "does this point toward my preferable future(s)?".
 
 Which way does yours point?
 
 ## 11. Closer
+
+> "We need utopian thinking because without it, we are constrained by the tyranny of the possible"
+> Stephen Duncombe
 
 We need other people thinking about other ways things can be. If we just accept how everything is, we're all stuck inside those limits.
 
