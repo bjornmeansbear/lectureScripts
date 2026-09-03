@@ -12,6 +12,30 @@ Local sibling repos, browsable directly: `~/Code/a.wjerk.shop`, `~/Code/bjornpae
 
 ---
 
+## Figma (added 2026-09-02)
+
+All slide decks live in one file, **AY26 Lectures and Presentations**
+(`ltomqlGJOWEk1NEu0T9LSr`), one page per talk — 19 pages, ~2,100 frames.
+
+`scripts/figma-slides.py` dumps a page to markdown so a deck can be grepped,
+diffed, and cross-referenced from `SHARED-COMPONENTS.md` without opening Figma.
+Needs `FIGMA_TOKEN` in `.env`. `--list-pages` enumerates the file.
+
+Dumps live beside the lecture they support (`lecture-*/slides.md`), or in
+`decks/` when there is no folder for them yet. They are dated snapshots —
+regenerate, don't edit.
+
+Worth knowing: **the decks run ahead of the scripts.** Three times on
+2026-09-02 the deck already contained material the script was missing —
+finished Clarke and Dator slides benched in the futures deck, seven built
+Parsons & Charlesworth slides with no script text, and a semiotics
+icon/symbol demonstration sitting two sections earlier than the section that
+needed it. Check the dump before writing new material for a lecture.
+
+The visual rules for these decks are **not** here — they live in
+`~/Code/color-system-and-guidelines/RULES.md`, nine `## Presentations:`
+sections plus `## Presentations: how the Figma file is built`.
+
 ## The loop
 
 The goal, in Kristian's words (2026-08-27): **lectures** on things; **shirts** that condense a lecture into a semiotic gesture that goes out and lives in the world; **workshops** that make people do it. Each of the three tied back to a case study on `a.wjerk.shop` or to research and writing on `bjornpaedia.wjerk.shop`, so the whole thing reads as loops rather than as scattered outputs — a real picture of how the practice works.
