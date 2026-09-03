@@ -1,49 +1,39 @@
 ---
+what: staging notes — timings, cut rationale, delivery decisions
+script: 2026-09-some-semiotics-script.md (the spoken version — read that to deliver)
 version: 30-minute cut, built from the 03 September 2026 test run
 length: 30 minutes
 status: drafted from transcript — not yet delivered at this length
 structure: deck-outline.md
 transcript: transcript-2026-09-03.md (53:05 as delivered)
 references: examples-and-references.md
+cuts: cuts-and-restores.md
 figmaSlides: https://www.figma.com/proto/ltomqlGJOWEk1NEu0T9LSr/AY26-Lectures-and-Presentations?node-id=1082-3&p=f&viewport=165%2C225%2C0.02&t=n4wmHFs8MDKe3GSo-1&scaling=contain&content-scaling=fixed&page-id=1082%3A2
 figmaMain: https://www.figma.com/design/ltomqlGJOWEk1NEu0T9LSr/AY26-Lectures-and-Presentations?node-id=1082-2
 arena: https://www.are.na/kristian-bjornard/lecture-some-semiotics
 ---
 
-# Some Semiotics
+# Some Semiotics — staging notes
 
-Delivery script. The test run on 3 September went **53:05**. This is the 30-minute cut.
+**This is not the script.** The lecture written out as prose is
+[2026-09-some-semiotics-script.md](2026-09-some-semiotics-script.md) — that's the one to
+read before you deliver, and the one to edit if you want to change what gets said.
 
-Everything removed is listed in [What came out, and where it goes back](#what-came-out-and-where-it-goes-back) — nothing is lost, and the 45-minute version is a restore, not a rewrite.
+This file is the reasoning underneath it: where the timings came from, what got cut and
+why, which fixes the deck still needs, and the accuracy notes on Peirce. Useful when you're
+deciding whether a change is safe. Not useful with a room in front of you.
+
+The test run on 3 September went **53:05**. This is the 30-minute cut.
+
+Everything removed is listed in [cuts-and-restores.md](cuts-and-restores.md) — nothing is lost, and the 45-minute version is a restore, not a rewrite.
 
 ---
 
-## How the 23 minutes were found
+## How this got to 30 minutes
 
-Timings below are from the transcript, word-count-derived at 123 wpm. Discussion-heavy
-sections ran longer in the room than these numbers show, so the cat runs cost more than
-they look like they cost.
-
-| What | Was | Now | How |
-|---|---|---|---|
-| Cat runs (denotation + catness parade + connotation) | 7.4 | 3.0 | Cats keep connotation. Chairs take denotation. |
-| Peirce | 4.6 | 1.8 | Biography out, triad and unlimited semiosis stay. |
-| Saussure | 3.2 | 1.2 | Biography out. He's the setup for Peirce, not a destination. |
-| Modern/postmodern/hypermodern + Form/Content/Context, up front | 5.0 | 1.0 | Moved to the close, where slide 3005 already lives. |
-| Emigre / Cranbrook | 1.4 | 0 | Cut. You said on tape: "let's get rid of the emigre stuff." |
-| Pragmatists | 2.5 | 1.0 | Folded into the close. |
-| Target logo history | — | 0.3 | One sentence, not a slide run. |
-
-**The one structural move:** the Duvall grid opened the talk and took five minutes of
-abstraction before the room had touched a single concrete thing. It now closes the talk,
-where it reads as a summary of what they just felt rather than a framework they have to
-hold on faith. This is the concrete-before-abstract rule applied to a whole lecture.
-
-**Two animals, two jobs.** The cat parade asked "is this catness?" nine times and got
-diminishing returns — you said "I digress" three times during it. A chair asks a question
-a cat can't: *the same form, in six materials, means six different things.* That is
-connotation you can point at rather than assert. Cats are better at the other half —
-burglar, luck, Garfield, Caterpillar — so they keep it.
+The test run went 53:05. What came out, why, and the order to put it back is in
+**`cuts-and-restores.md`** — including the timing table and the two structural moves (the
+Duvall grid off the front, and chairs taking denotation so cats can keep connotation).
 
 ---
 
@@ -378,6 +368,10 @@ Run them fast. The form is constant; only the substance changes:
 > no author, no copyright, no design history. It's what chair-ness looks like with
 > everything else stripped off.
 
+*(Quiet rhyme worth knowing, not worth a slide: the monobloc is one piece of moulded
+polypropylene and the Big Red Boot in §12 is one moulded TPU shell. Same manufacturing
+logic. One strips a form back to bare function, the other inflates it into a cartoon.)*
+
 Then the turn — this is the point of the section:
 
 > The monobloc means cheap here. In a lot of places it means you've arrived, you own
@@ -452,10 +446,51 @@ The one-line sharpener, which also links the future lecture:
 
 > That's the future being used against people. Same cone, pointed the wrong way.
 
-**Second example if you want one:** the throne. You've already shown one in §5 as a
-chair-ness edge case, which makes the callback free — a chair that has been so thoroughly
-naturalized as power that we no longer see the furniture. IKEA is in your notes but you
-said on tape you hadn't found the version of it you wanted; the throne is built already.
+### Cerberus (~30 sec, closes §10)
+
+*[Two images stacked: a cluster of three CCTV cameras on a pole, above a black-figure
+Cerberus.]*
+
+Put the cameras up first, alone, for a beat.
+
+> Three cameras on a pole. You have walked past a thousand of these and never once looked
+> at one.
+>
+> That's what naturalized means. Not that you approve of them. That they've stopped being
+> visible.
+
+Then drop the Cerberus in under it. Say nothing for a second — the room gets there before
+you do.
+
+> Three heads, one body, guarding a threshold nobody's meant to cross.
+>
+> Nobody designed that camera mount to look like this. The resemblance isn't in either
+> picture. It's in the gap between them, and you just made it, in about a second, without
+> being asked to.
+
+Then the turn, which is what §10 has been missing:
+
+> That's one way to work on a myth. You don't argue with it. You set it next to something
+> else and let the room do the rest.
+
+**Why this earns its thirty seconds.** Myth is the section where students most often ask
+what they're supposed to *do* with the idea, and until now the honest answer was nothing —
+here's a bad thing, be aware of it. This is the operation Barthes is performing in
+*Mythologies* and it's a designer's move: take the naturalized thing and re-sign it. One
+image, no theory, and it's demonstrable rather than assertable.
+
+It also plants the interpretant a second time, three minutes before Peirce names it in §11
+— the meaning is in neither image, it's manufactured on receipt. Same trick the tree stump
+pulls in §5. Don't say so; just let §11 land on a room that's now done it twice.
+
+**Sourcing:** find the origin of both halves before it goes up, and credit them on the
+slide like the Noun Project cat. The Cerberus looks like a public-domain woodcut or
+engraving; confirm rather than assume.
+
+**Alternative home if you'd rather:** §12, alongside McCloud, where it demonstrates closure
+— two panels and a gutter, meaning made by the reader. It's a real reading and it would
+make McCloud earn his place by being shown instead of described. §10 is the better use
+because §10 has the hole.
 
 ---
 
@@ -464,7 +499,12 @@ said on tape you hadn't found the version of it you wanted; the throne is built 
 You apologized on tape for going in reverse order. Don't. **The order is correct and it is
 deliberate** — the room has now felt denotation, connotation and myth, so the machinery
 arrives as an explanation of something they've already experienced. Every textbook does
-this backwards. Say it as a choice:
+this backwards.
+
+**And it has a name: it's Berger's method.** *Ways of Seeing* looks before it theorises,
+every time — the argument arrives out of the looking rather than in front of it. That's
+already how you write, and it's how this lecture is built. Which turns the thing you
+apologised for into a citation. Say it as a choice:
 
 > We did all of that without naming anybody. Now here's where it comes from.
 
@@ -494,8 +534,21 @@ this backwards. Say it as a choice:
 
 Then the line that opens the last section:
 
-> And the meaning of a sign is another sign. Which can be interpreted again. Which
-> produces another sign. It never closes. He calls it unlimited semiosis.
+> And what you make of a sign is itself another sign. Which gets interpreted again. Which
+> produces another. It never closes.
+
+**Two accuracy fixes here, both against slides you already have.**
+
+*Don't say "he calls it unlimited semiosis."* The idea is Peirce's. The phrase is not his —
+Stanford's account of Peirce uses "infinite semiosis," and "unlimited semiosis" is the
+formulation that comes down through Eco reading him. Keep the slide, drop the attribution:
+
+> The idea gets called unlimited semiosis. It never bottoms out in a final meaning.
+
+*Slide 1006 is a paraphrase, not a quotation.* "The meaning of a sign is always another
+sign" does not appear in Peirce in those words; what he argues is that the interpretant is
+itself a further, more developed sign of the same object. It's a fair compression and it's
+a good slide — just don't set it in quotation marks, and don't say "Peirce said."
 >
 > Memes are the clearest version of this any of us have. Same image, small changes, and it
 > means something different to every audience it lands on — and each of those becomes the
@@ -509,10 +562,40 @@ the references file.
 
 ## 12 · Types of signs → Big Red Boot (26:00–28:30)
 
-**Attribute them.** They're Peirce's second trichotomy, and saying so turns two sections
-into one argument.
+### Open on the label (~25 sec)
 
-> These are Peirce's, and they're the three ways a sign can relate to what it points at.
+Start with a failure to read. At minute 26 a physical thing in the room is worth more than
+its seconds, and everyone in front of you is wearing the example.
+
+> Reach into your collar. Find the care label. Look at the little symbols.
+>
+> Who can read all of them?
+
+Nobody can. Let that sit.
+
+> Every one of you has been carrying this around your whole life and nobody taught you the
+> system. Now look at what's actually on there.
+>
+> The iron looks like an iron. The tub looks like a tub of water. Those two you can nearly
+> guess.
+>
+> The triangle means bleach. The square means drying. The circle means dry cleaning. Those
+> you cannot guess, ever, because there's nothing in a triangle that's about bleach.
+>
+> Same label. Two kinds of sign, side by side.
+
+That's the whole section, demonstrated on their own clothing before you define anything.
+Then name the categories:
+
+**Attribute them.** They're Peirce's, and saying so turns two sections into one argument.
+
+> These are Peirce's, and they're three ways a sign can relate to the thing it points at.
+
+**Don't call it "the second trichotomy."** `deck-outline.md` does, and I repeated it in an
+earlier draft of this script. Peirce reordered his trichotomies across different accounts,
+so the numbering isn't stable and Stanford doesn't use it. *Classified by how the sign
+relates to its object* is the accurate description, it's what the room actually needs, and
+it costs the same breath.
 >
 > Iconic — it resembles the thing. A picture of a cat.
 >
@@ -535,20 +618,87 @@ heard the wrong word first.
 > caused by one. Go back to that cat-C from earlier — that's a letter and a picture in a
 > single mark. Symbol and icon at the same time.
 
+This is not a simplification you're making for undergraduates — it's Peirce's own position.
+Any single sign may show some combination of iconic, indexical and symbolic character. Say
+it flatly; you're on firm ground.
+
+**If a student pushes on the empty litter box**, Peirce's own index is the weathercock —
+the wind physically turns it, so the causation is unarguable. Hand them that and keep the
+litter box, which is funnier and yours.
+
+**And the care label is now the callback.** The dots and bars on it — dots for temperature,
+bars underneath for how gently to agitate — are a grammar bolted on top of the shapes. Pure
+convention, no resemblance anywhere. If you want one more beat:
+
+> And the dots and the little bars underneath aren't pictures of anything at all. That's a
+> grammar somebody voted on.
+
 *[Re-show 505.]* You already own this slide. Reaching back for it costs nothing and it
 uses evidence the room has already accepted.
 
 **Big Red Boot closes it.**
 
-> MSCHF's Big Red Boot. Their line is that it's "really not shaped like feet, but
-> extremely shaped like boots."
+**Set up the codes it deletes first.** Fifteen seconds, and without it "they threw out the
+codes" is an abstraction:
+
+> Normal footwear signals in small print. Leather says money. A scuffed toe says you work.
+> A red sole says Louboutin — and that one's a registered trademark, so it's a meaning
+> somebody owns and will sue you over.
+>
+> Every one of those is subtle, and every one assumes you can read it.
+
+Then the boot:
+
+> MSCHF's Big Red Boot, February 2023. The press line is that it's "really not shaped like
+> feet, but extremely shaped like boots."
 >
 > What are they going for? Boot-ness. But whose? Because I only see one thing when I look
 > at it, and it's Astro Boy.
 >
-> Which is connotation — that's me bringing something to it that isn't in the object.
-> And it's an icon of a symbol. It doesn't resemble a boot. It resembles the *cartoon
+> Which is connotation — that's me bringing something to it that isn't in the object. And
+> it's an icon of a symbol. It doesn't resemble a boot. It resembles the *cartoon
 > convention* for a boot, which was already arbitrary.
+
+**Then close on MSCHF's own product copy, which is better than the press quote.** They
+describe it as a **"Cartoon boot for a Cool 3D World"** — and in the spec, as *a giant
+abstraction of a boot form, recalling classic cartoon and game shoe designs.*
+
+> They're not claiming it's a boot. They're telling you it's a *cartoon* boot. The thing
+> it resembles is a drawing.
+
+That closes the argument for you. You don't have to persuade the room that the referent is
+a convention rather than an object — the manufacturer says so in the product description.
+
+**And notice they say cartoon *and game*, plural, no single source.** Which is why I get
+Astro Boy and you might get Mario. The object points at a convention, and each of us
+supplies our own instance of it. Same sign, different interpretant — and Peirce was four
+minutes ago.
+
+**The sharpest line in the section — the category error.** Ten seconds, and it's the thing
+they'll repeat afterwards:
+
+> Cartoons flatten things. Big, glossy, primary, no detail, no wear.
+>
+> What MSCHF did was take a two-dimensional drawing convention and extrude it into
+> three-dimensional rubber. The uncanny feeling you get looking at it is your brain filing
+> a category error.
+>
+> That gap is the product. There isn't anything else in there.
+
+And the red, which is a free callback to §6:
+
+> The red isn't a colour you match to an outfit. It's the colour of stop signs, alarms and
+> clown noses. It means *look at this*. It refuses to be tasteful — which, forty minutes
+> after we agreed neutrality is a claim rather than a state, is at least honest about it.
+
+**The price is the payload.** Say it last:
+
+> Three hundred and fifty dollars. It is not warmer, drier or more comfortable than a
+> forty-dollar boot. You are paying three hundred and fifty dollars for the sign.
+
+**Cut the calf-aperture gag** now that §12 opens on the care label — the section can carry
+one piece of deadpan, not two, and the label demo is doing more work. It's in the references
+file if the room is loose and you want it back. Move on to §13.
 
 **McCloud, if you have thirty seconds:**
 
@@ -558,7 +708,13 @@ uses evidence the room has already accepted.
 >
 > That's where this becomes useful to you as a form-giver.
 
-Cut McCloud before you cut the Boot.
+**Cut McCloud.** The boot block is now about 30 seconds longer than it was and §12 is over
+2:30 — McCloud is what pays for it, and he was already flagged first-out. If you want him
+back, he belongs in the 45-minute version where §12 can run four minutes.
+
+**Do not try to also fit Veblen, Baudrillard or MSCHF's institutional-critique thesis into
+this section.** They're real and they're in the references file. They're the answer when a
+student stays after, and they're the spine of an essay — not thirty more seconds here.
 
 ---
 
@@ -603,28 +759,9 @@ and it should stay exactly where it is:
 
 ---
 
-## What came out, and where it goes back
+## What came out
 
-Restore in this order if you get 45 minutes.
-
-1. **The catness photo parade** (~2 min, slides 411–416). Nine "is this catness?" images.
-   Goes back into §5 after the chair ladder — the two together are stronger than either,
-   because the chair asks about material and the cat asks about specificity.
-2. **Peirce and Saussure as people** (~2 min). The mustache, the hermit in the woods, the
-   fact that Peirce is the older man who reads as the more modern thinker. Goes back into
-   §11.
-3. **Modern / postmodern / hypermodern in full** (~2.5 min). The one-to-many to
-   many-to-many progression, memes as the case. Goes back into §13 in front of the grid,
-   not into §2 where it started.
-4. **Emigre, Ray Gun, Cranbrook** (~1.5 min). David Carson is the name you couldn't
-   retrieve on tape. Katherine McCoy is the one who makes the point about interpretation
-   directly. Goes back into §6 as the answer to "so what did people do once they stopped
-   believing in neutral?" — which is a better home than where it was.
-5. **Target logo history as its own run** (~1 min). Only worth it as slides.
-6. **The Wassily**, if the icon grid ran instead (~0.5 min). Back into §6.
-
-Not restored anywhere: the blob diagram. You said on tape you could leave it out, and
-nothing after it depended on it.
+In `cuts-and-restores.md`, with the restore order for 35 and 45 minutes.
 
 ---
 

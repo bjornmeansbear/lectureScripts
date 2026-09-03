@@ -28,20 +28,52 @@ reconstructed by other people is the joke telling itself.
 The term you want and don't currently say: **the arbitrariness of the sign**. It's his,
 it's the whole basis of "nothing has intrinsic meaning," and naming it costs two seconds.
 
-**Charles Sanders Peirce** (1839–1914, USA). Pronounced "purse." Representamen / object /
-interpretant. Icon, index, symbol — his **second trichotomy**, classifying a sign by how it
-relates to its object. Unlimited semiosis.
-Baltimore and Johns Hopkins connection is real and local to the room. He lost the Hopkins
-post and spent his last decades in rural Pennsylvania, poor and largely unpublished.
+**Charles Sanders Peirce** (1839–1914, USA). Pronounced "purse." Sign-vehicle / object /
+interpretant. Icon, index, symbol. Baltimore and Johns Hopkins connection is real and local
+to the room — he lost the Hopkins post and spent his last decades in rural Pennsylvania,
+poor and largely unpublished.
+
+Checked against the **Stanford Encyclopedia** entry (in your channel, block 52). Three
+things it corrects, all of which are currently wrong on a slide or in `deck-outline.md`:
+
+- **"Second trichotomy" is not safe.** Peirce reordered his trichotomies across accounts;
+  the numbering isn't stable and SEP doesn't use it. Say *classified by how the sign relates
+  to its object* instead. Same information, no exposure.
+- **"Unlimited semiosis" is not Peirce's phrase.** SEP says *infinite* semiosis. "Unlimited
+  semiosis" is how it reaches designers, generally via Eco. The concept is Peirce's; the
+  wording isn't. Keep slide 1007, drop "he calls it." (CHECK: SEP doesn't name the coiner,
+  so credit Eco loosely or not at all.)
+- **Slide 1006 is a paraphrase, not a quote.** "The meaning of a sign is always another
+  sign" isn't in Peirce in those words. His claim is that the interpretant is itself a
+  further, more developed sign of the same object. Good compression, bad quotation marks.
+
+Two things it confirms:
+
+- **Signs are not exclusive categories.** Any single sign may combine iconic, indexical and
+  symbolic character. The "aspects, not bins" move in §12 is Peirce's own position, not a
+  teaching simplification — say it flatly.
+- **"Representamen" was one of several words he used** (also sign, representation, ground).
+  SEP prefers **sign-vehicle**, which is also what students will meet elsewhere. The deck's
+  REPRESENTAMEN slides are fine; just don't imply it's the only term.
+
+**Peirce's own examples**, useful because they're cleaner than some of the deck's: portraits
+and diagrams for icon; **weathercocks**, pointing fingers and proper names for index; the
+words "homme" and "man" for symbol. The weathercock is the one to keep in your pocket — the
+wind physically turns it, so it survives the objection the empty litter box invites.
 
 **Ben Duvall.** *New Modernisms* (Draw Down). Signs on surfaces; the
 modern → postmodern → hypermodern progression; the Form / Content / Context grid, which
 the deck credits as evolved from Andrew Blauvelt and Ellen Lupton.
 
-**Paddy Whannel** — "Semiotics tells us things we already know in a language we will never
-understand." Widely quoted; usually attributed via Whannel's BFI education work in the
-1960s. CHECK the exact source if you ever put it in print — the attribution is solid, the
-citation is vague everywhere it appears.
+**Paddy Whannel** (Atholl Douglas Whannel, 1922–1980) — "Semiotics tells us things we
+already know in a language we will never understand." Education Officer at the British Film
+Institute through the 1960s, later head of Radio-TV-Film at Northwestern. The BFI job is
+why the line exists: he spent that decade trying to teach film to people who hadn't read
+the theory, while structuralism was arriving in Britain around him.
+
+CHECK: his Wikipedia entry does **not** carry the quote and I found no primary citation for
+it anywhere. The attribution is universal and the source is nowhere. Fine spoken from a
+slide; don't put it in print without finding the original.
 
 **Beatrice Warde** (1900–1969). "The Crystal Goblet, or Printing Should Be Invisible"
 (1930 as a lecture, 1932 in print, under the pen name Paul Beaujon for other work). Type
@@ -66,7 +98,65 @@ assign this in GD3 already.
 | Packaged ICE cooler with icicled letterforms | Connotation added on purpose | §9 |
 | Target bullseye on the cooler | Denotation, connotation and symbol at once | §9 |
 | The American Dream | Myth | §10 |
-| MSCHF Big Red Boot (2023) | Icon of a symbol | §12 |
+| Three CCTV cameras / Cerberus | Denaturalizing a myth; meaning made on receipt | §10 |
+| MSCHF Big Red Boot (2023) | Icon of a symbol; connotation with a price on it | §12 |
+
+**Big Red Boot — full details for the credit line.** MSCHF010, red, **$350**, released
+**16 February 2023**. Single TPU rubber exterior shell over an EVA interior; MSCHF mark on
+the sole tread. "Boots run true to size; calf apertures range from 368–425mm diameter."
+
+MSCHF's own description is **"Cartoon boot for a Cool 3D World"**, and the spec calls it *a
+giant abstraction of a boot form* that *recalls classic cartoon and game shoe designs.*
+
+Use this rather than the press quote alone. Three reasons:
+
+- **It settles the argument.** You don't have to convince anyone the referent is a
+  convention rather than an object — the maker says "cartoon boot" in the product copy.
+- **"Cartoon and game," plural, names no single source.** Which is exactly why Kristian
+  gets Astro Boy and a student gets Mario. One sign, one convention, different interpretant
+  per person — Peirce demonstrated by a shoe listing.
+- **$350 prices the connotation.** It is not a better boot. It's the same argument as
+  Significant Objects at the other end of the market: a story added to an object, and a
+  number attached to the story.
+
+The quote currently on slide 2008 ("really not shaped like feet, but extremely shaped like
+boots") is press language — the source saved in your channel is a Prestige Online piece
+(block 50). Both lines are worth having; the press one is funnier, the product copy is the
+argument.
+
+**The fuller reading — for the essay, not the lecture.** Kristian's, developed 2026-09-03.
+Four moves, of which two are in the script and two are deliberately not:
+
+*In the script.* **The codes it deletes** — leather says money, a scuffed toe says labour, a
+red sole says Louboutin. Ordinary footwear signals in small print and assumes a reader. The
+boot bins all of it and points at one loud thing instead. (The Louboutin red sole is a
+registered trademark and has been litigated — a connotation somebody owns outright. Good
+throwaway, and it opens onto the copyright material in
+`../workshop-open-source-design/`.) **And the category error** — cartoons flatten and
+exaggerate; MSCHF extruded a 2D drawing convention into 3D TPU, and the uncanny hit is your
+brain registering the mismatch. *That gap is the product.* Best line available on the boot.
+
+*Not in the script, and shouldn't be.* **Veblen** — ~$350, instant sellout, resale at
+multiples. Wearing them says *I know this is a bit*, which is a status marker among people
+fluent in irony. Conspicuous consumption, *The Theory of the Leisure Class* (1899), and it
+completes the costly-signalling cluster already in this file: Veblen from sociology, Zahavi
+from biology, Spence from economics, three fields arriving at the same rule. (CHECK the
+resale multiples before quoting a figure.) **And MSCHF's own thesis** — a Brooklyn art
+collective doing institutional critique through consumer objects. The Satan Shoes got them
+sued by Nike in 2021. The Big Red Boot asks how much product you can strip out before brand,
+concept and virality carry the whole value, and answers: nearly all of it.
+
+**One sharpening on the Baudrillard.** *Sign-value* is the right citation — *For a Critique
+of the Political Economy of the Sign* (1972), where it sits alongside use-value and
+exchange-value. But "a simulacrum of a boot that's more boot than boots" undersells the
+case. The precise concept is the **hyperreal** (*Simulacra and Simulation*, 1981): a copy
+with no original. And that's literally true here. The cartoon boot the object faithfully
+reproduces was never a boot. The drawing came first and there is nothing behind it. That's
+a harder, more defensible claim than "more boot than boots," and it's the better sentence.
+
+**This is publishable.** The four moves above are an essay, not a lecture aside — closest
+existing home is `../booklet-new-design-commons/`, or a standalone piece. The lecture takes
+about forty seconds of it; the rest is being wasted as a footnote.
 
 **Note on the Magritte title.** The painting is *La Trahison des images* — *The Treachery
 of Images*. "Ceci n'est pas une pipe" is the sentence painted on it, not the title. Worth
@@ -141,6 +231,42 @@ American sequel and are probably already familiar to the room.
 
 ### Also worth knowing about
 
+**John Berger** (1926–2017). *Ways of Seeing* — BBC series and book, both 1972.
+
+**He's already in this lecture as its method, not its content.** Berger looks before he
+theorises; the argument comes out of the looking rather than standing in front of it. That
+is exactly the structure you defend in `deck-outline.md` and apologised for on tape —
+phenomena first, theorists at minute 23. It isn't a quirk of your deck. It's Berger's move,
+he's a named influence in how you write already, and naming him converts an apology into a
+citation. That's now in §11.
+
+The four essays map onto the lecture cleanly enough that it's worth knowing which is which:
+
+| Essay | Claim | Where it lands |
+|---|---|---|
+| 1 — reproduction | An image's meaning changes with where it's shown, what's cropped, what music runs under it | §13, context |
+| 2 — the nude | "Men act and women appear." The way of looking is built, not given | §6, neutrality |
+| 3 — oil painting | Oil paint's rendering of substance is bound up with depicting ownable things | §8, materials |
+| 4 — publicity | Ads sell you envy of your own future self | §10, myth |
+
+**Essay 2 is the strongest §6 upgrade available** and I'd flag it rather than schedule it.
+Your current §6 says neutrality is really the status quo, then supports it by naming
+European white guys sixty years ago. That's an assertion, and it's the kind a student can
+file as ideology and dismiss. Berger *shows* it instead: here is a genre that presents
+itself as timeless beauty, and here is the structure of looking built into it, visible once
+someone points. Same argument, demonstrated rather than claimed.
+
+It costs about sixty seconds and a detour into painting, which the thirty-minute version
+does not have. **It's the first thing I'd add at forty-five.**
+
+Essay 4 is the readable ancestor of the whole Big Red Boot reading — Berger on publicity and
+glamour is what Baudrillard says obscurely, said plainly, by a designer's writer, in 1972.
+The same year as *For a Critique of the Political Economy of the Sign*. See
+`big-red-boot-baudrillard.md`.
+
+Episode 1 is free on YouTube and runs about half an hour. It's the most assignable thing on
+this entire list.
+
 **Umberto Eco** (1932–2016). *A Theory of Semiotics* (1976). His definition is the best
 one-liner in the field: semiotics is the discipline studying everything which can be used
 in order to lie. If a thing can't be used to lie, it can't be used to tell the truth
@@ -169,7 +295,7 @@ fields arriving independently at: a signal is trustworthy in proportion to what 
 fake. This is the theory floor under the index argument below, and under
 `../booklet-new-design-commons/07-signs-signaling-sustainability.md`.
 
-### From the "candidates" pile, re-ranked
+### Examples still in the "candidates" pile, re-ranked
 
 **The Ray Cat Solution — now in the script, closing §7.**
 
@@ -219,6 +345,75 @@ the channel. This is a second act, not a garnish — hold it for the 45-minute v
 
 **Apple's AI icon.** An industry failing in public and in real time to agree on a symbol.
 Good, current, and it dates fast.
+
+### Fabric care symbols — now in the script, opening §12
+
+The REI page (are.na block 41) returns 403 to anything automated, which is why the save
+failed. **Screenshot it; don't try to archive the link.**
+
+Better than I first rated it, and it beats the wind barbs on every axis — the barbs are
+remote and abstract, this is on everybody's body right now.
+
+**The system, and why it teaches well.** Five basic shapes:
+
+| Shape | Means | Kind of sign |
+|---|---|---|
+| Washtub | washing | nearly iconic — it looks like a tub of water |
+| Iron | ironing | nearly iconic — it looks like an iron |
+| Triangle | bleaching | pure symbol — nothing about a triangle is bleach |
+| Square | drying | pure symbol |
+| Circle | dry cleaning | pure symbol |
+
+Two icons and three symbols, **on the same label, in the same system.** That's "aspects, not
+bins" demonstrated on an object rather than asserted about a photograph. Then a modifier
+grammar sits on top of all five — dots for temperature, bars underneath for how gently to
+agitate, an X for don't — and none of that is a picture of anything.
+
+**Why it opens §12 rather than closing it.** Minute 26 of 30 is where attention dies, and
+this is the only moment in the lecture where a student *fails to read a sign in real time*.
+Everything else asks them to read something successfully. The failure is the lesson, it
+needs no slide, and it costs about 25 seconds.
+
+**Two facts worth having in your pocket, neither of them in the script:**
+
+- **Japan changed its care symbols in 2016**, moving from its own system to the ISO-based
+  one. The same garment, the same instruction, different signs either side of that date.
+  "Meaning was decided by somebody" from §3, with an actual date on it, in living memory.
+- **In Europe the symbols are owned.** GINETEX holds them as registered trademarks and
+  licenses their use. A public-safety notation that's private property — same structure as
+  the Louboutin red sole in §12, and it opens onto
+  `../workshop-open-source-design/`. (CHECK the licensing specifics before asserting them
+  from the podium; the trademark itself is well documented.)
+
+**The wind barbs are now the backup, not the primary.** Keep them for the 45-minute version
+or drop them — they were making the same point from further away.
+
+### The Cerberus pairing — now in the script, closing §10
+
+Three surveillance cameras on a pole, stacked above a black-figure Cerberus. Three heads,
+one body, guarding a threshold.
+
+Three things are happening and only the first is obvious:
+
+1. **Formal rhyme.** Three heads splayed off one trunk, in both.
+2. **Functional rhyme.** Both are guardians posted at a boundary.
+3. **The meaning is in neither image.** Nobody built that camera mount to evoke Cerberus.
+   The connection is manufactured by the viewer, on receipt, in about a second. That's the
+   interpretant doing all of the work — and it happens three minutes before Peirce arrives
+   to name it.
+
+What makes it worth a slide in a payload section is the fourth thing: it's an *operation*,
+not an example. §10 tells students that connotations harden into things that look like
+facts, and until now offered them nothing to do about it. This is the move — take the
+naturalized object and set it beside something that makes it strange again. It's what
+Barthes is doing for 200 pages in *Mythologies*, compressed into two pictures and no text.
+
+It also works as a McCloud demonstration — two panels, a gutter, closure performed by the
+reader — which would give §12's McCloud mention something to show instead of describe. §10
+wins because §10 had the gap.
+
+**Before it goes up:** source both halves and credit them on the slide. The Cerberus reads
+as a public-domain woodcut or engraving but confirm it.
 
 ### Small ones that pay for their slide
 
@@ -300,9 +495,136 @@ the HAL launch year and the Rietveld painting date before they go on a slide.
 
 ---
 
-## 4 · If you assign one thing
+## 4 · From the are.na channel
 
-*Mythologies*. Short essays, ordinary objects, and it teaches the method by doing it rather
-than by describing it. Frutiger if you want the designer's version. McCloud if the room
-would rather be reading pictures — and you already assign it in GD3, so the semiotics
-lecture can point forward at it.
+96 blocks, read 2026-09-03. Most of it is background reading you've already metabolised —
+Saussure explainers, eight different SlideServe intro decks, the Wikipedia spine. What
+follows is what isn't already in this file or the deck.
+
+### The four worth acting on
+
+**Significant Objects — Rob Walker and Joshua Glenn, 2009–10.**
+
+They bought thrift-store junk, averaging **$1.25 an object**. They commissioned a writer to
+invent a short story for each one. Then they auctioned the objects on eBay with the story
+attached as the description. Over 200 writers took part; the take was **close to $8,000**.
+
+The objects never changed. Only the story did.
+
+This is the best thing in the channel and it isn't in the lecture. It's connotation as a
+controlled experiment with a dollar figure on the output — which is a different order of
+proof from "a black cat means different things in different places." Students who nod
+politely at Barthes sit up at a 100× markup.
+
+**Where it goes: §8, right before the monobloc.** Materials are one way to load an object
+with meaning; a story is another, and Significant Objects prices it. Costs about 40
+seconds. It would displace the Louis Ghost, which is the most expendable of the six chairs
+because Starck's joke is legible in one glance without narration.
+
+**Daniel Chandler, *Semiotics for Beginners*.** In the channel three separate times — the
+Princeton mirror, and twice at PDX. You keep rediscovering it, so stop rediscovering it and
+assign it. Written at Aberystwyth, free, online since the 90s, and the book version is
+*Semiotics: The Basics* (Routledge).
+
+Two chapters matter to this lecture specifically:
+
+- **Ch. 11, "Encoding/Decoding"** — this is Stuart Hall, recommended above. Your channel
+  already contains the route to him; you just haven't followed it.
+- **Ch. 14, "Criticisms of Semiotic Analysis"** — the self-critique. Worth knowing before a
+  sharp student supplies it for you.
+
+**Thomas A. Sebeok — the atomic priesthood.** He's in the channel as a bare search block,
+which undersells him badly. In 1984 the US Office of Nuclear Waste Isolation commissioned
+Sebeok to answer the same question the ray cats answer. His proposal: an **atomic
+priesthood** — a self-selecting body that maintains the warning as ritual and myth, and
+relays it down the generations, re-encoding it every few centuries as the language drifts.
+
+Same year, same commission, same problem, opposite instinct. Bastide and Fabbri put the
+message in an animal and a folk song, deliberately outside institutions. Sebeok put it in
+an institution because he didn't trust anything else to last.
+
+**Don't add this to §7** — the ray cat block is already 45 seconds and this would double it.
+It's the answer to the question a good student asks afterwards.
+
+CHECK: the report is usually cited as "Communication Measures to Bridge Ten Millennia"
+(1984). Confident on author, year and the priesthood proposal; verify the title.
+
+**Louis Hjelmslev.** Sitting in the channel with a one-word description and no follow-up.
+He's the missing gear in your Barthes section.
+
+Danish linguist, Saussure's successor, *Prolegomena to a Theory of Language* (1943). He's
+where the denotation/connotation machinery actually comes from — and specifically the move
+that a completed sign can become the raw material of a second sign built on top of it.
+
+That is exactly the mechanism of myth. When you say a connotation "becomes naturalized,"
+what's happening structurally is a whole sign getting demoted to a signifier so a
+second-order sign can stand on it. Barthes took that from Hjelmslev.
+
+**Don't teach Hjelmslev.** Nobody needs a fourth theorist at minute 21. But knowing this
+means you can answer *how* a connotation hardens instead of only asserting that it does,
+and that's the question §10 invites.
+
+### Smaller, and cheap
+
+- **Grawlixes** — the Vox video "Why cartoon characters curse like this." @*#%!$ meaning
+  profanity. Pure arbitrary convention, universally legible, taught to nobody. Mort Walker
+  named them in *The Lexicon of Comicana* (1980). A ten-second §12 symbol example that's
+  funnier than the green light.
+- **Fabric care symbols — now in the script, opening §12.** See the full entry below.
+- **The *Mythologies* pull quote**, already saved in the channel: *"Every object in the
+  world can pass from a closed, silent existence to an oral state, open to appropriation by
+  society... A tree is a tree."* That's a §10 slide as it stands.
+- **Bruce Tharp, "Materious"** — the archaic word meaning both *substance* and
+  *substantive*. A one-word argument that material carries meaning, which is §8's whole
+  thesis. Tharp co-wrote *Discursive Design*.
+- **Ken Sakata, "Three hoodies. Three design solutions to the problems of the time."** I
+  can't see inside the Instagram block, but the structure sounds like §8 in a garment. Look
+  at it before you build the chair slides — if it does what the title suggests, it may be a
+  better or additional §8 case than one of the chairs.
+- **Hal Foster, ed., *The Anti-Aesthetic*** — full PDF in the channel. Backing for the
+  postmodern passage if it ever gets restored.
+- **Marcel Danesi**, in the channel as a bare search. He writes the accessible pop-culture
+  end of semiotics, including a book on emoji — relevant if you take the emoji-drift slide.
+  **Winfried Nöth** wrote the *Handbook of Semiotics*, a reference rather than a read.
+
+### What the channel says about the cow
+
+Eighteen blocks — Grocer's Encyclopedia plates, cattle breed lists, Flickr Commons
+searches, Noun Project cow icons, a roadside cow statue. It's **the largest single cluster
+in the channel** and none of it is in the deck.
+
+That's not a filing accident. You've spent more collecting effort on the butcher's chart
+than on anything else here, which suggests you want it in.
+
+It doesn't fit in thirty minutes. Same animal, cut into different signs by different
+cultures, French and American charts disagreeing about where a cow's parts are — that's a
+second act, and it's a good one. Hold it for the 45-minute version, or for the point where
+this becomes two lectures.
+
+### Housekeeping
+
+Four blocks are dead: the REI care-symbols save failed (41), the Foucault PDF link has
+expired (78), and the four scholar blocks (45–48) saved as Ecosia captcha pages rather than
+anything readable. The Noun Project cow block is in twice (16 and 36).
+
+---
+
+## 5 · If you assign one thing
+
+**Chandler's *Semiotics for Beginners*** for the students who want the field mapped — free,
+online, already in your channel three times over, and it covers Hall and the criticisms of
+semiotics that this lecture doesn't have time for.
+
+***Mythologies*** for everyone else. Short essays about ordinary objects, and it teaches
+the method by doing it rather than describing it.
+
+Frutiger if you want the designer's version. McCloud if the room would rather be reading
+pictures — you already assign it in GD3, so this lecture can point forward at it.
+
+**Berger's *Ways of Seeing*, episode 1** if you want the one that costs them thirty minutes
+of watching rather than any reading. Free, 1972, and it teaches the method the lecture is
+built on.
+
+**Baudrillard** for the student who stays after and wants to know why the boot is like that
+— *Simulacra and Simulation*, first essay only. Full reasoning in
+`big-red-boot-baudrillard.md`.
