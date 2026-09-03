@@ -102,21 +102,19 @@ So the past is plural too. And "now" is the only place the two halves touch.
 
 One difference. In physics you can't move the edge of the cone. In design that's really the job.
 
+Arthur C. Clarke got there in 1962, in an essay called "Hazards of Prophecy: The Failure of Imagination."
+
+> The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+
+That's the method. You don't find the edge by studying it. You find it by overshooting.
+
+He has another one, which is more useful to you than it looks.
+
+> When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
+
+Somebody is going to tell you your project isn't feasible. Sometimes they'll be right. Clarke's point is about which direction the expert is more often wrong in.
+
 I didn't originate any of this. I got it from Joseph Voros, and I got to Voros through Dunne & Raby, who got it from Stuart Candy.
-
-*[Four Futures]*
-
-Jim Dator ran the futures program at the University of Hawaii for decades, and he sorts them by shape instead of by likelihood.
-
-Growth, and it keeps going. Discipline, where we hit a limit and organize around it. Collapse. Transformation, where the thing turns into something else entirely.
-
-Four buckets instead of five bands. If the cone idea doesn't stick, the buckets might.
-
-Dator also has a "law.""
-
-> Any useful idea about the future should appear ridiculous.
-
-That is the preposterous band, defended. If your degree project doesn't sound a little silly when you say it out loud, it's probably sitting in the probable.
 
 ## 4. Defuturing
 
@@ -339,6 +337,12 @@ That's the whole method. Envision your preferable future, then design the things
 It's also a way to decide what to work on. If a project doesn't live in your preferable future, maybe you shouldn't do it. Somebody whose preferable future it does fit can work on it instead.
 
 And it gives you a better question for judging your work than "does this look any good?" Every project is a vector on that cone, now its "does this point toward my preferable future(s)?".
+
+Jim Dator ran the futures program at the University of Hawaii for decades, and he has a law about this.
+
+> Any useful idea about the future should appear ridiculous.
+
+If your project doesn't sound a little silly when you say it out loud, it's probably sitting in the probable.
 
 Which way does yours point?
 
