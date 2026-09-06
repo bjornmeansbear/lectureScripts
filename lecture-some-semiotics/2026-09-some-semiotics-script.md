@@ -218,23 +218,17 @@ You can't use Garfield to stand in for a generic cat. Even if you've never read 
 
 And this is a cat. But it's short for Caterpillar, and none of it has anything to do with the animal.
 
-None of those meanings are in the animal. They're in us.
-
 *[ray cats]*
-
-Now back to the ten-thousand-year problem for a second.
 
 In the eighties the US government had a real committee on this. How do you tell people to stay off a nuclear waste site when every language we currently speak will be gone? You can't write it. You can't draw it. Anything you build big enough to notice reads as a monument, and monuments get dug up on purpose.
 
 Two semioticians, Françoise Bastide and Paolo Fabbri, proposed cats.
 
-Breed a cat that changes color near radiation. Then — and this is the actual proposal — seed the culture with songs and proverbs and folk tales saying that when the cat changes color, you leave. Don't explain why. Just make it a thing everybody's grandmother says.
+Breed a cat that changes color near radiation. Then — and this is the actual proposal — seed the culture with songs and proverbs and folk tales saying that when the cat changes color, you leave the area. Don't explain why. Just make it a thing everybody's grandmother says.
 
-The cat is the instrument. The folklore is the manual. The plan is that the story outlives the language it was first told in.
+The plan is that the story outlives the language it was originally told in.
 
-Everything else we just looked at was a meaning that happened on its own. The burglar, the black cat, Garfield. Nobody planned those.
-
-This is two people sitting down to install one on purpose, and budgeting ten thousand years for it to set.
+This is two people sitting down to install a story and a vague, but useful, meaning on purpose, and budgeting ten thousand years for it to set.
 
 ## 8. Same chair, different material
 
@@ -248,21 +242,9 @@ Emeco's Navy chair. 1944, aluminum, built for the US Navy. It means indestructib
 
 The same chair in recycled Coke bottles. Now it means virtue, and it means 2010.
 
-*[Naoto Fukasawa, HAL, Vitra]*
+*[Emeco 111 Navy chair, 2010 WOOD AMISH ONE!]*
 
-Naoto Fukasawa's HAL family for Vitra. One shell, offered in wood, plywood, plastic, recycled plastic, on a dozen different bases. Same silhouette every time. The wood one is for a nice house. The plastic one is for a cafeteria.
-
-*[Starck, Louis Ghost, Kartell, 2002]*
-
-Starck's Louis Ghost. An eighteenth-century French court chair, injection-molded in clear polycarbonate. The form says aristocracy. The material says forty euros. And you can see straight through the joke.
-
-*[monobloc]*
-
-And the monobloc. The white plastic stacking chair. The most-produced chair on earth. No author, no copyright, no design history. It's what chair-ness looks like with everything else stripped off.
-
-Here's the part I want you to take with you. The monobloc means cheap here. In a lot of places it means you've arrived — you own furniture, you can seat guests. Same object. Opposite meanings. Nobody redesigned anything.
-
-Your material is not a production decision you make at the end. It's a sign, and it's often louder than the form.
+TK
 
 ## 9. Cold, icy ice
 
@@ -274,7 +256,7 @@ There's ice in it. And how do you know it's *cold* ice? Because they grew icicle
 
 That's connotative. Somebody decided the word "ice," neutrally set, wasn't enough. They needed snow on the letters so you'd really get it. Cold, icy ice.
 
-Some people think that's unsophisticated. Modernists think it's unsophisticated. I think it's trying to be clear, and I don't have a problem with it.
+Some people think that's unsophisticated. I think it's trying to be clear, and I don't have a problem with it.
 
 *[the Target bullseye on the box]*
 
@@ -290,7 +272,7 @@ They used to spell the word out in red Helvetica. Then the bullseye sat next to 
 
 *[Barthes, myth]*
 
-Barthes's third idea. When a connotation becomes the main thing people see — when they stop being able to see the literal meaning underneath it — it's become naturalized. It reads like a fact about the world instead of a decision somebody made.
+Barthes's third idea. When a connotation becomes the main thing people see — when they stop being able to see the literal meaning underneath it — it's become naturalized. It reads like a fact instead of a decision somebody made.
 
 That's myth. And it's useful to whoever it benefits.
 

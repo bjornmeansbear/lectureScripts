@@ -767,24 +767,70 @@ In `cuts-and-restores.md`, with the restore order for 35 and 45 minutes.
 
 ## Fixes to make in the deck before delivery
 
-- **Magritte is not in the deck.** You opened the test run with it and it's the best three
-  minutes in the talk. It's still filed as a "candidate" in `deck-outline.md`. Build the
-  slide — the painting, then the mug.
-- **The Beatrice Warde crystal goblet has no slide.** It's carrying §6, which is a payload
-  section, off a spoken aside.
-- **Chair slides mostly exist already** — on a different page of the same Figma file,
-  `AD1: Chair-ness (Knowledge Domain / SLG)`, page `0:1`. Built and ready to pull:
-  the line-drawing chair (`55:1425`), the plain definition (`55:1409`), the
-  function/structure/intention triad with Thonet No. 14 (`1:2`), a grid of many chairs
-  (`55:1432`), the blob diagram (`1:9`), Kosuth (`13:63`), the Ono burning chair
-  (`155:2`), and Enzo Mari's Sedia 1 (`13:60`).
-  Still to build: the chair-ness edge cases for §5 (stool, beanbag, throne, tree stump) and
-  the six-materials run for §8. Shot list is in `examples-and-references.md`.
-- **Blurry images.** You hit these live around the Duvall slides — "they've gotten quite
+Deck read live from Figma 2026-09-03: **114 slides** on page `1082:2`. `slides.md` is a
+2026-09-02 snapshot and is now stale — re-run `scripts/figma-slides.py`.
+
+### Missing — the script calls for it and the deck has nothing
+
+Fourteen items. Four of them already exist on the Chair-ness page (`0:1`) and only need
+pulling across — those are marked "exists" below.
+
+| § | What | Note |
+|---|---|---|
+| 1 | **Magritte, *The Treachery of Images*** | Your opener. Still filed as a "candidate" in `deck-outline.md`. |
+| 1 | **The museum mug** | "This is not a coffee mug." Your own work, and the best beat in the first three minutes. |
+| 5 | **The chair ladder** | word · icon · C-H-A-I-R · 의자/stol/椅子 · definition · chair-ness. Chair-ness page has `55:1425`, `55:1409`, `1:2` to pull from. |
+| 5 | **Chair edge cases** | stool, beanbag, throne, tree stump. Nothing exists. Build these. |
+| 5 | **Kosuth, One and Three Chairs** | Exists — pull `13:63` from the Chair-ness page. |
+| 6 | **Beatrice Warde's crystal goblet** | Carrying a payload section off a spoken aside. |
+| 6 | ~~Noun Project grid~~ | **Exists — it's `514`.** Nothing to build; see the note below. |
+| 7 | **Ray cats** | One slide. A cat and the colour-change line. |
+| 8 | **The whole six-materials run** | Navy 1006, Navy 111, HAL, Louis Ghost, monobloc. `55:1432` on the Chair-ness page is a start. |
+| 10 | **CCTV cameras + Cerberus** | Two images stacked. Source and credit both halves. |
+| 11 | **Yoko Ono burning chair** | Exists — pull `155:2`. |
+| 12 | **The care label** | Can be a photo of a real label, or done with no slide at all since they're wearing it. |
+| 12 | **The boot codes ladder** | leather / scuffed toe / Louboutin red sole. |
+| 12 | **MSCHF's product copy** | `2008` has the press quote only. Add "Cartoon boot for a Cool 3D World." |
+| 13 | **The blob diagram** | Exists — pull `1:9`. It replaces `3005` as the main slide. |
+
+### One slide to move, not build
+
+**`514` is the Noun Project grid** — a browser screenshot of the real search results for
+"cat", about twenty icons, every one of them selling cute or sleepy or angry. Exactly the
+slide §6 needs. (`510` and `1011` are single icons and are not it, which is where I went
+wrong first time.)
+
+It sits at `514`, inside the 500s connotation run, because that's where you used it on the
+tape. The script now wants it in §6 with the neutrality argument, next to `419`/`421`. So
+**move or duplicate it into the 400s** rather than building anything.
+
+Leave the browser chrome in. The menu bar and the search field are what make it read as a
+real search rather than a curated set, which is the whole point — you didn't pick these,
+the website did.
+
+`515`, `516` (an Unsplash image) and `517` sit right after it and I haven't identified
+them. Check whether they're part of the same beat before you move `514` out of the run.
+
+### Two slides you deleted since 2 September
+
+- **`508`** — the "cat / burglar" label. §7 still uses that beat; `509` (thief on a roof) is
+  now orphaned without its setup. Rebuild it or cut the beat.
+- **`420`** — a build step in the three-cats sequence. Probably deliberate, no action.
+
+### Orphaned — in the deck, no longer called by the script
+
+- **`402`–`410`** (9 slides), the cat denotation ladder. Chairs took denotation, so these
+  are unused in the 30-minute cut. Don't delete them — they're the restore path in
+  `cuts-and-restores.md`.
+- **`411`–`416`** (6 slides), the catness parade. Cut for time, first thing back at 35
+  minutes.
+- **The Caterpillar cat** sits in the Peirce run around `1008`–`1011`, but the script moved
+  that beat up into §7. Either move the slide or leave the joke where the deck has it.
+
+### Other
+
+- **Blurry images** around the Duvall slides — you hit these live: "they've gotten quite
   blurry, I don't know if that means they're missing from Figma."
-- **Ray cats have no slide.** §7 now ends on them. One slide is enough — a cat and the
-  line about the colour change. The WIPP spike renderings are a second slide if you want
-  the room to see what the alternative proposals looked like.
-- **Litter box wording** at 2004, per §12.
-- **Target logo history slide**, one slide, and check the naming origin before you assert
-  it — see the note in the references file.
+- **Litter box wording** at `2004`, per §12.
+- **Target logo history** — one slide if you want it, and check the naming origin before
+  asserting it. See the references file.
