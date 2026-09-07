@@ -320,19 +320,31 @@ And what you make of a sign is itself another sign. Which gets interpreted again
 
 Memes are the clearest version of this any of us have. Same image, small changes, and it means something different to every audience it lands on. And each of those becomes the thing the next one is riffing on.
 
-This brings us back to Ben Duvall -- Saussure is a 1-1 modernist interpretation of signs; Barthes gives us the post-modern version; and Peirce actually better explains this multiple meanings thing, and also lends theory to Duvall's latest "hyper modern" interpretation of signs…
+*[back to Ben Duvall]*
+
+Which brings us back to Ben Duvall.
+
+Saussure wants one system, correctly built. That's form. He's the modernist. Single formal solutions are universal... there is an underlying system/logic that can unlock communication.
+
+Barthes says the culture loads the meaning before you get there. That's content. He's the post-modernist. The reader is always right.
+
+Peirce puts the reader sort of inside the sign. That's context.
+
+The one who best describes how meaning making on the modern internet works was born in 1839.
+
+Context is the last thing. It's really a contemporary undestanding of meaning making too. Okay.
 
 ## 12. Kinds of signs
 
 *[care label]*
 
-Before I define anything — reach into your collar. Find the care label. Look at the little symbols.
+If you can, check your shirt. Find the care label. Look at the little symbols.
 
 Who can read all of them?
 
 Every one of you has been carrying that around your whole life and nobody taught you the system. So look at what's actually on there.
 
-The iron looks like an iron. The tub looks like a tub of water. Those two you can nearly guess.
+The iron looks like an iron. The tub looks like a tub of water. Those two you can nearly guess right?
 
 The triangle means bleach. The square means drying. The circle means dry cleaning. Those you cannot guess, ever, because there is nothing in a triangle that is about bleach.
 
@@ -354,13 +366,13 @@ That litter box has to be used, by the way. An empty one is a litter box a cat o
 
 And most signs are two of these at once. A photograph of a cat resembles a cat *and* was caused by one. Go back to that cat-C from earlier — it's a letter and a picture in a single mark. Symbol and icon at the same time.
 
-The dots and the little bars on your care label aren't pictures of anything at all. That's a grammar somebody voted on.
+The dots and the little bars on your care label aren't pictures of anything at all. That's symbolic. That's a visual grammar somebody just picked. So many things are this way. I haven't even gotten into any sub cultural things!
 
 *[MSCHF Big Red Boot, 2023]*
 
-Last one.
+Okay, may one last one.
 
-Normal footwear signals in small print. Leather says money. A scuffed toe says you work. A red sole says Louboutin — and that one's a registered trademark, so it's a meaning somebody owns and will sue you over. All subtle, and all of it assuming you can read it.
+Normal footwear small s signals: Leather maybe says money or durability. A scuffed toe says you work. A red sole says Louboutin — and that one's a registered trademark, so it's a meaning somebody owns and will sue you over. All fairly subtle, and all of it assuming you "read" it.
 
 Then there's this.
 
@@ -368,23 +380,17 @@ MSCHF's Big Red Boot. The press line is that it's "really not shaped like feet, 
 
 So what are they going for? Boot-ness. But whose? Because I only see one thing when I look at it, and it's Astro Boy.
 
-That's connotation. That's me bringing something to it that isn't in the object. And it's an icon of a symbol — it doesn't resemble a boot, it resembles the *cartoon convention* for a boot, which was already arbitrary.
+That's connotation. That's me bringing something to it that isn't in the object. And it's an icon of a symbol — it doesn't resemble a boot, it resembles the *cartoon convention* for a boot, which was already fairly symbolically arbitrary.
 
 MSCHF's own product description calls it a "cartoon boot for a Cool 3D World." A giant abstraction of a boot form, recalling classic cartoon and game shoe designs.
 
 They're not claiming it's a boot. They're telling you it's a cartoon boot. The thing it resembles is a drawing.
 
-And notice they say cartoon *and* game. No single source. Which is why I get Astro Boy and you might get Mario. The object points at a convention and each of us supplies our own instance of it.
+And notice they say cartoon *and* game. No single source. Which is why I get Astro Boy and you might get something else anime flavored or something. The object points at a convention and each of us supplies our own instance of it.
 
-Cartoons flatten things. Big, glossy, primary, no detail, no wear. What MSCHF did was take a two-dimensional drawing convention and extrude it into three-dimensional rubber. The uncanny feeling you get looking at it is your brain filing a category error.
+It is not warmer, drier, or more comfortable than another, cheaper, more useful boot. You're paying three hundred and fifty dollars for a sign.
 
-That gap is the product. There isn't anything else in there.
-
-The red isn't a color you'd match to an outfit. It's the color of stop signs and alarms and clown noses. It means *look at this*. It refuses to be tasteful, which is at least honest.
-
-Three hundred and fifty dollars. It is not warmer, drier, or more comfortable than a forty-dollar boot. You're paying three hundred and fifty dollars for the sign.
-
-If that one is interesting to you, go read Baudrillard. *Simulacra and Simulation*, the first essay. He's writing about copies of things that never existed, which is what you're looking at.
+If that one is interesting to you, go read Baudrillard. *Simulacra and Simulation*. He's writing about copies of things that never existed…
 
 ## 13. Context
 
@@ -394,15 +400,15 @@ Last thing. All of it depends on context. Where a sign is, when it is, and who's
 
 *[the blob diagram — Form / Content / Context, with the chair at the intersection]*
 
-Here's the version of this I actually draw. Three overlapping fields, and the chair sits where they overlap. Notice the three words aren't set the same way, which is the whole point showing up in the lettering.
+Form / Content / Context - Three overlapping fields, and the chair sits where they overlap.
 
 Modernists worked on **form**. Single forms, maximum meaning, and the designer decides what the form means.
 
-Postmodernists added **content**. The content you're working with drives the form, for different audiences.
+Postmodernists added **content**. The content you're working with drives the form, for different audiences. Many possible readings, the designer is no longer in full control.
 
 What you have to work with now is **context**. Not just that your thing goes out to a lot of audiences, but that their reinterpretations go out to a lot more.
 
-That's why we're still bad at understanding each other, with more shared references than anybody has ever had.
+That's why we're still bad at understanding each other, despite having more shared references than anybody has ever had.
 
 *[communicate to specific audiences]*
 
