@@ -228,22 +228,6 @@ The plan is that the story outlives the language it was originally told in.
 
 This is two people sitting down to install a story and a vague, but useful, meaning on purpose, and budgeting ten thousand years for it to set.
 
-## 8. Same chair, different material
-
-Same form. Different material. Watch what happens to the meaning.
-
-*[Emeco 1006 Navy chair, 1944]*
-
-Emeco's Navy chair. 1944, aluminum, built for the US Navy. It means indestructible. It means institution. It means the government bought it.
-
-*[Emeco 111 Navy chair, 2010]*
-
-The same chair in recycled Coke bottles. Now it means virtue, and it means 2010.
-
-*[Emeco 111 Navy chair, 2010 WOOD AMISH ONE!]*
-
-Same chair made by wood and by hand in pennsylvania from nextdoor neighbor amish woodworkers... craft, skill, high end polish added?
-
 ## 9. Cold, icy ice
 
 *[packaged ICE cooler]*
