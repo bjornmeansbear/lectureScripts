@@ -12,25 +12,27 @@ arena: https://www.are.na/kristian-bjornard/lecture-some-semiotics
 
 # Some Semiotics
 
-## 1. This is not a pipe
+## 1. This is not a coffee mug
+
+*[the museum mug]*
+
+I used to design for one of the art museums in town and we made this mug. It says "this is not a coffee mug". My mom asked why I would do that. I said because it's a tea mug.
+
+Designer Joke or dad joke? But really, we were referencing this: 
 
 *[Magritte, The Treachery of Images, 1929]*
 
 Does anyone recognize this painting?
 
-You probably saw it in art history. It's Magritte. The painting is called *The Treachery of Images*, and written across the bottom is *Ceci n'est pas une pipe.* This is not a pipe.
+Magritte. *The Treachery of Images.* Across the bottom: *Ceci n'est pas une pipe.* This is not a pipe.
 
-So what's the point of painting a pipe and then telling me it isn't one?
+You've probably seen this in art history, or just in culture?
 
-It's a painting of a pipe. It's meant to make you think of pipe-ness. It is literally *not* a pipe.
+So why paint a pipe and then tell us it isn't one?
 
-That's not hard to grasp. It is strange, though. And once you've noticed it you start wondering what else a pipe is standing in for, if it isn't just being a pipe. That's where we live as graphic designers.
+Because it really isn't a pipe! It's an image of a pipe! It's meant to make you think of pipe-ness, and you can't smoke it.
 
-*[the museum mug]*
-
-I used to design for one of the art museums in town and we made this mug. It says "this is not a coffee mug" on the mug. My mom asked why I would do that. I said because it's a tea mug.
-
-Designer Joke or dad joke?
+Not hard to grasp. But strange. And once you've noticed it, you start asking what else a pipe is standing in for. That's where we live as designers. This place of visual metaphor and meaning.
 
 *[SEMIOTICS!]*
 
@@ -86,7 +88,7 @@ Although, it's less fine if you're trying to keep people out of a nuclear waste 
 
 *[Roland Barthes, 1915–1980, France]*
 
-French. Post-war. Wrote about art and everyday culture. He called himself a *philosophe* rather than a philosopher because he didn't have the degrees. Drank a lot of red wine.
+Roland Barthes. French. Post-war. Wrote about art and everyday culture. He called himself a *philosophe* rather than a philosopher because he didn't have the degrees. Just philosophized. Drank a lot of red wine.
 
 He spent a lot of time explaining how ordinary French things — a car, a haircut, steak and chips — get enormous importance thrust on them.
 
@@ -152,35 +154,33 @@ Somebody made this whole argument as an artwork sixty years ago.
 
 A wooden folding chair. A photograph of that same chair, life size. And an enlarged dictionary definition of the word "chair." All three on the wall together, and all three are one piece.
 
-That's the ladder we just climbed, standing in a room. The object. A picture of it. And the words for it.
-
 Now read what the dictionary panel actually says. A seat with a back, and often arms, usually for one person. Then: a seat of office or authority, or the office itself. Then: the person occupying the seat or office, especially the chairman of a meeting.
 
 ## 6. Is anything neutral?
 
 *[neutral?]*
 
-Denotation assumes the sign you picked is neutral. That it just conveys the meaning and adds nothing else. That's what we mean in design when we call something neutral — no extra hidden layers.
+Denotation assumes the sign you picked is neutral. That it just conveys the meaning and adds nothing else. That's what we mean in design when we call something neutral — no extra hidden layers, no hidden or extra meanings.
 
-That's Beatrice Warde's crystal goblet. She wrote that in 1930. The type is a wine glass. You're supposed to see the wine, not the goblet.
+That's Beatrice Warde's crystal goblet. The type is a wine glass. You're supposed to see the wine, not the goblet.
 
-*[cat · cat · cat — three settings]*
+*[chair · chair · chair — three settings]*
 
-So. Is "cat" set in Helvetica somehow more neutrally cat than "cat" set in Bodoni?
+So. Is "chair" set in Helvetica somehow more neutrally chair than "chair" set in Bodoni?
 
 What do you think?
 
 Here's what I think. Neutrality is a made-up concept, and what it actually means is either "this reflects the beliefs of whoever made it" or "this reflects the status quo." Both of those are ideologies. Neither of them is neutral.
 
-*[Noun Project — "cat"]*
+*[Noun Project — "chair"]*
 
-Here's everything you get searching "cat" on the Noun Project. Every one of these is somebody trying to draw the generic cat.
+Here's everything you get searching "chair" on the Noun Project. Every one of these is somebody trying to draw the generic chair.
 
-None of them managed it. That one's playful. That one's sleepy. That one's cute. That one's a logo for a vet.
+None of them managed it. That one's an office chair. That one's a folding chair. That one's mid-century. That one's a throne.
 
-There's no neutral cat in there. Same as there's no neutral way to set the word.
+Every one of them is a chair from somewhere. Same as there's no neutral way to set the word.
 
-*[Modernism]*
+*[Modernism · Barcelona chair]*
 
 Modernism tells you it's a neutral formal discipline. I'd like you to consider that it's just another ideological formalism carrying its own baggage — mostly assembled by European white guys working out what communication meant to other European white guys, sixty to eighty years ago.
 
@@ -194,11 +194,9 @@ Connotation is everything that isn't literal. Not stated, not defined. The extra
 
 Some of it is obvious to everybody. Some of it only lands if you're in a particular subculture. A lot of it is emotional, cultural, personal. And it varies depending on who's looking and where they're standing.
 
-*[cat · Cat · at]*
+*[cat · Cat · cat]*
 
 Here's "cat" in a plain grotesque. Here's a cat typeface. Here's one where the C *is* a cat — ears, eyes, a tail making the bowl of the letter.
-
-That last one is a letter and a picture at the same time. Hold onto it.
 
 *[cat burglar · thief on a roof]*
 
@@ -244,7 +242,7 @@ The same chair in recycled Coke bottles. Now it means virtue, and it means 2010.
 
 *[Emeco 111 Navy chair, 2010 WOOD AMISH ONE!]*
 
-TK
+Same chair made by wood and by hand in pennsylvania from nextdoor neighbor amish woodworkers... craft, skill, high end polish added?
 
 ## 9. Cold, icy ice
 
