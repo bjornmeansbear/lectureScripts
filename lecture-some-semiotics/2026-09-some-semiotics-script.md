@@ -1,6 +1,8 @@
 ---
-version: variation on the 03 September 2026 delivery
+version: variation on the 03 September 2026 transcript
+redone: planned for Sep 8, 10am
 length: ~30 minutes
+wordcount: 3383 spoken words — 27.5 min at 123 wpm, before discussion beats
 sources: examples-and-references.md
 staging: lecture-some-semiotics.md (timings, cut decisions, delivery notes)
 cuts: cuts-and-restores.md
