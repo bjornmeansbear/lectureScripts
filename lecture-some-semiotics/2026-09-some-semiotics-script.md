@@ -254,7 +254,7 @@ They used to spell the word out in red Helvetica. Then the bullseye sat next to 
 
 *[Barthes, myth]*
 
-Barthes's third idea. When a connotation becomes the main thing people see — when they stop being able to see the literal meaning underneath it — it's become naturalized. It reads like a fact instead of a decision somebody made.
+Barthes's third idea. When a connotation becomes the main thing people see — when they stop seeing first the literal meaning underneath it — the connotation become naturalized. It ends up built into cultural understanding, like a sort of cultural fact, instead of a decision somebody made…
 
 That's myth. And it's useful to whoever it benefits.
 
@@ -282,9 +282,7 @@ That's one way to work on a myth. You don't argue with it. You set it next to so
 
 ## 11. Saussure, and then Peirce
 
-We did all of that without naming anybody. That's deliberate. It's how Berger does it in *Ways of Seeing* — you look first, and the theory arrives to explain what you already saw. Every textbook does it the other way around.
-
-So. Here's where it comes from.
+So. Here's where this comes from.
 
 *[Ferdinand de Saussure, 1857–1913, Switzerland]*
 
@@ -294,11 +292,11 @@ Saussure is Swiss, and he's writing about language. He thought a language is a s
 
 Signifier and signified. The word "cat," the sound a cat makes, a picture of fur — all signifiers. The furry creature, and the concept of cat-ness — signified. Together they're the sign.
 
-He's a modernist about it. One to one. Get the system right and meaning becomes an algorithm.
+He's a modernist about it. One to one. Get the system right and meaning becomes a sort of algorithm. He's looking for a universal set of instructions for meaning making.
 
 *[burning chair]*
 
-Yoko Ono got at the same split in one sentence, and she did it with a chair.
+Yoko Ono gets at the Saussure-ian split returning to a chair:
 
 > There is no chair that two see together. I think it is possible to see a chair as it is. But when you burn the chair, you suddenly realize that the chair in your head did not burn or disappear.
 
@@ -306,19 +304,23 @@ Burn the signifier. The signified is untouched.
 
 *[Charles Sanders Peirce, 1839–1914, USA]*
 
-Peirce — it's pronounced "purse" — is American. He's in Baltimore for a while, teaching at Hopkins. And he wants logical rules for *any* kind of sign, not just words.
+Peirce — it's pronounced "purse" — is American. He's in Baltimore for a while, working at Hopkins. And he wants logical rules for *any* kind of sign, not just words. (He's a little out there, and ends up living in a cabin in the woods writing new thoughts on the backs of old unpublished manuscripts... but he's got great useful ideas to us today even if at the end of the 19th century they didn't quite get them)
+
+Peirce's semiotics is more complex and nuanced than Saussure's. It takes into account the role of "interpretation" in the creation of meaning, and it recognizes that there are a variety of different types of signs with different ways of creating meaning.
 
 *[representamen / object / interpretant]*
 
 He says there are three things, not two. The sign. What it points at. And the person making sense of it.
 
-That third one is the whole difference. The interpreter is inside the model. So the multiple meanings Barthes is describing aren't a complication for Peirce. They're built in from the start. A different reader gets a different meaning, by design.
+That third one is the whole difference. The interpreter is inside the model. So the multiple meanings Barthes is describing aren't a complication for Peirce. They're built in from the start. A different reader, a differnt cultural context, gets a different meaning, by design.
 
 *[unlimited semiosis]*
 
 And what you make of a sign is itself another sign. Which gets interpreted again. Which produces another one. It never closes. It never bottoms out in a final meaning.
 
 Memes are the clearest version of this any of us have. Same image, small changes, and it means something different to every audience it lands on. And each of those becomes the thing the next one is riffing on.
+
+This brings us back to Ben Duvall -- Saussure is a 1-1 modernist interpretation of signs; Barthes gives us the post-modern version; and Peirce actually better explains this multiple meanings thing, and also lends theory to Duvall's latest "hyper modern" interpretation of signs…
 
 ## 12. Kinds of signs
 
