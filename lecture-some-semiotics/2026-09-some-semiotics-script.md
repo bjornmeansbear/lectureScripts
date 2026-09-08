@@ -245,7 +245,7 @@ That's connotative. Somebody decided the word "ice," neutrally set, wasn't enoug
 
 Some people think that's unsophisticated. I think it's trying to be clear, and I don't have a problem with it.
 
-*[the Target bullseye on the box]*
+*[the Target bullseye]*
 
 Now what's the literal read of this symbol? It's a target. You shoot at it.
 
@@ -253,7 +253,7 @@ And what's the connotative read? It's a store.
 
 There's nothing about concentric rings that means retail. We just agreed.
 
-And the connotation hardened into a fact. Barthes calls that myth. Branding is myth-making with a budget.
+And the connotation hardened into a fact. Barthes calls that myth. Branding is myth-making on a budget.
 
 ## 9. Saussure, and then Peirce
 
@@ -345,13 +345,7 @@ The dots and the little bars on your care label aren't pictures of anything at a
 
 *[MSCHF Big Red Boot, 2023]*
 
-Okay, may one last one.
-
-Normal footwear small s signals: Leather maybe says money or durability. A scuffed toe says you work. A red sole says Louboutin — and that one's a registered trademark, so it's a meaning somebody owns and will sue you over. All fairly subtle, and all of it assuming you "read" it.
-
-Then there's this.
-
-MSCHF's Big Red Boot. The press line is that it's "really not shaped like feet, but extremely shaped like boots."
+Okay, then there's this as a sort of final example: MSCHF's Big Red Boot. The press line is that it's "really not shaped like feet, but extremely shaped like boots."
 
 So what are they going for? Boot-ness. But whose? Because I only see one thing when I look at it, and it's Astro Boy.
 
@@ -361,9 +355,7 @@ MSCHF's own product description calls it a "cartoon boot for a Cool 3D World." A
 
 They're not claiming it's a boot. They're telling you it's a cartoon boot. The thing it resembles is a drawing.
 
-And notice they say cartoon *and* game. No single source. Which is why I get Astro Boy and you might get something else anime flavored or something. The object points at a convention and each of us supplies our own instance of it.
-
-It is not warmer, drier, or more comfortable than another, cheaper, more useful boot. You're paying three hundred and fifty dollars for a sign.
+It is not warmer, drier, or more comfortable than another, cheaper, more useful boot. You're paying for a sign.
 
 If that one is interesting to you, go read Baudrillard. *Simulacra and Simulation*. He's writing about copies of things that never existed…
 
