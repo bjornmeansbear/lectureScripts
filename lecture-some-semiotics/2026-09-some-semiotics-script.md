@@ -2,8 +2,8 @@
 version: variation on the 03 September 2026 transcript
 redone: planned for Sep 8, 10am
 length: ~30 minutes
-wordcount: 3332 spoken words — 27.1 min at 123 wpm, before discussion beats
-renumbered: 2026-09-08 — old §8 (Emeco materials) was cut, so old §9–13 are now §8–12. §-references in lecture-some-semiotics.md, examples-and-references.md and cuts-and-restores.md still use the old scheme.
+wordcount: 3116 spoken words — 25.3 min at 123 wpm, before discussion beats
+renumbered: 2026-09-08 — the Emeco materials run and the Myth section were both cut to the essay; sections now run §1–11. Cross-references in the staging and reference files were swept to match.
 sources: examples-and-references.md
 staging: lecture-some-semiotics.md (timings, cut decisions, delivery notes)
 cuts: cuts-and-restores.md
@@ -135,7 +135,7 @@ A beanbag. No legs, no back, no frame. Still a chair???
 
 *[throne]*
 
-A throne. That's all chair, plus something else.
+A throne. All chair, plus a lot else — which makes it a bad way to say "chair."
 
 *[tree stump]*
 
@@ -145,7 +145,7 @@ Now look at what just happened to my definition. Function, yes. Structure, yes. 
 
 So either the stump isn't a chair, or intention doesn't have to come from whoever made the thing. It can come from whoever uses it.
 
-Nothing about the object changed. Remember that. We'll return to the "reader" bringing the intention…
+Nothing about the object changed. The chair-ness was in the looking.
 
 *[chair, the word]*
 
@@ -158,6 +158,8 @@ Somebody made this whole argument as an artwork sixty years ago.
 A wooden folding chair. A photograph of that same chair, life size. And an enlarged dictionary definition of the word "chair." All three on the wall together, and all three are one piece.
 
 Now read what the dictionary panel actually says. A seat with a back, and often arms, usually for one person. Then: a seat of office or authority, or the office itself. Then: the person occupying the seat or office, especially the chairman of a meeting.
+
+And if there's no neutral chair, there's no neutral way to draw one either.
 
 ## 6. Is anything neutral?
 
@@ -249,39 +251,11 @@ Now what's the literal read of this symbol? It's a target. You shoot at it.
 
 And what's the connotative read? It's a store.
 
-There's nothing about concentric rings that means retail.
+There's nothing about concentric rings that means retail. We just agreed.
 
-## 9. Myth
+And the connotation hardened into a fact. Barthes calls that myth. Branding is myth-making with a budget.
 
-*[Barthes, myth]*
-
-Barthes's third idea. When a connotation becomes the main thing people see — when they stop seeing first the literal meaning underneath it — the connotation become naturalized. It ends up built into cultural understanding, like a sort of cultural fact, instead of a decision somebody made…
-
-That's myth. And it's useful to whoever it benefits.
-
-*[The American Dream!]*
-
-The American dream. The signs attached to it — your own house, a car, a savings account, a family, the suburbs.
-
-None of that is a fact about how life works. It's a set of associations that hardened. And people arrange their actual present around it. What job to take. What debt to carry. Because they believe it's waiting for them.
-
-That's the future being used against people. Same cone, pointed the wrong way.
-
-*[three CCTV cameras on a pole]*
-
-Three cameras on a pole. You have walked past a thousand of these and never once looked at one.
-
-That's what naturalized means. Not that you approve of them. That they've stopped being visible.
-
-*[Cerberus]*
-
-Three heads, one body, guarding a threshold nobody's meant to cross.
-
-Nobody designed that camera mount to look like this. The resemblance isn't in either picture. It's in the gap between them, and you just made it, in about a second, without being asked to.
-
-That's one way to work on a myth. You don't argue with it. You set it next to something else and let the room do the rest.
-
-## 10. Saussure, and then Peirce
+## 9. Saussure, and then Peirce
 
 So. Here's where this comes from.
 
@@ -335,7 +309,7 @@ The one who best describes how meaning making on the modern internet works was b
 
 Context is the last thing. It's really a contemporary undestanding of meaning making too. Okay.
 
-## 11. Kinds of signs
+## 10. Kinds of signs
 
 *[care label]*
 
@@ -393,7 +367,7 @@ It is not warmer, drier, or more comfortable than another, cheaper, more useful 
 
 If that one is interesting to you, go read Baudrillard. *Simulacra and Simulation*. He's writing about copies of things that never existed…
 
-## 12. Context
+## 11. Context
 
 *[Pragmatists — the world we live in is one of change]*
 

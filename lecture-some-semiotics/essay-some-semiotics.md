@@ -79,7 +79,7 @@ So here's my definition. A designed object for sitting, typically with a seat, a
 
 That's chair-ness. Everything else is negotiable. I've been running a project on this for a few years with Christopher Attenborough, building chairs out of whatever's around, and that definition is what's survived a couple dozen of our builds.
 
-So test it. A stool has no back. Is that still a good denotative sign for chair-ness? A beanbag has no legs, no back, no frame — still a chair? A throne is all chair, plus something else. Is that still a good denotative sign for chair-ness? And somebody sits on a particular tree stump every day on their walk — still a chair?
+So test it. A stool has no back. Is that still a good denotative sign for chair-ness? A beanbag has no legs, no back, no frame — still a chair? A throne is all chair plus a lot else, which makes it a bad way to say "chair" — too busy being a throne. And somebody sits on a particular tree stump every day on their walk — still a chair?
 
 Look at what the stump does to the definition. Function, yes. Structure, yes. Intention — no. Or did they? what if there are more than one stump, cut off, and placed specifically around a fire pit or something… does that cross the intention threshold then!?
 
@@ -90,6 +90,8 @@ Then "chair" doesn't have to have anything to do with sitting at all. You can ch
 Somebody made this entire argument as an artwork already. Joseph Kosuth, *One and Three Chairs*, 1965: a wooden folding chair, a life-size photograph of that same chair, and an enlarged dictionary definition of the word. All three on the wall together, and all three are one piece. The object, a picture of it, and the words for it. Kosuth, like Magreitte, is trying to SHOW us semiotics. Here's a real thing; here's an icon for it (the photo, its a sign, a copy, a representation of said real chair), and here's the definition that these things are meant to "mean", to reference back to.
 
 Read what the dictionary panel actually says. A seat with a back, and often arms, usually for one person. Then: a seat of office or authority, or the office itself. Then: the person occupying that office, especially the chairman of a meeting.
+
+And if there's no neutral chair, there's no neutral way to draw one either.
 
 ## Is anything neutral?
 
@@ -181,7 +183,7 @@ Which is the neutrality argument arriving from the other end. The firm most comm
 
 Barthes's third idea. When a connotation becomes the main thing people see — when they stop being able to see the literal meaning underneath it — it's become naturalized. It reads like a fact instead of a decision somebody made.
 
-That's myth. And it's useful to whoever it benefits.
+That's myth. And it's useful to whoever it benefits. Branding is myth-making with a budget — the deliberate version of the same process, run at getting a connotation to harden until it reads as a property of the product rather than a decision somebody paid for and a conference room picked off a mood board.
 
 The American dream. The signs attached to it: your own house, a car, a savings account, a family, the suburbs. None of that is a fact about how life works. It's a set of associations that hardened, and people arrange their actual present around it. What job to take. What debt to carry. Because they believe it's waiting for them. That's the future being used against people.
 

@@ -50,7 +50,7 @@ things it corrects, all of which are currently wrong on a slide or in `deck-outl
 Two things it confirms:
 
 - **Signs are not exclusive categories.** Any single sign may combine iconic, indexical and
-  symbolic character. The "aspects, not bins" move in §11 is Peirce's own position, not a
+  symbolic character. The "aspects, not bins" move in §10 is Peirce's own position, not a
   teaching simplification — say it flatly.
 - **"Representamen" was one of several words he used** (also sign, representation, ground).
   SEP prefers **sign-vehicle**, which is also what students will meet elsewhere. The deck's
@@ -92,14 +92,14 @@ assign this in GD3 already.
 | Magritte, *The Treachery of Images* (1929) | Icon vs. its object, in one painting | Opener |
 | Your museum mug, "this is not a coffee mug" | Same joke, your own work | Opener |
 | The cat ladder: word / icon / letters / 고양이 / katt / 猫 | Denotation, many signifiers, one signified | §5 |
-| The cat-C display face (505) | Symbol and icon in one mark | §7, re-shown §11 |
+| The cat-C display face (505) | Symbol and icon in one mark | §7, re-shown §10 |
 | Cat burglar; black cat; Garfield; CAT/Caterpillar | Connotation | §7 |
-| Litter box | Index | §11 |
+| Litter box | Index | §10 |
 | Packaged ICE cooler with icicled letterforms | Connotation added on purpose | §8 |
 | Target bullseye on the cooler | Denotation, connotation and symbol at once | §8 |
-| The American Dream | Myth | §9 |
-| Three CCTV cameras / Cerberus | Denaturalizing a myth; meaning made on receipt | §9 |
-| MSCHF Big Red Boot (2023) | Icon of a symbol; connotation with a price on it | §11 |
+| The American Dream | Myth | myth (essay) |
+| Three CCTV cameras / Cerberus | Denaturalizing a myth; meaning made on receipt | myth (essay) |
+| MSCHF Big Red Boot (2023) | Icon of a symbol; connotation with a price on it | §10 |
 
 **Big Red Boot — full details for the credit line.** MSCHF010, red, **$350**, released
 **16 February 2023**. Single TPU rubber exterior shell over an EVA interior; MSCHF mark on
@@ -220,7 +220,7 @@ and completely stable.
 
 One sign migrating between Peirce's categories inside a single career. It proves that the
 categories are relations rather than properties, and it makes unlimited semiosis concrete
-without a meme. **Put it in §11, right after "they're aspects, not bins."**
+without a meme. **Put it in §10, right after "they're aspects, not bins."**
 
 ### Mr. Yuk
 
@@ -248,7 +248,7 @@ specific," and Hall gives the room a model of *the somebody* rather than an inst
 go ask them. It also means an audience rejecting your work isn't a failure to communicate
 — they may have received it precisely and disagreed. Students conflate those constantly.
 
-Two sentences in §12, or a slide before the closer.
+Two sentences in §11, or a slide before the closer.
 
 ### Otto Neurath's Isotype, with Ellen Lupton's critique
 
@@ -271,16 +271,16 @@ theorises; the argument comes out of the looking rather than standing in front o
 is exactly the structure you defend in `deck-outline.md` and apologised for on tape —
 phenomena first, theorists at minute 23. It isn't a quirk of your deck. It's Berger's move,
 he's a named influence in how you write already, and naming him converts an apology into a
-citation. That's now in §10.
+citation. That's now in §9.
 
 The four essays map onto the lecture cleanly enough that it's worth knowing which is which:
 
 | Essay | Claim | Where it lands |
 |---|---|---|
-| 1 — reproduction | An image's meaning changes with where it's shown, what's cropped, what music runs under it | §12, context |
+| 1 — reproduction | An image's meaning changes with where it's shown, what's cropped, what music runs under it | §11, context |
 | 2 — the nude | "Men act and women appear." The way of looking is built, not given | §6, neutrality |
 | 3 — oil painting | Oil paint's rendering of substance is bound up with depicting ownable things | the materials run (essay) |
-| 4 — publicity | Ads sell you envy of your own future self | §9, myth |
+| 4 — publicity | Ads sell you envy of your own future self | myth (essay) |
 
 **Essay 2 is the strongest §6 upgrade available** and I'd flag it rather than schedule it.
 Your current §6 says neutrality is really the status quo, then supports it by naming
@@ -379,7 +379,7 @@ the channel. This is a second act, not a garnish — hold it for the 45-minute v
 **Apple's AI icon.** An industry failing in public and in real time to agree on a symbol.
 Good, current, and it dates fast.
 
-### Fabric care symbols — now in the script, opening §11
+### Fabric care symbols — now in the script, opening §10
 
 The REI page (are.na block 41) returns 403 to anything automated, which is why the save
 failed. **Screenshot it; don't try to archive the link.**
@@ -402,7 +402,7 @@ bins" demonstrated on an object rather than asserted about a photograph. Then a 
 grammar sits on top of all five — dots for temperature, bars underneath for how gently to
 agitate, an X for don't — and none of that is a picture of anything.
 
-**Why it opens §11 rather than closing it.** Minute 26 of 30 is where attention dies, and
+**Why it opens §10 rather than closing it.** Minute 26 of 30 is where attention dies, and
 this is the only moment in the lecture where a student *fails to read a sign in real time*.
 Everything else asks them to read something successfully. The failure is the lesson, it
 needs no slide, and it costs about 25 seconds.
@@ -414,14 +414,14 @@ needs no slide, and it costs about 25 seconds.
   "Meaning was decided by somebody" from §3, with an actual date on it, in living memory.
 - **In Europe the symbols are owned.** GINETEX holds them as registered trademarks and
   licenses their use. A public-safety notation that's private property — same structure as
-  the Louboutin red sole in §11, and it opens onto
+  the Louboutin red sole in §10, and it opens onto
   `../workshop-open-source-design/`. (CHECK the licensing specifics before asserting them
   from the podium; the trademark itself is well documented.)
 
 **The wind barbs are now the backup, not the primary.** Keep them for the 45-minute version
 or drop them — they were making the same point from further away.
 
-### The Cerberus pairing — now in the script, closing §9
+### The Cerberus pairing — **essay only since 2026-09-08**
 
 Three surveillance cameras on a pole, stacked above a black-figure Cerberus. Three heads,
 one body, guarding a threshold.
@@ -436,14 +436,14 @@ Three things are happening and only the first is obvious:
    to name it.
 
 What makes it worth a slide in a payload section is the fourth thing: it's an *operation*,
-not an example. §9 tells students that connotations harden into things that look like
+not an example. The myth section tells students that connotations harden into things that look like
 facts, and until now offered them nothing to do about it. This is the move — take the
 naturalized object and set it beside something that makes it strange again. It's what
 Barthes is doing for 200 pages in *Mythologies*, compressed into two pictures and no text.
 
 It also works as a McCloud demonstration — two panels, a gutter, closure performed by the
-reader — which would give §11's McCloud mention something to show instead of describe. §9
-wins because §9 had the gap.
+reader — which would give §10's McCloud mention something to show instead of describe. Myth
+won because myth had the gap.
 
 **Before it goes up:** source both halves and credit them on the slide. The Cerberus reads
 as a public-domain woodcut or engraving but confirm it.
@@ -484,7 +484,7 @@ Then the edge cases, four images, fast — *is this chair-ness?*
 
 - A stool (no back — does it still qualify?)
 - A beanbag (no legs, no back, no frame)
-- A throne (all chair, plus something else — and it sets up §9)
+- A throne (all chair, plus something else)
 - **A tree stump somebody sits on daily** — the one to land on. A chair only because of
   use. That's the interpretant doing the work, eighteen minutes before Peirce arrives.
 
@@ -535,7 +535,7 @@ the HAL launch year and the Rietveld painting date before they go on a slide.
 ## 4 · The Chair-ness deck — already built
 
 Figma page `0:1`, **AD1: Chair-ness (Knowledge Domain / SLG)**, in the same file as the
-semiotics deck. 26 slides. Most of what §5, the materials run and §12 need is already made — pull it
+semiotics deck. 26 slides. Most of what §5, the materials run and §11 need is already made — pull it
 across rather than building it.
 
 | Node | What it is | Where it goes |
@@ -544,10 +544,10 @@ across rather than building it.
 | `55:1409` | "A designed object for sitting, typically with a seat, back, and often legs" | §5 |
 | `1:2` | Function / structure / intention, with Thonet No. 14 | §5 |
 | `55:1432` | Grid of many chairs — Panton, Bofinger, Hand Chair, Carbon Balloon, Bina | materials |
-| `1:9` | **The blob diagram** — Form/Content/Context, chair at the intersection | §12 |
+| `1:9` | **The blob diagram** — Form/Content/Context, chair at the intersection | §11 |
 | `13:60` | Enzo Mari, Sedia 1, *Autoprogettazione*, 1973 | see below |
 | `13:63` | **Joseph Kosuth, One and Three Chairs, 1965** | §5 close |
-| `155:2` | **Yoko Ono** — the burning chair quote | §10 |
+| `155:2` | **Yoko Ono** — the burning chair quote | §9 |
 
 ### Kosuth is the best thing on that page
 
@@ -575,7 +575,7 @@ Content and CONTEXT each set in a different typeface — a grotesque, a serif, a
 outline. The diagram enacts the argument it's making. The 3005 table states the same thing
 and demonstrates nothing.
 
-It's now §12's main slide. Keep 3005 as the backup for a room that wants the tidy version.
+It's now §11's main slide. Keep 3005 as the backup for a room that wants the tidy version.
 
 ### Yoko Ono, for Saussure
 
@@ -663,18 +663,18 @@ second-order sign can stand on it. Barthes took that from Hjelmslev.
 
 **Don't teach Hjelmslev.** Nobody needs a fourth theorist at minute 21. But knowing this
 means you can answer *how* a connotation hardens instead of only asserting that it does,
-and that's the question §9 invites.
+and that's the question the myth section invites.
 
 ### Smaller, and cheap
 
 - **Grawlixes** — the Vox video "Why cartoon characters curse like this." @*#%!$ meaning
   profanity. Pure arbitrary convention, universally legible, taught to nobody. Mort Walker
-  named them in *The Lexicon of Comicana* (1980). A ten-second §11 symbol example that's
+  named them in *The Lexicon of Comicana* (1980). A ten-second §10 symbol example that's
   funnier than the green light.
-- **Fabric care symbols — now in the script, opening §11.** See the full entry below.
+- **Fabric care symbols — now in the script, opening §10.** See the full entry below.
 - **The *Mythologies* pull quote**, already saved in the channel: *"Every object in the
   world can pass from a closed, silent existence to an oral state, open to appropriation by
-  society... A tree is a tree."* That's a §9 slide as it stands.
+  society... A tree is a tree."* That's a myth slide as it stands.
 - **Bruce Tharp, "Materious"** — the archaic word meaning both *substance* and
   *substantive*. A one-word argument that material carries meaning, which is the materials run's whole
   thesis. Tharp co-wrote *Discursive Design*.

@@ -49,17 +49,15 @@ Duvall grid off the front, and chairs taking denotation so cats can keep connota
 | 10:00–13:00 | 6 | **Neutral? → Modernism** | 417–422 |
 | 13:00–16:00 | 7 | Connotation — cats, → ray cats | 500–517 + new |
 | 16:00–18:30 | 8 | ICE cooler → Target | 600–601 |
-| 18:30–20:30 | 9 | **Myth** | 700–703 |
-| 20:30–23:30 | 10 | Saussure → Peirce | 800–1011 |
-| 23:30–26:00 | 11 | Types of signs → Big Red Boot | 2000–2009 |
-| 26:00–27:30 | 12 | Context, the grid, the closer | 3000–4001 |
+| 18:30–21:30 | 9 | Saussure → Peirce | 800–1011 |
+| 21:30–24:00 | 10 | Types of signs → Big Red Boot | 2000–2009 |
+| 24:00–25:30 | 11 | Context, the grid, the closer | 3000–4001 |
 
-**The two payloads are §6 and §9.** Neutrality is a claim, not a state; connotation
-hardens into fact and somebody benefits. If you are running long, everything else is
-negotiable and those two are not.
+**The payload is §6.** Neutrality is a claim, not a state. If you are running long,
+everything else is negotiable and that one is not.
 
-**Running long?** Cut McCloud from §11. Then cut Saussure to a
-single sentence. Do not cut §6, §9, or the closer.
+**Running long?** Cut McCloud from §10. Then cut Saussure to a
+single sentence. Do not cut §6 or the closer.
 
 ---
 
@@ -368,7 +366,7 @@ Run them fast. The form is constant; only the substance changes:
 > everything else stripped off.
 
 *(Quiet rhyme worth knowing, not worth a slide: the monobloc is one piece of moulded
-polypropylene and the Big Red Boot in §11 is one moulded TPU shell. Same manufacturing
+polypropylene and the Big Red Boot in §10 is one moulded TPU shell. Same manufacturing
 logic. One strips a form back to bare function, the other inflates it into a cartoon.)*
 
 Then the turn — this is the point of the section:
@@ -424,7 +422,7 @@ One sentence on the logo history, not a run:
 
 ---
 
-## 9 · Myth (18:30–20:30) — **payload**
+## Cut · Myth — **moved to the essay 2026-09-08**
 
 > Barthes's third idea. When a connotation becomes the main thing people see — when they
 > stop being able to see the literal meaning underneath it — it's become naturalized. It
@@ -445,7 +443,7 @@ The one-line sharpener, which also links the future lecture:
 
 > That's the future being used against people. Same cone, pointed the wrong way.
 
-### Cerberus (~30 sec, closes §9)
+### Cerberus — **cut to the essay 2026-09-08**
 
 *[Two images stacked: a cluster of three CCTV cameras on a pole, above a black-figure
 Cerberus.]*
@@ -467,7 +465,7 @@ you do.
 > picture. It's in the gap between them, and you just made it, in about a second, without
 > being asked to.
 
-Then the turn, which is what §9 has been missing:
+Then the turn, which is what the myth section had been missing:
 
 > That's one way to work on a myth. You don't argue with it. You set it next to something
 > else and let the room do the rest.
@@ -478,22 +476,22 @@ here's a bad thing, be aware of it. This is the operation Barthes is performing 
 *Mythologies* and it's a designer's move: take the naturalized thing and re-sign it. One
 image, no theory, and it's demonstrable rather than assertable.
 
-It also plants the interpretant a second time, three minutes before Peirce names it in §10
+It also plants the interpretant a second time, three minutes before Peirce names it in §9
 — the meaning is in neither image, it's manufactured on receipt. Same trick the tree stump
-pulls in §5. Don't say so; just let §10 land on a room that's now done it twice.
+pulls in §5. Don't say so; just let §9 land on a room that's now done it twice.
 
 **Sourcing:** find the origin of both halves before it goes up, and credit them on the
 slide like the Noun Project cat. The Cerberus looks like a public-domain woodcut or
 engraving; confirm rather than assume.
 
-**Alternative home if you'd rather:** §11, alongside McCloud, where it demonstrates closure
+**Alternative home if you'd rather:** §10, alongside McCloud, where it demonstrates closure
 — two panels and a gutter, meaning made by the reader. It's a real reading and it would
-make McCloud earn his place by being shown instead of described. §9 is the better use
-because §9 has the hole.
+make McCloud earn his place by being shown instead of described. Myth was the better use
+because myth had the hole.
 
 ---
 
-## 10 · Saussure → Peirce (20:30–23:30)
+## 9 · Saussure → Peirce (18:30–21:30)
 
 You apologized on tape for going in reverse order. Don't. **The order is correct and it is
 deliberate** — the room has now felt denotation, connotation and myth, so the machinery
@@ -559,7 +557,7 @@ the references file.
 
 ---
 
-## 11 · Types of signs → Big Red Boot (23:30–26:00)
+## 10 · Types of signs → Big Red Boot (21:30–24:00)
 
 ### Open on the label (~25 sec)
 
@@ -695,9 +693,9 @@ And the red, which is a free callback to §6:
 > Three hundred and fifty dollars. It is not warmer, drier or more comfortable than a
 > forty-dollar boot. You are paying three hundred and fifty dollars for the sign.
 
-**Cut the calf-aperture gag** now that §11 opens on the care label — the section can carry
+**Cut the calf-aperture gag** now that §10 opens on the care label — the section can carry
 one piece of deadpan, not two, and the label demo is doing more work. It's in the references
-file if the room is loose and you want it back. Move on to §12.
+file if the room is loose and you want it back. Move on to §11.
 
 **McCloud, if you have thirty seconds:**
 
@@ -707,9 +705,9 @@ file if the room is loose and you want it back. Move on to §12.
 >
 > That's where this becomes useful to you as a form-giver.
 
-**Cut McCloud.** The boot block is now about 30 seconds longer than it was and §11 is over
+**Cut McCloud.** The boot block is now about 30 seconds longer than it was and §10 is over
 2:30 — McCloud is what pays for it, and he was already flagged first-out. If you want him
-back, he belongs in the 45-minute version where §11 can run four minutes.
+back, he belongs in the 45-minute version where §10 can run four minutes.
 
 **Do not try to also fit Veblen, Baudrillard or MSCHF's institutional-critique thesis into
 this section.** They're real and they're in the references file. They're the answer when a
@@ -717,7 +715,7 @@ student stays after, and they're the spine of an essay — not thirty more secon
 
 ---
 
-## 12 · Context, the grid, the closer (26:00–27:30)
+## 11 · Context, the grid, the closer (24:00–25:30)
 
 The Duvall grid lives here now.
 
@@ -785,12 +783,12 @@ pulling across — those are marked "exists" below.
 | 6 | ~~Noun Project grid~~ | **Exists — it's `514`.** Nothing to build; see the note below. |
 | 7 | **Ray cats** | One slide. A cat and the colour-change line. |
 | — | ~~**The whole six-materials run**~~ | Cut 2026-09-08; essay only. `55:1432` on the Chair-ness page is a start if it returns. |
-| 9 | **CCTV cameras + Cerberus** | Two images stacked. Source and credit both halves. |
-| 10 | **Yoko Ono burning chair** | Exists — pull `155:2`. |
-| 11 | **The care label** | Can be a photo of a real label, or done with no slide at all since they're wearing it. |
-| 11 | **The boot codes ladder** | leather / scuffed toe / Louboutin red sole. |
-| 11 | **MSCHF's product copy** | `2008` has the press quote only. Add "Cartoon boot for a Cool 3D World." |
-| 12 | **The blob diagram** | Exists — pull `1:9`. It replaces `3005` as the main slide. |
+| — | ~~**CCTV cameras + Cerberus**~~ | Cut 2026-09-08; essay only. `703` currently has both on one frame. |
+| 9 | **Yoko Ono burning chair** | Exists — pull `155:2`. |
+| 10 | **The care label** | Can be a photo of a real label, or done with no slide at all since they're wearing it. |
+| 10 | **The boot codes ladder** | leather / scuffed toe / Louboutin red sole. |
+| 10 | **MSCHF's product copy** | `2008` has the press quote only. Add "Cartoon boot for a Cool 3D World." |
+| 11 | **The blob diagram** | Exists — pull `1:9`. It replaces `3005` as the main slide. |
 
 ### One slide to move, not build
 
@@ -830,6 +828,6 @@ them. Check whether they're part of the same beat before you move `514` out of t
 
 - **Blurry images** around the Duvall slides — you hit these live: "they've gotten quite
   blurry, I don't know if that means they're missing from Figma."
-- **Litter box wording** at `2004`, per §11.
+- **Litter box wording** at `2004`, per §10.
 - **Target logo history** — one slide if you want it, and check the naming origin before
   asserting it. See the references file.

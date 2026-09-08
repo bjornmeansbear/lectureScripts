@@ -54,9 +54,9 @@ Restore in this order if you get 45 minutes.
    because the chair asks about material and the cat asks about specificity.
 2. **Peirce and Saussure as people** (~2 min). The mustache, the hermit in the woods, the
    fact that Peirce is the older man who reads as the more modern thinker. Goes back into
-   §10.
+   §9.
 3. **Modern / postmodern / hypermodern in full** (~2.5 min). The one-to-many to
-   many-to-many progression, memes as the case. Goes back into §12 in front of the grid,
+   many-to-many progression, memes as the case. Goes back into §11 in front of the grid,
    not into §2 where it started.
 4. **Emigre, Ray Gun, Cranbrook** (~1.5 min). David Carson is the name you couldn't
    retrieve on tape. Katherine McCoy is the one who makes the point about interpretation
@@ -90,7 +90,7 @@ the transcript, where you talk yourself out of it mid-sentence. Then I looked at
 on the Chair-ness page, node `1:9` — and it's better than the 3005 table it was competing
 with. The chair sits at the intersection of the three fields, and Form, Content and Context
 are each set in a different typeface, so the diagram performs its own argument. It's now
-§12's main slide and the table is the backup.
+§11's main slide and the table is the backup.
 
 **What never comes back:** the Emigre digression in the form it took on tape. If Emigre returns it should return as §6's answer to "so what did designers do
 once they stopped believing in neutral?" — with Katherine McCoy and David Carson named —
