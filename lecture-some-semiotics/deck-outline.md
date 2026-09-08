@@ -6,6 +6,11 @@ arena: https://www.are.na/kristian-bjornard/lecture-some-semiotics
 
 # Some Semiotics
 
+> **Note, 2026-09-08:** the section numbers in this file are the *deck's* own, from the
+> 2026-09-02 snapshot. They do not match the script's §1–12 — this file's §5 is Denotation,
+> §6 is Connotation, §8 is Myth. Cross-references inside this file are internal and correct.
+
+
 > What the slides already argue, in delivery order. Section numbers match the deck's frame
 > runs; quoted lines are text that is on the slide. Source of truth is Figma — this is a
 > snapshot. The script gets written separately, from the recording.

@@ -2,7 +2,8 @@
 version: variation on the 03 September 2026 transcript
 redone: planned for Sep 8, 10am
 length: ~30 minutes
-wordcount: 3415 spoken words — 27.8 min at 123 wpm, before discussion beats
+wordcount: 3332 spoken words — 27.1 min at 123 wpm, before discussion beats
+renumbered: 2026-09-08 — old §8 (Emeco materials) was cut, so old §9–13 are now §8–12. §-references in lecture-some-semiotics.md, examples-and-references.md and cuts-and-restores.md still use the old scheme.
 sources: examples-and-references.md
 staging: lecture-some-semiotics.md (timings, cut decisions, delivery notes)
 cuts: cuts-and-restores.md
@@ -230,7 +231,7 @@ The plan is that the story outlives the language it was originally told in.
 
 This is two people sitting down to install a story and a vague, but useful, meaning on purpose, and budgeting ten thousand years for it to set.
 
-## 9. Cold, icy ice
+## 8. Cold, icy ice
 
 *[packaged ICE cooler]*
 
@@ -250,7 +251,7 @@ And what's the connotative read? It's a store.
 
 There's nothing about concentric rings that means retail.
 
-## 10. Myth
+## 9. Myth
 
 *[Barthes, myth]*
 
@@ -280,7 +281,7 @@ Nobody designed that camera mount to look like this. The resemblance isn't in ei
 
 That's one way to work on a myth. You don't argue with it. You set it next to something else and let the room do the rest.
 
-## 11. Saussure, and then Peirce
+## 10. Saussure, and then Peirce
 
 So. Here's where this comes from.
 
@@ -334,7 +335,7 @@ The one who best describes how meaning making on the modern internet works was b
 
 Context is the last thing. It's really a contemporary undestanding of meaning making too. Okay.
 
-## 12. Kinds of signs
+## 11. Kinds of signs
 
 *[care label]*
 
@@ -392,7 +393,7 @@ It is not warmer, drier, or more comfortable than another, cheaper, more useful 
 
 If that one is interesting to you, go read Baudrillard. *Simulacra and Simulation*. He's writing about copies of things that never existed…
 
-## 13. Context
+## 12. Context
 
 *[Pragmatists — the world we live in is one of change]*
 
