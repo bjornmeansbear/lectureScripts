@@ -2,7 +2,7 @@
 version: variation on the 03 September 2026 transcript
 redone: planned for Sep 8, 10am
 length: ~30 minutes
-wordcount: 3383 spoken words — 27.5 min at 123 wpm, before discussion beats
+wordcount: 3415 spoken words — 27.8 min at 123 wpm, before discussion beats
 sources: examples-and-references.md
 staging: lecture-some-semiotics.md (timings, cut decisions, delivery notes)
 cuts: cuts-and-restores.md
@@ -246,11 +246,9 @@ Some people think that's unsophisticated. I think it's trying to be clear, and I
 
 Now what's the literal read of this symbol? It's a target. You shoot at it.
 
-And what's the connotative read? It's a store. It's Target.
+And what's the connotative read? It's a store.
 
-There's nothing about concentric rings that means retail. We just agreed.
-
-They used to spell the word out in red Helvetica. Then the bullseye sat next to the word. Only in the last decade or so did the word disappear entirely — and they can only do that because the connotation is now doing all the work.
+There's nothing about concentric rings that means retail.
 
 ## 10. Myth
 

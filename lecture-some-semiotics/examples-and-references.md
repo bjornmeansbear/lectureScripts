@@ -162,13 +162,46 @@ about forty seconds of it; the rest is being wasted as a footnote.
 of Images*. "Ceci n'est pas une pipe" is the sentence painted on it, not the title. Worth
 getting right on the slide.
 
-**Note on Target.** You said on tape you want a slide on the logo history and on why it's
-called Target. The bullseye has been there since the store opened in 1962 under Dayton's,
-and the mark has simplified over time toward the wordless bullseye. The origin story
-usually told is that a Dayton's publicity staffer proposed it on a marksmanship metaphor.
-**CHECK before asserting** — that story circulates widely and I can't verify the specifics.
-The design argument doesn't need it: the wordmark could be dropped because the connotation
-had finished its work, and that's true regardless of who named the store.
+**Note on Target — checked 2026-09-07, and the CHECK is cleared.** Target's own corporate
+site confirms the origin: **Stewart K. Widdess**, Dayton's Director of Publicity, was
+tasked with naming the store, considered more than 200 names with his staff, landed on
+"Target" and immediately pictured a bullseye. First store opened **1 May 1962, Roseville,
+Minnesota**. The marksman line — *as a marksman's goal is to hit the center bullseye, so
+the new store would* — is attributed to Widdess across secondary sources but is not on
+Target's own page. Quote it as attributed, not as a quotation.
+
+**The logo sequence was backwards in the script, and is now fixed.** Actual order:
+
+- **1962** — three-ring bullseye with an italic wordmark stamped *across* it. Word and mark
+  are one object.
+- **1968** — the wordmark comes *off* the emblem and sits beside it in all-caps sans; three
+  rings cut to one ring and a centre dot. **Helvetica arrives here**, as the new house
+  typeface. Not before.
+- **After 1968** — separating them is what makes a standalone bullseye possible at all.
+  Dropping the word from advertising came later; a 2003 study put recognition at 96%.
+
+There was never a word-only phase, and "the last decade or so" was short by about thirty
+years.
+
+**The Unimark angle — the actual find.** The 1968 redesign was done by **Unimark
+International**, the Chicago firm Dayton's hired in 1967. Unimark is the most doctrinaire
+universalist-modernist consultancy of the century: Vignelli, Noorda, Eckerstrom, the lab
+coats, the New York subway signage, and a stated belief that design could be rational,
+universal and neutral.
+
+So the purest arbitrary symbol in the lecture — concentric rings meaning *retail* for no
+reason but agreement — was made by the firm that most believed meaning could be made
+rational. §6 and §9 are the same argument from opposite ends. This is now in both the
+script and the essay.
+
+**Still to source.** One secondary source names **Eugene Bellini** as lead on the Target
+account. Unimark's Dayton's work is well documented; that specific attribution is not.
+Second source before the name goes on a slide.
+
+Sources: [Target corporate, 60th
+anniversary](https://corporate.target.com/news-features/article/2022/05/60th-anniversary) ·
+[Fabrik Brands](https://fabrikbrands.com/branding-matters/logofile/target-logo-history-and-evolution/)
+· [1000logos](https://1000logos.net/target-logo/)
 
 ---
 
