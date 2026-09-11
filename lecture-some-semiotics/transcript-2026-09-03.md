@@ -11,7 +11,8 @@ note: machine transcription. Names are garbled throughout — "Purse"/"Pierce" =
 
 # Transcript — Some Semiotics, test run 2026-09-03
 
-Okay, semi-honics, we're going to talk about how we purposefully do things that mean something.
+Okay, semiotics, we're going to talk about how we purposefully do things that mean something.
+
 So everything we talk about today will be stuff that maybe isn't surprising because it is the way that just like language and visual culture work.
 But the goal is to try to better understand how and why it works so that you more consciously think about using meaning-making and icons, indexing, symbols, etc. more intentionally.
 I think the other thing I hope for all of you is that in your work, that you can kind of, by knowing a little bit more about the principles of semiotics,
