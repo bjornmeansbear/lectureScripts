@@ -7,6 +7,8 @@ print: one side of one sheet
 
 # Field card — Hilton, 14 Sep
 
+source: Emerson, Fretz & Shaw, *Writing Ethnographic Fieldnotes*, chs. 1–3
+
 ## Show, don't tell
 
 Write what a camera and a microphone would have caught. Evaluative words are useless; concrete detail lets us rebuild the whole scene.
