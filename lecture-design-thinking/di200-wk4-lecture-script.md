@@ -1,8 +1,9 @@
 ---
-what: running script for Week 4 — Hilton day one. Ethics, the round, coding.
-deck: di200-wk4-deck.html (33 slides; this script proposes a reorder — see "Running order")
+what: running script for Week 4 — Hilton day one. Ethics, how to look, the round, back in the room.
+deck: di200-wk4-deck.html (18 slides; this script proposes a reorder — see "Running order")
 date: Mon 14 Sep
 prior: di200-wk2-deck.html (ethnography, ethics, fieldnotes), di200-wk2-methods-deferred.md
+next: di200-wk5-lecture-script.md (Mon 21 Sep) — coding moved there, and given a full day instead of 45 minutes
 status: draft — ethics section is new, the rest is staged from existing slides
 cite: the design-ethnography-ethics article is referenced below as [CITE] — fill in author/title/year before handing this out
 ---
@@ -21,7 +22,7 @@ Three things, and the third is the one that matters.
 
 ## Running order
 
-Six parts. Numbers in brackets are current slide positions.
+Five parts. Numbers in brackets are current slide positions. Coding — sort, tag, cluster, state the pattern — used to be a sixth part here, budgeted 45 minutes. It's Week 5 now, with a real day instead of a squeeze at the end of this one. See `di200-wk5-lecture-script.md`.
 
 | | Part | Slides |
 |---|---|---|
@@ -29,10 +30,7 @@ Six parts. Numbers in brackets are current slide positions.
 | 2 | **How to look** — methods, posts, rules, reactivity | [2] [4] [5] [7] [3] [8] [9] |
 | 3 | **The round** — 60 minutes in the building | [1] [6] |
 | 4 | **Back in the room** — dump, and yourself as instrument | [10] [12–14 → one slide] |
-| 5 | **Coding** — sort, tag, cluster, state the pattern | [15] [16] [17] [18] [19] [20] [23] [22] [21] [24] [25] [26] |
-| 6 | **Close** — debrief, where the data lives | [27] [29] [30] [31] |
-
-Two moves inside Part 5. **[23] comes before [22] and [21]** — show the tagged notes first, then say what emergence is, then define a theme. Right now you assert emergence and then demonstrate it. And **[29] [30], the shared data pool, move out of the coding run into the close**, where they are logistics rather than an interruption.
+| 5 | **Close** — debrief, where the data lives | [27] [29] [30] [31] |
 
 ---
 
@@ -124,7 +122,7 @@ Use these right after the "no review board for a class visiting a hotel" beat. T
 
 ### The pair is the safeguard, not just the second notebook
 
-This is the bridge from your existing argument to the new one, and it is worth building a slide for. You already tell them *"nobody saw enough alone"* [15] and *"two people watched the same door and saw different things — that is why we go in teams"* [17]. Both of those are epistemic claims: two people see more.
+This is the bridge from your existing argument to the new one, and it is worth building a slide for. The reason pairs go in as pairs has so far been epistemic: two people see more of a room than one does, and Week 5 will show them exactly how differently two people can describe the same door.
 
 There is a second reason, and it is ethical.
 
@@ -247,154 +245,9 @@ That is Week 2's positionality material compressed to fifteen seconds, which is 
 
 ---
 
-## Part 5 · Coding (45 min)
+## Part 5 · Close (10 min)
 
-[15] opener. [16] sort into O / I / Q. [17] two people saw different things. [18] the deferral — affinity, journey, blueprint, named and refused; the handout is `di200-wk2-methods-deferred.md`.
-
-Then the three passes [19], and [20] code what happened, not what you concluded.
-
-**The reorder that matters:** show [23], one pair's notes tagged, *before* [22] emergence and [21] what a theme is. Let them watch a tag get reused, then name what just happened. Concrete first.
-
-Finish with [24] tags landing next to each other, [25] the pattern statement template, [26] one sentence per group out loud.
-
-### First, say what a code is
-
-The deck never defines one. [19] opens with "one short tag per note" and the room is expected to infer the rest. For a second-year class meeting this properly for the first time, that is a slide.
-
-> A **code** is a word or short phrase that assigns an attribute to a section of text — a translation, a feeling, a category, a summary, an idea. (Saldaña) **Coding** is the act of attaching that word to a piece of raw data in order to interpret it. (Charmaz & Mitchell)
->
-> The point of it is to filter and organise the raw pile so you can see patterns, find themes, and end up with something that answers the question you came in with. (Bogdan & Biklen)
-
-Two things worth saying immediately after, because both are the failure modes you already have slides about:
-
-> A code is not a summary. It is a handle — something short enough that you can pick the note up by it later and find its twelve siblings.
->
-> And a code is not a verdict. "Bad design" is a verdict. [20]
-
-### The vocabulary ladder — and a slippage in the deck
-
-That Bogdan & Biklen line gives you the sequence the deck is missing: **codes → patterns → themes → an answer.** Right now four words are in play across the slides and their relationship is never stated.
-
-- [19] uses **tag** and **code** interchangeably
-- [21] says **"a theme is what you saw more than once"**
-- [22] says reusing a tag **"is the finding"**
-- [24] builds a **pattern statement** out of tags that co-occur
-
-So a student hears that a repeated tag is a theme, and also that it's a finding, and also that co-occurring tags make a pattern. Those are three different claims and they are all doing the job of one.
-
-The cleanest version, and it costs one slide:
-
-> **Code** — the handle on one note. **Pattern** — the same code, or the same cluster of codes, showing up again and again. **Theme** — what that pattern is *about*; the thing you'd say if someone asked what you learned. **Then** you have something to design from.
-
-Then [21] becomes *"a pattern is what you saw more than once"* — which is what it actually describes — and **theme** is reserved for the interpretive step above it, which is what [24] and [25] are really doing. One word change on [21], and the four slides stop competing.
-
-**On tag vs. code:** I said earlier to pick one. Better to declare the relationship and keep both — it costs a sentence and it removes the problem, which is not that two words exist but that the deck never says they're the same word.
-
-> Ethnographers call this **coding**. You can think of it as **tagging** if that's easier — it's the same move. A short word put on a note, so you can find it again later, and so you can see when the same thing keeps coming back.
->
-> I'll use both. Everything you read will say coding, so that's the one to know.
-
-That also front-loads *pattern* — "when the same thing keeps coming back" — so [21] has somewhere to land instead of introducing the idea cold.
-
-### Three more from *Ethnography Made Easy*
-
-The Saldaña / Charmaz / Bogdan & Biklen definitions above come from the coding chapter of **[*Ethnography Made Easy*](https://ethnographymadeeasy.commons.gc.cuny.edu/coding/)**, a CUNY open textbook written by instructors at Guttman Community College; the coding chapter is credited to Torres-Rivera (2019). It is free, it is written for exactly your students' level, and it is the most assignable thing on this list. Three things in it the deck needs.
-
-**1 · Coding is a cycle, not three passes.** The chapter frames it as a repeating loop: **code → write memos → review, revise, refine** — and around again. That is a better shape than [19]'s linear open → in vivo → axial, for two reasons. It puts memoing inside the process rather than beside it, which is the Emerson point arriving from a second direction. And a loop is already your course's vocabulary — Week 1 defines *changing* as "a process, not an event. Iteration."
-
-**2 · Saturation — the answer to "how do I know when I'm done?"** You will get this question at about 3:30pm and the deck has no answer. The chapter's is clean: you stop when **no new information seems to emerge** — when another pass through the pile stops producing codes you don't already have.
-
-> You're not done when you've tagged everything. You're done when the next twenty notes don't make you invent anything new.
-
-The chapter is careful that there is **no single threshold** — no bell. When the notes start feeling predictable, the same codes keep coming up, and your answer to the question seems reasonable, you decide whether another lap is worth it. That judgement call is the skill, and saying so protects the students who assume there's a rule they missed.
-
-That also quietly justifies the pooling argument: with your fifty you hit saturation almost immediately, because you run out of your own material. With six hundred you don't.
-
-**3 · Coding families — the scaffold for students who freeze.** "No categories decided in advance" is correct and it is also paralysing if you have never done this. The chapter offers families to think *with* rather than categories to sort *into*: **setting, definition of the situation, perspectives, activity, strategy, relationship.**
-
-Two of those are worth naming out loud for a hotel:
-
-> **Activity codes** — what people are doing. **Strategy codes** — how people get around something that isn't working.
->
-> Strategy is where your workarounds live. The propped door, the cheat-sheet under the desk. That is a named category in the literature, and it is the single richest thing you will find in that building.
-
-Which also closes the loop back to Part 1: the strategy codes and the ethics warning are about the same notes.
-
-### What each phase actually involves
-
-The deck teaches the passes but not the operations. These three are what a student actually *does*, and none of them are in it.
-
-**Memos are informal, and that needs saying.** Students hear "write a memo" and freeze into paragraphs. The chapter is explicit: memos are short journal entries for your own use — bullets, fragments, no full sentences required, written fast. Say that out loud or you'll get twelve people writing essays instead of thinking.
-
-> Bullets. Fragments. Nobody reads it but you. "keeps happening at the elevator — is this a sightline thing or a signage thing? check tomorrow."
-
-**Conceptualization — define your codes in concrete terms.** This is the best single fix for the bad-tag problem on [20], and it's better than my bad-tag gallery because the student finds the fault themselves.
-
-> Take your five most-used tags and write a one-line definition of each. Specific and concrete — what has to be true for a note to get this tag?
->
-> If you can't finish the sentence, the tag is a mood, not a code. "Friction" dies at this step. "Checking a sign twice" survives it.
-
-Definitions go in the memo, and future coding gets more intentional because the characteristics are decided rather than felt.
-
-**Merge, divide, rename, eliminate.** The review phase has four concrete operations, and every one gets logged in the memo. That's the whole of it:
-
-> You may find `listener` and `fan` are one thing — merge them, and write down which word you kept. You may find `waiting` is two things, waiting-in-a-queue and waiting-because-lost — divide it. Rename anything vague. Delete anything that never earned its second use.
-
-Logging the decision matters because otherwise you re-litigate it at the next session, and because the merge itself is often the finding.
-
-### One tension to resolve out loud
-
-The chapter says **code frequency does not necessarily indicate importance.** Your deck says the opposite twice — [21] *"a theme is what you saw more than once"* and [22] *"that reuse **is** the finding."*
-
-You already have the reconciliation on [21]: *"anything you saw once is a story. Keep it, it might be the best thing you have — but it is not yet a pattern."* Say both halves together and the tension becomes the lesson:
-
-> Repetition tells you something is a pattern. It does not tell you the pattern matters. The single most important thing in your notes might have happened once — and it is your job, not the tally's, to decide.
-
-That is also the honest version of "emergence is not mystical" [22]: the counting is mechanical, the judgement is not.
-
-### Four additions from Emerson
-
-Emerson's *Writing Ethnographic Fieldnotes* ch. 6 is the source for most of what [19] does, and it has four things the deck doesn't. Emerson, Fretz & Shaw, *Writing Ethnographic Fieldnotes*, ch. 6, "Processing Fieldnotes: Coding and Memoing" — summary at [jonkolko.com](https://www.jonkolko.com/phd/writing/26-02-08-processing-fieldnotes)
-
-**1 · Read your notes as if a stranger wrote them.** Emerson's first move, before any coding: re-read the whole set, and read it as someone else's work. That is thirty seconds to say and it changes the O / I / Q sort completely — your own interpretations are invisible to you as interpretations, and they stop being invisible the moment the notes belong to somebody else.
-
-> Before you sort anything: read all fifty straight through, and read them like you didn't write them. The ones that only make sense if you were there are the ones that need rewriting. The ones that sound like conclusions are the ones in the wrong column.
-
-Put this in front of [16].
-
-**2 · Code processes, not nouns.** This is the sharpest practical rule in the chapter and it fixes a real inconsistency in your starter tags. The list on [19] currently reads: *hesitation · wayfinding · signage · waiting · crowding · friction · workaround · staff support · access · comfort · asks for help · hidden labour.*
-
-Some of those are things people **do** — waiting, asks for help, workaround. Some are things that **exist** — signage, access, comfort. Emerson's priority is the first kind, because a noun names a feature of the building and a verb names something that happened.
-
-> "Signage" is a thing on a wall. "Checking the sign twice" is a thing a person did. Only one of those is an observation, and only one of them will cluster with anything.
-
-Worth rewriting the starter list in gerunds before Monday. *Hesitating · checking a sign · asking staff · working around · queueing · doubling back · giving up.* That single change would do more for the quality of the wall than any other edit in this deck.
-
-**3 · Memos — the actual gap.** [19] teaches coding and stops. Emerson's chapter is titled *Coding and Memoing*, and the pairing is the point: codes are labels, memos are where the thinking happens. Without them a student ends the day with sixty tags and no ideas.
-
-The cheap classroom version:
-
-> Every time you reuse a tag for the third time, stop and write three sentences about why it keeps coming back. Not a better tag — a thought. What is this actually about? What would confirm it? What would kill it?
-
-That is Emerson's theoretical memo, compressed to something that fits in an afternoon. It also gives the pattern statements on [25] something to be built from, instead of being generated cold from a template.
-
-**4 · Write with the audience in mind, at the focused stage.** Emerson's point about the second pass is that you start writing for people who weren't there. Which for you connects straight to the right-to-reply promise in Part 1 — the audience is the Hilton, and they will read it.
-
-### Two corrections
-
-**"In vivo" is not a pass.** [19] lists open → in vivo → axial as three stages. In vivo codes are a *kind* of code — participant's own words — that occur *during* open coding. They aren't a stage between open and axial. Easy fix: make [19] two passes, open and focused, with in vivo shown as a technique inside the first.
-
-**And a vocabulary mismatch worth settling.** "Axial coding" is Strauss and Corbin; Emerson and Charmaz say "focused coding." Both describe the same second pass. If you're pointing students at Emerson, use his word, or say out loud that the two traditions name it differently — otherwise a student who reads the chapter finds a term that isn't in your deck.
-
-### And one thing I told you earlier that was wrong
-
-I suggested capping the room at ~15 tags to force reuse. Emerson says the opposite for the open pass: **generate as many codes as possible**, no pre-set categories, and let consolidation happen in the focused pass — which is what your axial step already is. The cap would suppress exactly the variety the second pass needs. Drop it.
-
-The other three still stand: the bad-tag gallery, negative cases after [24], and putting the twelve O/I/Q ratios up on the board.
-
-## Part 6 · Close (10 min)
-
-[27] the three debrief questions. Then [29] and [30], where the data lives — moved here from the middle of the coding run, because it is logistics for tonight and not part of the exercise.
+[27] the three debrief questions. Then [29] and [30], where the data lives — logistics for tonight, since notes go into the shared pool on the train home, not at their desks tomorrow.
 
 [31] closes:
 
