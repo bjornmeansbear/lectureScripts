@@ -30,16 +30,32 @@
   /* No proprietary or unlicensed webfonts. A project earns a display
      face by self-hosting an OFL @font-face and pointing these at it —
      see the commented example in the kit's own print/print.css. Until
-     then, mood/density differentiation comes from weight, spacing, and
-     structure, not typeface-swapping. */
+     one is chosen, --font-text is Liberation Serif: itself OFL-licensed,
+     already installed everywhere WeasyPrint runs (no fetch, no setup),
+     metrically compatible with Times New Roman. Sans-serif body copy at
+     book measure is a big part of why the first pass read as a Word
+     document rather than a book — trade typesetting overwhelmingly uses
+     a serif for extended text and reserves sans for headings/labels,
+     and that contrast is doing real work here, not just following
+     convention for its own sake. */
+  --font-text: 'Liberation Serif', Georgia, 'Times New Roman', serif;
   --font-sans: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace;
 
-  --text-sm:  0.875rem;  --leading-sm:  1.1875rem;
-  --text-base:1rem;      --leading-base:1.5rem;
-  --text-lg:  1.25rem;   --leading-lg:  1.6875rem;
-  --text-xl:  1.625rem;  --leading-xl:  2rem;
-  --text-2xl: 2.25rem;   --leading-2xl: 2.5rem;
+  /* Sizes stay in rem; leading is unitless (a multiplier, not a fixed
+     length) so it scales correctly with font-size wherever it's applied —
+     fixed leading was the other half of the Word-document problem: 1.5x
+     line-height reads as web/UI body text. Book text runs closer to
+     1.15-1.35x. See the density rules below for how these three get used. */
+  --text-sm:  0.875rem;
+  --text-base:1rem;
+  --text-lg:  1.25rem;
+  --text-xl:  1.625rem;
+  --text-2xl: 2.25rem;
+
+  --leading-dense:    1.16;
+  --leading-measured: 1.26;
+  --leading-brisk:    1.38;
 }
 
 /* ================================================================ page
@@ -50,7 +66,13 @@
    pages. ================================================================ */
 @page {
   size: 6in 9in;
-  margin: 0.7in 0.6in 0.75in 0.6in;
+  /* top / outer / bottom / inner, before the recto/verso override below
+     swaps left/right. Real book proportion, not a centered guess: inner
+     (gutter) widest for binding safety, bottom next (a page whose text
+     block sits dead-center reads as a slide, not a book — the classic
+     margin canons all push the block up and in), outer modest, top
+     tightest. */
+  margin: 0.62in 0.55in 0.88in 0.75in;
 
   @top-right {
     content: string(moodtag);
@@ -73,8 +95,8 @@
     color: var(--brown-6);
   }
 }
-@page :right { margin-left: 0.85in; margin-right: 0.55in; }
-@page :left  { margin-left: 0.55in; margin-right: 0.85in; }
+@page :right { margin-left: 0.75in; margin-right: 0.55in; }
+@page :left  { margin-left: 0.55in; margin-right: 0.75in; }
 @page :first { @top-left { content: none; } @top-right { content: none; } }
 
 /* Title page, TOC, and part dividers carry no running head — there's no
@@ -85,17 +107,31 @@ section.titlepage, nav.toc, section.part-divider { page: quiet; }
   @top-right { content: none; }
 }
 
-html { font-size: 10.5pt; }
+html { font-size: 11pt; }
 
 body {
-  font-family: var(--font-sans);
+  font-family: var(--font-text);
   font-size: var(--text-base);
-  line-height: var(--leading-base);
+  line-height: var(--leading-measured);
   color: var(--color-text);
   background: #fff;
-  hyphens: none;
   orphans: 2;
   widows: 2;
+}
+
+/* Justified, hyphenated body copy — the other half of "looks like a
+   Word document, not a book." Ragged-right at a ~4in book measure with
+   no hyphenation produces either a ragged edge or, worse, uneven word
+   spacing; trade book typesetting justifies and hyphenates as a matter
+   of course. This overrides the general kit rule (screen/UI text stays
+   un-hyphenated) deliberately: that rule was written for short-form
+   screen text at a wide measure, not a narrow printed book column,
+   where the tradeoffs are different. WeasyPrint hyphenates via pyphen
+   using the page's lang attribute (book-template.html sets lang="en"). */
+p, li, blockquote {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
 a { color: var(--pink-7); text-decoration: none; }
@@ -208,7 +244,7 @@ section.chapter > h1 {
   string-set: chaptertitle content();
   font-weight: 400;
   font-size: var(--text-2xl);
-  line-height: var(--leading-2xl);
+  line-height: 1.1;
   letter-spacing: -0.01em;
   margin: 0 0 1.25rem;
   padding-bottom: 0.75rem;
@@ -247,9 +283,9 @@ section.chapter[data-mood="lecture"] p { margin: 0 0 var(--pgap, 0.75rem); }
    in lecture-mood block paragraphs and the leading throughout. Essay
    mode's indent-run doesn't use --pgap since paragraphs aren't
    separated by space, but still takes the leading change. --- */
-section.chapter[data-density="brisk"]    { line-height: var(--leading-lg); --pgap: 1rem; }
-section.chapter[data-density="measured"] { line-height: var(--leading-base); --pgap: 0.75rem; }
-section.chapter[data-density="dense"]    { line-height: var(--leading-sm); --pgap: 0.5rem; }
+section.chapter[data-density="brisk"]    { line-height: var(--leading-brisk); --pgap: 0.85em; }
+section.chapter[data-density="measured"] { line-height: var(--leading-measured); --pgap: 0.65em; }
+section.chapter[data-density="dense"]    { line-height: var(--leading-dense); --pgap: 0.5em; }
 
 /* ---- Cross-references: a recurring idea, linked back to the chapter
    where it first appeared. Plain <a href="#ch-NN"> from assemble.py —
@@ -278,7 +314,7 @@ blockquote p { text-indent: 0 !important; }
 sup.footnote-ref, a[role="doc-noteref"] { color: var(--pink-7); }
 aside.footnotes {
   font-size: var(--text-sm);
-  line-height: var(--leading-sm);
+  line-height: var(--leading-dense);
   break-before: page;
 }
 aside.footnotes hr { display: none; }
