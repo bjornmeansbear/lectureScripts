@@ -1,0 +1,308 @@
+/* book.css — print stylesheet for the book pipeline (assemble.py ->
+   pandoc -> weasyprint). 6in x 9in trim, no bleed.
+
+   Restates the subset of ~/Code/color-system-and-guidelines kit tokens
+   this needs, same reasoning as that repo's print/print.css: print has
+   @page rules (margins, running heads, page breaks) that don't belong in
+   a screen stylesheet, so this doesn't @import the kit. Same warm-ground /
+   brown-line-work / pink-accent / OFL-fonts-only rules apply. See that
+   repo's RULES.md "PDF generation" section for the toolchain rationale.
+
+   Structural differentiation here comes from three page *templates*
+   (title page, part divider, chapter) and two content-driven axes set by
+   assemble.py from each chapter's own prose — data-mood (essay/lecture)
+   and data-density (brisk/measured/dense) — not from hand-picked per-
+   chapter styling. See book/README.md for what drives each. */
+
+:root {
+  --brown-8: rgb(25,21,19);
+  --brown-6: rgb(88,81,78);
+  --gray-1:  rgb(234,234,224);
+  --gray-5:  rgb(117,117,105);
+  --pink-5:  rgb(214,0,97);
+  --pink-7:  rgb(116,0,37);
+  --cream:   rgb(248,250,231); /* wjerk white, for divider/title pages */
+
+  --color-text: var(--brown-8);
+  --color-accent: var(--pink-5);
+  --color-border: var(--brown-8);
+
+  /* No proprietary or unlicensed webfonts. A project earns a display
+     face by self-hosting an OFL @font-face and pointing these at it —
+     see the commented example in the kit's own print/print.css. Until
+     then, mood/density differentiation comes from weight, spacing, and
+     structure, not typeface-swapping. */
+  --font-sans: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace;
+
+  --text-sm:  0.875rem;  --leading-sm:  1.1875rem;
+  --text-base:1rem;      --leading-base:1.5rem;
+  --text-lg:  1.25rem;   --leading-lg:  1.6875rem;
+  --text-xl:  1.625rem;  --leading-xl:  2rem;
+  --text-2xl: 2.25rem;   --leading-2xl: 2.5rem;
+}
+
+/* ================================================================ page
+   6in x 9in trim size, no bleed (WeasyPrint adds none unless configured,
+   so "no bleed" needs no extra rule — just don't add one). Recto/verso
+   margins alternate so the gutter (bound edge) is always the wider one:
+   left margin wider on right-hand pages, right margin wider on left-hand
+   pages. ================================================================ */
+@page {
+  size: 6in 9in;
+  margin: 0.7in 0.6in 0.75in 0.6in;
+
+  @top-right {
+    content: string(moodtag);
+    font-family: var(--font-mono);
+    font-size: 6.5pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--brown-6);
+  }
+  @top-left {
+    content: string(chaptertitle);
+    font-family: var(--font-mono);
+    font-size: 7.5pt;
+    color: var(--brown-6);
+  }
+  @bottom-center {
+    content: counter(page);
+    font-family: var(--font-mono);
+    font-size: 7.5pt;
+    color: var(--brown-6);
+  }
+}
+@page :right { margin-left: 0.85in; margin-right: 0.55in; }
+@page :left  { margin-left: 0.55in; margin-right: 0.85in; }
+@page :first { @top-left { content: none; } @top-right { content: none; } }
+
+/* Title page, TOC, and part dividers carry no running head — there's no
+   "current chapter" yet, and showing the last one would be stale/wrong. */
+section.titlepage, nav.toc, section.part-divider { page: quiet; }
+@page quiet {
+  @top-left { content: none; }
+  @top-right { content: none; }
+}
+
+html { font-size: 10.5pt; }
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--text-base);
+  line-height: var(--leading-base);
+  color: var(--color-text);
+  background: #fff;
+  hyphens: none;
+  orphans: 2;
+  widows: 2;
+}
+
+a { color: var(--pink-7); text-decoration: none; }
+
+/* ================================================================
+   Template 1: title page
+   ================================================================ */
+section.titlepage {
+  break-after: page;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: left;
+}
+section.titlepage h1.book-title {
+  font-size: 2.6rem;
+  line-height: 1.1;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  margin: 0 0 1rem;
+  max-width: 90%;
+  border-bottom: 3pt solid var(--color-accent);
+  padding-bottom: 0.75rem;
+}
+section.titlepage p {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--brown-6);
+}
+
+/* ================================================================
+   Table of contents — page numbers via target-counter(), computed at
+   render time from the actual page each chapter lands on. No hardcoded
+   numbers in assemble.py.
+   ================================================================ */
+nav.toc { break-after: page; }
+nav.toc h2.toc-heading {
+  font-size: var(--text-xl);
+  font-weight: 400;
+  border-bottom: 1pt solid var(--color-border);
+  padding-bottom: 0.5rem;
+  margin: 0 0 1rem;
+}
+p.toc-part {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--pink-7);
+  margin: 1.25rem 0 0.375rem;
+}
+nav.toc ul { list-style: none; margin: 0; padding: 0; }
+nav.toc li { margin-bottom: 0.375rem; }
+nav.toc li a {
+  display: block;
+  color: var(--color-text);
+}
+nav.toc li a::after {
+  content: leader(dotted) " " target-counter(attr(href), page);
+  color: var(--brown-6);
+}
+
+/* ================================================================
+   Template 2: part divider — a quiet full page between the book's
+   major sections, generated whenever a chapter's `part:` frontmatter
+   changes from the one before it.
+   ================================================================ */
+section.part-divider {
+  break-before: page;
+  break-after: page;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+section.part-divider h1.part-title {
+  font-family: var(--font-mono);
+  font-weight: 400;
+  font-size: var(--text-lg);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--brown-6);
+  border-top: 1pt solid var(--color-border);
+  border-bottom: 1pt solid var(--color-border);
+  padding: 0.75rem 0;
+  width: 100%;
+}
+
+/* ================================================================
+   Template 3: chapter — the two content-driven axes.
+   ================================================================ */
+section.chapter {
+  break-before: page;
+}
+section.chapter {
+  string-set: moodtag attr(data-mood);
+}
+section.chapter > .kicker {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--brown-6);
+  margin: 0 0 0.5rem;
+}
+section.chapter > h1 {
+  string-set: chaptertitle content();
+  font-weight: 400;
+  font-size: var(--text-2xl);
+  line-height: var(--leading-2xl);
+  letter-spacing: -0.01em;
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.75rem;
+  break-after: avoid;
+}
+
+/* --- mood: essay (written register) — indent-run paragraphs, drop cap,
+   a solid double rule under the title. Essay chapters in this booklet are
+   the ones with the lowest second-person/question density: the polished
+   introduction, and a not-yet-drafted placeholder. --- */
+section.chapter[data-mood="essay"] > h1 {
+  border-bottom: 3pt double var(--color-border);
+}
+section.chapter[data-mood="essay"] p { margin: 0; text-indent: 1.25em; }
+section.chapter[data-mood="essay"] p:first-of-type { text-indent: 0; }
+/* A raised cap, not a sunk/floated one — WeasyPrint's float layout can't
+   reliably handle `float` on ::first-letter (crashes on some documents).
+   Enlarging it inline, on the baseline, is the safe version of the same
+   move: the first word of the chapter reads as deliberately set. */
+section.chapter[data-mood="essay"] p:first-of-type::first-letter {
+  font-size: 2.1em;
+  font-weight: 600;
+  color: var(--pink-7);
+}
+
+/* --- mood: lecture (spoken register) — block paragraphs with air
+   between them, a single rule, reads like delivered speech transcribed.
+   Most chapters in this booklet land here: they started as lecture
+   scripts and the direct address never got edited out. --- */
+section.chapter[data-mood="lecture"] > h1 {
+  border-bottom: 1pt solid var(--color-border);
+}
+section.chapter[data-mood="lecture"] p { margin: 0 0 var(--pgap, 0.75rem); }
+
+/* --- density: derived from average sentence length. Controls the air
+   in lecture-mood block paragraphs and the leading throughout. Essay
+   mode's indent-run doesn't use --pgap since paragraphs aren't
+   separated by space, but still takes the leading change. --- */
+section.chapter[data-density="brisk"]    { line-height: var(--leading-lg); --pgap: 1rem; }
+section.chapter[data-density="measured"] { line-height: var(--leading-base); --pgap: 0.75rem; }
+section.chapter[data-density="dense"]    { line-height: var(--leading-sm); --pgap: 0.5rem; }
+
+/* ---- Cross-references: a recurring idea, linked back to the chapter
+   where it first appeared. Plain <a href="#ch-NN"> from assemble.py —
+   styled here by the href pattern rather than a bespoke class, and the
+   page number is computed at render time, not guessed at build time. ---- */
+a[href^="#ch-"] {
+  color: var(--pink-7);
+  border-bottom: 1pt dotted var(--pink-5);
+}
+a[href^="#ch-"]::after {
+  content: " \2197p." target-counter(attr(href), page);
+  font-size: 0.75em;
+  color: var(--brown-6);
+  vertical-align: super;
+}
+
+/* ---- Shared prose elements (same conventions as the kit's print.css) ---- */
+blockquote {
+  margin: 0.75rem 0;
+  padding: 0 0 0 0.75rem;
+  border-left: 2pt solid var(--color-accent);
+  break-inside: avoid;
+}
+blockquote p { text-indent: 0 !important; }
+
+sup.footnote-ref, a[role="doc-noteref"] { color: var(--pink-7); }
+aside.footnotes {
+  font-size: var(--text-sm);
+  line-height: var(--leading-sm);
+  break-before: page;
+}
+aside.footnotes hr { display: none; }
+aside.footnotes p { text-indent: 0 !important; margin: 0 0 0.375rem; }
+aside.footnotes h2.notes-heading {
+  font-size: var(--text-2xl);
+  font-weight: 400;
+  border-bottom: 2pt solid var(--color-border);
+  padding-bottom: 0.75rem;
+  margin: 0 0 1.25rem;
+}
+aside.footnotes h3.notes-chapter {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--pink-7);
+  border-top: 1pt solid var(--color-border);
+  margin: 1.5rem 0 0.5rem;
+  padding-top: 0.5rem;
+  break-after: avoid;
+}
+aside.footnotes ol { break-inside: auto; }
+aside.footnotes li { break-inside: avoid; margin-bottom: 0.5rem; }
+
+em { font-style: italic; }
+strong { font-weight: 700; }

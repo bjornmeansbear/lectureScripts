@@ -1,0 +1,28 @@
+# Recurring ideas to cross-reference across chapters.
+#
+# One phrase per line. Matched case-insensitively as whole words/phrases in
+# reading order. The FIRST time a phrase appears anywhere in the book, it's
+# left plain — that's the idea's home. Every chapter after that gets ONE
+# marked recurrence (not every repeat — one nod per chapter is a signal,
+# ten is noise), turned into a link back to the chapter where it started.
+# `book.css` renders that link as a small arrow plus the printed page
+# number of the origin, via WeasyPrint's target-counter().
+#
+# Lines starting with # are comments. Order doesn't matter — assemble.py
+# sorts by length so multi-word phrases match before shorter phrases they
+# contain (e.g. "Cathedral and the Bazaar" before a bare "Bazaar" would).
+#
+# This list is grounded in OUTLINE.md's own cross-reference notes (it
+# names Stallman, the Cathedral/Bazaar, and vernacular as material
+# currently doing service in three chapters at once) plus terms confirmed
+# by grep to actually recur across multiple chapter files. Deliberately
+# excludes generic words like "commons" itself — it's in nearly every
+# chapter by design, so tagging it everywhere would bury the signal.
+
+Cathedral and the Bazaar
+welfare of all life
+vernacular
+enclosure
+Stallman
+Ostrom
+remix
