@@ -14,10 +14,22 @@
 #
 # This list is grounded in OUTLINE.md's own cross-reference notes (it
 # names Stallman, the Cathedral/Bazaar, and vernacular as material
-# currently doing service in three chapters at once) plus terms confirmed
-# by grep to actually recur across multiple chapter files. Deliberately
-# excludes generic words like "commons" itself — it's in nearly every
-# chapter by design, so tagging it everywhere would bury the signal.
+# currently doing service in three chapters at once) plus terms verified
+# to actually recur across multiple chapters *after* processing — not
+# raw grep on the source files. Raw grep overcounts: a term inside a
+# chapter's frontmatter `sources:` list, its trailing TO DO comment
+# block, or the body of a `canonical-elsewhere` placeholder chapter
+# never survives into the assembled book (assemble.py strips or replaces
+# all three before this file's list even gets applied), so a term that
+# only "recurs" in those places would silently never link. "four
+# freedoms," "How Buildings Learn," and "Ecovention" all looked like
+# real repeats under plain grep and turned out to be exactly that kind
+# of false positive — each only survives in one chapter once you check
+# post-processing, so they're left out here.
+#
+# Deliberately excludes generic words like "commons" itself — it's in
+# nearly every chapter by design, so tagging it everywhere would bury
+# the signal.
 
 Cathedral and the Bazaar
 welfare of all life
@@ -26,3 +38,9 @@ enclosure
 Stallman
 Ostrom
 remix
+public domain
+Keedy
+Figma
+Adobe
+libre
+GNU

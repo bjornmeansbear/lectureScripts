@@ -221,27 +221,43 @@ def compute_visual_params(chapters):
         label_color = lerp_color(BROWN_6, PINK_7, instr_t)
 
         if template == "manutius":
-            dropcap_em = lerp(2.3, 1.0, da_t) * lerp(1.15, 0.95, len_t)
             vis = {
                 "leading": round(lerp(1.30, 1.14, sr_t), 3),
-                "indent_em": round(lerp(1.25, 0.0, da_t), 3),
-                "para_gap_em": round(lerp(0.0, 1.0, da_t) * lerp(0.7, 1.3, sr_t), 3),
+                # Fixed classical indent, not content-blended: indent and
+                # inter-paragraph margin are two different, mutually
+                # exclusive ways of marking a new paragraph (indent-run vs.
+                # block-with-air), not two ends of one dial. Continuously
+                # lerping between them by direct-address used to leave
+                # *both* a partial indent and a partial gap on the same
+                # paragraph at any point between the extremes — neither
+                # convention, just wrong. Every Manutius paragraph indents;
+                # none gets extra vertical margin (book.css also zeroes
+                # the indent specifically on the paragraph right after a
+                # heading, since the heading itself is already the break).
+                "indent_em": 1.25,
+                "para_gap_em": 0.0,
                 "rule_pt": round(lerp(3.0, 1.0, da_t), 2),
-                "dropcap_em": round(max(1.0, min(2.6, dropcap_em)), 3),
                 "h1_size_rem": round(2.1 * lerp(1.18, 1.0, len_t), 3),
                 "outer_margin_in": round(lerp(0.55, 1.15, appar_t), 3),
                 "columns": 1,
             }
         else:  # brockmann
+            # Swiss setting is tight and consistent regardless of content —
+            # the grid imposes the rhythm, not the prose — so this range is
+            # deliberately narrower than Manutius's.
+            leading = round(lerp(1.28, 1.18, sr_t), 3)
             vis = {
-                # Swiss setting is tight and consistent regardless of
-                # content — the grid imposes the rhythm, not the prose —
-                # so this range is deliberately narrower than Manutius's.
-                "leading": round(lerp(1.28, 1.18, sr_t), 3),
+                "leading": leading,
+                # Block-style: no indent, paragraphs separated by a full
+                # blank line instead (margin-bottom == leading, exactly one
+                # line-height, not an arbitrary fraction of one — the gap
+                # should read as a real line-return, not a sliver) — the
+                # other of the two mutually exclusive paragraph
+                # conventions (see the Manutius branch above), applied
+                # consistently rather than blended.
                 "indent_em": 0.0,
-                "para_gap_em": round(lerp(0.5, 0.8, sr_t), 3),
+                "para_gap_em": leading,
                 "rule_pt": 0.0,
-                "dropcap_em": 1.0,
                 "h1_size_rem": round(1.9 * lerp(1.12, 1.0, len_t), 3),
                 # Grid margins are structural, not content-driven: equal
                 # left/right within the gutter constraint, not scaled by
@@ -403,7 +419,7 @@ def build(chapters_dir, title, author, out_path):
         style = (
             f'--leading:{v["leading"]}; --indent:{v["indent_em"]}em; '
             f'--para-gap:{v["para_gap_em"]}em; --rule-weight:{v["rule_pt"]}pt; '
-            f'--dropcap-size:{v["dropcap_em"]}em; --h1-size:{v["h1_size_rem"]}rem; '
+            f'--h1-size:{v["h1_size_rem"]}rem; '
             f'--label-color:{v["label_color"]}; --label-border:{v["label_border_pt"]}pt;'
         )
         out.append(section(

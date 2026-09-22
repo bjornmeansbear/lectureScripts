@@ -273,25 +273,25 @@ section.chapter > h1 {
 /* ---- MANUTIUS (default): the Aldine press, Venice, ~1495-1515 ----
    Justified and hyphenated (letterpress needed even lines — already the
    book-wide default below), serif, single narrow column, tight setting.
-   Direct-address blends indent-run vs. block-with-air continuously;
-   --para-gap already folds in sentence rhythm (see assemble.py). */
+   Every paragraph indents (--indent, fixed, not content-blended — see
+   compute_visual_params for why indent and inter-paragraph margin don't
+   mix); --para-gap is fixed at 0 for the same reason. */
 section.chapter p {
   margin: 0 0 var(--para-gap);
   text-indent: var(--indent);
 }
-section.chapter p:first-of-type { text-indent: 0; }
-
-/* A raised cap, not a sunk/floated one (WeasyPrint's float layout can't
-   reliably handle `float` on ::first-letter — crashes on some documents)
-   standing in for the rubricated (hand-colored-red, here pink) initials
-   Aldus's printers left space for. Sized from direct-address blended
-   with chapter length: a short, written chapter gets the biggest
-   opening gesture. Brockmann below turns this off entirely — rubrication
-   is a classical-register move, not a Swiss one. */
-section.chapter p:first-of-type::first-letter {
-  font-size: var(--dropcap-size);
-  font-weight: 600;
-  color: var(--pink-7);
+/* Never indent a paragraph that opens a chapter or follows a subhead —
+   the heading itself is the break; an indent on top of it is redundant.
+   Adjacent-sibling selector, not :first-of-type: the old rule only
+   caught the chapter's literal first paragraph, so every paragraph
+   opening a new ## section still got indented, which was wrong. */
+section.chapter h1 + p,
+section.chapter h2 + p,
+section.chapter h3 + p,
+section.chapter h4 + p,
+section.chapter h5 + p,
+section.chapter h6 + p {
+  text-indent: 0;
 }
 
 /* Instructional-density axis: a paragraph opening **like a label** gets
@@ -314,10 +314,10 @@ section.chapter p > strong:first-child {
    Strict grid, flush-left/ragged-right — Ruder and Müller-Brockmann both
    argued justification-by-hyphenation distorts natural word spacing and
    rhythm; ragged-right was the more honest, more legible choice, not a
-   fallback. Sans-serif only. Hierarchy from weight alone: no rubrication,
-   no ornamental rule under the title, no colored labels. A large grid-
-   module numeral (the chapter number, functionally accented in the same
-   single pink) replaces the drop cap as the one structural flourish. */
+   fallback. Sans-serif only. Hierarchy from weight alone: no ornamental
+   rule under the title, no colored labels. A large grid-module numeral
+   (the chapter number, functionally accented in the same single pink)
+   is the one structural flourish. */
 section.chapter[data-template="brockmann"] {
   font-family: var(--font-sans);
 }
@@ -340,11 +340,6 @@ section.chapter[data-template="brockmann"] > h1::before {
   color: var(--pink-5);
   line-height: 1;
   margin-bottom: 0.25rem;
-}
-section.chapter[data-template="brockmann"] p:first-of-type::first-letter {
-  font-size: 1em;
-  font-weight: inherit;
-  color: inherit;
 }
 section.chapter[data-template="brockmann"] p > strong:first-child {
   color: inherit;

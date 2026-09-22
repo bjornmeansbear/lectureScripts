@@ -56,15 +56,15 @@ chapter gets assigned one of two real, historically-grounded typesetting
 systems (`compute_visual_params` in assemble.py), built out in book.css:
 
 - **Manutius** (the Aldine press, Venice, ~1495-1515) — justified,
-  hyphenated, tight, serif, single narrow column, a rubricated (pink)
-  initial standing in for the hand-colored capitals Aldus's printers left
-  space for. This booklet's default: mostly discursive essay.
+  hyphenated, tight, serif, single narrow column, every paragraph
+  indented with no added vertical margin. This booklet's default: mostly
+  discursive essay.
 - **Brockmann** (Swiss International Typographic Style — Emil Ruder,
   Josef Müller-Brockmann, ~1950s-60s) — strict grid, flush-left/
   ragged-right (no justification, no hyphenation — Ruder and
   Müller-Brockmann both argued justification distorts natural word
   rhythm), sans-serif, hierarchy from weight alone, a large pink
-  grid-module numeral standing in for a drop cap. Picked for chapters
+  grid-module numeral as the one structural flourish. Picked for chapters
   that read as more instructional/enumerable than quotation-or-citation-
   laden — ch. 08's "Require libre fonts.", "Constrain the image sources."
   is the clear case; see `data-template` selection logic below.
@@ -83,18 +83,22 @@ traces back to one line in `compute_visual_params`.
 Five axes, each owning a channel the others don't touch:
 
 **Direct address** — second-person pronoun density + question density.
-Blends paragraph shape continuously between indent-run (written) and
-block-with-air (spoken) — a chapter halfway between gets half the indent
-*and* half the paragraph gap, not a switch between the two. Also sets the
-h1 rule weight (heavier for written) and feeds the drop-cap size.
+Drives the h1 rule weight (heavier for written) within Manutius (Brockmann
+has no rule at all). Does *not* touch paragraph indent or spacing —
+indent-run and block-with-air are two different, mutually exclusive ways
+of marking a new paragraph, not two ends of a dial, and blending them
+continuously used to leave a paragraph with both a partial indent and a
+partial gap at once, which is neither convention, just wrong. Manutius
+paragraphs always indent with zero extra margin; Brockmann paragraphs
+never indent and are always separated by a full line (margin-bottom
+equal to leading, not a fraction of it — see Sentence rhythm).
 
-**Sentence rhythm** — average sentence length. Drives leading (line-height)
-alone.
+**Sentence rhythm** — average sentence length. Drives leading
+(line-height); in Brockmann, also sets the exact paragraph gap (one full
+line-height, so it reads as a real line-return rather than a sliver).
 
 **Chapter length** — word count relative to the book's own range. Drives
-h1 size and, jointly with direct address, drop-cap size: short chapters
-get the biggest opening gesture, on the theory that a device this loud
-would wear out over a long chapter.
+h1 size: short chapters get a bigger title treatment than long ones.
 
 **Instructional density** — `**Bold-lead**` paragraphs (ch. 08's "Require
 libre fonts.", "Constrain the image sources.") per 1000 words. This is
@@ -146,11 +150,11 @@ frontmatter and it gets analyzed and slotted in.
 2. **Part divider** — a quiet page whenever `part:` changes between
    consecutive chapters. No running head (there's no "current chapter"
    on a divider).
-3. **Chapter, Manutius** — serif, justified, single column, rubricated
-   drop cap. This booklet's default register.
+3. **Chapter, Manutius** — serif, justified, single column, every
+   paragraph indented. This booklet's default register.
 4. **Chapter, Brockmann** — sans, ragged-left, two-column grid, a pink
-   grid-numeral in place of the drop cap. The instructional-chapter
-   exception.
+   grid-numeral, paragraphs separated by a full line instead of an
+   indent. The instructional-chapter exception.
 
 Both chapter templates still carry a running head: chapter title (left)
 and a discrete `WRITTEN`/`SPOKEN` register tag (right, small mono, from
