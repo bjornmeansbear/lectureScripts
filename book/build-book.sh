@@ -26,7 +26,10 @@ DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CHAPTERS_DIR="$(cd "$CHAPTERS_DIR" && pwd)"
 
 SLUG="$(basename "$CHAPTERS_DIR")"
-OUT="${4:-$DIR/output/$SLUG.pdf}"
+# Default filename: 0YYYYMMDDHHMM-slug.pdf — Kristian's Long Now-style
+# timestamp (5-digit year, so 2026 -> 02026), to the nearest minute.
+TS="0$(date +%Y%m%d%H%M)"
+OUT="${4:-$DIR/output/$TS-$SLUG.pdf}"
 mkdir -p "$(dirname "$OUT")"
 
 MD="$(mktemp "${TMPDIR:-/tmp}/book.XXXXXX.md")"
