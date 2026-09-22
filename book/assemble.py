@@ -3,10 +3,12 @@
 Assemble a directory of chapter .md files (title/part/status frontmatter,
 the booklet-new-design-commons convention) into one pandoc-ready Markdown
 file: title page, table of contents, part-divider pages, and chapters —
-each chapter wrapped in a <section> carrying continuous, content-derived
-CSS custom properties (leading, indent, drop-cap size, margin width,
-column count, ...) computed from that chapter's own prose, plus
-cross-reference links for ideas that recur across chapters.
+each chapter wrapped in a <section> assigned one of two real, named
+typesetting systems (Manutius/Aldine or Brockmann/Swiss, see
+compute_visual_params) based on its own prose, plus continuous
+content-derived CSS custom properties that modulate within whichever
+system it gets, plus cross-reference links for ideas that recur across
+chapters.
 
     python3 assemble.py CHAPTERS_DIR TITLE AUTHOR OUTPUT.md
 
@@ -148,20 +150,39 @@ PINK_7 = (116, 0, 37)
 
 
 def compute_visual_params(chapters):
-    """Second pass, after every chapter's raw metrics are known: normalize
-    each metric against this book's own range (excluding placeholder
-    chapters, which would otherwise skew word_count's floor to 0) and turn
-    the five resulting 0-1 scores into concrete CSS values. Every number
-    below is final and literal — no calc()/mix() relied on in book.css,
-    just var() lookups — so what you see in the PDF is exactly what got
-    computed here, checkable straight from this function.
+    """Second pass, after every chapter's raw metrics are known.
 
-    Five axes, each owning a channel the others don't touch:
-      direct-address (da_t)   -> paragraph indent/gap blend, h1 rule weight
-      sentence rhythm (sr_t)  -> leading
-      chapter length (len_t)  -> h1 size, drop-cap scale (jointly with da_t)
-      instructional (instr_t) -> labeled-paragraph accent color/border/indent
-      apparatus (appar_t)     -> outer margin width + column count
+    Earlier version of this function blended five metrics continuously
+    within *one* template — every chapter got its own leading/margin/
+    indent numbers, but a dial only ever produces dial-sized differences.
+    Turning a knob doesn't make a different machine. What actually reads
+    as "different and meaningful" is a different *system*: different
+    grid logic, different alignment, different relationship between type
+    and page. So the top-level decision here is now discrete, and it
+    picks between two real, named, historically-grounded templates
+    (built out in book.css) rather than a continuously blended default:
+
+    - **Brockmann** (Swiss International Typographic Style, Emil Ruder /
+      Josef Müller-Brockmann): strict grid, flush-left ragged-right, no
+      justification or hyphenation, sans-serif only, hierarchy from
+      weight alone, a big grid-module numeral instead of ornament.
+      Chosen when a chapter is more instructional/enumerable than it is
+      quotation-or-citation-laden — ch. 08's "Require libre fonts.",
+      "Constrain the image sources." is the clear case.
+    - **Manutius** (the Aldine press, Venice, 1490s-1510s): justified,
+      hyphenated, tight, serif, a single narrow column, a rubricated
+      (pink) initial standing in for the hand-colored capitals Aldus's
+      printers left space for. Chosen for chapters that lean on quotation
+      and citation — the discursive-essay default for this booklet.
+
+    The five metrics don't disappear; they still modulate *within*
+    whichever template gets picked (see below), which is where the
+    "content decides the details" idea from the first version still
+    holds. What changed is that they no longer decide the system itself.
+
+    Every number below is final and literal — no calc()/mix() relied on
+    in book.css, just var() lookups — so what you see in the PDF is
+    exactly what got computed here, checkable straight from this function.
     """
     reals = [c for c in chapters if c["word_count"] > 0]
     bounds = {
@@ -190,27 +211,51 @@ def compute_visual_params(chapters):
             instr_t = normalize(c["bold_lead_per_1000"], lo, hi)
             appar_t = normalize(apparatus_scores[c["id"]], lo_ap, hi_ap)
 
-        label_color = lerp_color(BROWN_6, PINK_7, instr_t)
-        dropcap_em = lerp(2.3, 1.0, da_t) * lerp(1.15, 0.95, len_t)
+        # The one discrete decision: more instructional-enumerable than
+        # citation/quotation-laden -> Brockmann; otherwise Manutius, the
+        # default register for this booklet's discursive essays. Ties
+        # (both scores 0, e.g. a chapter with no bold-leads and no
+        # apparatus at all) fall to Manutius, the safer default.
+        template = "brockmann" if instr_t > appar_t else "manutius"
 
-        c["vis"] = {
-            "leading": round(lerp(1.38, 1.16, sr_t), 3),
-            "indent_em": round(lerp(1.25, 0.0, da_t), 3),
-            "para_gap_em": round(lerp(0.0, 1.0, da_t) * lerp(0.7, 1.3, sr_t), 3),
-            "rule_pt": round(lerp(3.0, 1.0, da_t), 2),
-            "dropcap_em": round(max(1.0, min(2.6, dropcap_em)), 3),
-            # Final rem value, not a bare multiplier: WeasyPrint's calc()
-            # doesn't reliably combine two var()-substituted values
-            # (calc(var(--text-2xl) * var(--h1-scale)) silently no-ops with
-            # an "Invalid math function" warning), so the multiplication
-            # happens here instead and book.css just does var() lookups.
-            "h1_size_rem": round(2.25 * lerp(1.18, 1.0, len_t), 3),
-            "label_color": "rgb(%d,%d,%d)" % label_color,
-            "label_border_pt": round(lerp(0.0, 3.0, instr_t), 2),
-            "outer_margin_in": round(lerp(0.55, 1.15, appar_t), 3),
-            "columns": 2 if (not placeholder and appar_t < 0.15
-                              and c["word_count"] > 900) else 1,
-        }
+        label_color = lerp_color(BROWN_6, PINK_7, instr_t)
+
+        if template == "manutius":
+            dropcap_em = lerp(2.3, 1.0, da_t) * lerp(1.15, 0.95, len_t)
+            vis = {
+                "leading": round(lerp(1.30, 1.14, sr_t), 3),
+                "indent_em": round(lerp(1.25, 0.0, da_t), 3),
+                "para_gap_em": round(lerp(0.0, 1.0, da_t) * lerp(0.7, 1.3, sr_t), 3),
+                "rule_pt": round(lerp(3.0, 1.0, da_t), 2),
+                "dropcap_em": round(max(1.0, min(2.6, dropcap_em)), 3),
+                "h1_size_rem": round(2.1 * lerp(1.18, 1.0, len_t), 3),
+                "outer_margin_in": round(lerp(0.55, 1.15, appar_t), 3),
+                "columns": 1,
+            }
+        else:  # brockmann
+            vis = {
+                # Swiss setting is tight and consistent regardless of
+                # content — the grid imposes the rhythm, not the prose —
+                # so this range is deliberately narrower than Manutius's.
+                "leading": round(lerp(1.28, 1.18, sr_t), 3),
+                "indent_em": 0.0,
+                "para_gap_em": round(lerp(0.5, 0.8, sr_t), 3),
+                "rule_pt": 0.0,
+                "dropcap_em": 1.0,
+                "h1_size_rem": round(1.9 * lerp(1.12, 1.0, len_t), 3),
+                # Grid margins are structural, not content-driven: equal
+                # left/right within the gutter constraint, not scaled by
+                # apparatus (a Brockmann chapter is low-apparatus by
+                # construction, so there's nothing for a wide margin to
+                # reserve space for anyway).
+                "outer_margin_in": 0.6,
+                "columns": 2,
+            }
+
+        vis["template"] = template
+        vis["label_color"] = "rgb(%d,%d,%d)" % label_color
+        vis["label_border_pt"] = round(lerp(0.0, 3.0, instr_t), 2)
+        c["vis"] = vis
 
 
 # ----------------------------------------------------------- cross-references
@@ -312,15 +357,14 @@ def build(chapters_dir, title, author, out_path):
     compute_visual_params(chapters)
 
     # ---- report (stderr): the procedural decisions, made visible ----
-    print(f"{'chapter':<32} {'reg':<8} words  avg-sent  da-score  instr/1k  "
-          f"leading  indent  h1x  outer-in  cols", file=sys.stderr)
+    print(f"{'chapter':<32} {'template':<10} words  avg-sent  da-score  "
+          f"instr/1k  apparatus  leading  h1-rem", file=sys.stderr)
     for c in chapters:
         v = c["vis"]
-        print(f"{c['id']} {c['title']:<28} {c['register']:<8} "
+        print(f"{c['id']} {c['title']:<28} {v['template']:<10} "
               f"{c['word_count']:<6} {c['avg_sentence_len']:<9} "
               f"{c['direct_address_score']:<9} {c['bold_lead_per_1000']:<9} "
-              f"{v['leading']:<8} {v['indent_em']:<7} {v['h1_size_rem']:<5} "
-              f"{v['outer_margin_in']:<9} {v['columns']}",
+              f"{v['leading']:<8} {v['h1_size_rem']}",
               file=sys.stderr)
 
     out = []
@@ -350,7 +394,11 @@ def build(chapters_dir, title, author, out_path):
             prev_part = c["part"]
 
         kicker = f'<p class="kicker">{c["part"]} &middot; Chapter {c["num"]}</p>\n\n'
-        heading = f'# {c["title"]} {{#{c["id"]}}}'
+        # data-index repeats on the h1 itself (not just the section) so
+        # book.css's Brockmann grid-numeral rule can read it via attr() —
+        # attr() only sees the attribute of the element the rule targets,
+        # no ancestor lookup without :has(), which WeasyPrint doesn't have.
+        heading = f'# {c["title"]} {{#{c["id"]} data-index="{c["num"]}"}}'
         v = c["vis"]
         style = (
             f'--leading:{v["leading"]}; --indent:{v["indent_em"]}em; '
@@ -359,8 +407,8 @@ def build(chapters_dir, title, author, out_path):
             f'--label-color:{v["label_color"]}; --label-border:{v["label_border_pt"]}pt;'
         )
         out.append(section(
-            f'<section class="chapter" data-register="{c["register"]}" '
-            f'data-index="{c["num"]}" data-columns="{v["columns"]}" '
+            f'<section class="chapter" data-template="{v["template"]}" '
+            f'data-register="{c["register"]}" data-index="{c["num"]}" '
             f'style="{style}">',
             kicker + heading,
             c["body"],

@@ -8,13 +8,14 @@
    brown-line-work / pink-accent / OFL-fonts-only rules apply. See that
    repo's RULES.md "PDF generation" section for the toolchain rationale.
 
-   Structural differentiation here comes from three page *templates*
-   (title page, part divider, chapter) and five continuous, content-derived
-   axes assemble.py computes from each chapter's own prose — direct-address,
-   sentence rhythm, chapter length, instructional density, apparatus
-   density — passed in as literal CSS custom properties, not hand-picked
-   per-chapter styling or bucketed into a few named classes. See
-   book/README.md for what drives each. */
+   Structural differentiation comes from four page *templates* — title
+   page, part divider, and two real, named chapter systems (Manutius/
+   Aldine and Brockmann/Swiss, picked per chapter by assemble.py from
+   its own prose) — not from hand-picked per-chapter styling. Five
+   content-derived scores still modulate *within* whichever chapter
+   template gets picked (leading, drop-cap/h1 size, margin width, label
+   accent), passed in as literal CSS custom properties. See
+   book/README.md for the reasoning and what drives each. */
 
 :root {
   --brown-8: rgb(25,21,19);
@@ -226,14 +227,21 @@ section.part-divider h1.part-title {
 }
 
 /* ================================================================
-   Template 3: chapter — five continuous, content-derived axes, each
-   supplied by assemble.py as a literal CSS custom property on the
-   section (see compute_visual_params() there for the math). Nothing
-   here buckets into named classes anymore — every chapter gets its own
-   numbers, not one of a few presets. --top-right/-left running-head
-   text still needs a discrete label (a running head has to be short and
-   readable), so data-register carries that one deliberately-thresholded
-   readout; it doesn't drive any layout below.
+   Template 3: chapter. Two real, named, historically-grounded systems —
+   not a hand-invented blend — chosen per chapter by assemble.py
+   (data-template="manutius"|"brockmann") from whether the chapter reads
+   as more instructional/enumerable or more quotation/citation-laden.
+   Five content-derived metrics still modulate *within* whichever
+   template gets picked (leading, drop-cap/h1 size, margin width, label
+   accent — passed in as literal custom properties per chapter, see
+   compute_visual_params()), but the system itself is now a discrete
+   choice, because a dial only ever produces dial-sized differences, and
+   this needed to look like a different design, not a different setting.
+
+   Everything in this block through the h1 rule is shared structure;
+   "MANUTIUS" below marks the default register's specific rules (this
+   booklet is mostly discursive essay, so Manutius is the common case);
+   "BROCKMANN" marks the override block for the instructional exception.
    ================================================================ */
 section.chapter {
   break-before: page;
@@ -262,22 +270,24 @@ section.chapter > h1 {
   break-after: avoid;
 }
 
-/* Direct-address axis: indent-run vs. block-with-air is a continuous
-   blend, not a switch — a chapter halfway between "written" and
-   "spoken" gets half the indent and half the paragraph gap, not one or
-   the other. --para-gap already folds in the sentence-rhythm axis (see
-   assemble.py), so it doesn't need restating here. */
+/* ---- MANUTIUS (default): the Aldine press, Venice, ~1495-1515 ----
+   Justified and hyphenated (letterpress needed even lines — already the
+   book-wide default below), serif, single narrow column, tight setting.
+   Direct-address blends indent-run vs. block-with-air continuously;
+   --para-gap already folds in sentence rhythm (see assemble.py). */
 section.chapter p {
   margin: 0 0 var(--para-gap);
   text-indent: var(--indent);
 }
 section.chapter p:first-of-type { text-indent: 0; }
 
-/* A raised cap, not a sunk/floated one — WeasyPrint's float layout can't
-   reliably handle `float` on ::first-letter (crashes on some documents).
-   Its size is direct-address blended with chapter length (see
-   compute_visual_params): a short, written chapter gets the biggest
-   opening gesture; a long, spoken one gets almost none. */
+/* A raised cap, not a sunk/floated one (WeasyPrint's float layout can't
+   reliably handle `float` on ::first-letter — crashes on some documents)
+   standing in for the rubricated (hand-colored-red, here pink) initials
+   Aldus's printers left space for. Sized from direct-address blended
+   with chapter length: a short, written chapter gets the biggest
+   opening gesture. Brockmann below turns this off entirely — rubrication
+   is a classical-register move, not a Swiss one. */
 section.chapter p:first-of-type::first-letter {
   font-size: var(--dropcap-size);
   font-weight: 600;
@@ -290,26 +300,67 @@ section.chapter p:first-of-type::first-letter {
    image sources." vs. a flowing narrative chapter with none. Underlines
    the phrase itself rather than indenting the whole paragraph: WeasyPrint
    doesn't support :has(), so there's no selector that reaches the parent
-   <p> from its first child. */
+   <p> from its first child. (In practice this rarely fires on a Manutius
+   chapter — high instructional density is exactly what routes a chapter
+   to Brockmann instead — but it's not template-gated, so a chapter with
+   a little of both still gets the accent.) */
 section.chapter p > strong:first-child {
   color: var(--label-color);
   border-bottom: var(--label-border) solid var(--label-color);
 }
 
-/* Apparatus-density axis, page-geometry half: outer margin width is set
-   per chapter via a generated named @page (assemble.py writes
-   OUTPUT.md.pages.css; see build-book.sh) since margins are a page-box
-   property, not something a CSS custom property on an element can reach.
-   This half — column count — *can* live in the ordinary stylesheet.
-   Sparse-apparatus, long-enough chapters go two-column to fit more type
-   per page; the title and kicker break out of the columns so they still
-   read as a single page-wide head. */
-section.chapter[data-columns="2"] {
+/* ---- BROCKMANN: Swiss International Typographic Style (Emil Ruder,
+   Josef Müller-Brockmann, ~1950s-60s) ----
+   Strict grid, flush-left/ragged-right — Ruder and Müller-Brockmann both
+   argued justification-by-hyphenation distorts natural word spacing and
+   rhythm; ragged-right was the more honest, more legible choice, not a
+   fallback. Sans-serif only. Hierarchy from weight alone: no rubrication,
+   no ornamental rule under the title, no colored labels. A large grid-
+   module numeral (the chapter number, functionally accented in the same
+   single pink) replaces the drop cap as the one structural flourish. */
+section.chapter[data-template="brockmann"] {
+  font-family: var(--font-sans);
+}
+section.chapter[data-template="brockmann"] p,
+section.chapter[data-template="brockmann"] li,
+section.chapter[data-template="brockmann"] blockquote {
+  text-align: left;
+  hyphens: none;
+  -webkit-hyphens: none;
+}
+section.chapter[data-template="brockmann"] > h1 {
+  font-family: var(--font-sans);
+  font-weight: 700;
+}
+section.chapter[data-template="brockmann"] > h1::before {
+  content: attr(data-index);
+  display: block;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--pink-5);
+  line-height: 1;
+  margin-bottom: 0.25rem;
+}
+section.chapter[data-template="brockmann"] p:first-of-type::first-letter {
+  font-size: 1em;
+  font-weight: inherit;
+  color: inherit;
+}
+section.chapter[data-template="brockmann"] p > strong:first-child {
+  color: inherit;
+  border-bottom: none;
+  font-weight: 700;
+}
+/* Sparse-apparatus, long-enough content -> two columns, maximizing type
+   per page (the Swiss-grid case for it) rather than reserving margin for
+   an apparatus this chapter doesn't have. Title/kicker span both columns
+   so they still read as one page-wide head, not a third column. */
+section.chapter[data-template="brockmann"] {
   columns: 2;
   column-gap: 1.6em;
 }
-section.chapter[data-columns="2"] > .kicker,
-section.chapter[data-columns="2"] > h1 {
+section.chapter[data-template="brockmann"] > .kicker,
+section.chapter[data-template="brockmann"] > h1 {
   column-span: all;
 }
 

@@ -41,17 +41,44 @@ content — see "What the pipeline deliberately doesn't do" below.
 
 ## What's procedural here, and why
 
-The brief this was built against: *typeface and page template should
-shift essay to essay, driven by the content itself, not by a person
-hand-tagging each chapter — and every chapter should get its own numbers,
-not one of a few presets.* So every axis below is continuous: assemble.py
-normalizes each metric against this book's own min/max (`compute_visual_params`)
-and writes the resulting value straight into the chapter's `<section
-style="...">` as a literal CSS custom property — `--leading: 1.251`, not
-`data-density="measured"`. book.css only does `var()` lookups; there's no
-`calc()` combining two `var()`s anywhere (WeasyPrint's calc() silently
-no-ops on that — hit it once, see the comment on `h1_size_rem`), so every
-number in the PDF traces back to one line in `compute_visual_params`.
+First version of this made every axis continuous — a chapter's numbers
+came from lerping between two invented endpoints, and no chapter fell
+into a named bucket. That was wrong in a specific way: a continuous dial
+can only ever produce dial-sized differences. Turning a knob doesn't
+make a different machine. What actually reads as "different and
+meaningful" — the actual brief — is a different *system*: different grid
+logic, different alignment, different relationship between type and
+page. Brockmann and Manutius don't differ by a margin setting; they
+differ by everything.
+
+So the top-level choice is now discrete, and it isn't invented: every
+chapter gets assigned one of two real, historically-grounded typesetting
+systems (`compute_visual_params` in assemble.py), built out in book.css:
+
+- **Manutius** (the Aldine press, Venice, ~1495-1515) — justified,
+  hyphenated, tight, serif, single narrow column, a rubricated (pink)
+  initial standing in for the hand-colored capitals Aldus's printers left
+  space for. This booklet's default: mostly discursive essay.
+- **Brockmann** (Swiss International Typographic Style — Emil Ruder,
+  Josef Müller-Brockmann, ~1950s-60s) — strict grid, flush-left/
+  ragged-right (no justification, no hyphenation — Ruder and
+  Müller-Brockmann both argued justification distorts natural word
+  rhythm), sans-serif, hierarchy from weight alone, a large pink
+  grid-module numeral standing in for a drop cap. Picked for chapters
+  that read as more instructional/enumerable than quotation-or-citation-
+  laden — ch. 08's "Require libre fonts.", "Constrain the image sources."
+  is the clear case; see `data-template` selection logic below.
+
+Five metrics still modulate *within* whichever template a chapter gets —
+this is where "the content decides the details" from the first version
+still holds, it just no longer decides the system itself. assemble.py
+normalizes each metric against this book's own min/max and writes the
+resulting value straight into the chapter's `<section style="...">` as a
+literal CSS custom property — `--leading: 1.251`, not `data-density="measured"`.
+book.css only does `var()` lookups; there's no `calc()` combining two
+`var()`s anywhere (WeasyPrint's calc() silently no-ops on that — hit it
+once, see the comment on `h1_size_rem`), so every number in the PDF
+traces back to one line in `compute_visual_params`.
 
 Five axes, each owning a channel the others don't touch:
 
@@ -70,10 +97,15 @@ get the biggest opening gesture, on the theory that a device this loud
 would wear out over a long chapter.
 
 **Instructional density** — `**Bold-lead**` paragraphs (ch. 08's "Require
-libre fonts.", "Constrain the image sources.") per 1000 words. Colors and
-underlines that leading bold phrase, continuously, from barely-there to
-fully accented. Known limitation: the regex can't tell a short label from
-a long bolded thesis sentence — ch. 07 has one of the latter and it gets
+libre fonts.", "Constrain the image sources.") per 1000 words. This is
+also half of the **template decision**: a chapter scoring higher on
+instructional density than apparatus density (below) gets the Brockmann
+template. Within a chapter, it also colors and underlines that leading
+bold phrase, continuously, from barely-there to fully accented — on
+Manutius chapters only; Brockmann's own rule (bold, no color) overrides
+it, because a colored label is a classical-register flourish, not a
+Swiss one. Known limitation: the regex can't tell a short label from a
+long bolded thesis sentence — ch. 07 has one of the latter and it gets
 label-styled too. Text-only heuristic; live with it or refine the regex,
 not worth NLP for this.
 
@@ -81,16 +113,19 @@ not worth NLP for this.
 blockquote share of the chapter (both signal "this chapter leans on
 outside material"; footnotes alone are too sparse in this still-drafting
 booklet to mean much on their own — most citations are still marked
-`[CITE — ...]` in the source). Drives the **page geometry itself**, not
-paragraph styling: sparse-apparatus chapters that are also long enough get
-two columns and a tight outer margin (maximize type per page); dense ones
-get a single, narrower column with a wide outer margin held in reserve —
-Tufte-style apparatus space, not filled in yet, but the room is there.
-This is the one axis that reaches `@page` rather than the chapter
-`<section>` — margins aren't a property an element's `style` can set, so
-assemble.py writes a second file, `OUTPUT.md.pages.css`, with one named
-`@page ch-page-NN` per chapter, and `build-book.sh` passes it to
-weasyprint as a second `--stylesheet` after `book.css`.
+`[CITE — ...]` in the source). This is the other half of the template
+decision (see above). Within a Manutius chapter, it also still drives
+outer margin width: sparse-but-not-quite-Brockmann apparatus gets a
+tighter margin, denser gets a wider one held in reserve for that
+apparatus — Tufte-style marginalia space, not filled in yet, but the room
+is there. Brockmann's margin is fixed instead (the grid is structural,
+not content-driven, and a Brockmann chapter is low-apparatus by
+construction anyway). Margins are a page-box property, not something a
+CSS custom property on an element can reach, so this is the one axis
+that needs a second generated file — assemble.py writes
+`OUTPUT.md.pages.css` with one named `@page ch-page-NN` per chapter, and
+`build-book.sh` passes it to weasyprint as a second `--stylesheet` after
+`book.css`.
 
 **Recurring ideas** — `themes.txt` lists phrases known to recur across
 chapters (grounded in `OUTLINE.md`'s own cross-reference notes, plus
@@ -105,19 +140,25 @@ approximated. Same mechanism drives the table of contents.
 None of this needs a knob per chapter. Add a chapter file with the usual
 frontmatter and it gets analyzed and slotted in.
 
-## The three page templates
+## The page templates
 
 1. **Title page** — book title, author. Full-bleed-free, centered.
 2. **Part divider** — a quiet page whenever `part:` changes between
    consecutive chapters. No running head (there's no "current chapter"
    on a divider).
-3. **Chapter** — the five-axis template above, one or two columns.
-   Running head shows the chapter title (left) and a discrete `WRITTEN`/
-   `SPOKEN` register tag (right, small mono, from the same direct-address
-   score but read at a fixed threshold rather than the continuous value —
-   a running head has to be a short label, not a number) via CSS
-   `string-set`, so flipping through the printed book tells you at a
-   glance which register you're in.
+3. **Chapter, Manutius** — serif, justified, single column, rubricated
+   drop cap. This booklet's default register.
+4. **Chapter, Brockmann** — sans, ragged-left, two-column grid, a pink
+   grid-numeral in place of the drop cap. The instructional-chapter
+   exception.
+
+Both chapter templates still carry a running head: chapter title (left)
+and a discrete `WRITTEN`/`SPOKEN` register tag (right, small mono, from
+the direct-address score read at a fixed threshold rather than its
+continuous value — a running head has to be a short label, not a number)
+via CSS `string-set`. That tag is independent of which of the two
+templates the chapter got; it's a second, orthogonal readout, not a
+duplicate of `data-template`.
 
 Recto/verso margins alternate so the gutter (bound edge) stays the wider
 margin on both sides — real print-production detail, not just centered
