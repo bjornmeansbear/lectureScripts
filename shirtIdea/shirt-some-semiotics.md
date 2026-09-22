@@ -43,11 +43,11 @@ Chair and cat as the worked example running through it, so the diagram has objec
 
 ## Front A — the care label
 
-The laundry symbols from the shirt's own care label, printed 10–12 inches. The real ones, for that real garment.
+The laundry symbols from the shirt's own care label. The real ones, for that real garment.
 
-Everyone has carried this against their skin their whole life and nobody taught them the system. It's the purest symbolic sign in the lecture — there is nothing in a triangle that is about bleach. Real functional information, printed at the size of a statement, in a language the wearer doesn't speak.
+Everyone has carried this on their tags their whole life and nobody taught them the system. It's a pretty pure symbolic signexample — there is nothing in a triangle that is about bleach or a circle about dry cleaning.
 
-The Whannel line as an object: things we already know, in a language we will never understand. Don't print the quote. The shirt does it.
+The Whannel line as an object: things we already know, in a language we will never understand.
 
 Front poses it, back decodes it — which is deck slides `1001` → `1002` exactly.
 
@@ -59,9 +59,7 @@ Front poses it, back decodes it — which is deck slides `1001` → `1002` exact
 
 ## Front B — the shirt icon
 
-The Noun Project t-shirt glyph, printed at 1:1 on an actual t-shirt. The flat, square-shouldered, straight-hemmed silhouette no real shirt has ever had. It can never line up — real shirts have necklines and drape and the icon doesn't. That gap is the product.
-
-The Big Red Boot structure exactly: an icon of a symbol. It doesn't resemble a shirt, it resembles the *drawing convention* for a shirt, which was already arbitrary. Same move MSCHF made in rubber for three hundred and fifty dollars, made in cotton for twenty.
+A Noun Project t-shirt glyph, printed on an actual t-shirt. The flat, square-shouldered, straight-hemmed silhouette no real shirt has ever had. It can never line up — real shirts have necklines and drape and the icon doesn't. The Big Red Boot structure exactly: an icon of a symbol. It doesn't resemble a shirt, it resembles the *drawing convention* for a shirt, which was already arbitrary. Same move MSCHF made in rubber.
 
 **Source slides.** `3000`–`3002` (Big Red Boot), `418` (Kosuth), the stray `2006` at the end of the Peirce row (McCloud's Big Triangle).
 
@@ -69,7 +67,7 @@ The Big Red Boot structure exactly: an icon of a symbol. It doesn't resemble a s
 
 ## The trade
 
-B is the better gag A is the better shirt, because the information on it is true, so it stays interesting once the joke is spent. A also earns its back diagram; B's front and back are making the same point twice.
+B is the better gag A is the better shirt.
 
 ---
 
@@ -90,3 +88,6 @@ Boot Boyz bootlegs on purpose. That isn't the house position, so check these rat
 - **Peirce and Ogden & Richards** are safely out of copyright.
 - **Duvall's table** is a living author's work. Ask him. He'd probably say yes, and the lecture already credits him twice.
 - **Noun Project icons** are CC BY — attribution goes on the garment or the label, not just the website.
+
+---
+
