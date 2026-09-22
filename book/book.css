@@ -9,10 +9,12 @@
    repo's RULES.md "PDF generation" section for the toolchain rationale.
 
    Structural differentiation here comes from three page *templates*
-   (title page, part divider, chapter) and two content-driven axes set by
-   assemble.py from each chapter's own prose — data-mood (essay/lecture)
-   and data-density (brisk/measured/dense) — not from hand-picked per-
-   chapter styling. See book/README.md for what drives each. */
+   (title page, part divider, chapter) and five continuous, content-derived
+   axes assemble.py computes from each chapter's own prose — direct-address,
+   sentence rhythm, chapter length, instructional density, apparatus
+   density — passed in as literal CSS custom properties, not hand-picked
+   per-chapter styling or bucketed into a few named classes. See
+   book/README.md for what drives each. */
 
 :root {
   --brown-8: rgb(25,21,19);
@@ -75,7 +77,7 @@
   margin: 0.62in 0.55in 0.88in 0.75in;
 
   @top-right {
-    content: string(moodtag);
+    content: string(registertag);
     font-family: var(--font-mono);
     font-size: 6.5pt;
     letter-spacing: 0.08em;
@@ -224,13 +226,21 @@ section.part-divider h1.part-title {
 }
 
 /* ================================================================
-   Template 3: chapter — the two content-driven axes.
+   Template 3: chapter — five continuous, content-derived axes, each
+   supplied by assemble.py as a literal CSS custom property on the
+   section (see compute_visual_params() there for the math). Nothing
+   here buckets into named classes anymore — every chapter gets its own
+   numbers, not one of a few presets. --top-right/-left running-head
+   text still needs a discrete label (a running head has to be short and
+   readable), so data-register carries that one deliberately-thresholded
+   readout; it doesn't drive any layout below.
    ================================================================ */
 section.chapter {
   break-before: page;
+  line-height: var(--leading);
 }
 section.chapter {
-  string-set: moodtag attr(data-mood);
+  string-set: registertag attr(data-register);
 }
 section.chapter > .kicker {
   font-family: var(--font-mono);
@@ -243,49 +253,65 @@ section.chapter > .kicker {
 section.chapter > h1 {
   string-set: chaptertitle content();
   font-weight: 400;
-  font-size: var(--text-2xl);
+  font-size: var(--h1-size);
   line-height: 1.1;
   letter-spacing: -0.01em;
   margin: 0 0 1.25rem;
   padding-bottom: 0.75rem;
+  border-bottom: var(--rule-weight) solid var(--color-border);
   break-after: avoid;
 }
 
-/* --- mood: essay (written register) — indent-run paragraphs, drop cap,
-   a solid double rule under the title. Essay chapters in this booklet are
-   the ones with the lowest second-person/question density: the polished
-   introduction, and a not-yet-drafted placeholder. --- */
-section.chapter[data-mood="essay"] > h1 {
-  border-bottom: 3pt double var(--color-border);
+/* Direct-address axis: indent-run vs. block-with-air is a continuous
+   blend, not a switch — a chapter halfway between "written" and
+   "spoken" gets half the indent and half the paragraph gap, not one or
+   the other. --para-gap already folds in the sentence-rhythm axis (see
+   assemble.py), so it doesn't need restating here. */
+section.chapter p {
+  margin: 0 0 var(--para-gap);
+  text-indent: var(--indent);
 }
-section.chapter[data-mood="essay"] p { margin: 0; text-indent: 1.25em; }
-section.chapter[data-mood="essay"] p:first-of-type { text-indent: 0; }
+section.chapter p:first-of-type { text-indent: 0; }
+
 /* A raised cap, not a sunk/floated one — WeasyPrint's float layout can't
    reliably handle `float` on ::first-letter (crashes on some documents).
-   Enlarging it inline, on the baseline, is the safe version of the same
-   move: the first word of the chapter reads as deliberately set. */
-section.chapter[data-mood="essay"] p:first-of-type::first-letter {
-  font-size: 2.1em;
+   Its size is direct-address blended with chapter length (see
+   compute_visual_params): a short, written chapter gets the biggest
+   opening gesture; a long, spoken one gets almost none. */
+section.chapter p:first-of-type::first-letter {
+  font-size: var(--dropcap-size);
   font-weight: 600;
   color: var(--pink-7);
 }
 
-/* --- mood: lecture (spoken register) — block paragraphs with air
-   between them, a single rule, reads like delivered speech transcribed.
-   Most chapters in this booklet land here: they started as lecture
-   scripts and the direct address never got edited out. --- */
-section.chapter[data-mood="lecture"] > h1 {
-  border-bottom: 1pt solid var(--color-border);
+/* Instructional-density axis: a paragraph opening **like a label** gets
+   more color and a heavier underline as the chapter's rate of these
+   labeled moves rises — ch. 08's "Require libre fonts.", "Constrain the
+   image sources." vs. a flowing narrative chapter with none. Underlines
+   the phrase itself rather than indenting the whole paragraph: WeasyPrint
+   doesn't support :has(), so there's no selector that reaches the parent
+   <p> from its first child. */
+section.chapter p > strong:first-child {
+  color: var(--label-color);
+  border-bottom: var(--label-border) solid var(--label-color);
 }
-section.chapter[data-mood="lecture"] p { margin: 0 0 var(--pgap, 0.75rem); }
 
-/* --- density: derived from average sentence length. Controls the air
-   in lecture-mood block paragraphs and the leading throughout. Essay
-   mode's indent-run doesn't use --pgap since paragraphs aren't
-   separated by space, but still takes the leading change. --- */
-section.chapter[data-density="brisk"]    { line-height: var(--leading-brisk); --pgap: 0.85em; }
-section.chapter[data-density="measured"] { line-height: var(--leading-measured); --pgap: 0.65em; }
-section.chapter[data-density="dense"]    { line-height: var(--leading-dense); --pgap: 0.5em; }
+/* Apparatus-density axis, page-geometry half: outer margin width is set
+   per chapter via a generated named @page (assemble.py writes
+   OUTPUT.md.pages.css; see build-book.sh) since margins are a page-box
+   property, not something a CSS custom property on an element can reach.
+   This half — column count — *can* live in the ordinary stylesheet.
+   Sparse-apparatus, long-enough chapters go two-column to fit more type
+   per page; the title and kicker break out of the columns so they still
+   read as a single page-wide head. */
+section.chapter[data-columns="2"] {
+  columns: 2;
+  column-gap: 1.6em;
+}
+section.chapter[data-columns="2"] > .kicker,
+section.chapter[data-columns="2"] > h1 {
+  column-span: all;
+}
 
 /* ---- Cross-references: a recurring idea, linked back to the chapter
    where it first appeared. Plain <a href="#ch-NN"> from assemble.py —

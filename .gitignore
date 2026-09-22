@@ -2,3 +2,4 @@
 .env
 build/
 book/output/
+__pycache__/

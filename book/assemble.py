@@ -3,8 +3,9 @@
 Assemble a directory of chapter .md files (title/part/status frontmatter,
 the booklet-new-design-commons convention) into one pandoc-ready Markdown
 file: title page, table of contents, part-divider pages, and chapters —
-each chapter wrapped in a <section> carrying procedural attributes
-(data-mood, data-density) computed from that chapter's own prose, plus
+each chapter wrapped in a <section> carrying continuous, content-derived
+CSS custom properties (leading, indent, drop-cap size, margin width,
+column count, ...) computed from that chapter's own prose, plus
 cross-reference links for ideas that recur across chapters.
 
     python3 assemble.py CHAPTERS_DIR TITLE AUTHOR OUTPUT.md
@@ -73,21 +74,32 @@ SENTENCE_SPLIT_RE = re.compile(r'(?<=[.!?])\s+')
 SECOND_PERSON_RE = re.compile(r"\b(you|your|yours|yourself|you're|youre)\b", re.I)
 
 
+BOLD_LEAD_RE = re.compile(r'^\*\*[^*]+\*\*', re.M)
+BLOCKQUOTE_LINE_RE = re.compile(r'^>\s?(.*)$', re.M)
+
+
 def analyze(body):
-    """Two procedural parameters, both computed from the chapter's own
-    prose rather than assigned by hand:
+    """Raw, per-chapter metrics — all computed from the chapter's own prose,
+    none hand-assigned. `build()` normalizes these across the whole book
+    (corpus min/max) and turns them into the actual visual parameters; see
+    book/README.md for the full list and what each one drives.
 
-    mood    — "lecture" (direct address, spoken cadence) or "essay"
-              (written register), from second-person pronoun density and
-              question-mark density. Calibrated against this booklet's own
-              nine chapters: the polished introduction and a not-yet-drafted
-              placeholder read as "essay"; everything still carrying its
-              lecture-delivery voice reads as "lecture."
-    density — "brisk" / "measured" / "dense", from average sentence length.
-
-    Thresholds are fixed constants tuned once against real chapter text
-    (see book/README.md) rather than exposed as options — the point is
-    that the *content* decides, not a knob a person turns per chapter.
+    register        — "SPOKEN" or "WRITTEN": a fixed-threshold label for the
+                       running head only (a label needs *a* cutoff to be
+                       readable at all). The typesetting itself uses the
+                       corpus-relative, continuous version of this same
+                       score (direct_address_score) instead of the label.
+    word_count           — chapter length.
+    avg_sentence_len     — sentence rhythm.
+    direct_address_score — second-person pronoun density + question density:
+                            spoken/direct-address register vs. written.
+    bold_lead_per_1000   — paragraphs opening `**Bolded like a label.**`,
+                            per 1000 words: chapters built out of labeled,
+                            enumerable moves (ch. 08's "Require libre
+                            fonts.", "Constrain the image sources.") read as
+                            instructional; flowing narrative has none.
+    blockquote_pct       — share of the chapter's characters inside a `>`
+                            blockquote.
     """
     words = WORD_RE.findall(body)
     word_count = len(words) or 1
@@ -97,24 +109,108 @@ def analyze(body):
     avg_sentence_len = word_count / sentence_count
     second_person_pct = 100 * len(SECOND_PERSON_RE.findall(body)) / word_count
     question_pct = 100 * body.count("?") / sentence_count
-
     direct_address_score = second_person_pct + question_pct
-    mood = "lecture" if direct_address_score >= 2.0 else "essay"
 
-    if avg_sentence_len < 13:
-        density = "brisk"
-    elif avg_sentence_len >= 16:
-        density = "dense"
-    else:
-        density = "measured"
+    bold_lead_per_1000 = 1000 * len(BOLD_LEAD_RE.findall(body)) / word_count
+    bq_chars = sum(len(m) for m in BLOCKQUOTE_LINE_RE.findall(body))
+    blockquote_pct = 100 * bq_chars / max(len(body), 1)
 
     return {
-        "mood": mood,
-        "density": density,
+        "register": "SPOKEN" if direct_address_score >= 2.0 else "WRITTEN",
         "word_count": len(words),
         "avg_sentence_len": round(avg_sentence_len, 1),
         "direct_address_score": round(direct_address_score, 2),
+        "bold_lead_per_1000": round(bold_lead_per_1000, 2),
+        "blockquote_pct": round(blockquote_pct, 2),
     }
+
+
+# ------------------------------------------------------ visual parameters
+
+def lerp(a, b, t):
+    t = max(0.0, min(1.0, t))
+    return a + (b - a) * t
+
+
+def lerp_color(c1, c2, t):
+    t = max(0.0, min(1.0, t))
+    return tuple(round(c1[i] + (c2[i] - c1[i]) * t) for i in range(3))
+
+
+def normalize(x, lo, hi):
+    if hi - lo < 1e-9:
+        return 0.5
+    return (x - lo) / (hi - lo)
+
+
+BROWN_6 = (88, 81, 78)
+PINK_7 = (116, 0, 37)
+
+
+def compute_visual_params(chapters):
+    """Second pass, after every chapter's raw metrics are known: normalize
+    each metric against this book's own range (excluding placeholder
+    chapters, which would otherwise skew word_count's floor to 0) and turn
+    the five resulting 0-1 scores into concrete CSS values. Every number
+    below is final and literal — no calc()/mix() relied on in book.css,
+    just var() lookups — so what you see in the PDF is exactly what got
+    computed here, checkable straight from this function.
+
+    Five axes, each owning a channel the others don't touch:
+      direct-address (da_t)   -> paragraph indent/gap blend, h1 rule weight
+      sentence rhythm (sr_t)  -> leading
+      chapter length (len_t)  -> h1 size, drop-cap scale (jointly with da_t)
+      instructional (instr_t) -> labeled-paragraph accent color/border/indent
+      apparatus (appar_t)     -> outer margin width + column count
+    """
+    reals = [c for c in chapters if c["word_count"] > 0]
+    bounds = {
+        key: (min(c[key] for c in reals), max(c[key] for c in reals))
+        for key in ("word_count", "avg_sentence_len", "direct_address_score",
+                    "bold_lead_per_1000")
+    }
+    apparatus_scores = {
+        c["id"]: c["note_count"] * 1000 / c["word_count"] + c["blockquote_pct"]
+        for c in reals
+    }
+    lo_ap, hi_ap = min(apparatus_scores.values()), max(apparatus_scores.values())
+
+    for c in chapters:
+        placeholder = c["word_count"] == 0
+        if placeholder:
+            da_t = sr_t = len_t = instr_t = appar_t = 0.5
+        else:
+            lo, hi = bounds["direct_address_score"]
+            da_t = normalize(c["direct_address_score"], lo, hi)
+            lo, hi = bounds["avg_sentence_len"]
+            sr_t = normalize(c["avg_sentence_len"], lo, hi)
+            lo, hi = bounds["word_count"]
+            len_t = normalize(c["word_count"], lo, hi)
+            lo, hi = bounds["bold_lead_per_1000"]
+            instr_t = normalize(c["bold_lead_per_1000"], lo, hi)
+            appar_t = normalize(apparatus_scores[c["id"]], lo_ap, hi_ap)
+
+        label_color = lerp_color(BROWN_6, PINK_7, instr_t)
+        dropcap_em = lerp(2.3, 1.0, da_t) * lerp(1.15, 0.95, len_t)
+
+        c["vis"] = {
+            "leading": round(lerp(1.38, 1.16, sr_t), 3),
+            "indent_em": round(lerp(1.25, 0.0, da_t), 3),
+            "para_gap_em": round(lerp(0.0, 1.0, da_t) * lerp(0.7, 1.3, sr_t), 3),
+            "rule_pt": round(lerp(3.0, 1.0, da_t), 2),
+            "dropcap_em": round(max(1.0, min(2.6, dropcap_em)), 3),
+            # Final rem value, not a bare multiplier: WeasyPrint's calc()
+            # doesn't reliably combine two var()-substituted values
+            # (calc(var(--text-2xl) * var(--h1-scale)) silently no-ops with
+            # an "Invalid math function" warning), so the multiplication
+            # happens here instead and book.css just does var() lookups.
+            "h1_size_rem": round(2.25 * lerp(1.18, 1.0, len_t), 3),
+            "label_color": "rgb(%d,%d,%d)" % label_color,
+            "label_border_pt": round(lerp(0.0, 3.0, instr_t), 2),
+            "outer_margin_in": round(lerp(0.55, 1.15, appar_t), 3),
+            "columns": 2 if (not placeholder and appar_t < 0.15
+                              and c["word_count"] > 900) else 1,
+        }
 
 
 # ----------------------------------------------------------- cross-references
@@ -185,9 +281,9 @@ def build(chapters_dir, title, author, out_path):
         body = re.sub(r'^\s*#\s+.*\n', '', body, count=1)
 
         if status.startswith("canonical") or status == "empty":
-            stats = {"mood": "essay", "density": "measured",
-                      "word_count": 0, "avg_sentence_len": 0,
-                      "direct_address_score": 0}
+            stats = {"register": "WRITTEN", "word_count": 0,
+                     "avg_sentence_len": 0, "direct_address_score": 0,
+                     "bold_lead_per_1000": 0, "blockquote_pct": 0}
             canonical = meta.get("canonical", "")
             body = (
                 f"*This chapter's finished prose lives at "
@@ -213,11 +309,18 @@ def build(chapters_dir, title, author, out_path):
             "note_count": note_count, **stats,
         })
 
+    compute_visual_params(chapters)
+
     # ---- report (stderr): the procedural decisions, made visible ----
-    print(f"{'chapter':<32} {'mood':<8} {'density':<10} words  avg-sent  score", file=sys.stderr)
+    print(f"{'chapter':<32} {'reg':<8} words  avg-sent  da-score  instr/1k  "
+          f"leading  indent  h1x  outer-in  cols", file=sys.stderr)
     for c in chapters:
-        print(f"{c['id']} {c['title']:<28} {c['mood']:<8} {c['density']:<10} "
-              f"{c['word_count']:<6} {c['avg_sentence_len']:<9} {c['direct_address_score']}",
+        v = c["vis"]
+        print(f"{c['id']} {c['title']:<28} {c['register']:<8} "
+              f"{c['word_count']:<6} {c['avg_sentence_len']:<9} "
+              f"{c['direct_address_score']:<9} {c['bold_lead_per_1000']:<9} "
+              f"{v['leading']:<8} {v['indent_em']:<7} {v['h1_size_rem']:<5} "
+              f"{v['outer_margin_in']:<9} {v['columns']}",
               file=sys.stderr)
 
     out = []
@@ -248,9 +351,17 @@ def build(chapters_dir, title, author, out_path):
 
         kicker = f'<p class="kicker">{c["part"]} &middot; Chapter {c["num"]}</p>\n\n'
         heading = f'# {c["title"]} {{#{c["id"]}}}'
+        v = c["vis"]
+        style = (
+            f'--leading:{v["leading"]}; --indent:{v["indent_em"]}em; '
+            f'--para-gap:{v["para_gap_em"]}em; --rule-weight:{v["rule_pt"]}pt; '
+            f'--dropcap-size:{v["dropcap_em"]}em; --h1-size:{v["h1_size_rem"]}rem; '
+            f'--label-color:{v["label_color"]}; --label-border:{v["label_border_pt"]}pt;'
+        )
         out.append(section(
-            f'<section class="chapter" data-mood="{c["mood"]}" '
-            f'data-density="{c["density"]}" data-index="{c["num"]}">',
+            f'<section class="chapter" data-register="{c["register"]}" '
+            f'data-index="{c["num"]}" data-columns="{v["columns"]}" '
+            f'style="{style}">',
             kicker + heading,
             c["body"],
         ))
@@ -269,6 +380,23 @@ def build(chapters_dir, title, author, out_path):
     with notes_path.open("w", encoding="utf-8") as f:
         for c in chapters:
             f.write(f"{c['id']}\t{c['title']}\t{c['note_count']}\n")
+
+    # Per-chapter page margins: a CSS custom property on the section can't
+    # reach @page (margins are a page-box property, not an element one), so
+    # apparatus density's effect on margin width needs one named @page per
+    # chapter instead. book.css keeps the fixed inner/gutter, top, and
+    # bottom margins (binding safety, consistent vertical rhythm); only the
+    # outer margin — the side that would hold marginalia — varies here.
+    pages_path = out_path.with_suffix(out_path.suffix + ".pages.css")
+    with pages_path.open("w", encoding="utf-8") as f:
+        for c in chapters:
+            outer = c["vis"]["outer_margin_in"]
+            f.write(
+                f'@page ch-page-{c["num"]} {{}}\n'
+                f'@page ch-page-{c["num"]}:right {{ margin-right: {outer}in; }}\n'
+                f'@page ch-page-{c["num"]}:left  {{ margin-left: {outer}in; }}\n'
+                f'section.chapter[data-index="{c["num"]}"] {{ page: ch-page-{c["num"]}; }}\n\n'
+            )
 
 
 if __name__ == "__main__":
