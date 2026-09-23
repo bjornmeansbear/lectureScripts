@@ -16,7 +16,25 @@ Requires `pandoc` and `weasyprint` — same toolchain as
 `~/Code/color-system-and-guidelines/print/md2pdf.sh`, same reasoning
 (see that repo's `RULES.md`, "PDF generation"): plain text in git,
 diffable, rebuilds without a browser, no page-layout GUI to fight with.
-`pip install weasyprint` if it's missing.
+
+On macOS: `brew install pandoc pango` then `pip install weasyprint`.
+`build-book.sh` already sets the `DYLD_FALLBACK_LIBRARY_PATH` WeasyPrint
+needs to find Homebrew's pango (same fix as that sibling `md2pdf.sh`),
+so you shouldn't have to touch your shell env yourself.
+
+One real visual difference to expect: `--font-text` is Liberation
+Serif, which is preinstalled on Linux but *not* on macOS (it's not an
+Apple system font), so the body copy will silently fall back to Georgia
+there instead — the next name in the stack, and a perfectly good serif,
+just a different one than what any PDF built on Linux shows you. Not a
+bug, just a font-availability gap. Fixed permanently by self-hosting a
+chosen OFL serif via `@font-face` in `book.css` (same hook the kit's own
+`print/print.css` uses) — worth doing once you've picked one, rather
+than living with whatever's on a given machine.
+
+Optional: `brew install poppler` gets you `pdfinfo`, which
+`build-book.sh` uses only to print the page count at the end — the build
+works fine without it, that line just goes blank.
 
 ## What a chapter directory needs
 

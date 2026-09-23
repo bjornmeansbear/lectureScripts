@@ -19,6 +19,12 @@
 # diffable, rebuilds without a browser).
 set -euo pipefail
 
+# WeasyPrint's pango dependency needs this on macOS/Homebrew (same fix as
+# print/md2pdf.sh in color-system-and-guidelines); harmless elsewhere. Set
+# here rather than assumed to already be in the shell env.
+export PATH="$HOME/.local/bin:/opt/homebrew/bin:$PATH"
+export DYLD_FALLBACK_LIBRARY_PATH="/opt/homebrew/lib:${DYLD_FALLBACK_LIBRARY_PATH:-/usr/local/lib:/usr/lib}"
+
 CHAPTERS_DIR="${1:?usage: build-book.sh CHAPTERS_DIR \"Title\" \"Author\" [output.pdf]}"
 TITLE="${2:?usage: build-book.sh CHAPTERS_DIR \"Title\" \"Author\" [output.pdf]}"
 AUTHOR="${3:?usage: build-book.sh CHAPTERS_DIR \"Title\" \"Author\" [output.pdf]}"
