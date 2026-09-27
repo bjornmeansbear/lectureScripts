@@ -1,0 +1,46 @@
+# Recurring ideas to cross-reference across chapters.
+#
+# One phrase per line. Matched case-insensitively as whole words/phrases in
+# reading order. The FIRST time a phrase appears anywhere in the book, it's
+# left plain — that's the idea's home. Every chapter after that gets ONE
+# marked recurrence (not every repeat — one nod per chapter is a signal,
+# ten is noise), turned into a link back to the chapter where it started.
+# `book.css` renders that link as a small arrow plus the printed page
+# number of the origin, via WeasyPrint's target-counter().
+#
+# Lines starting with # are comments. Order doesn't matter — assemble.py
+# sorts by length so multi-word phrases match before shorter phrases they
+# contain (e.g. "Cathedral and the Bazaar" before a bare "Bazaar" would).
+#
+# This list is grounded in OUTLINE.md's own cross-reference notes (it
+# names Stallman, the Cathedral/Bazaar, and vernacular as material
+# currently doing service in three chapters at once) plus terms verified
+# to actually recur across multiple chapters *after* processing — not
+# raw grep on the source files. Raw grep overcounts: a term inside a
+# chapter's frontmatter `sources:` list, its trailing TO DO comment
+# block, or the body of a `canonical-elsewhere` placeholder chapter
+# never survives into the assembled book (assemble.py strips or replaces
+# all three before this file's list even gets applied), so a term that
+# only "recurs" in those places would silently never link. "four
+# freedoms," "How Buildings Learn," and "Ecovention" all looked like
+# real repeats under plain grep and turned out to be exactly that kind
+# of false positive — each only survives in one chapter once you check
+# post-processing, so they're left out here.
+#
+# Deliberately excludes generic words like "commons" itself — it's in
+# nearly every chapter by design, so tagging it everywhere would bury
+# the signal.
+
+Cathedral and the Bazaar
+welfare of all life
+vernacular
+enclosure
+Stallman
+Ostrom
+remix
+public domain
+Keedy
+Figma
+Adobe
+libre
+GNU
