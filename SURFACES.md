@@ -134,7 +134,7 @@ Five of the nine case studies aren't referenced anywhere in this repo. Two of th
 | [micagradadmissions](https://a.wjerk.shop/case-study-micagradadmissions.html) | The pandemic die-cut zine that unfolds into a poster; one plate, print, flip the stack, re-run | **The other one OUTLINE.md says still needs a home.** Same fix. |
 | [chairness](https://a.wjerk.shop/case-study-chairness.html) | Chair-ness | `workshop-circular-economy-design/chair-case-studies.md` covers the same ground and doesn't link to it. See also the unconfirmed Oka Terra overlap flagged in `SHARED-COMPONENTS.md`. |
 | [solarpunk-boombox](https://a.wjerk.shop/case-study-solarpunk-boombox.html) | Solarpunk Boombox | "Solarpunk" is a listed but unwritten lecture in `Lectures To Writeup.txt`. This is the object that would anchor it. |
-| [carbon-sequestering-book](https://a.wjerk.shop/case-study-carbon-sequestering-book.html) | A Carbon Sequestering Book | Fits the SGD lecture and the climate-design material. No link either way. |
+| [carbon-sequestering-book](https://a.wjerk.shop/case-study-carbon-sequestering-book.html) | A Carbon Sequestering Book | Fits the SGD lecture and the climate-design material. Essay under way — see `projectWriteups/carbon-sequestering-book.md`. |
 | [drawing-on-tempered-glass](https://a.wjerk.shop/case-study-drawing-on-tempered-glass.html) | Drawing on Tempered Glass | No obvious match in this repo yet. Possibly nothing — worth a look. |
 
 ## are.na — 518 channels, now mapped

@@ -13,6 +13,7 @@ Lecture and workshop material, one directory per topic.
   `a.wjerk.shop`, notes on `bjornpaedia.wjerk.shop`, are.na channels. Check it before
   writing something that may already exist in finished form.
 - `MENU.md` — the à la carte menu of bookable lectures and workshops.
+- `projectWriteups/` — one pointer file per project: where its drafts, notes, and research live, and what's next. Update it whenever you put something somewhere. See its README.
 
 Root used to be a flat pile of drafts. It isn't any more — if you add something,
 put it in a directory.
