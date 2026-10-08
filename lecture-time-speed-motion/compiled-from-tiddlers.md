@@ -1,0 +1,135 @@
+# Time, Speed, Motion — compiled from bjornpaedia
+
+> **Generated file — do not edit.** Rendered from tiddlers in `~/Code/sentence-a-day/sad2021tw/tiddlers`, which are canonical. Regenerate with `scripts/tiddlers-to-md.py`.
+
+Source tiddlers, in order: `Why Add Motion`, `What is Motion?`, `What is Time?`
+
+---
+
+## Why Add Motion
+
+*tags: `note GD3` · modified: 20261008*
+
+This is an important question at the heart of a motion graphics practice.
+
+but what is the answer
+
+mainly, motion adds another layer to something.
+
+Motion can be conveyed or real.
+
+You might want to add motion to your design to:
+
+- a) convey actual motion
+- b) call out something in a way other than a purely formal, aesthetic one...
+- c) it becomes emotive in a way a static thing cannot.
+- d) just because, the je ne sais quoi factor
+- d) what else...
+
+Note on my favorite motion-designy stuff:
+
+These are basically just a formal graphic studies, most of these frames, if stopped, look like basic formal exercises. However, carefully arranging them in time, space, and linking them to sound creates a whole that is much more interesting and perhaps tells a much larger story than any of the elements separately.
+
+---
+
+I'm not really a “motion designer” by trade. However, I feel like the concepts that are behind much of what is in designed in motion apply when something is static. Also, the concepts of interaction, [cause-and-effect](Cause and Effect / Interactivity), and even sequence are all required in web and print design—these are key in motion design as well.
+
+My biggest pet peeve in motion projects is that typically the motion used just isn't really necessary other than as a parlor trick. It adds a pretty something else, but that often gets in the way of the actual meaning or message to begin with.
+
+# How are time and motion useful design concepts?
+
+The lecture version, from my GD3 notes (2020).
+
+If designs have motion (or are *literally* in motion) they are functioning in space and time. The way western science has described our universe so far, there's the idea of a three dimensional space that we can move around in at our will (XYZ axes) and there is a dimension of time that's always moving forward outside of our control.
+
+Anything that “moves” functions within those four dimensions. Generally this means you change x/y/z coordinates, and that happens in some duration of seconds, minutes, hours, years, whatever…
+
+So, If anything you design is functioning in four dimensions — x,y,z,t — then every design piece has to take those considerations into account, and you can’t help but try to see them as additional design properties to account for; or constraints to design within.
+
+## Using time/motion as graphic designers
+
+# Represent something with actual duration. The most obvious reason that time in a medium is useful IS that you are representing duration of time. Or you're actually able to represent a thing moving and not just sort of symbol of that thing moving.
+# Add emotion or additional meaning in a way that it being static can't.
+# Control narrative or story or explanation arc in a clear way?
+#* you can control the flow of that narrative or story or sequence. A book or a magazine is sequential but you, as the designer, can't control the way that a reader/viewer choses to go through that sequence. An animation just plays in the sequence you intend...
+#* You can with a much higher certainty presume that I'm just going to hit play and watch it through the way that you intended.
+# Simplify the Complex
+#* Roll out the information over time. it reduces the cognitive load at each moment that you're looking at something.
+#* If we show 2008 this was a thing and then 2018 now this is a thing and we animate between those, it might give us a better idea that it really is rapidly growing because we can even control the animating so it simplifies complex data and communicates its meaning better.
+# The “I don’t know what” factor. It could just have that *je ne sais quoi* where the static thing is “meh” and with motion it is “ah damn that's really great,” and you can't explain why, it is just better.
+
+Remember: graphic design is not restricted to static objects or fixed forms. Screens are ubiquitous and we must be prepared for that! You can apply your designing to screens and videos and animations using the same principles and techniques and processes that general graphic design practice cultivates ... adding change and motion on top of balance, typography, etc.
+
+## Related
+
+- [[What is Motion?]]
+- [[Everything is a Motion Graphic]]
+- [[Project: Animated Logo]]
+- [[Project: Stop Motion]]
+
+---
+
+## What is Motion?
+
+*modified: 20260808*
+
+Change over time.
+
+Nothing happening is still, nothing over time > that's still a kind of motion!?
+
+Does time pass? Then its motion?
+
+Okay, do what constitutes a change?
+Newtonian change/motion
+Aristotlean change/motion
+
+Aristotle's change is better for GDers, that anything can change, not just physical location?
+
+But wait, is that all?
+
+What IS motion!!??
+
+See also: [[What is Time?]]
+
+---
+
+## What is Time?
+
+*modified: 20260808*
+
+What is time and why is it important to understand if you are a graphic designer?
+
+Is time just an arrow? Does it only move forward?
+
+Augustine: when some one asks me I know what time is; but I cannot explain it????
+
+Try to do a few slides about past/present/future
+
+Just about measuring change?
+Does it only flow forward?
+Is it real at all!!??
+
+Linear flow of time that we mostly share, but don't be dominated by the tyranny of this idea…
+
+Aristotelian time
+Newtonian time
+Relative/Einstein-Ian time
+
+Eastern time interpretations
+Indigenous interpretations?
+
+Change
+
+Moving fast vs big gravity
+
+Entropy and time:
+According to the second law of thermodynamics, entropy always increases.
+If entropy in a system can ONLY increase, time can only go forward?
+Why can't you predict the future?
+
+Design Futuring > does this have anything to do with time and motion and graphic design?
+
+See also: [[What is Motion?]]
+
+---
+

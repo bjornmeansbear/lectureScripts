@@ -7,14 +7,14 @@ Already together, just needs clarity
 Reconciled against the 26 "Lecture:" channels on are.na, 2026-08-27. See SURFACES.md.
 
 GD3 related:
-Time + motion + gd          → lecture-time-speed-motion/ (raw only; are.na: Intro to Motion 84, What is Time? 32)
+Time + motion + gd          → lecture-time-speed-motion/ (raw only; are.na: Intro to Motion 84, What is Time? 32). Wiki, 2026-10-08: Why Add Motion + five GD3 project briefs
 Newton                      → are.na: Newton vs Aristotle (Motion) 8
 Aristotle                   → same channel as Newton
 Entropy                     → nothing here. are.na: Lecture: Entropy 5
 Fast/Slow design            → lecture-time-speed-motion/Slow Design.txt (are.na: Slowing down graphic design 19)
 Relativity                  → delivered inside workshop-designing-for-the-future/2023-Fall-FutureCone (see SHARED-COMPONENTS)
 Comics?                     → nothing anywhere
-Everything is a Motion Graphic  → are.na only, 3 blocks. NOT previously on this list.
+~~Everything is a Motion Graphic~~  → lecture-everything-is-a-motion-graphic/ (2020 script, compiled from the wiki tiddler; 2022 MODE proposal with Hayelin Choi). No images or deck yet.
 What else do I talk about in GD3???
 
 AD1/AD2

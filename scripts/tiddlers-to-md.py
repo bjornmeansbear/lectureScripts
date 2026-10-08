@@ -45,6 +45,8 @@ def to_md(tw):
             continue
         if re.match(r"^<<list-links", line.strip()):
             continue
+        if line.startswith("\\rules") or line.strip() == '"""':   # TW pragmas and line-break fences: no markdown equivalent
+            continue
         for n in range(6, 0, -1):                       # !!! headings (not # — that's a list in TW)
             line = re.sub(r"^!{%d} ?" % n, "#" * n + " ", line)
         line = re.sub(r"^(#+) ", lambda m: m.group(1) + " ", line)
