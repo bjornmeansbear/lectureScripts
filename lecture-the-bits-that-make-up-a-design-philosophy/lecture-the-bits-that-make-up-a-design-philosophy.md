@@ -14,26 +14,24 @@ length: roughly 25 minutes spoken (about 3,500 words)
 
 ## A pile
 
-I keep an are.na channel called "The Bits That Make Up A Design Philosophy." It holds about 1,700 things. More than 800 are text: quotes, pasted paragraphs, a few sentences of my own. About 500 are links. Around a hundred are other channels.
-
-Nothing in it makes an argument. So this talk asks the pile one question: what repeats? I'll read it next to the lectures and essays I've written over twenty years and see whether one position comes out of all of it.
+I keep an are.na channel called "The Bits That Make Up A Design Philosophy." It holds about 1,700 things. Half of it are just text blurbs: quotes, pasted paragraphs, a few sentences of my own. This talk asks the pile one question: what patterns exist in this library of miscellaneous materials? 
 
 ## What repeats
 
 Six things.
 
-1. Design is thinking. The making is how the thinking happens.
+1. Design is thinking. And making is how the thinking happens.
 2. Form makes a claim. Every design carries an ideology, chosen or not.
 3. What a thing is for matters more than what it's on.
 4. Anything that can be shared should be.
-5. Say what you're sustaining. Mine is all life.
+5. Say what you're sustaining. Mine is the welfare of all life.
 6. Make what belongs in the future you'd prefer.
-
-Each gets a section. Then the places where they don't hold together.
 
 ## 1. Design is thinking
 
-One block in the channel is a quote I titled "Designer as apartment tidier." Most designers, it says, "are visual designers. They try to make things look pretty. It's just like cleaning up your apartment."[^1780784]
+"Designer as apartment tidier." 
+
+Most designers, "are visual designers. They try to make things look pretty. It's just like cleaning up your apartment."[^1780784]
 
 The rest of the channel argues with that from every side.
 
