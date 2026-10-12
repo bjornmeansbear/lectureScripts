@@ -12,14 +12,14 @@ Should a lecture in bjornpaedia be small reusable chunks assembled by transclusi
 
 ## The pattern to replicate
 
-The model is `sad2021tw/tiddlers/Lecture_ What Is Sustainable Graphic design_ (April 2021).tid`. The parent tiddler carries **no prose of its own** — only headings and transclusions:
+The model is `sad2021tw/tiddlers/What is Sustainable Graphic Design_.tid`. The parent tiddler carries **no prose of its own** — only headings and transclusions:
 
 ```
 created: 20210828025855258
 list: [[Define Sustainability]] [[The Sustainabilitist Principles]] [[...]]
 modified: 20210828034918110
 tags: Lecture Nebraska
-title: Lecture: What Is Sustainable Graphic design? (April 2021)
+title: What is Sustainable Graphic Design?
 type: text/vnd.tiddlywiki
 
 {{Define Sustainability}}
@@ -34,7 +34,7 @@ And each chunk is tagged back to its parent:
 ```
 created: 20210828031544380
 modified: 20210828034918079
-tags: [[Lecture: What Is Sustainable Graphic design? (April 2021)]]
+tags: [[What is Sustainable Graphic Design?]]
 title: Good Formalism
 type: text/vnd.tiddlywiki
 
