@@ -1,0 +1,33 @@
+Copyright (c) 2021–2026 Kristian Bjørnard
+
+This repository is under two licenses: one for the writing and graphics, one
+for the code.
+
+Writing and graphics — CC BY-SA 4.0
+
+  Lecture scripts, workshop materials, essays, transcripts, slide exports,
+  PDFs, SVGs, and every other non-code file are licensed under the Creative
+  Commons Attribution-ShareAlike 4.0 International License.
+
+  You may share and adapt the material for any purpose, even commercially,
+  as long as you credit Kristian Bjørnard, link to the license, say what you
+  changed, and release your adaptations under the same license.
+
+  Full text: LICENSE-CC-BY-SA-4.0.txt
+  Summary:   https://creativecommons.org/licenses/by-sa/4.0/
+
+Code — GPLv3
+
+  The NodeBox files (*.ndbx) and the scripts (*.py, *.sh) are licensed under
+  the GNU General Public License, version 3 or (at your option) any later
+  version.
+
+  You may use, change, and redistribute the code, as long as anything you
+  distribute that's built from it is also released under the GPL, with its
+  source.
+
+  Full text: LICENSE-GPL-3.0.txt
+  Summary:   https://www.gnu.org/licenses/gpl-3.0.html
+
+The LICENSE files inside individual workshop and lecture directories say the
+same thing as the CC BY-SA 4.0 section above.

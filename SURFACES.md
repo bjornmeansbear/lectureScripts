@@ -244,6 +244,53 @@ python3 scripts/arena-channels.py libre     # filter by title or slug
 
 Referenced in exactly two files: `workshop-sustainabilitist-principles/sustainabilitist-principles-source.md:3` and `workshop-semiotic-commons/variations-pitch-booklet.md:148`. The wiki has far more in it than that — see the `sentence-a-day` finds logged throughout `SHARED-COMPONENTS.md`.
 
+### Each folder matched to its bjornpaedia page (2026-10-23)
+
+The plan: one bjornpaedia page per lecture or workshop, not one per file. Each page carries the readable version of the talk plus a `repo` field linking to its folder here on GitHub for forking. The wiki holds the finished text; this repo keeps drafts, transcripts and slides. The `repo` field gets set by a script, like the `casestudy` field (`sentence-a-day/sad2021tw/scripts/case-study-links.py`), never typed by hand.
+
+**Already have a main page (9).** These need the `repo` link, and maybe the canonical text:
+
+| Folder | Main tiddler | Also in the wiki |
+|---|---|---|
+| lecture-what-is-sustainable-graphic-design | What is Sustainable Graphic Design? *(Start here)* | What is SGD? (020210414), A Sustainable Designer?, Hixson-Lied Visiting Artist Talk |
+| lecture-new-design-commons | A New Design Commons *(Start here)* | 6 dated drafts |
+| lecture-utopian-gestures | These Gestures Are Undoubtedly Utopian | 4 dated versions |
+| lecture-bauerden | BauErden *(Start here)* | BauErden (020210409) |
+| lecture-pure-content | Pure Content | CAPE, What is CAPE? *(Start here)* |
+| lecture-climate-design | Climate Design | Climate Designers, A Climate Designers Lecture Outline? |
+| lecture-signs-signaling-on-substrates | Signs Signaling on Substrates | Signs Signaling Sustainability |
+| lecture-everything-is-a-motion-graphic | Everything is a Motion Graphic | |
+| lecture-the-bits-that-make-up-a-design-philosophy | The Bits That Make Up A Design Philosophy | |
+
+**Only a related idea page (6).** The page is about the idea, not the talk:
+
+| Folder | Talk or workshop title | Closest page |
+|---|---|---|
+| workshop-open-source-design | The Libre Designer | The Libre Designer, F/LOS Daily *(Start here)*, Open Source Design |
+| workshop-sustainabilitist-principles | The Sustainabilitist Principles | The Sustainabilitist Principles |
+| workshop-circular-economy-design | 3P: People Processing Plastic | 3p: People Processing Plastic |
+| workshop-designing-for-the-future | The Future Cone | The Futures Cone |
+| workshop-semiotic-commons | Copyright, the Public Domain, and the Commons | The Commons, Copyright, Public Domain |
+| lecture-some-semiotics | Some Semiotics | Semiotics |
+
+**No page yet (9):**
+
+- lecture-design-for-the-future-today: Design for the Future Today. A paper-scrap entry already links to "Design the Future Today!", which has no page behind it.
+- lecture-design-thinking: Design Thinking, and What's Wrong With It
+- lecture-ethnographic-research: Ethnographic Research for Designers
+- lecture-professional-practice: Being Professional?
+- lecture-time-speed-motion: Time, Speed, Motion
+- lecture-exhibiting: Exhibiting (are.na only so far)
+- workshop-form-content-context: Form, Content, Context
+- workshop-structured-creativity: Structured Creativity
+- lecture-science-and-art-seam: raw notes from 2026-10-16, not ready
+
+**Notes:**
+
+- **Each talk needs one main page.** Utopian Gestures has five tiddlers and New Design Commons about seven. The main page holds the current text and the `repo` link, and lists the dated ones under it as earlier versions.
+- **The booklet is its own thing.** `booklet-new-design-commons` is nine essays: nine pages plus a contents page, separate from the lecture.
+- **Next steps, cheapest first:** add the `repo` field to the nine pages that exist; choose the main page for each talk in the second table; then write pages for the nine that have none.
+
 ---
 
 ## How to use this

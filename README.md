@@ -18,8 +18,10 @@ Lecture and workshop material, one directory per topic.
 Root used to be a flat pile of drafts. It isn't any more — if you add something,
 put it in a directory.
 
+## License
+
+Writing and graphics are CC BY-SA 4.0. Code (NodeBox `.ndbx` files and the scripts) is GPLv3. See [LICENSE](LICENSE) for what that covers. The per-directory LICENSE files in the workshops match the CC BY-SA terms.
+
 ## Open
 
-- Licensing: CC BY-SA 4.0 files currently sit inside individual workshop folders.
-  Probably wants hoisting to one root LICENSE.
 - What to do about images in here?
