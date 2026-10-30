@@ -72,6 +72,28 @@ Section III says science erases the discoverer and art preserves the maker. Sect
 
 [C] So credit may attach to the system and not to the single object. One sign doesn't need a name, but the wayfinding system does. Science works the same way: a single measurement isn't credited, the theory is.
 
+## From the Oct 12 voice memo
+
+Recorded a minute after pasting the outline, while reading it ("W Mount Royal Ave 13," transcript in `~/Documents/voice-memo-transcripts/20261012_113951-C6ECD3CC.txt`). Points that aren't elsewhere in these notes.
+
+[K] Science thinks it explains reality in concrete, repeatable ways. Art and design also try to describe reality, or preferred realities. Design often does it in concrete ways too, but the output is metaphorical, semiotic, and form-based, not truth or fact.
+
+[K] Keep the outline's line from section II: both are compression, "finding the economical form that holds something sprawling."
+
+[K] Section III says science seeks the pattern that subtracts the particular, and art seeks the particular that implies the universal. But science keeps using simpler and simpler equations to express more and more of the universe. Are we not the same in that regard?
+
+[K] Different kinds of thinking: abductive reasoning in art and design, deductive reasoning in science. (Same question as my note in section III of the outline.)
+
+[K] Stendhal and plenty of others say things should be beautiful and simple. But that beauty is individual and taste-based.
+
+[K] *How Buildings Learn* is a good example of a place where personal taste, opinion, experiment, and real survivable building have to fit together. So are all the chair things.
+
+[C] Either could be the concrete case section V is missing. It says design sits in the middle but never shows how (see the top of these notes).
+
+[K] On section V's claim that a society treating art and science as enemies can't design well: if physics and feeling are together, that's what makes great things. And the great things should be open.
+
+[C] "Should be open" is the commons argument again, the same place "Conceptual work is the middle case" ends up.
+
 ## Still open
 
 Draft claim, for Kristian to fix or throw out: design's self disappears for two reasons. For functional work, disappearing is the point. For branded and corporate work, law and ownership remove it. The names that survive are attached to whole systems or to brands.
