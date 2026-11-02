@@ -1,0 +1,107 @@
+# DI 200 Deck — Changes from Rehearsal
+
+Notes from rehearsing the systems-thinking lecture, for the session that holds the HTML deck (https://claude.ai/artifact/6Upds1UayXBC9vvLui7Jyv). Lecture plan: https://claude.ai/artifact/3S59KijFZWadYR2RpE1Aod
+
+## Arc 1 — Cart opener
+
+1. **Reorder:** IDEO cart → Laura Kampf → then the "what's not been considered" slide (theft, height, weather, repair). Kampf makes the list feel earned.
+2. **Don't repeat the list:** say theft / height / weather / repair once, after Kampf, not also during the IDEO part.
+3. **Kampf framing (Bjorn's words):** she's outside the world of the shopping carts — not at a store, out in the world, always seeing carts that are broken, abandoned, left behind, or used for something else. A zoom out: the larger system the carts live within. Stuck wheels don't get fixed because it's more work than a store has time or employee effort for.
+4. **Instacart point (Bjorn's words):** IDEO wasn't envisioning a world where carts are used by somebody else to buy multiple people's worth of groceries — Instacart, Uber Eats.
+5. **Into the exercise (Bjorn's words):** "Taking something as simple as a shopping cart, think of how quickly we can fill up the world. What is the first ring of stuff around the shopping cart?"
+6. **Keep the landing:** "A cart is simple. Your projects live in a hotel."
+
+7) **Bridge to the hotel (Bjorn's words):** "The cart is simple, and look at all this stuff we were able to think about." Our projects are in the lobby of a hotel. Suggested softer framing: "If a cart fills a wall, imagine the hotel."
+
+## Arc 2 — Assume the hidden
+
+1. **Thesis slide (Bjorn's words):** "Systems and services deal in these more abstract, hidden, invisible realms. We have to train our brains and our processes to see them and then reveal them." Put this on a slide — main takeaway of the day.
+2. **Web store story:** a client asks for a web store or a blog. Do you already have inventory tracking, or is the website your inventory tracking? Credit card processing? A client list? Does the website take all this over, or is it just the front end, with everything else happening behind the scenes on services you already use? Trim to 2–3 questions on the slide.
+3. **Key line (Bjorn's words):** "We're frequently having to see what else attaches to the question you're being asked by a client."
+4. **Grad catalog story:** is the difference between programs obvious from looking vs. reading? Is a thick book of images and text the right way? Who else needs to be tied into editing and collecting the information? What could we show from an audio or visual perspective, and how is that still connectable in a print piece?
+5. **Hilton story:** started as a running joke — "can you do a crab mural?" Zoomed out: what are they actually trying to do? Get Baltimore into the lobby. Zoom out again from our HMW answers.
+6. **Closing question (Bjorn's words):** "What actually needs to be involved in making any of these things work?" Sets up definitions and the blueprint.
+7. **Don't drop:** Buchanan's placements, and "every client hands you an object — ask what system it lives in."
+
+## Arc 3 — Definitions
+
+1. **New splash slide between slides 18 and 19:** a big section-divider page that makes it obvious we're switching to defining terms we'll use moving forward. Suggested wording: "Words for what we've been seeing" or "Defining terms" — Bjorn to pick.
+2. **Service definition (Bjorn's words):** "How we deliver value to someone over time." Replace the check-in line with the laundry example: what you want is clean clothes; the service is what delivers them. You could buy a washing machine, rent access to one, or hang your clothes out and have them picked up and magically brought back clean. "All that you're looking for is the service of taking my dirty things and having them end up being clean things for me to wear again." "How we do that is different for different people — and maybe selling every single human on earth a washing machine isn't the best way to actually deliver that service." Slide notes need expanding here.
+3. **System / systems design (Bjorn's words):** "A service works only if you understand all the systems required to deliver that value proposition to whomever you're delivering it to." Systems design = all the interconnected elements around what you're trying to do; sometimes zoom all the way out to Spaceship Earth (credit Buckminster Fuller). Different fields name it differently — product design and architecture: lifecycle analysis, the systems that make a thing and let it be maintained. Applies to materials of an object, and also to delivering an educational program in a hotel lobby. "What are the systems around this that we have to account for?"
+4. **Pause for questions.** Backup prompt: "What's a service that maybe you hadn't thought of as a service before?" Pocket examples: the library, Spotify, the bus, MICA itself.
+5. **Service design (Bjorn's words):** the whole experience and the operation behind it — "we're not letting them just kind of happen accidentally." Purposely thinking about the flow that takes what the person is looking for and delivers it at the right time, in the right place. Aside (keep to one sentence): this sounds lean-startup-y because capitalism loves this language, mainstreamed out of the business world, partly through UI/UX.
+6. **Touchpoints (Bjorn's words):** moments the person who needs the service actually meets the service — how they start it, how they get asked what's going on when there's a problem, how it finishes. "Those are all different touchpoints." Suggested: run it through the laundry example — bag on the door, the "we lost a sock" text, the folded stack coming back.
+7. **Hilton touchpoints (Bjorn's words):** a guest entering the lobby — the revolving door, whether they talk to an agent at the front desk, signs to their room or the restaurant, how things smell and feel. "These are important aspects of the service moving people along at the pace and quality we wish." (These become the top row of the blueprint later.)
+8. **"Same desk, different person, different service" slide (Bjorn's words):** "You change any one of these things and you've changed the service." One person not coming into work affects it. Capitalists want to replace people with machines — an algorithm that does every step the same way every time. But the things in a system most successful over time are often the most flexible, most able to adapt to change and spontaneity. Segue line: "And how a system adapts comes down to its feedback loops." Note: second capitalism aside in this section — keep both short or pick one.
+9. **Systems design framing (Bjorn's words):** "Maybe more about how we design with or for systems." The rules, flows, and feedback loops that drive behavior or outcomes in the milieu we're within. "Often we can't control the externality, but we can control perhaps how things respond to externalities."
+10. **Feedback loop (Bjorn's words):** a thing happens and that changes the system; what happens when that change comes back and feeds in again? "In a successfully planned system, feedback has a limiter that keeps it from cycling out of control." Unaccounted-for loops throw the system out of whack.
+11. **ADD DIAGRAM:** reinforcing (R) and balancing (B) loop, side by side. R = stuck cart wheel; B = thermostat. Verbal example of no limiter: mic feedback squeal.
+12. **Class question (Bjorn's words):** "In a hotel, what could throw how a guest checks in out of whack? External or internal." Backup if silent: the conference rush — a session ends, 500 people want rooms at once; line gets long, people get cranky, cranky check-ins take longer, line gets longer. "What would break that loop?" Other pocket examples: storm, sold-out Orioles game, key card system down, two staff call out sick.
+13. **Slide 27, cart loop (Bjorn's words):** a sticky wheel; someone brings the cart out to the lot, loads their stuff in, is done with it and doesn't return it; it ends up derelict in the weather; it rusts, the wheel gets worse; fewer good carts; "each one of the remaining ones gets used harder" (slow down here — this makes it a loop), more broken wheels and handles, more abandoned, or pushed behind the store by the store itself; then: "Laura Kampf's is-this-broken-enough-to-turn-into-a-chair level." Then ask: what would break this loop? Pocket answers: cart return closer to the car, quarter deposit (Aldi), someone whose job is fixing wheels — each is a limiter, sets up leverage points.
+14. **EDIT slide 28 ("pushes back" projector slide):** remove "What pushed? We don't know. That's a ? on your map." Replace with what actually happened (Bjorn's words): there was a cool sporting event, so the hotel responded by setting up a projector — intentionally ad hoc, so they could take it down and put it back up when necessary. That's a feedback loop with a designed limiter. Suggested line: "They didn't design a permanent sports bar. They designed the ability to respond." Ties back to the adaptability point on slide 'Same desk, different person.'
+15. **"Your prototype drops into loops already running" slide:** example — a lost guest asks the front desk, desk points the way (a loop already doing the job). A good map feeds it (calmer desk); an out-of-date map gets ignored and dies. Question: what loop is already doing your job, and does your idea help it or fight it?
+16. **Zoom out (Bjorn's words):** staff, cleaning schedules, guests coming and going, conferences or not, crowds or few, weather, doors locked or not, who has a key. "How do we start thinking about these systems that already exist and feedback loops that might be self-adapting or might break out of control? How do we at least document what we need to ask, find out more about, and consider from our abductive reasoning (Nigel Cross) to account for them ahead of time?" Suggested tweak: "so that we actually are thinking about the big picture" rather than "so it looks like." The prototype isn't just to see if one interaction works — what is the service we're trying to provide, and how is this participating in it usefully? "Not just are we moving somebody one step forward for an unknown outcome." (Keeper line.)
+17. **Takeaway of the definitions section:** "You can design a service. You can only intervene in a system."
+18. **Takeaway unpacked (Bjorn's words):** a service we can actually design; a system we have to consider — we're responding to it or intervening in it, through a feedback loop or by considering an external one, and building flexibility and adaptability, "or a bridge over those things into our service." "We can't necessarily design a system."
+
+## Visual fixes
+
+**WHOLE DECK — accessibility (priority):** switch every slide to dark mode — light type on dark backgrounds. A student asked for this; dark-on-light is hard for them to read when projected. Keep sections visually distinct (different colors or slightly different themes per section) so it's obvious when we move from one idea to the next — e.g., a different dark hue per section. Check contrast on every slide, including images and diagrams.
+
+1. **Slide 16:** type is too big — reduce by 1–2em.
+2. **Slide 30:** type too big — reduce by 1–2em.
+3. **Slide 31 (break):** just "BREAK," really big. Remove "back at 10:40."
+4. **Slide 50 (lunch):** just "LUNCH," really big. Remove "back at 12:45."
+
+## Arc 4 — Service blueprint
+
+1. **"Draw the line" opener:** double meaning — the line of visibility, and Hilton legal literally drew it (front of house only). Suggested open: "A service blueprint is how we diagram a service, and its key move is drawing a line between what the guest sees and everything that makes it happen."
+2. **Walkthrough (Bjorn's words):** guests and what guests do; front stage — staff and actions guests can see in spaces guests are allowed; the line of visibility; staff and staff work guests never see ("even though we took a tour of most of the back, I still am not sure where the actual kitchen is"); then other systems — contracts, the various owners — that support the hotel. "If all these things are working properly, the guest should never see or experience them." (Put on a slide.) "In our context, we're stuck only dealing with our one visit of front-of-house-only information" → so we guess, mark guesses, and ask.
+3. **Backstage we'd observe in a perfect world (Bjorn's words):** staff entries and exits used to service or refresh things; carts and tools staff have readily available; where and how stuff is stored; when things get cleaned or swapped and who does it; who designs, prints, and collects conference badges; on-site IT or all Hilton corporate IT?
+4. **Worked example — Ella's art class (Bjorn's words):** a guest drops off their kid, kid sits at the table, there's an instructor and the stuff = what guests see. Behind house: who's booking the instructor, who makes sure we have the stuff, where it's stored when there's no drop-off. Bigger: what liability is required to manage kids while a parent is gone, who schedules it, who supervises the staff and approves things, procurement. "Pretty quickly we can zoom out and see a much bigger system involved in delivering this service." Suggested: draw Ella's blueprint live on the board; give Ella a heads-up before class.
+5. **Slide 40, two uses (Bjorn's words):** diagnose an existing service — by diagramming and describing it, find fail points and feedback loops not being accounted for; propose a new service — think ahead about where problems in the system and feedback loops can go awry (our use in prototyping). Correction: don't call the business model canvas a variation (it maps how a business makes money); closer relatives are the customer journey map (the blueprint's top row) and the service ecology map (like the margin map).
+6. **NEW SLIDE after slide 40 — "The blueprint's family":** one line each, maybe a small sketch of each. Customer journey map = the blueprint's top row (what the guest does over time). Service blueprint = the journey plus everything under the line. Service ecology map = everyone and everything around the service (like our margin map). Business model canvas = a cousin: how the business makes money, not how the service runs moment to moment.
+7. **Slide 41 (Bjorn's words):** making the diagram and not sure, or can't answer something? Mark it and keep moving — it reveals where we need to talk to somebody else, or pull in another thinker, designer, researcher. Who would actually be in charge of this? What desk — front desk, HR? Who manages it? Then loop in people to account for their view of the services. Suggested slide text: "Don't know? Mark it. Keep going. Every question mark is someone you need to talk to."
+8. **Support layer at the Hilton (Bjorn's words):** the building still has bonds to pay off — bondholders get paid back each year. Hilton Corporate manages the hotel, doesn't own it (its own service conversation) — brand standards and fees that don't touch the guest, but affect us. The city, under the line because it's publicly owned — wants the hotel to generate business for Baltimore and convention center traffic. Suggested closer: "Every one of these has its own idea of what this lobby is for."
+9. **DELETE slide 43** ("Why would a hotel brand not own its hotels?") — interesting, but too much for this presentation.
+10. 10. **OPTIONAL NEW SLIDE — the cart, blueprinted** (place near the blueprint intro, or as a bookend). Point: the cart isn't a service, it's a prop in the grocery shopping service — it lives in the physical evidence row. IDEO redesigned one box in the top row and never drew the rest.
+
+    |  | Grab cart | Shop | Check out | Load car | Return cart |
+    | --- | --- | --- | --- | --- | --- |
+    | Physical evidence | **THE CART** (IDEO's box) | Aisles, shelves | Register, bags | Parking lot | Cart corral |
+    | Guest actions | Pulls a cart free | Fills it | Unloads, pays | Loads trunk | Returns it… or doesn't |
+    | Frontstage | — | Stockers | Cashier | — | — |
+    | — line of visibility — |  |  |  |  |  |
+    | Backstage | Cart collection | Restocking | Inventory | — | Cart collection |
+    | Support | Cart purchasing | Suppliers, delivery | Payment systems | Lot maintenance | **Wheel repair: (empty)** — Laura Kampf's point |
+
+## Arc 5 — Margin map exercise
+
+1. **Slide 44 opener (Bjorn's words):** "Fill the margins — the cart exercise on your prototype." Just like we looked at the cart and zoomed out, look at each of your prototypes and zoom out: what else is there?
+2. **REORDER: move slide 47 to slide 45** — define observed / guessed / unknown before explaining how to mark them.
+3. **Ella's margin map example (Bjorn's words):** prototype in the center, the interconnected system around it. Observed → move to GUESSED: parents stuck in conference sessions want to bring their kid (Bjorn: "observed in my own childhood, not at the Hilton — so here it's a guess"; keep this as a teaching moment). Observed: guests who want the lobby quiet, don't want kids running around. Guessed: housekeeping cleans up the paint; who teaches — art people from places we could reach out to; does it survive the next conference — one-off, or a checkbox Events offers when scheduling? Unknown: what liability for kids; who restocks supplies; where supplies are stored; does event sales book it, or does it happen some other organic way?
+4. **Group setup (Bjorn's words):** groups of three, one group of four (11 students). Each student writes their prototype — current presumed deliverable — in a square on the sheet. Groups take turns on each prototype: what's really near, then how far can we zoom out? (Suggested: rings — prototype, lobby, hotel, city.)
+5. **Connect shared systems (Bjorn's words):** if prototypes share a question or service, connect them to the same things — to see how different services for a place connect to the same systems or feedback loops that run or derail them. Suggested: all sheets on one wall, marker lines between them.
+6. **Debrief questions (Bjorn's words):** What did you see? Did your group see the same things? Were you able to interconnect some of your things? Does this help you zoom out and see how services and systems are layered things we're interacting with?
+7. 7. **STRUCTURE CHANGE — HMW before and after:** BEFORE the margin map, each student rewrites their HMW framed around their prototype idea, with the lobby and the user as the frame. AFTER the map, rewrite it again with the system connections in the question — to help think about how we're evolving, iterating, and improving the prototype. The two versions side by side = evidence of growth (good final-presentation slide). Why it matters: the HMW steers everything after it; if it names only the guest, the answer serves only the guest. Example: "How might we help conference guests find their meeting rooms?" → "…in a way the events staff can update between conferences?"
+   8. **NEW SLIDE — worked example blueprint (Ella's art table)** before students blueprint their own. Columns = guest steps, left to right; rows = layers.
+
+   |  | Hears about it | Drops off kid | Kid makes art | Picks up kid |
+   | --- | --- | --- | --- | --- |
+   | Physical evidence | Sign in lobby / event email | Sign-in table | Supplies, table, art | Finished piece to take home |
+   | Guest actions | Reads, decides | Signs kid in, leaves for session | (Kid) paints, plays | Returns, collects kid + art |
+   | Frontstage | Front desk mentions it? | Instructor greets | Instructor teaches | Instructor hands back |
+   | — line of visibility — |  |  |  |  |
+   | Backstage | Events adds it to conference package? | Instructor booked, supplies set out | Housekeeping on standby? | Clean-up, supplies stored |
+   | Support | Event sales | Liability / insurance? | Procurement, storage | Who approves it next time? |
+
+   Mark ? on the guesses.
+8. **DELETE slide 49** (numbered as in the current deck, before other moves) — not needed given the new HMW before/after structure.
+
+## Arc 6 — Afternoon + wrap
+
+1. **Blueprint template:** post sheet 2 to Canvas. Digital backup: FigJam's free template, https://www.figma.com/templates/service-blueprint-template/
+2. **"One hidden actor each" share-out:** a fast go-around, one sentence each — "The person or thing my brief never mentioned is…" \~5 minutes. Eleven hidden actors in a row = the crab mural moment times eleven.
+3. **Slide 58 clarification:** "What we assumed and couldn't verify" is a slide for students' own final presentations, not this deck's final slide. Make that clear on the slide.
+4. **CUT the six Meadows leverage-point slides down to ONE:** "Where do you push?" Bjorn doesn't want to explain the reading before they read it. Then the homework card (prototype + Meadows + the one-sentence prompt).
+5. **The one Meadows slide — bare minimum:** title, "Donella Meadows, 'Leverage Points: Places to Intervene in a System' (1999)," and "Read it." No explanation of the content. Bjorn's spoken intro: this is reading about systems; Meadows is the main person known for this research; her essay was the starting place that her later book, *Thinking in Systems*, built more systems understanding around. Read it — hopefully it helps you consider these things as you keep iterating your prototype forward. We'll talk about it a bit next week.

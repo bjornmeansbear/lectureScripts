@@ -1,0 +1,1359 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Seeing the System — DI200</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&display=swap">
+
+<style>
+  /* ==========================================================
+     DI 200 — Seeing the System: From Prototype to Ripple.
+     Script: "DI 200 — Systems Thinking Lecture.md" (this folder).
+     Revised from "DI 200 Deck — Changes from Rehearsal.md".
+
+     DARK THROUGHOUT (a student asked: dark-on-light is hard to
+     read projected). One dark ground per arc, so the change of
+     section is visible from the back of the room. All kit.css
+     tokens; contrast computed 2026-11-02 against kit.css.
+
+       arc  ground        text      muted     accent
+       a1   brown-7       brown-0   brown-2   pink-2   11.72 / 8.65 / 6.89
+       a2   purple-7      purple-0  purple-2  pink-2   11.63 / 8.72 / 7.06
+       a3   cornflower-7  corn.-0   corn.-2   pink-2   11.89 / 8.60 / 6.96
+       a4   green-7       green-0   green-2   pink-2   11.81 / 8.69 / 6.81
+       a5   goldenrod-7   gold.-0   gold.-2   pink-2   11.88 / 8.57 / 6.93
+       a6   blue-7        blue-0    blue-2    pink-2   11.83 / 8.71 / 6.87
+       pause brown-8      gray-0    brown-3   pink-2   16.94 / 9.37 / 9.88
+
+     Text and muted are AAA everywhere. pink-2 is AAA large /
+     AA small — fine, it never carries body copy alone.
+
+     IMAGE BEATS: the scrim is the arc's own ground at 0.85.
+     Worst case (pure-white photo): text >= 7.25, muted >= 5.37,
+     pink-2 >= 4.27 (AA large only — pink on beats is a rule or
+     a large lead). The title photo's ceiling lights are near
+     white, so the worst case is real there; don't lower it.
+
+     LAYOUT ARCHETYPES
+       .opener       section break; may carry an image slot
+       (bare)        a statement
+       ul / ul.tight a parallel scannable list
+       .cols         a comparison (2, 3 or 4 across)
+       .card         a workshop instruction: steps, deliverable
+       .fieldnote    short labelled cells, 2 or 3 across
+       .blueprint    blueprint lanes, no time axis (the build)
+       .bpgrid       blueprint grid: guest steps across, layers down
+       .loops        reinforcing vs balancing loop, side by side
+       .margin       object in the middle, margins around it
+       .pause        BREAK / LUNCH, one word
+     ========================================================== */
+  :root {
+    --brown-0: rgb(250,247,245);  --brown-2: rgb(222,215,211); --brown-3: rgb(192,185,181);
+    --brown-7: rgb(55,50,47);     --brown-8: rgb(25,21,19);
+    --gray-0: rgb(247,248,238);
+    --purple-0: rgb(250,239,255); --purple-2: rgb(225,205,235); --purple-7: rgb(60,43,68);
+    --cornflower-0: rgb(243,247,255); --cornflower-2: rgb(190,213,255); --cornflower-7: rgb(26,49,94);
+    --green-0: rgb(235,255,217);  --green-2: rgb(201,222,181);  --green-7: rgb(39,57,17);
+    --goldenrod-0: rgb(255,247,222); --goldenrod-2: rgb(236,210,137); --goldenrod-7: rgb(63,49,0);
+    --blue-0: rgb(235,251,249);   --blue-2: rgb(201,218,216);   --blue-7: rgb(39,54,53);
+    --pink-2: rgb(243,171,197);   --pink-3: rgb(240,141,170);
+
+    --font-display: 'Syne', system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --font-sans: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace;
+
+    --color-bg: var(--brown-7);
+    --color-text: var(--brown-0);
+    --color-muted: var(--brown-2);
+    --color-accent: var(--pink-2);
+  }
+
+  .a1    { --color-bg: var(--brown-7);      --color-text: var(--brown-0);      --color-muted: var(--brown-2); }
+  .a2    { --color-bg: var(--purple-7);     --color-text: var(--purple-0);     --color-muted: var(--purple-2); }
+  .a3    { --color-bg: var(--cornflower-7); --color-text: var(--cornflower-0); --color-muted: var(--cornflower-2); }
+  .a4    { --color-bg: var(--green-7);      --color-text: var(--green-0);      --color-muted: var(--green-2); }
+  .a5    { --color-bg: var(--goldenrod-7);  --color-text: var(--goldenrod-0);  --color-muted: var(--goldenrod-2); }
+  .a6    { --color-bg: var(--blue-7);       --color-text: var(--blue-0);       --color-muted: var(--blue-2); }
+  .pause { --color-bg: var(--brown-8);      --color-text: var(--gray-0);       --color-muted: var(--brown-3); }
+
+  /* ---- image beats ---------------------------------------- */
+  .beat {
+    --scrim: 0.85;
+    background: var(--color-bg) var(--img, none) center / cover no-repeat;
+  }
+  .beat::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--color-bg);
+    opacity: var(--scrim);
+  }
+  .beat.no-img::before { opacity: 1; }
+  .beat > * { position: relative; z-index: 1; }
+  .credit:empty { display: none; }
+  .credit {
+    position: absolute;
+    left: 8cqw; bottom: 10cqh;
+    font-family: var(--font-mono);
+    font-size: 1.2cqw;
+    letter-spacing: 0.08em;
+    color: var(--color-muted);
+    max-width: 60cqw;
+  }
+  .slot {
+    display: none;
+    position: absolute;
+    left: 8cqw; right: 8cqw; bottom: 11cqh;
+    z-index: 3;
+    font-family: var(--font-mono);
+    font-size: 1.3cqw;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--pink-2);
+    background: var(--brown-8);
+    border-left: 0.4cqw solid var(--pink-2);
+    padding: 1.4cqh 1.6cqw;
+  }
+  body.dev .beat.no-img .slot { display: block; }
+  .slot b { display: block; text-transform: uppercase; letter-spacing: 0.16em; }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--brown-8);
+    color: var(--gray-0);
+    font-family: var(--font-sans);
+    overflow: hidden;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+
+  .stage {
+    position: relative;
+    width: min(100vw, 177.78vh);
+    height: min(56.25vw, 100vh);
+    container-type: size;
+    overflow: hidden;
+  }
+
+  .slide {
+    position: absolute;
+    inset: 0;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    padding: 9cqh 8cqw 13cqh;
+    gap: 3.4cqh;
+    background: var(--color-bg);
+    color: var(--color-text);
+  }
+  .slide.on { display: flex; }
+
+  h1, h2 {
+    font-family: var(--font-display);
+    font-weight: 800;
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    margin: 0;
+    text-wrap: balance;
+  }
+  h1 { font-size: 8.2cqw; }
+  h2 { font-size: 5.4cqw; }
+  .step-down h1 { font-size: 6.4cqw; }
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 3.2cqw;
+    line-height: 1.1;
+    margin: 0;
+    text-wrap: balance;
+  }
+  p { font-size: 2.6cqw; line-height: 1.4; margin: 0; max-width: 60ch; }
+  .lead { font-size: 3.3cqw; line-height: 1.3; }
+  .small { font-size: 2cqw; line-height: 1.45; color: var(--color-muted); }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 1.5cqw;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  .accent { color: var(--color-accent); }
+  strong { font-weight: 700; }
+
+  a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+    text-decoration-thickness: 0.06em;
+  }
+  a:focus-visible { outline: 0.25cqw solid var(--color-accent); outline-offset: 0.3cqw; }
+
+  cite {
+    display: block;
+    font-style: normal;
+    font-family: var(--font-mono);
+    font-size: 1.5cqw;
+    letter-spacing: 0.08em;
+    color: var(--color-muted);
+  }
+
+  ul { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 2cqh; }
+  li { font-size: 2.5cqw; line-height: 1.3; display: flex; gap: 1.8cqw; align-items: baseline; }
+  li .mk {
+    flex: none;
+    font-family: var(--font-mono);
+    font-size: 1.5cqw;
+    color: var(--color-accent);
+    min-width: 2.4cqw;
+  }
+  ul.tight li { font-size: 2.1cqw; }
+  ul.tight { gap: 1.5cqh; }
+  li .mk.wide { min-width: 16cqw; text-transform: uppercase; letter-spacing: 0.1em; }
+
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 4cqw; align-items: start; }
+  .cols.three { grid-template-columns: 1fr 1fr 1fr; gap: 3cqw; }
+  .cols.four { grid-template-columns: repeat(4, 1fr); gap: 2.4cqw; }
+  .col { display: flex; flex-direction: column; gap: 1.8cqh; }
+  .col.ruled { border-left: 2px solid currentColor; padding-left: 3cqw; }
+  .cols.four .col.ruled { padding-left: 2cqw; }
+
+  /* ---- workshop instruction card ---- */
+  .card { border: 2px solid currentColor; padding: 3.4cqh 3cqw 0; display: flex; flex-direction: column; gap: 2.2cqh; }
+  .card .hdr { display: flex; align-items: baseline; justify-content: space-between; gap: 2.4cqw; }
+  .card .hdr .eyebrow { color: var(--color-accent); }
+  .card ul.tight { gap: 1.2cqh; }
+  .card .deliv {
+    margin: 0 -3cqw;
+    border-top: 2px solid currentColor;
+    padding: 1.8cqh 3cqw;
+    font-family: var(--font-mono);
+    font-size: 1.6cqw;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+  }
+  .card .deliv b { color: var(--color-accent); text-transform: uppercase; letter-spacing: 0.16em; }
+
+  /* ---- labelled grid ---- */
+  .fieldnote {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 2cqw;
+    line-height: 1.4;
+    border: 2px solid currentColor;
+  }
+  .fieldnote.three { grid-template-columns: 1fr 1fr 1fr; }
+  .fieldnote > div { padding: 2.4cqh 2cqw; }
+  .fieldnote > div + div { border-left: 2px solid currentColor; }
+  .fieldnote .hd {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 1.4cqw;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 1.2cqh;
+  }
+  .fieldnote .big { display: block; font-family: var(--font-display); font-weight: 800; font-size: 5cqw; line-height: 1; margin-bottom: 1.2cqh; }
+
+  /* ---- blueprint lanes (the build) ---- */
+  .blueprint {
+    display: grid;
+    grid-template-columns: 19cqw 1fr;
+    border-top: 2px solid currentColor;
+    font-size: 2cqw;
+    line-height: 1.3;
+  }
+  .blueprint > div { padding: 1.5cqh 1.6cqw; border-bottom: 2px solid currentColor; }
+  .blueprint .lane {
+    font-family: var(--font-mono);
+    font-size: 1.35cqw;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+    border-right: 2px solid currentColor;
+    padding-left: 0;
+  }
+  .blueprint .lov {
+    grid-column: 1 / -1;
+    padding: 0.9cqh 0;
+    border-bottom: 0.45cqw dashed var(--color-accent);
+    font-family: var(--font-mono);
+    font-size: 1.35cqw;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+  }
+  .blueprint .ghost { visibility: hidden; }
+
+  /* ---- blueprint grid: guest steps across, layers down ---- */
+  .bpgrid { width: 100%; border-collapse: collapse; table-layout: fixed; font-size: 1.5cqw; line-height: 1.25; }
+  .bpgrid th, .bpgrid td { border: 2px solid currentColor; padding: 1cqh 0.9cqw; text-align: left; vertical-align: top; }
+  .bpgrid thead th {
+    font-family: var(--font-mono); font-size: 1.2cqw; font-weight: 400;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent);
+  }
+  .bpgrid thead th:first-child { border: 0; }
+  .bpgrid tbody th {
+    width: 15cqw;
+    font-family: var(--font-mono); font-size: 1.15cqw; font-weight: 400;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-muted);
+  }
+  .bpgrid tr.lov td {
+    border: 0; border-bottom: 0.4cqw dashed var(--color-accent);
+    padding: 0.5cqh 0; font-family: var(--font-mono); font-size: 1.15cqw;
+    letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-accent);
+  }
+  .bpgrid .hit { color: var(--color-accent); font-weight: 700; }
+
+  /* ---- reinforcing vs balancing loops ---- */
+  .loops svg { width: 100%; height: auto; display: block; }
+  .loops svg text { font-family: var(--font-sans); fill: currentColor; font-size: 34px; }
+  .loops svg .ltr { font-family: var(--font-display); font-weight: 800; font-size: 72px; fill: var(--color-accent); }
+  .loops svg path { fill: none; stroke: currentColor; stroke-width: 3; }
+
+  /* ---- margin: object in the middle, the room fills the edge ---- */
+  .margin { padding-top: 7cqh; justify-content: flex-start; }
+  .margin .field {
+    position: relative;
+    flex: 1;
+    border: 2px dashed var(--color-muted);
+  }
+  .margin .obj {
+    position: absolute;
+    left: 50%; top: 50%;
+    width: var(--w, 50%);
+    aspect-ratio: 4 / 3;
+    transform: translate(-50%, -50%);
+    border: 2px solid currentColor;
+    background: var(--color-bg) var(--cart, none) center / cover no-repeat;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    font-family: var(--font-mono);
+    font-size: 1.4cqw;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+  .margin .obj.has-img span { display: none; }
+  .margin .tag {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    max-width: 22cqw;
+    text-align: center;
+    font-size: 1.8cqw;
+    line-height: 1.25;
+  }
+  .margin .tag b { font-family: var(--font-mono); color: var(--color-accent); margin-right: 0.5cqw; }
+
+  /* ---- split: a list building one item at a time, a framed photo beside it ---- */
+  .slide.on.split { display: grid; grid-template-columns: 1fr 34cqw; gap: 5cqw; align-items: center; }
+  .split .col { gap: 3cqh; }
+  .split li.past { color: var(--color-muted); }
+  .split li.past .mk { color: var(--color-muted); }
+  .split li.later { visibility: hidden; }
+  .split .photo {
+    height: 66cqh;
+    border: 2px solid currentColor;
+    background: var(--color-bg) var(--p, none) center / cover no-repeat;
+  }
+
+  .opener { justify-content: center; gap: 2cqh; }
+  .opener h1 { font-size: 9cqw; }
+  .opener.step-down h1 { font-size: 6.4cqw; }
+  .opener .rule { height: 4px; background: var(--color-accent); width: 26cqw; }
+  .opener .gloss { font-size: 3cqw; color: var(--color-muted); }
+
+  .pause { justify-content: center; align-items: center; }
+  .pause h1 { font-size: 20cqw; letter-spacing: 0.02em; }
+
+  .bar {
+    position: absolute;
+    pointer-events: none;
+    left: 8cqw; right: 8cqw; bottom: 5cqh;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-top: 1px solid currentColor;
+    padding-top: 1.4cqh;
+    font-family: var(--font-mono);
+    font-size: 1.4cqw;
+    color: var(--color-muted);
+    letter-spacing: 0.06em;
+  }
+  .bar .no { font-variant-numeric: tabular-nums; margin-left: auto; }
+
+  .nav { position: fixed; bottom: 1.2rem; right: 1.2rem; display: flex; gap: 0.5rem; z-index: 10; }
+  .nav button {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    padding: 0.45rem 0.7rem;
+    background: var(--brown-8);
+    color: var(--gray-0);
+    border: 1px solid var(--gray-0);
+    cursor: pointer;
+    line-height: 1;
+  }
+  .nav button:hover, .nav button:active { background: var(--gray-0); color: var(--brown-8); }
+  .nav button:focus-visible { outline: 3px solid var(--pink-3); outline-offset: 2px; }
+
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+<div class="stage" id="stage">
+
+  <!-- ═══ ARC 1 · The cart · 9:00 ═══ -->
+  <section data-sec="1" class="slide a1 opener beat"
+           data-img="beat-cart"
+           data-img-brief="a lone shopping cart left out in weather — rain, snow, an empty lot. The object, exposed.">
+    <div class="eyebrow">DI 200</div>
+    <h1>Seeing the<br>System</h1>
+    <div class="rule"></div>
+    <p class="gloss">(or, everything just off-camera)</p>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1">
+    <div class="eyebrow">IDEO · ABC Nightline · 1999</div>
+    <h1>Remember<br>the cart?</h1>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1">
+    <h2>They redesigned the cart.<br><span class="accent">Not the shopping.</span></h2>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1 beat"
+           data-img="kampf-chair"
+           data-img-brief="still from Laura Kampf's video — the broken shopping cart turned into a chair. Credit her channel.">
+    <div class="eyebrow">Laura Kampf</div>
+    <h2>Not in the store.<br>Out in the world.</h2>
+    <p class="lead">Broken, abandoned, left behind, used for something else.</p>
+    <p class="small accent">Nobody fixes the stuck wheel. It's more work than a store has time for.</p>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <!-- build: one item per click, the photo changes with it -->
+  <section class="slide a1 split">
+    <div class="col">
+      <div class="eyebrow">What's not been considered</div>
+      <ul>
+        <li class="now"><span class="mk">—</span><span>Weather. Rain, snow, heat, cold.</span></li>
+        <li class="later"><span class="mk">—</span><span>Theft. Ask Baltimore.</span></li>
+        <li class="later"><span class="mk">—</span><span>Height. Who can actually reach it?</span></li>
+        <li class="later"><span class="mk">—</span><span>Repair. Who fixes it, and when?</span></li>
+      </ul>
+    </div>
+    <div class="photo" style="--p:url('images/cart-weather.jpg')" role="img" aria-label="A shopping cart standing in rain puddles in an empty lot"></div>
+    <div class="bar"><span>IMAGE: Erik Mclean, Unsplash</span><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1 split">
+    <div class="col">
+      <div class="eyebrow">What's not been considered</div>
+      <ul>
+        <li class="past"><span class="mk">—</span><span>Weather. Rain, snow, heat, cold.</span></li>
+        <li class="now"><span class="mk">—</span><span>Theft. Ask Baltimore.</span></li>
+        <li class="later"><span class="mk">—</span><span>Height. Who can actually reach it?</span></li>
+        <li class="later"><span class="mk">—</span><span>Repair. Who fixes it, and when?</span></li>
+      </ul>
+    </div>
+    <div class="photo" style="--p:url('images/cart-theft.jpg')" role="img" aria-label="A red shopping cart left against a wall in an alley"></div>
+    <div class="bar"><span>IMAGE: Manny Becerra, Unsplash</span><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1 split">
+    <div class="col">
+      <div class="eyebrow">What's not been considered</div>
+      <ul>
+        <li class="past"><span class="mk">—</span><span>Weather. Rain, snow, heat, cold.</span></li>
+        <li class="past"><span class="mk">—</span><span>Theft. Ask Baltimore.</span></li>
+        <li class="now"><span class="mk">—</span><span>Height. Who can actually reach it?</span></li>
+        <li class="later"><span class="mk">—</span><span>Repair. Who fixes it, and when?</span></li>
+      </ul>
+    </div>
+    <div class="photo" style="--p:url('images/cart-height.jpg')" role="img" aria-label="A small child-size shopping cart on a sidewalk against a dark wall"></div>
+    <div class="bar"><span>IMAGE: Ksenia Kazak, Unsplash</span><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1 split">
+    <div class="col">
+      <div class="eyebrow">What's not been considered</div>
+      <ul>
+        <li class="past"><span class="mk">—</span><span>Weather. Rain, snow, heat, cold.</span></li>
+        <li class="past"><span class="mk">—</span><span>Theft. Ask Baltimore.</span></li>
+        <li class="past"><span class="mk">—</span><span>Height. Who can actually reach it?</span></li>
+        <li class="now"><span class="mk">—</span><span>Repair. Who fixes it, and when?</span></li>
+      </ul>
+    </div>
+    <div class="photo" style="--p:url('images/cart-repair.jpg')" role="img" aria-label="A wrecked shopping cart on a pile of trash"></div>
+    <div class="bar"><span>IMAGE: Stewart Munro, Unsplash</span><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1">
+    <div class="cols">
+      <div class="col">
+        <h2>The world<br>wears it down.</h2>
+        <p class="small">Out in the weather. Never repaired. However well it was designed.</p>
+      </div>
+      <div class="col ruled">
+        <h2 class="accent">The system<br>moves on.</h2>
+        <p class="small">Someone else filling the cart, for several households at once. Instacart. Uber Eats.</p>
+      </div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <!-- the exercise: three frames, the cart shrinks, the room fills the rings out loud -->
+  <section class="slide a1 margin">
+    <h2>What's the first ring around the cart?</h2>
+    <div class="field"><div class="obj cart" style="--w:62%"><span>the cart</span></div></div>
+    <div class="bar"><span>IMAGE: Karsten Winegeart, Unsplash</span><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1 margin">
+    <h2>The next ring?</h2>
+    <div class="field"><div class="obj cart" style="--w:32%"><span>the cart</span></div></div>
+    <div class="bar"><span>IMAGE: Karsten Winegeart, Unsplash</span><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1 margin">
+    <h2>And the next?</h2>
+    <div class="field"><div class="obj cart" style="--w:11%"><span>cart</span></div></div>
+    <div class="bar"><span>IMAGE: Karsten Winegeart, Unsplash</span><span class="no"></span></div>
+  </section>
+
+  <section class="slide a1">
+    <h2>A cart is simple.</h2>
+    <h2 class="accent">Your projects live in a hotel.</h2>
+    <p class="small">If a cart fills a wall, imagine the hotel.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <!-- ═══ ARC 2 · Assume the hidden · 9:35 ═══ -->
+  <section data-sec="2" class="slide a2 opener beat"
+           data-img="beat-cutaway"
+           data-img-brief="a building cutaway — a dollhouse section or Victorian engraving with the facade removed, every room behind it busy.">
+    <h1>Assume<br>the hidden.</h1>
+    <div class="rule"></div>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <h2>Systems and services deal in abstract, hidden, invisible realms.</h2>
+    <p class="lead accent">We have to train our brains, and our processes, to see them — and then reveal them.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <div class="eyebrow">The ask</div>
+    <h2>“We want a web store.”</h2>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Do you already track inventory — or is the website your inventory tracking?</span></li>
+      <li><span class="mk">—</span><span>Credit card processing? A client list?</span></li>
+      <li><span class="mk">—</span><span>Does the site take all of it over, or is it just the front end?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <h2>We're frequently having to see what else attaches to the question we're being asked.</h2>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <div class="eyebrow">The ask</div>
+    <h2>“We need a giant catalog.”</h2>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Is the difference between programs obvious from looking, or only from reading?</span></li>
+      <li><span class="mk">—</span><span>Who else needs to help edit and collect it?</span></li>
+      <li><span class="mk">—</span><span>What could audio or video show — and how does print still connect to it?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <div class="eyebrow">The Hilton</div>
+    <ul>
+      <li><span class="mk wide">The ask</span><span>“Can you do a crab mural?”</span></li>
+      <li><span class="mk wide">Zoom out</span><span>What are they actually trying to do? Get Baltimore into the lobby.</span></li>
+      <li><span class="mk wide">Zoom out again</span><span class="accent">From our HMWs: who keeps it running?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <h2>Every observation carries an invisible <span class="accent">“…and behind this.”</span></h2>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2 step-down">
+    <h1>Wrong guesses are useful.</h1>
+    <h1 class="accent">Blank spaces aren't.</h1>
+    <p class="small">The sacrificial prototype, at system scale.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <div class="eyebrow">Wicked problems · Buchanan</div>
+    <h2>Where you stand shapes the problem.</h2>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>The client asks from their placement.</span></li>
+      <li><span class="mk">—</span><span>Zoom out and find others.</span></li>
+      <li><span class="mk">—</span><span>Pitch back something different.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <h2>Every client hands you an object.</h2>
+    <p class="lead accent">Ask what system it lives in.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a2">
+    <h2>What actually needs to be involved in making any of these things work?</h2>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <!-- ═══ ARC 3 · Definitions · 10:00 ═══ -->
+  <section data-sec="3" class="slide a3 opener">
+    <div class="eyebrow">Defining terms</div>
+    <h1>Words for what we've been seeing.</h1>
+    <div class="rule"></div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Definition</div>
+    <h1>Service</h1>
+    <p class="lead">How we deliver value to someone over time.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">What you actually want from laundry</div>
+    <h1>Dirty things in.<br><span class="accent">Clean things out.</span></h1>
+    <p class="small">That's the service.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Same service, different ways</div>
+    <ul>
+      <li><span class="mk">—</span><span>Buy a washing machine.</span></li>
+      <li><span class="mk">—</span><span>Rent time on one.</span></li>
+      <li><span class="mk">—</span><span>Hang the bag out. It comes back clean.</span></li>
+    </ul>
+    <p class="small accent">Maybe selling every human on earth a washing machine isn't the best way to deliver that service.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Definition</div>
+    <h1>System</h1>
+    <p class="lead">Elements, interconnections, and a purpose.</p>
+    <cite>Donella Meadows</cite>
+    <p class="small accent">A service works only if you understand all the systems required to deliver it.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Different fields, same question</div>
+    <h2>What are the systems around this that we have to account for?</h2>
+    <ul class="tight">
+      <li><span class="mk wide">Product, architecture</span><span>Lifecycle analysis: what makes a thing, what keeps it maintained.</span></li>
+      <li><span class="mk wide">Fuller</span><span>All the way out: Spaceship Earth.</span></li>
+      <li><span class="mk wide">Us</span><span class="accent">An art class in a hotel lobby.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <h1>Questions?</h1>
+    <p class="lead accent">What's a service you hadn't thought of as a service before?</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Definition</div>
+    <h1>Service design</h1>
+    <p class="lead">The whole experience, and the operation behind it.</p>
+    <p class="small accent">Not letting it just happen accidentally. What they need, at the right time, in the right place.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Definition</div>
+    <h1>Touchpoint</h1>
+    <p class="lead">A moment the person who needs the service actually meets it.</p>
+    <p class="small accent">The bag on the door. The “we lost a sock” text. The folded stack coming back.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">A guest entering the lobby</div>
+    <ul>
+      <li><span class="mk">—</span><span>The revolving door</span></li>
+      <li><span class="mk">—</span><span>An agent at the front desk — or not</span></li>
+      <li><span class="mk">—</span><span>Signs to their room, or the restaurant</span></li>
+      <li><span class="mk">—</span><span>How things smell and feel</span></li>
+    </ul>
+    <p class="small accent">They move people along at the pace and quality we wish.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <h2>Same desk, different person, different service.</h2>
+    <p class="lead">Change any one of these things and you've changed the service.</p>
+    <p class="small accent">What lasts is often what adapts. And how a system adapts comes down to its feedback loops.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Definition</div>
+    <h1>Systems design</h1>
+    <p class="lead">How we design with, or for, systems: the rules, flows and feedback loops that drive outcomes.</p>
+    <p class="small accent">We often can't control the externality. We can control how things respond to it.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Definition</div>
+    <h1>Feedback loop</h1>
+    <p class="lead">Something happens and changes the system. Then that change feeds back in.</p>
+    <p class="small accent">A well-planned loop has a limiter that keeps it from cycling out of control.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="cols loops">
+      <div class="col">
+        <h3>Reinforcing</h3>
+        <svg viewBox="0 0 760 360" role="img" aria-label="Reinforcing loop: wheel sticks, cart abandoned, weather wrecks it, fewer good carts, and round again.">
+          <defs><marker id="ahR" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" style="fill:currentColor;stroke:none"/></marker></defs>
+          <path d="M398.2,76.6 A105,105 0 0 1 483.4,161.8" marker-end="url(#ahR)"/>
+          <path d="M483.4,198.2 A105,105 0 0 1 398.2,283.4" marker-end="url(#ahR)"/>
+          <path d="M361.8,283.4 A105,105 0 0 1 276.6,198.2" marker-end="url(#ahR)"/>
+          <path d="M276.6,161.8 A105,105 0 0 1 361.8,76.6" marker-end="url(#ahR)"/>
+          <text class="ltr" x="380" y="205" text-anchor="middle">R</text>
+          <text x="380" y="50" text-anchor="middle">Wheel sticks</text>
+          <text x="505" y="188" text-anchor="start">Cart abandoned</text>
+          <text x="380" y="325" text-anchor="middle">Weather wrecks it</text>
+          <text x="255" y="188" text-anchor="end">Fewer good carts</text>
+        </svg>
+        <p class="small">Feeds itself. Every lap worse.</p>
+      </div>
+      <div class="col ruled">
+        <h3 class="accent">Balancing</h3>
+        <svg viewBox="0 0 760 360" role="img" aria-label="Balancing loop: room cools, heat turns on, room warms, heat turns off, and round again.">
+          <defs><marker id="ahB" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" style="fill:currentColor;stroke:none"/></marker></defs>
+          <path d="M398.2,76.6 A105,105 0 0 1 483.4,161.8" marker-end="url(#ahB)"/>
+          <path d="M483.4,198.2 A105,105 0 0 1 398.2,283.4" marker-end="url(#ahB)"/>
+          <path d="M361.8,283.4 A105,105 0 0 1 276.6,198.2" marker-end="url(#ahB)"/>
+          <path d="M276.6,161.8 A105,105 0 0 1 361.8,76.6" marker-end="url(#ahB)"/>
+          <text class="ltr" x="380" y="205" text-anchor="middle">B</text>
+          <text x="380" y="50" text-anchor="middle">Room cools</text>
+          <text x="505" y="188" text-anchor="start">Heat turns on</text>
+          <text x="380" y="325" text-anchor="middle">Room warms</text>
+          <text x="255" y="188" text-anchor="end">Heat turns off</text>
+        </svg>
+        <p class="small">A thermostat. Has a limiter, settles back.</p>
+      </div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <h2>In a hotel, what could throw how a guest checks in out of whack?</h2>
+    <p class="lead accent">External or internal.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Reinforcing · the cart</div>
+    <ul class="tight">
+      <li><span class="mk">↓</span><span>A sticky wheel.</span></li>
+      <li><span class="mk">↓</span><span>Someone takes it to the lot, loads up, doesn't return it.</span></li>
+      <li><span class="mk">↓</span><span>Derelict in the weather, it rusts. The wheel gets worse.</span></li>
+      <li><span class="mk">↓</span><span>Fewer good carts.</span></li>
+      <li><span class="mk">↓</span><span class="accent">Each remaining one gets used harder.</span></li>
+      <li><span class="mk">↓</span><span>More broken wheels and handles. More abandoned — or pushed behind the store.</span></li>
+      <li><span class="mk">↺</span><span>Laura Kampf's is-this-broken-enough-to-turn-into-a-chair level.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <h1>What would break this loop?</h1>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Balancing, with a designed limiter · the projector</div>
+    <ul>
+      <li><span class="mk">↓</span><span>A cool sporting event.</span></li>
+      <li><span class="mk">↓</span><span>The hotel set up a projector.</span></li>
+      <li><span class="mk">↺</span><span>Ad hoc on purpose: up when it's needed, down when it's not.</span></li>
+    </ul>
+    <p class="lead accent">They didn't design a permanent sports bar. They designed the ability to respond.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <h2>Your prototype drops into loops that are already running.</h2>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>A lost guest asks the front desk. The desk points the way.</span></li>
+      <li><span class="mk">—</span><span>A good map feeds that loop: a calmer desk.</span></li>
+      <li><span class="mk">—</span><span>An out-of-date map gets ignored, and dies.</span></li>
+    </ul>
+    <p class="lead accent">What loop is already doing your job? Does your idea help it, or fight it?</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="eyebrow">Systems that already exist</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Staff, and cleaning schedules</span></li>
+      <li><span class="mk">—</span><span>Guests coming and going</span></li>
+      <li><span class="mk">—</span><span>Conferences or not. Crowds or few.</span></li>
+      <li><span class="mk">—</span><span>Weather</span></li>
+      <li><span class="mk">—</span><span>Doors locked or not. Who has a key.</span></li>
+    </ul>
+    <p class="small accent">Some self-adapting. Some ready to break out of control.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <h2>At least document what we need to ask, find out, and consider — ahead of time.</h2>
+    <cite>Abductive reasoning · Jon Kolko, the essay we read</cite>
+    <p class="small accent">So that we actually are thinking about the big picture.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <h2>What service are we providing — and is this prototype participating in it usefully?</h2>
+    <p class="lead accent">Not just moving somebody one step forward for an unknown outcome.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3 step-down">
+    <h1>You can design a service.</h1>
+    <h1 class="accent">You can only intervene in a system.</h1>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a3">
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">A service</div>
+        <h2>We can design.</h2>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">A system</div>
+        <h2 class="accent">We consider.</h2>
+        <p class="small">We respond to it, or intervene in it. We build in flexibility — or a bridge over it, into our service.</p>
+      </div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide pause">
+    <h1>BREAK</h1>
+  </section>
+
+  <!-- ═══ ARC 4 · Service blueprint · 10:40 ═══ -->
+  <section data-sec="4" class="slide a4 opener beat"
+           data-img="beat-backstage"
+           data-img-brief="theatre backstage — ropes, flats, the unpainted back of the set the audience never sees.">
+    <h1>Draw<br>the line.</h1>
+    <div class="rule"></div>
+    <p class="gloss">The service blueprint · Shostack, 1984</p>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <h2>A service blueprint is how we diagram a service.</h2>
+    <p class="lead accent">Its key move: a line between what the guest sees and everything that makes it happen.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <!-- blueprint build: what the guest touches and does, then frontstage, then the line, then everything under it -->
+  <section class="slide a4">
+    <div class="blueprint">
+      <div class="lane">Physical evidence</div><div>What guests see and touch.</div>
+      <div class="lane">Guest actions</div><div>Guests, and what guests do.</div>
+      <div class="lane ghost">Frontstage</div><div class="ghost">x</div>
+      <div class="lov ghost">Line of visibility</div>
+      <div class="lane ghost">Backstage</div><div class="ghost">x</div>
+      <div class="lane ghost">Support</div><div class="ghost">x</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="blueprint">
+      <div class="lane">Physical evidence</div><div>What guests see and touch.</div>
+      <div class="lane">Guest actions</div><div>Guests, and what guests do.</div>
+      <div class="lane">Frontstage</div><div>Staff and actions guests can see, in spaces guests are allowed.</div>
+      <div class="lov ghost">Line of visibility</div>
+      <div class="lane ghost">Backstage</div><div class="ghost">x</div>
+      <div class="lane ghost">Support</div><div class="ghost">x</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="blueprint">
+      <div class="lane">Physical evidence</div><div>What guests see and touch.</div>
+      <div class="lane">Guest actions</div><div>Guests, and what guests do.</div>
+      <div class="lane">Frontstage</div><div>Staff and actions guests can see, in spaces guests are allowed.</div>
+      <div class="lov">Line of visibility</div>
+      <div class="lane ghost">Backstage</div><div class="ghost">x</div>
+      <div class="lane ghost">Support</div><div class="ghost">x</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="blueprint">
+      <div class="lane">Physical evidence</div><div>What guests see and touch.</div>
+      <div class="lane">Guest actions</div><div>Guests, and what guests do.</div>
+      <div class="lane">Frontstage</div><div>Staff and actions guests can see, in spaces guests are allowed.</div>
+      <div class="lov">Line of visibility</div>
+      <div class="lane">Backstage</div><div>Staff, and staff work guests never see.</div>
+      <div class="lane">Support</div><div class="accent">Other systems: contracts, the various owners.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <h2>If all these things are working properly, the guest should never see or experience them.</h2>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="eyebrow">The cart, blueprinted · it's a prop in the grocery shopping service</div>
+    <table class="bpgrid">
+      <thead><tr><th></th><th>Grab cart</th><th>Shop</th><th>Check out</th><th>Load car</th><th>Return cart</th></tr></thead>
+      <tbody>
+        <tr><th>Physical evidence</th><td class="hit">THE CART (IDEO's box)</td><td>Aisles, shelves</td><td>Register, bags</td><td>Parking lot</td><td>Cart corral</td></tr>
+        <tr><th>Guest actions</th><td>Pulls a cart free</td><td>Fills it</td><td>Unloads, pays</td><td>Loads trunk</td><td>Returns it… or doesn't</td></tr>
+        <tr><th>Frontstage</th><td>—</td><td>Stockers</td><td>Cashier</td><td>—</td><td>—</td></tr>
+        <tr class="lov"><td colspan="6">Line of visibility</td></tr>
+        <tr><th>Backstage</th><td>Cart collection</td><td>Restocking</td><td>Inventory</td><td>—</td><td>Cart collection</td></tr>
+        <tr><th>Support</th><td>Cart purchasing</td><td>Suppliers, delivery</td><td>Payment systems</td><td>Lot maintenance</td><td class="hit">Wheel repair: (empty)</td></tr>
+      </tbody>
+    </table>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="eyebrow">Hilton legal drew our line</div>
+    <h1>Front of house only.</h1>
+    <p class="small accent">One visit, front-of-house information only. So we guess, mark the guesses, and ask.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="eyebrow">Backstage, in a perfect world</div>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Staff entries and exits, used to service or refresh things</span></li>
+      <li><span class="mk">—</span><span>The carts and tools staff have on hand</span></li>
+      <li><span class="mk">—</span><span>Where and how stuff is stored</span></li>
+      <li><span class="mk">—</span><span>When things get cleaned or swapped, and who does it</span></li>
+      <li><span class="mk">—</span><span>Who designs, prints and collects the conference badges</span></li>
+      <li><span class="mk">—</span><span>IT on site — or all Hilton corporate?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="eyebrow">Example · Ella's kids' art class in the lobby</div>
+    <div class="blueprint">
+      <div class="lane">Guest actions</div><div>A guest drops off their kid. The kid sits at the table.</div>
+      <div class="lane">Frontstage</div><div>An instructor, and the stuff.</div>
+      <div class="lov">Line of visibility</div>
+      <div class="lane">Backstage</div><div>Who books the instructor? Who makes sure we have the stuff? Where is it stored when there's no drop-off?</div>
+      <div class="lane">Support</div><div class="accent">Liability for kids while a parent's gone. Scheduling. Who supervises and approves. Procurement.</div>
+    </div>
+    <p class="small">Pretty quickly we can zoom out and see a much bigger system.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="cols">
+      <div class="col">
+        <div class="eyebrow">Use 1</div>
+        <h2>Diagnose</h2>
+        <p class="small">An existing service. Diagram it, describe it, find the fail points and the feedback loops nobody's accounting for.</p>
+      </div>
+      <div class="col ruled">
+        <div class="eyebrow">Use 2 · ours</div>
+        <h2 class="accent">Propose</h2>
+        <p class="small">A new service. Think ahead: where could the system, and its loops, go awry?</p>
+      </div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="eyebrow">The blueprint's family</div>
+    <div class="cols four">
+      <div class="col"><h3>Journey map</h3><p class="small">The blueprint's top row: what the guest does, over time.</p></div>
+      <div class="col ruled"><h3 class="accent">Service blueprint</h3><p class="small">The journey, plus everything under the line.</p></div>
+      <div class="col ruled"><h3>Service ecology map</h3><p class="small">Everyone and everything around the service. Like our margin map.</p></div>
+      <div class="col ruled"><h3>Business model canvas</h3><p class="small">A cousin: how the business makes money, not how the service runs.</p></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <h2>Don't know? Mark it.<br><span class="accent">Keep going.</span></h2>
+    <p class="lead">Every question mark is someone you need to talk to.</p>
+    <ul class="tight">
+      <li><span class="mk">—</span><span>Who would actually be in charge of this?</span></li>
+      <li><span class="mk">—</span><span>What desk — front desk, HR? Who manages it?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a4">
+    <div class="eyebrow">Under the line at the Hilton</div>
+    <div class="fieldnote three">
+      <div><span class="hd">The bonds</span>The building still has bonds to pay off. Bondholders get paid back every year.</div>
+      <div><span class="hd">Hilton corporate</span>Manages it, doesn't own it. Brand standards and fees that never touch the guest, but affect us.</div>
+      <div><span class="hd">The city</span>Publicly owned. Wants business for Baltimore and traffic for the convention center.</div>
+    </div>
+    <p class="small accent">Every one of these has its own idea of what this lobby is for.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <!-- ═══ ARC 5 · Margin map · 11:10 ═══ -->
+  <section data-sec="5" class="slide a5 opener beat"
+           data-img="beat-marginalia"
+           data-img-brief="a medieval manuscript page whose margins are busier than its text — drolleries, notes, creatures crowding the edge.">
+    <h1>Fill the<br>margins.</h1>
+    <div class="rule"></div>
+    <p class="gloss">The cart exercise, on your prototype</p>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a5">
+    <div class="card">
+      <div class="hdr"><h3>First: your HMW, before</h3><span class="eyebrow">Alone · 5 min</span></div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Rewrite your HMW around your prototype idea.</span></li>
+        <li><span class="mk">02</span><span>Frame it with the lobby and the user.</span></li>
+      </ul>
+      <div class="deliv"><b>Keep it</b> &nbsp;you'll rewrite it again after the map.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a5">
+    <div class="fieldnote three">
+      <div><span class="big">O</span><span class="hd">Observed</span>You saw it.</div>
+      <div><span class="big">G</span><span class="hd">Guessed</span>You think so.</div>
+      <div><span class="big">?</span><span class="hd">Unknown</span>Someone else has to tell you.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a5 margin">
+    <div class="eyebrow">A margin map · example: Ella's kids' art table</div>
+    <div class="field">
+      <div class="obj" style="--w:24%"><span>kids' art table</span></div>
+      <div class="tag" style="left:20%; top:14%"><b>G</b>Parents in sessions want to bring their kid</div>
+      <div class="tag" style="left:50%; top:10%"><b>G</b>Who teaches? Local art people?</div>
+      <div class="tag" style="left:80%; top:14%"><b>?</b>Event sales books it — or something more organic?</div>
+      <div class="tag" style="left:14%; top:50%"><b>G</b>Housekeeping cleans up the paint</div>
+      <div class="tag" style="left:86%; top:50%"><b>O</b>Guests who want a quiet lobby</div>
+      <div class="tag" style="left:20%; top:87%"><b>?</b>What liability comes with kids?</div>
+      <div class="tag" style="left:50%; top:91%"><b>?</b>Who restocks? Where is it stored?</div>
+      <div class="tag" style="left:80%; top:87%"><b>G</b>One-off — or a box Events checks?</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a5">
+    <div class="card">
+      <div class="hdr"><h3>Margin map</h3><span class="eyebrow">Groups of 3 · one of 4</span></div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Each of you: your prototype — your current presumed deliverable — in a square on the sheet.</span></li>
+        <li><span class="mk">02</span><span>Take turns on each prototype. What's really near? Then how far can we zoom out?</span></li>
+        <li><span class="mk">03</span><span>Mark every item <strong>O</strong>, <strong>G</strong> or <strong>?</strong></span></li>
+        <li><span class="mk">04</span><span>Add the actors its maker missed.</span></li>
+      </ul>
+      <div class="deliv"><b>Rings</b> &nbsp;prototype → lobby → hotel → city</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a5">
+    <div class="eyebrow">Three prompts for every map</div>
+    <div class="cols three">
+      <div class="col"><h3>Think about</h3><p class="small">Who's affected but never touches it?</p></div>
+      <div class="col ruled"><h3>Engage with</h3><p class="small">Who has to say yes, or take part?</p></div>
+      <div class="col ruled"><h3 class="accent">Plan for</h3><p class="small">Maintenance, wear, the next conference.</p></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide pause">
+    <h1>LUNCH</h1>
+  </section>
+
+  <section class="slide a5">
+    <div class="card">
+      <div class="hdr"><h3>Margin map, part 2</h3><span class="eyebrow">Until 1:30</span></div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Finish every group member's map.</span></li>
+        <li><span class="mk">02</span><span>All sheets on one wall. Where prototypes share a question or a system, draw a line between them.</span></li>
+        <li><span class="mk">03</span><span>Your HMW, after: rewrite it again, with the system connections in the question.</span></li>
+      </ul>
+      <div class="deliv"><b>Keep both HMWs</b> &nbsp;side by side, they're evidence of growth.</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a5">
+    <div class="eyebrow">HMW, before and after</div>
+    <h3>How might we help conference guests find their meeting rooms…</h3>
+    <h3 class="accent">…in a way the events staff can update between conferences?</h3>
+    <p class="small">If the HMW names only the guest, the answer serves only the guest.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a5">
+    <ul>
+      <li><span class="mk">—</span><span>What did you see?</span></li>
+      <li><span class="mk">—</span><span>Did your group see the same things?</span></li>
+      <li><span class="mk">—</span><span>Were you able to interconnect some of your things?</span></li>
+      <li><span class="mk">—</span><span class="accent">Does this help you see services and systems as layered things we're interacting with?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <!-- ═══ ARC 6 · Afternoon + wrap · 1:30 ═══ -->
+  <section data-sec="6" class="slide a6">
+    <div class="eyebrow">Worked example · Ella's art table · mark the guesses ?</div>
+    <table class="bpgrid">
+      <thead><tr><th></th><th>Hears about it</th><th>Drops off kid</th><th>Kid makes art</th><th>Picks up kid</th></tr></thead>
+      <tbody>
+        <tr><th>Physical evidence</th><td>Sign in lobby / event email</td><td>Sign-in table</td><td>Supplies, table, art</td><td>Finished piece to take home</td></tr>
+        <tr><th>Guest actions</th><td>Reads, decides</td><td>Signs kid in, leaves for session</td><td>(Kid) paints, plays</td><td>Returns, collects kid + art</td></tr>
+        <tr><th>Frontstage</th><td>Front desk mentions it?</td><td>Instructor greets</td><td>Instructor teaches</td><td>Instructor hands back</td></tr>
+        <tr class="lov"><td colspan="5">Line of visibility</td></tr>
+        <tr><th>Backstage</th><td>Events adds it to the conference package?</td><td>Instructor booked, supplies set out</td><td>Housekeeping on standby?</td><td>Clean-up, supplies stored</td></tr>
+        <tr><th>Support</th><td>Event sales</td><td>Liability / insurance?</td><td>Procurement, storage</td><td class="accent">Who approves it next time?</td></tr>
+      </tbody>
+    </table>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <div class="card">
+      <div class="hdr"><h3>Blueprint your own prototype</h3><span class="eyebrow">1:30–3:00 · alone</span></div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Your guest's steps across, the layers down. Your journey map is the top row.</span></li>
+        <li><span class="mk">02</span><span>Guess below the line — then mark the guesses.</span></li>
+        <li><span class="mk">03</span><span>List every assumption. One line each.</span></li>
+        <li><span class="mk">04</span><span>Ten-minute one-on-ones: where are you, where do you need to get, what's the next push?</span></li>
+      </ul>
+      <div class="deliv"><b>Template</b> &nbsp;sheet 2, on Canvas · or FigJam's free service blueprint template</div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <div class="eyebrow">Share-out · 3:00 · one sentence each</div>
+    <h1>One hidden actor each.</h1>
+    <p class="lead accent">“The person or thing my brief never mentioned is…”</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <div class="eyebrow">Where today sits in the course</div>
+    <ul class="tight">
+      <li><span class="mk wide">Prototyping</span><span>the margin map</span></li>
+      <li><span class="mk wide">Ethnography</span><span>reading backstage traces</span></li>
+      <li><span class="mk wide">Prompts</span><span>system-visible HMWs</span></li>
+      <li><span class="mk wide">Team decisions</span><span>swapping maps</span></li>
+      <li><span class="mk wide">Iteration</span><span class="accent">every assumption is a test</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <h2>Not big-picture for its own sake.</h2>
+    <p class="lead accent">Many journeys, one question.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <h2>Is what we have enough to…</h2>
+    <ul class="tight">
+      <li><span class="mk wide">This week</span><span class="accent">understand the system around our prototype?</span></li>
+      <li><span class="mk wide">Next week</span><span>get useful feedback from non-designers?</span></li>
+      <li><span class="mk wide">Week after</span><span>change direction on that feedback?</span></li>
+      <li><span class="mk wide">Then</span><span>make a persuasive argument?</span></li>
+      <li><span class="mk wide">Pitch week</span><span>show all seven outcomes, unfinished object and all?</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <div class="eyebrow">No more site visits until finals</div>
+    <ul>
+      <li><span class="mk">—</span><span>Classmates play housekeeping, sales, the city.</span></li>
+      <li><span class="mk">—</span><span>Mine the “Ask later” column.</span></li>
+      <li><span class="mk">—</span><span>One batched list of questions to Rodney.</span></li>
+      <li><span class="mk">—</span><span class="accent">Present assumptions as rigor.</span></li>
+    </ul>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <div class="eyebrow">For your own final presentation</div>
+    <h1>What we assumed and couldn't verify.</h1>
+    <p class="small accent">A slide in your pitch — not the end of this deck.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <h1>Where do you push?</h1>
+    <cite>Donella Meadows, “Leverage Points: Places to Intervene in a System” (1999)</cite>
+    <p class="lead accent">Read it.</p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6">
+    <div class="card">
+      <div class="hdr"><h3>For next class</h3></div>
+      <ul class="tight">
+        <li><span class="mk">01</span><span>Bring the next iteration of your prototype.</span></li>
+        <li><span class="mk">02</span><span>Read Donella Meadows, “Leverage Points: Places to Intervene in a System.”</span></li>
+        <li><span class="mk">03</span><span>Bring one sentence: <strong>“My prototype pushes on ___. It could push on ___.”</strong></span></li>
+      </ul>
+      <div class="deliv"><b>Link</b> &nbsp;<a href="https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/">donellameadows.org — Leverage Points</a></div>
+    </div>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+  <section class="slide a6 opener beat step-down"
+           data-img="beat-cart-dusk"
+           data-img-brief="the same kind of cart, alone in an empty lot — closes the opener's image."
+           data-img-credit="IMAGE: David Clarke, Unsplash">
+    <h1>You can't see it, but you're still designing for it.</h1>
+    <p class="slot"></p>
+    <p class="credit"></p>
+    <div class="bar"><span class="no"></span></div>
+  </section>
+
+</div>
+
+<div class="nav">
+  <button id="prev" aria-label="Previous slide">←</button>
+  <button id="next" aria-label="Next slide">→</button>
+</div>
+
+<script>
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var i = 0, total = slides.length;
+
+  slides.forEach(function (s, n) {
+    var no = s.querySelector('.bar .no');
+    if (no) no.textContent = (n + 1) + ' / ' + total;
+  });
+
+  /* ---- image slots -------------------------------------------------
+     Probe images/<slot>.jpg. Paint it only if it actually decodes.
+     Unfilled slots stay silent for the room; press D to see them. */
+  slides.forEach(function (s) {
+    var slot = s.getAttribute('data-img');
+    if (!slot) return;
+    var report = s.querySelector('.slot');
+    if (report) {
+      report.innerHTML = '<b>slot: ' + slot + '</b>' +
+        (s.getAttribute('data-img-brief') || '');
+    }
+    s.classList.add('no-img');
+    var probe = new Image();
+    probe.onload = function () {
+      s.style.setProperty('--img', "url('images/" + slot + ".jpg')");
+      s.classList.remove('no-img');
+      var c = s.querySelector('.credit');
+      var credit = s.getAttribute('data-img-credit');
+      if (c && credit) c.textContent = credit;
+    };
+    probe.src = 'images/' + slot + '.jpg';
+  });
+
+  /* ---- the cart still for the ring build: images/cart-still.jpg ---- */
+  (function () {
+    var probe = new Image();
+    probe.onload = function () {
+      document.querySelectorAll('.margin .obj.cart').forEach(function (o) {
+        o.style.setProperty('--cart', "url('images/cart-still.jpg')");
+        o.classList.add('has-img');
+      });
+    };
+    probe.src = 'images/cart-still.jpg';
+  })();
+
+  /* number keys jump to the slide that opens each arc (data-sec) */
+  var secStart = {};
+  slides.forEach(function (s, n) {
+    var k = s.getAttribute('data-sec');
+    if (k && !(k in secStart)) secStart[k] = n;
+  });
+
+  function show(n) {
+    i = Math.max(0, Math.min(total - 1, n));
+    slides.forEach(function (s, n2) { s.classList.toggle('on', n2 === i); });
+    try { history.replaceState(null, '', '#' + (i + 1)); } catch (e) {}
+  }
+
+  document.getElementById('next').addEventListener('click', function () { show(i + 1); });
+  document.getElementById('prev').addEventListener('click', function () { show(i - 1); });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ') { e.preventDefault(); show(i + 1); }
+    else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); show(i - 1); }
+    else if (e.key === 'Home') { show(0); }
+    else if (e.key === 'End') { show(total - 1); }
+    else if (e.key in secStart) { show(secStart[e.key]); }
+    else if (e.key === 'd' || e.key === 'D') { document.body.classList.toggle('dev'); }
+    else if (e.key === 'f' || e.key === 'F') {
+      if (document.fullscreenElement) document.exitFullscreen();
+      else document.documentElement.requestFullscreen();
+    }
+  });
+
+  if ((location.hash || '').indexOf('dev') > -1) document.body.classList.add('dev');
+  var start = parseInt((location.hash || '').replace('#', ''), 10);
+  show(isNaN(start) ? 0 : start - 1);
+</script>
+</body>
+</html>

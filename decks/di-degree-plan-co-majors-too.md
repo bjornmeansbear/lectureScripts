@@ -424,17 +424,17 @@ note: snapshot — Figma is source of truth. Regenerate with scripts/figma-slide
 - Design Innovation - Hybrid Track (27 credits) 9 credits, (3 courses), from Design Innovation. Remaining 18 credits, (6 courses), from any campus studios
 - Key Point #2 Co-Major Specialization or Hybrid Track Co-Major specializations in Product Design, Architectural Design and Graphic Design are a scaffolded discipline specific tracks. New Co-Majors can be added; for example Bio-Design. A hybrid track allows for curricular flexibility (think of it like GFA for Design) Serving notes, pairs well with ESJ and Entrepreneurship.
 
-### Firefly Design, Culture & Practice. colorful diagram of a mass of nodes as icons for students enabli
+### Firefly Design, Culture& Practice. colorful diagram of a mass of nodes as icons for students enabli
 <sub>1920×1080 at x=1573</sub>
 
 - *(no text — image or drawing only)*
 
-### Firefly Design, Culture & Practice. colorful diagram of a mass of nodes as icons for students enabli
+### Firefly Design, Culture& Practice. colorful diagram of a mass of nodes as icons for students enabli
 <sub>1920×1080 at x=5616</sub>
 
 - *(no text — image or drawing only)*
 
-### Firefly Design, Culture & Practice. colorful diagram of a mass of nodes as icons for students enabli
+### Firefly Design, Culture& Practice. colorful diagram of a mass of nodes as icons for students enabli
 <sub>1920×1080 at x=7609</sub>
 
 - *(no text — image or drawing only)*
@@ -457,7 +457,7 @@ note: snapshot — Figma is source of truth. Regenerate with scripts/figma-slide
 
 ## y=19194 — 5 frames
 
-### Firefly Design, Culture & Practice. colorful diagram of a mass of nodes as icons for students enabli
+### Firefly Design, Culture& Practice. colorful diagram of a mass of nodes as icons for students enabli
 <sub>1920×1080 at x=1540</sub>
 
 - *(no text — image or drawing only)*
