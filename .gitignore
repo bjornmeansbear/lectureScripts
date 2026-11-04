@@ -3,3 +3,12 @@
 build/
 book/output/
 __pycache__/
+
+# Big visual files live outside git (see README, "Images and big files").
+# SampleSlides SVGs are renders of the .ndbx sketches; the renders are in
+# Dropbox/2 Teaching/lectureScripts-files/SampleSlides/.
+SampleSlides/**/*.svg
+# A deck's images/ folder is a local cache: other people's photos (Unsplash,
+# Are.na), credited in the deck, refetched rather than committed.
+lecture-*/images/
+workshop-*/images/

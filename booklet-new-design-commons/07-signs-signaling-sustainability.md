@@ -9,7 +9,7 @@ sources:
   - workshop-sustainabilitist-principles/Toward a Sustainabilitist aesthetic.txt
   - workshop-sustainabilitist-principles/Aesthetics, Taste, and Sustainability.txt
   - workshop-sustainabilitist-principles/SignsSignalingSustainability-Conversation Scaffold.txt
-  - SampleSlides/SignsSignallingSustainability-*.svg
+  - Dropbox/2 Teaching/lectureScripts-files/SampleSlides/SignsSignallingSustainability-*.svg   # renders of SampleSlides/*.ndbx
 ---
 
 # Signs Signaling Sustainability
