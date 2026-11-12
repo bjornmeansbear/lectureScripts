@@ -362,12 +362,21 @@ section.chapter[data-template="brockmann"] > h1 {
 /* ---- Cross-references: a recurring idea, linked back to the chapter
    where it first appeared. Plain <a href="#ch-NN"> from assemble.py —
    styled here by the href pattern rather than a bespoke class, and the
-   page number is computed at render time, not guessed at build time. ---- */
-a[href^="#ch-"] {
+   page number is computed at render time, not guessed at build time.
+   Scoped to chapter/footnote prose, not just left to specificity, because
+   the TOC's own links share the identical href="#ch-NN" pattern: WeasyPrint
+   happens to resolve the specificity race in the TOC rule's favor, but a
+   Chromium-based renderer (tested against PagedJS) does not, and a bare
+   a[href^="#ch-"] would silently double up the TOC's leader-dots with this
+   rule's arrow+page-number there. Scoping removes the race instead of
+   trusting either engine to referee it the same way. ---- */
+section.chapter a[href^="#ch-"],
+aside.footnotes a[href^="#ch-"] {
   color: var(--pink-7);
   border-bottom: 1pt dotted var(--pink-5);
 }
-a[href^="#ch-"]::after {
+section.chapter a[href^="#ch-"]::after,
+aside.footnotes a[href^="#ch-"]::after {
   content: " \2197p." target-counter(attr(href), page);
   font-size: 0.75em;
   color: var(--brown-6);
