@@ -16,7 +16,7 @@ figmaMain: https://www.figma.com/design/ltomqlGJOWEk1NEu0T9LSr/AY26---AY27-Lectu
 
 *[a chair in the Union taproom]*
 
-My friend Chris Attenborough and I have built 16 chairs so far.
+My friend Chris Attenborough and I have been working on a proejct we're caling "chair-ness" — we've built 16 chairs so far.
 
 Chris teaches fabrication here in the first year. He's also a partner in Union Craft Brewing. The chairs live in Union's taproom, and the plan is to keep filling the room with them.
 
@@ -49,7 +49,7 @@ So how is making chairs on a Friday morning research?
 
 The project we collaborated on before this one started with the plastic waste coming out of the brewery. We built plastic recycling machines.
 
-That project ended up leading to an invitation to write the design chapter in a book on sustainability. I started from the circular economy and the plastic. Meanwhile Justin Beitzel, who is an adjunct that teaches for us in Product Design, was building a chair with every material sourced from within 100 miles. His chair moved me from just circularity to bioregionalism, and both of them onto chairs. The chapter ended up first, using the Oka Chair, as its main casestudy for sustainable design, and then more broadly setting contemporary chairs that try to be circular against the old guard of “good” chairs.
+That project ended up leading to an invitation to write the design chapter in a book on sustainability. I started from the circular economy and the plastic. Meanwhile Justin Beitzel, who is an adjunct that teaches for us in Product Design, was building a chair with every material sourced from within 100 miles. His chair moved me from just circularity to bioregionalism, and then onto chairs. The chapter ended up first, using the Oka Chair as its main casestudy for sustainable design, and then more broadly setting contemporary chairs that try to be circular against the old guard of “good” chairs.
 
 *[Thonet No. 14]*
 
