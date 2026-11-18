@@ -18,9 +18,7 @@ figmaMain: https://www.figma.com/design/ltomqlGJOWEk1NEu0T9LSr/AY26---AY27-Lectu
 
 *[title: Chair-ness]*
 
-Chair-ness.
-
-What is a chair? This is an ongoing project and thought experiment.
+Chair-ness. What is a chair? This is an ongoing project and thought experiment.
 
 ## 1. Chairs are design history
 

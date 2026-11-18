@@ -16,6 +16,7 @@ Where it stands: the script is in the research order, deliberately long, at 1,83
 ## Files
 
 - [chairness-script.md](chairness-script.md): the current script.
+- [chairness-deck.html](chairness-deck.html): the HTML deck, 20 slides plus Q&A (built 2026-11-17). Images go in `images/<slot>.jpg`, which is gitignored. Press D to see unfilled slots, A for 25-second auto-advance.
 - [chairness-script-v1-2026-11-13.md](chairness-script-v1-2026-11-13.md): the earlier, chairs-first version, kept in case you want something back.
 - `~/Code/chair-ness/text/`: the project texts the script draws on (`the-rules.md`, `what-is-a-chair.md`, `the-projection.md`, `WhyAChair.md`, `quotes.txt`, `where-does-chairness-go-next.md`).
 - `~/Documents/voice-memo-transcripts/20261107_102813-47A5025E.txt`: the 19-minute Nov 7 memo the talk started from. Also the Nov 4 22:30, Oct 14 11:07 and Sep 25 memos.
@@ -83,7 +84,9 @@ Count the words again after cutting. At 123 words a minute, 1,000 words is 8:08.
 | Flax, Peel, Cartifa | 1251:137 |
 | Oka chair | 1251:296 |
 
-**Images still to make or find:**
+**Deck images still missing** (file names the deck expects, in `images/`): `arena-channel`, `logs`, `bucket`, `union-chairs`, `tape-measure`, `luggage-tray`, `ladder-chair`, `chairs-family`, `union-qa`. The office chair base slide was dropped to keep the count at 20.
+
+**Images still to make or find (older list):**
 - the 16 chairs together, and a chair in use at Union
 - the luggage-tray chair and the ladder chair
 - a screenshot of a "restaurant chair" image search
@@ -101,6 +104,7 @@ Count the words again after cutting. At 123 words a minute, 1,000 words is 8:08.
 ## Still open
 
 **Check:**
+- Thonet No. 14: the script says 1849, but the archive and the deck say 1859. 1859 is the usual date.
 - Gibson's wording, against *The Ecological Approach to Visual Perception* (1979), chapter 8. There's a "Check:" note in `what-is-a-chair.md`.
 - Pimentel's wording and essay title, "Beuys' Chair and the Violence of the Other". Same note.
 - The size of the collection. `the-projection.md` says about 500 chairs. The repo README counts 720 items on are.na, but not all of those are chairs.
