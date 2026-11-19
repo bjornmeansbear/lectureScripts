@@ -15,8 +15,10 @@ Where it stands: the script is in the research order, deliberately long, at 1,83
 
 ## Files
 
-- [chairness-script.md](chairness-script.md): the current script.
-- [chairness-deck.html](chairness-deck.html): the HTML deck, 20 slides plus Q&A (built 2026-11-17). Images go in `images/<slot>.jpg`, which is gitignored. Press D to see unfilled slots, A for 25-second auto-advance.
+- **Final (2026-11-19, 00:06):** [202611190006-chairness-script.md](202611190006-chairness-script.md), matching [202611190006-chairness-deck.html](202611190006-chairness-deck.html) slide for slide (25 slides, about 945 words). PDF for sharing: `202611190006-chairness-deck.pdf` (deck snapshot `202611190006-chairness-deck.html`). Rehearse from these.
+- [chairness-script-2026-11-18.md](chairness-script-2026-11-18.md): the earlier 11-18 script, before the memo reorder.
+- [chairness-script.md](chairness-script.md): the 2026-11-13 version with the old image cues.
+- [chairness-deck.html](chairness-deck.html): the HTML deck, 24 slides plus Q&A (built 2026-11-17, reordered 2026-11-18 to open like the Figma deck: chair drawing, definition, function/structure/intention, ten chairs). Images go in `images/<slot>.jpg`, which is gitignored. Press D to see unfilled slots, A for 25-second auto-advance.
 - [chairness-script-v1-2026-11-13.md](chairness-script-v1-2026-11-13.md): the earlier, chairs-first version, kept in case you want something back.
 - `~/Code/chair-ness/text/`: the project texts the script draws on (`the-rules.md`, `what-is-a-chair.md`, `the-projection.md`, `WhyAChair.md`, `quotes.txt`, `where-does-chairness-go-next.md`).
 - `~/Documents/voice-memo-transcripts/20261107_102813-47A5025E.txt`: the 19-minute Nov 7 memo the talk started from. Also the Nov 4 22:30, Oct 14 11:07 and Sep 25 memos.
@@ -84,7 +86,9 @@ Count the words again after cutting. At 123 words a minute, 1,000 words is 8:08.
 | Flax, Peel, Cartifa | 1251:137 |
 | Oka chair | 1251:296 |
 
-**Deck images still missing** (file names the deck expects, in `images/`): `arena-channel`, `logs`, `bucket`, `union-chairs`, `tape-measure`, `luggage-tray`, `ladder-chair`, `chairs-family`, `union-qa`. The office chair base slide was dropped to keep the count at 20.
+**Shaker chairs in the deck:** slide 14 pairs Prouvé's Standard chair with "Side Chair with Pewter Tilter Buttons, Second Family, Mount Lebanon, NY, ca. 1855", Shaker Museum | Mount Lebanon, 1950.215.1. Slide 16 is a Shaker tilting side chair, Mount Lebanon, c. 1820, Wright, Champion 100, 29 Oct 2020, lot 157. Its side view is saved as `images/shaker-tilter-side.jpg`.
+
+**Deck images still missing** (file names the deck expects, in `images/`): `logs`, `bucket`, `union-chairs`, `luggage-tray`, `ladder-chair`, `chairs-family`, `union-qa`. The office chair base slide was dropped to keep the count at 20. The "About 500 chairs" slide is now a lineup of seven chairs from the old Figma deck, not an are.na screenshot. Chair photos on slides 2, 5, 13 and 16 are the Vitra Design Museum's (from `~/Code/chair-ness/vitra/`). The museum dates Thonet No. 14 c. 1855–59 and No. 1 c. 1849, which is probably where the script's 1849 came from.
 
 **Images still to make or find (older list):**
 - the 16 chairs together, and a chair in use at Union
@@ -130,10 +134,11 @@ Count the words again after cutting. At 123 words a minute, 1,000 words is 8:08.
 
 - **Format:** a hard 10 minutes, paced like Pecha Kucha: 20 slides at about 25 seconds each, about 1,000 words.
 - **Framing:** no form/content/context or solid-to-gas. The talk is about chair-ness, the research, and the 16 chairs.
-- **The Yelp review is out.** The "restaurant chair" search makes the same point, and it's research.
+- **The review is back in (2026-11-18).** It's a Google Maps review, not Yelp: "Horrible uncomfortable stools. I stood most of my visit because of them. But the beer was good." It's spoken on slide 10, as the complaint that started the Union chairs.
 - **"Under 32 hours"** (eight sessions, four hours or less each) goes on slide 18 only. Don't use it earlier.
 - **The ending:** Moholy-Nagy, "Designing is not a profession but an attitude" (*Vision in Motion*, 1947), then "It's how I take part in the world as a designer." The open questions go on the Q&A slide.
 - **Quotes cleared:** Moholy-Nagy, Wegner (as quoted by MoMA), Cranz.
 - **Credits:** Pimentel is credited for the line about humans standing. Humanscale is credited to "Henry Dreyfuss Associates".
+- **Chair numbers:** each chair is named for its maker plus a number. CKB-0XX is Chair, Kristian Bjornard; CCA-0XX is Chair, Chris Attenborough. Known so far: CKB-001 (wheels behind the back legs) and CCA-001 are the first two; CCA-002 the ladder chair; CKB-004 and CKB-006 stools; CKB-005 the Sedia 1 variation; CKB-007; CCA-006; CKB-008 the kids' chair with Solveig. Still unknown: the luggage-tray chair.
 - **Names:** Chris Attenborough, Jerron Shropshire, Justin Beitzel, Union Craft Brewing, Chaise A by Tolix (Xavier Pauchard).
 - **Left out:** the musical chairs joke, the slideshow-app aside, the "mid century" joke, Kramer and Seinfeld.

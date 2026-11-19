@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chair-ness — Research Open Mic</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,500;0,700;0,800;1,400&display=swap">
+
+<style>
+  /* ==========================================================
+     Chair-ness. Research Open Mic, MICA Library, Fri 20 Nov 2026.
+     Hard 10-minute stop. 20 slides + the Q&A slide.
+     Script: chairness-script.md. Notes: chairness-notes.md.
+
+     This deck is the first try at FEATURING images in the HTML
+     decks, rather than parking them under a scrim (the di200
+     beats run a 0.80 brown scrim, so the photo is mostly gone).
+     Rules here:
+       - The image is never dimmed. Text never sits on a photo
+         directly; it sits on an opaque card or beside the photo.
+       - Object photos shot on white get mix-blend-mode: multiply,
+         so the studio white becomes the paper ground and the
+         chair stands on the page instead of in a white box.
+       - Chairs in a row share a floor line (the brown rule).
+       - Every image carries a museum-label caption.
+
+     Light ground, contrast measured against wjerk-white #F8FAE7:
+       wjerk-black text   13.73:1
+       gray-6 (captions)   7.34:1
+       pink-5 (accent)     4.78:1  large type and rules only
+
+     LAYOUT ARCHETYPES (closed set)
+       .title       deck open
+       .bleed       full-bleed photo, optional opaque .card on top
+       .split       photo bleeds one half, text or object in the other
+       .lineup      2–3 objects on a shared floor line
+       .repeat      one object tiled (the "restaurant chair" slide)
+       .say         a statement or quote, no image
+       .list        parallel list
+       .numbers     a comparison of big figures
+
+     Keys: → / space next, ← back, F fullscreen,
+           A toggle 25-second auto-advance (pink bar at top),
+           D show unfilled image slots. Never press D in the room.
+     Missing images: drop a file at images/<slot>.jpg and reload.
+     ========================================================== */
+  :root {
+    --paper: #F8FAE7;          /* wjerk-white */
+    --ink: #2D2826;            /* wjerk-black */
+    --muted: rgb(83,83,72);    /* gray-6 */
+    --accent: rgb(197,57,101); /* pink-5, large type and rules only */
+    --line: var(--ink);
+    --font-sans: 'Work Sans', system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    overflow: hidden;
+    display: grid;
+    place-items: center;
+  }
+  /* The slide fills the window: no letterboxing. Type is sized in --u,
+     the smaller of 1% of the width and 1% of what the width would be at
+     16:9, so a wide or tall window never pushes text off the slide. */
+  .stage {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    container-type: size;
+    overflow: hidden;
+    background: var(--paper);
+  }
+  .stage { --u: min(1cqw, 1.7778cqh); }
+  .slide {
+    position: absolute; inset: 0;
+    display: none;
+    background: var(--paper);
+  }
+  .slide.on { display: grid; }
+
+  h1, h2, p, blockquote, ol, ul { margin: 0; }
+  h1 { font-size: calc(11 * var(--u)); font-weight: 800; line-height: 0.95; letter-spacing: -0.03em; }
+  h2 { font-size: calc(5.6 * var(--u)); font-weight: 800; line-height: 1.02; letter-spacing: -0.02em; text-wrap: balance; }
+  .gloss { font-size: calc(3 * var(--u)); font-weight: 400; line-height: 1.2; margin-top: 2cqh; }
+  blockquote { font-size: calc(4 * var(--u)); font-weight: 500; line-height: 1.2; text-wrap: balance; }
+  /* Hanging punctuation by hand (the CSS property is Safari-only): the
+     opening quote sits in the margin so the letters align with the edge. */
+  .hq { margin-left: -0.42em; }
+  cite { display: block; margin-top: 2.4cqh; font-style: normal; font-family: var(--font-mono); font-size: calc(1.5 * var(--u)); letter-spacing: 0.04em; color: var(--muted); }
+  .rule { height: 0.5cqh; width: 18cqw; background: var(--accent); margin-top: 3cqh; }
+
+  /* ---- images ---- */
+  img { display: block; }
+  .ph { position: relative; overflow: hidden; }
+  .ph img { width: 100%; height: 100%; object-fit: cover; }
+  .ph.contain img { object-fit: contain; }
+  .obj img { mix-blend-mode: multiply; object-fit: contain; width: 100%; height: 100%; object-position: bottom center; }
+
+  /* museum label */
+  .label {
+    font-family: var(--font-mono);
+    font-size: calc(1.25 * var(--u));
+    line-height: 1.4;
+    letter-spacing: 0.02em;
+    color: var(--ink);
+  }
+  .label b { font-family: var(--font-sans); font-weight: 700; font-size: calc(1.5 * var(--u)); letter-spacing: 0; display: block; }
+  .label .cr { display: block; color: var(--muted); }
+  .ph > .label {
+    position: absolute; left: 0; bottom: 0;
+    background: var(--paper);
+    padding: 1.2cqh 1.4cqw 1.4cqh;
+    max-width: 40cqw;
+  }
+
+  /* opaque card on a photo */
+  .card {
+    position: absolute;
+    background: var(--paper);
+    border: 0.25cqw solid var(--ink);
+    padding: 3.6cqh 3cqw;
+    max-width: 52cqw;
+  }
+  .card.tilt { transform: rotate(-2deg); }
+  .card.tr { top: 8cqh; right: 6cqw; }
+  .card.tl { top: 8cqh; left: 6cqw; }
+  .card.br { bottom: 10cqh; right: 6cqw; }
+
+  /* ---- archetypes ---- */
+  .title { grid-template-columns: 1fr 1fr; }
+  .title .txt { padding: 0 6cqw; align-self: center; }
+
+  .bleed { grid-template: 1fr / 1fr; }
+  .bleed > .ph { grid-area: 1 / 1; }
+
+  .split { grid-template-columns: 1fr 1fr; grid-template-rows: minmax(0, 1fr); }
+  .split > .obj, .split > .ph { min-height: 0; overflow: hidden; }
+  .split.wide { grid-template-columns: 1.25fr 1fr; }
+  .split .txt { align-self: center; padding: 0 6cqw; display: flex; flex-direction: column; gap: 3cqh; }
+
+  .lineup {
+    grid-template-rows: 1fr auto;
+    padding: 7cqh 6cqw 7cqh;
+    row-gap: 0;
+  }
+  .lineup .row {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    column-gap: 4cqw;
+    border-bottom: 0.3cqh solid var(--line);   /* the shared floor */
+    min-height: 0;
+  }
+  .lineup .row > .ph, .lineup .row > .obj { min-height: 0; }
+  .lineup.headed { grid-template-rows: auto minmax(0, 1fr) auto; row-gap: 3cqh; }
+  .lineup .head h2 { font-size: calc(4.4 * var(--u)); }
+  .icon { place-items: center; align-content: center; row-gap: 4cqh; }
+  .icon .mk svg { height: 52cqh; width: auto; color: var(--ink); display: block; }
+  .icon .label { text-align: center; }
+  .define { padding: 0 10cqw; align-content: center; }
+  .define p { font-size: calc(4.6 * var(--u)); line-height: 1.25; font-weight: 500; text-wrap: balance; }
+  .define .mk-inline svg { height: 1.4em; width: auto; vertical-align: -0.35em; color: var(--ink); }
+  .fsi .head { font-size: calc(2.2 * var(--u)); line-height: 1.3; }
+  .fsi ol { list-style: none; padding: 0; display: grid; gap: 1.6cqh; counter-reset: n; }
+  .fsi li { counter-increment: n; font-size: calc(3 * var(--u)); line-height: 1.15; display: grid; grid-template-columns: 4cqw 1fr; align-items: baseline; border-top: 0.2cqh solid var(--line); padding-top: 1.2cqh; }
+  .fsi li::before { content: counter(n); font-family: var(--font-mono); font-size: calc(1.5 * var(--u)); color: var(--accent); font-weight: 700; }
+  .grid10 { grid-template-rows: minmax(0, 1fr) minmax(0, 1fr) auto; padding: 4cqh 6cqw 5cqh; row-gap: 2cqh; }
+  .grid10 .crow .c { grid-template-rows: minmax(0, 1fr) 7.5cqh; }
+  .grid10 .label { font-size: calc(1.1 * var(--u)); }
+  .grid10 .label b { font-size: calc(1.3 * var(--u)); }
+  .collection { grid-template-rows: auto minmax(0, 1fr); padding: 7cqh 6cqw 8cqh; row-gap: 3cqh; }
+  .collection .head { display: flex; align-items: baseline; justify-content: space-between; }
+  .crow { display: flex; align-items: stretch; min-height: 0; }
+  .crow .c { margin: 0; flex: 1 1 0; display: grid; grid-template-rows: minmax(0, 1fr) 9cqh; min-width: 0; }
+  .crow .stand { display: flex; align-items: flex-end; justify-content: center; border-bottom: 0.3cqh solid var(--line); padding: 0 0.8cqw; min-height: 0; }
+  .crow .stand img { width: auto; max-width: 100%; mix-blend-mode: multiply; object-fit: contain; object-position: bottom; }
+  .crow .label { padding: 1.6cqh 0.8cqw 0; }
+  .lineup .row > .obj { display: flex; align-items: flex-end; justify-content: center; }
+  .lineup .row > .obj img { width: 100%; }
+  .lineup .labels {
+    display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; column-gap: 4cqw;
+    padding-top: 1.6cqh;
+  }
+  .lineup .labels .label { position: static; background: none; padding: 0; }
+
+  .repeat { grid-template-columns: 0.75fr 1fr; }
+  .repeat .rcol { display: grid; grid-template-rows: auto minmax(0, 1fr) auto; row-gap: 3cqh; padding: 7cqh 5cqw 8cqh; min-height: 0; }
+  .search {
+    justify-self: stretch;
+    border: 0.25cqw solid var(--ink);
+    padding: 1.2cqh 2cqw;
+    font-size: calc(2.6 * var(--u));
+    min-width: 40cqw;
+  }
+  .search::before { content: "⌕  "; color: var(--muted); }
+  .tile {
+    display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(3, minmax(0, 1fr)); row-gap: 3cqh;
+    min-height: 0;
+  }
+  .tile img { border-bottom: 0.3cqh solid var(--line); mix-blend-mode: multiply; width: 100%; height: 100%; object-fit: contain; object-position: bottom; }
+
+  .say { padding: 0 12cqw; align-content: center; }
+  .say blockquote { font-size: calc(4.6 * var(--u)); }
+
+  .list { padding: 0 10cqw; align-content: center; row-gap: 4cqh; }
+  .list ol { list-style: none; padding: 0; display: grid; gap: 2.2cqh; counter-reset: n; }
+  .list li { counter-increment: n; font-size: calc(3.2 * var(--u)); line-height: 1.15; display: grid; grid-template-columns: 5cqw 1fr; align-items: baseline; border-top: 0.2cqh solid var(--line); padding-top: 1.4cqh; }
+  .list li::before { content: counter(n); font-family: var(--font-mono); font-size: calc(1.6 * var(--u)); color: var(--accent); font-weight: 700; }
+  .list .head { font-family: var(--font-mono); font-size: calc(1.5 * var(--u)); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+
+  .words { padding: 0 8cqw; align-content: center; }
+  .words p { font-size: calc(5.4 * var(--u)); font-weight: 800; line-height: 1.12; letter-spacing: -0.02em; text-wrap: balance; }
+  .words p span:nth-child(3n+2) { font-weight: 400; font-style: italic; }
+  .words p span:nth-child(4n) { color: var(--accent); }
+
+  .numbers .txt { display: grid; grid-template-columns: 1fr 1fr; gap: 3cqw; align-content: center; padding: 0 5cqw; }
+  .numbers .big { font-size: calc(10 * var(--u)); font-weight: 800; line-height: 0.9; letter-spacing: -0.03em; }
+  .numbers .label { margin-top: 1.4cqh; border-top: 0.2cqh solid var(--line); padding-top: 1cqh; }
+
+  .angles { grid-template-columns: 1fr 1fr; column-gap: 8cqw; padding: 8cqh 12cqw 9cqh; }
+  .angles .ang { display: grid; grid-template-rows: minmax(0, 1fr) auto auto; min-height: 0; }
+  .angles svg { width: 100%; height: 100%; color: var(--ink); }
+  .angles .big { font-size: calc(9 * var(--u)); font-weight: 800; line-height: 0.95; letter-spacing: -0.03em; margin-top: 2cqh; }
+  .angles .label { margin-top: 1.2cqh; border-top: 0.2cqh solid var(--line); padding-top: 1cqh; }
+  .qa { grid-template-columns: 1fr 1fr; }
+  .qa .txt { align-self: center; padding: 0 5cqw; display: flex; flex-direction: column; gap: 2.4cqh; }
+  .qa ul { list-style: none; padding: 0; display: grid; gap: 1.8cqh; }
+  .qa li { font-size: calc(2.4 * var(--u)); line-height: 1.2; text-wrap: pretty; border-top: 0.2cqh solid var(--line); padding-top: 1.2cqh; }
+  .qa .where { font-family: var(--font-mono); font-size: calc(1.4 * var(--u)); color: var(--muted); }
+
+  /* ---- unfilled slots: silent for the room, loud with D ---- */
+  .slot {
+    display: none;
+    position: absolute; inset: 3cqh 3cqw auto auto;
+    z-index: 5; max-width: 40cqw;
+    font-family: var(--font-mono); font-size: calc(1.3 * var(--u)); line-height: 1.45;
+    background: var(--ink); color: var(--paper);
+    border-left: 0.5cqw solid rgb(243,171,197);
+    padding: 1.2cqh 1.4cqw;
+  }
+  .slot b { display: block; text-transform: uppercase; letter-spacing: 0.14em; color: rgb(243,171,197); }
+  body.dev .ph.missing .slot { display: block; }
+  body.dev .ph.missing { outline: 0.3cqw dashed var(--accent); outline-offset: -0.3cqw; }
+  .ph.missing img { visibility: hidden; }
+
+  /* ---- chrome ---- */
+  .no {
+    position: absolute; left: 2cqw; bottom: 1.6cqh; z-index: 4;
+    font-family: var(--font-mono); font-size: calc(1.1 * var(--u)); color: var(--muted);
+    background: var(--paper); padding: 0.3cqh 0.6cqw;
+    font-variant-numeric: tabular-nums;
+  }
+  .label .no-in { display: block; color: var(--muted); font-variant-numeric: tabular-nums; margin-top: 0.4cqh; }
+  .timer { position: absolute; left: 0; top: 0; height: 0.6cqh; width: 0; background: var(--accent); z-index: 6; }
+  body.auto .timer { animation: fill 25s linear forwards; }
+  @keyframes fill { to { width: 100%; } }
+  .nav { position: fixed; bottom: 1rem; right: 1rem; display: flex; gap: 0.5rem; z-index: 10; opacity: 0; transition: opacity .2s; }
+  body:hover .nav, .nav:focus-within { opacity: 1; }
+  .nav button { font-family: var(--font-mono); font-size: 0.8rem; padding: 0.45rem 0.7rem; background: var(--paper); color: var(--ink); border: 1px solid var(--ink); cursor: pointer; }
+  .nav button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  @media (prefers-reduced-motion: reduce) { .nav { transition: none; } }
+</style>
+</head>
+<body>
+<div class="stage" id="stage">
+<div class="timer" id="timer"></div>
+
+<!-- ═══ 0 · The question ═══ -->
+<section class="slide icon" data-sec="0">
+  <div class="mk"><svg class="mark" role="img" aria-label="Line drawing of a chair" xmlns="http://www.w3.org/2000/svg" viewBox="320 250 455 620" fill="none">
+<path d="M331.751 629.192L584.504 489.608L590.224 499.964L337.471 639.549L331.751 629.192Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M514.833 750.13L757.064 616.356L762.784 626.713L520.553 760.486L514.833 750.13Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M522.904 496.165L529.45 486.309L760.486 639.751L753.94 649.606L522.904 496.165Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M527.025 293.419L533.571 283.563L764.607 437.005L758.061 446.86L527.025 293.419Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M334.275 604.196L340.821 594.34L580.816 753.732L574.27 763.588L334.275 604.196Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M550.098 263.164H561.929V671.354H550.098V263.164Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M358.855 587.215H370.686V833.341H358.855V587.215Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M729.957 383.875H741.788V826.338H729.957V383.875Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M540.527 699.82H552.358V859.684H540.527V699.82Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+</svg>
+</div>
+  <p class="label"><b>Chair-ness</b>(or, what is a chair?)</p>
+</section>
+
+<section class="slide define" data-sec="0">
+  <p><span class="mk-inline"><svg class="mark" role="img" aria-label="Line drawing of a chair" xmlns="http://www.w3.org/2000/svg" viewBox="320 250 455 620" fill="none">
+<path d="M331.751 629.192L584.504 489.608L590.224 499.964L337.471 639.549L331.751 629.192Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M514.833 750.13L757.064 616.356L762.784 626.713L520.553 760.486L514.833 750.13Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M522.904 496.165L529.45 486.309L760.486 639.751L753.94 649.606L522.904 496.165Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M527.025 293.419L533.571 283.563L764.607 437.005L758.061 446.86L527.025 293.419Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M334.275 604.196L340.821 594.34L580.816 753.732L574.27 763.588L334.275 604.196Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M550.098 263.164H561.929V671.354H550.098V263.164Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M358.855 587.215H370.686V833.341H358.855V587.215Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M729.957 383.875H741.788V826.338H729.957V383.875Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+<path d="M540.527 699.82H552.358V859.684H540.527V699.82Z" fill="currentColor" stroke-width="4.5" stroke="currentColor"/>
+</svg>
+</span> a designed object for sitting, typically with a seat, back, and often legs.</p>
+</section>
+
+<section class="slide split" data-sec="0">
+  <div class="obj" style="padding:12cqh 4cqw 12cqh"><img data-src="l-windsor" alt="A Windsor armchair with a spindle back"></div>
+  <div class="txt fsi">
+    <p class="head">The essential qualities that make something a chair, regardless of style, material, or context</p>
+    <ol>
+      <li><span><b>Function.</b> Supports a seated body.</span></li>
+      <li><span><b>Structure.</b> A surface to sit on.</span></li>
+      <li><span><b>Intention.</b> Offers respite.</span></li>
+    </ol>
+    <p class="label"><b>Windsor chair</b>Unknown maker, c. 1780<span class="cr">Photo: Vitra Design Museum</span></p>
+  </div>
+</section>
+
+<section class="slide grid10" data-sec="0">
+  <div class="crow">
+    <figure class="c"><div class="stand"><img data-src="g-bauernstuhl" style="height:95%" alt="A rough chair made from tree branches and a slab seat"></div><figcaption class="label"><b>Bauernstuhl</b>Kunstflug (Harald Hullmann), 1983</figcaption></figure>
+    <figure class="c"><div class="stand"><img data-src="g-bamboo" style="height:100%" alt="Bamboo stalks rising from a woven bamboo block"></div><figcaption class="label"><b>Bamboo Chair #1</b>Robert Wilson, 1985</figcaption></figure>
+    <figure class="c"><div class="stand"><img data-src="g-hand" style="height:90%" alt="A carved wooden chair shaped like an open hand"></div><figcaption class="label"><b>Hand Chair</b>Pedro Friedeberg, c. 1962</figcaption></figure>
+    <figure class="c"><div class="stand"><img data-src="g-wishbone" style="height:78%" alt="Wegner's Wishbone chair in oak with a woven paper-cord seat"></div><figcaption class="label"><b>CH24 / Wishbone</b>Hans J. Wegner, 1949</figcaption></figure>
+    <figure class="c"><div class="stand"><img data-src="aeron-v" style="height:85%" alt="Black mesh Aeron office chair"></div><figcaption class="label"><b>Aeron</b>Bill Stumpf and Don Chadwick, 1992</figcaption></figure>
+  </div>
+  <div class="crow">
+    <figure class="c"><div class="stand"><img data-src="g-bofinger" style="height:80%" alt="Stacked plastic Bofinger chairs in blue, red and white"></div><figcaption class="label"><b>BA 1171 / Bofinger</b>Helmut Bätzner, 1964/65</figcaption></figure>
+    <figure class="c"><div class="stand"><img data-src="g-bina" style="height:100%" alt="A carved wooden chair with a tall figurative back"></div><figcaption class="label"><b>Bina Chair I</b>Kim Mupangilaï, 2023</figcaption></figure>
+    <figure class="c"><div class="stand"><img data-src="g-carbon" style="height:80%" alt="A black chair with balloon-like legs"></div><figcaption class="label"><b>Carbon Balloon Chair</b>Marcel Wanders, 2013</figcaption></figure>
+    <figure class="c"><div class="stand"><img data-src="g-panton" style="height:95%" alt="A chair made of two sheets of clear glass"></div><figcaption class="label"><b>Chair for Interior Landscape</b>Verner Panton, 1998</figcaption></figure>
+    <figure class="c"><div class="stand"><img data-src="g-documenta" style="height:90%" alt="A metal frame chair with a woven wicker seat"></div><figcaption class="label"><b>Documenta Chair</b>Paolo Deganello, 1987</figcaption></figure>
+  </div>
+  <p class="label credit-line"><span class="cr">Photos: Vitra Design Museum</span></p>
+</section>
+
+<section class="slide split" data-sec="0">
+  <figure class="ph" style="margin:0">
+    <img data-src="ono" style="object-position: 40% center" alt="A wooden chair burning in a dry field">
+  </figure>
+  <div class="txt">
+    <blockquote style="font-size:calc(2.9 * var(--u))"><span class="hq">“</span>There is no chair that two see together. It is possible to see a chair as it is. But when you burn the chair, you suddenly realize that the chair in your head did not burn or disappear.”<cite>Yoko Ono</cite></blockquote>
+    <p class="label"><b>Chair burning in the woods</b>TopShere Media, Indiana, 2025<span class="cr">Photo: Unsplash License</span></p>
+  </div>
+</section>
+
+<section class="slide lineup" data-sec="1">
+  <div class="row">
+    <div class="obj"><img data-src="thonet-cut" alt="Thonet No. 14 bentwood chair with a cane seat"></div>
+    <div class="obj"><img data-src="sedia-1" alt="Enzo Mari's Sedia 1, plain pine boards nailed together"></div>
+    <div class="obj"><img data-src="aeron-v" alt="Black mesh Aeron office chair on a five-star aluminum base"></div>
+  </div>
+  <div class="labels">
+    <p class="label"><b>No. 14</b>Michael Thonet, c. 1859<span class="cr">Photo: Vitra Design Museum</span></p>
+    <p class="label"><b>Sedia 1</b>Enzo Mari, 1973<span class="cr">Photo: Vitra Design Museum</span></p>
+    <p class="label"><b>Aeron</b>Bill Stumpf and Don Chadwick, Herman Miller, 1992<span class="cr">Photo: Vitra Design Museum</span></p>
+  </div>
+</section>
+
+<section class="slide bleed" data-sec="2">
+  <figure class="ph" style="margin:0">
+    <img data-src="oka" alt="A wood and wool armchair in a sunlit pasture with sheep grazing around it">
+    <figcaption class="label"><b>Oka Chair</b>Common Object Studio (Justin Beitzel), 2023</figcaption>
+  </figure>
+  <div class="card tilt tr" style="max-width:44cqw"><h2 style="font-size: calc(3.4 * var(--u))">How might we design a chair that gives back at each stage of its life cycle?</h2></div>
+</section>
+
+<section class="slide split wide" data-sec="2">
+  <figure class="ph" style="margin:0">
+    <img data-src="arena-channel" style="object-position: top left" alt="The Chair-ness are.na channel: a grid of saved chairs, museum pages and photos">
+  </figure>
+  <div class="txt">
+    <h2>About 500 chairs.</h2>
+    <p class="label"><b>Chair-ness</b>are.na/bjornmeansbear/chair-ness</p>
+  </div>
+</section>
+
+<section class="slide bleed" data-sec="4">
+  <figure class="ph" style="margin:0">
+    <img data-src="union-chairs" data-brief="our chairs in the Union taproom, ideally one with someone sitting in it" alt="Handmade chairs in the Union Craft Brewing taproom">
+    <figcaption class="label"><b>Chair-ness, 16 chairs</b>Chris Attenborough and Kristian Bjornard, 2026<span class="cr">Union Craft Brewing</span></figcaption>
+  </figure>
+  <div class="card tr"><blockquote style="font-size: calc(3.2 * var(--u))"><span class="hq">“</span>A chair is only finished when someone sits in it.”<cite>Hans Wegner</cite></blockquote></div>
+</section>
+
+<section class="slide repeat" data-sec="4">
+  <figure class="ph" style="margin:0">
+    <img data-src="union-chaise-a" alt="Red metal Chaise A chairs around a wooden table in the Union Craft Brewing taproom">
+    <figcaption class="label"><b>Chaise A at Union</b>Union Craft Brewing taproom<span class="cr">Photo: Union Craft Brewing</span></figcaption>
+  </figure>
+  <div class="rcol">
+    <div class="search">restaurant chair</div>
+    <div class="tile" id="tile"></div>
+    <p class="label"><b>Chaise A</b>Xavier Pauchard, Tolix, 1934<span class="cr">Photo: Thonet</span></p>
+  </div>
+</section>
+
+<section class="slide list" data-sec="4">
+  <p class="head">The rules</p>
+  <ol>
+    <li>One chair per artist, per week.</li>
+    <li>One work session.</li>
+    <li>Found and leftover materials only.</li>
+    <li>Functional and safe to sit in.</li>
+    <li>Finish and clean up afterward.</li>
+    <li>Repairs and tweaks allowed.</li>
+  </ol>
+</section>
+
+<section class="slide lineup headed" data-sec="6">
+  <div class="head"><h2>People are harder on chairs than we thought.</h2></div>
+  <div class="row">
+    <div class="ph"><img data-src="luggage-tray" data-brief="your chair with the luggage tray on the back, shot from the side" alt="A chair with a luggage tray built onto its back"></div>
+    <div class="ph"><img data-src="ladder-chair" data-brief="Chris's chair made from an old ladder, shot from the side" alt="A chair built from an old wooden ladder"></div>
+  </div>
+  <div class="labels">
+    <p class="label"><b>Luggage-tray chair</b>Kristian Bjornard, 2026</p>
+    <p class="label"><b>Ladder chair</b>Chris Attenborough, 2026</p>
+  </div>
+</section>
+
+<section class="slide lineup" data-sec="5">
+  <div class="row">
+    <div class="obj"><img data-src="red-blue" alt="Rietveld's Red Blue Chair: a black frame of square sticks, a red back and a blue seat"></div>
+    <div class="obj"><img data-src="sedia-1" alt="Enzo Mari's Sedia 1, boards nailed at right angles"></div>
+    <div class="obj"><img data-src="flow" alt="Sedia 1 rebuilt in light-gauge steel studs"></div>
+  </div>
+  <div class="labels">
+    <p class="label"><b>Red Blue Chair</b>Gerrit Rietveld, 1918/19<span class="cr">Photo: Vitra Design Museum</span></p>
+    <p class="label"><b>Sedia 1</b>Enzo Mari, 1973<span class="cr">Photo: Vitra Design Museum</span></p>
+    <p class="label"><b>FLOW, Enzo Mari Homage Chair</b>Daisuke Yamamoto, 2022<span class="cr">Photo: Vitra Design Museum</span></p>
+  </div>
+</section>
+
+<section class="slide lineup headed" data-sec="5">
+  <div class="head"><h2>Tipping back.</h2></div>
+  <div class="row" style="grid-template-columns: 1.6fr 1fr; grid-auto-flow: row;">
+    <div class="obj"><img data-src="prouve" alt="Jean Prouvé's Standard chair beside its parts laid flat: thick tapered back legs, a seat, a back"></div>
+    <div class="ph contain"><img data-src="shaker-pewter-tilters" style="object-position: bottom" alt="A Shaker ladder-back side chair, front view, with small gray pewter buttons capping the two back feet"></div>
+  </div>
+  <div class="labels" style="grid-template-columns: 1.6fr 1fr; grid-auto-flow: row;">
+    <p class="label"><b>Standard chair</b>Jean Prouvé, 1934</p>
+    <p class="label"><b>Side chair, pewter tilter buttons</b>Shakers, Mount Lebanon, NY, c. 1855<span class="cr">Photo: Shaker Museum | Mount Lebanon</span></p>
+  </div>
+</section>
+
+<section class="slide split" data-sec="5">
+  <figure class="ph" style="margin:0">
+    <img data-src="shaker-tilter" alt="A Shaker ladder-back side chair in maple with a rush seat, against a pale blue wall">
+  </figure>
+  <div class="txt">
+    <h2>Hang it on the wall.</h2>
+    <p class="label"><b>Tilting side chair</b>Shakers, Mount Lebanon, NY, c. 1820<span class="cr">Photo: Wright</span></p>
+  </div>
+</section>
+
+<section class="slide angles" data-sec="5">
+  <div class="ang">
+    <svg viewBox="0 0 320 380" role="img" aria-label="Side view of a dining chair: seat level, back at 95 degrees to the seat">
+      <line x1="10" y1="362" x2="310" y2="362" stroke="currentColor" stroke-width="3"/>
+      <path d="M164.0 200.0 A46 46 0 0 1 214.0 154.2" fill="none" stroke="var(--accent)" stroke-width="7"/>
+      <g stroke="currentColor" stroke-width="9" stroke-linecap="square">
+        <line x1="210.0" y1="200.0" x2="70.0" y2="200.0"/>
+        <line x1="210.0" y1="200.0" x2="225.3" y2="25.7"/>
+        <line x1="70.0" y1="200.0" x2="70.0" y2="358.0"/>
+        <line x1="210.0" y1="200.0" x2="214.0" y2="358.0"/>
+      </g>
+    </svg>
+    <div class="big">95°</div>
+    <p class="label"><b>Dining chair</b>seat to back</p>
+  </div>
+  <div class="ang">
+    <svg viewBox="0 0 320 380" role="img" aria-label="Side view of a lounge chair: seat tilted back, back at 105 degrees to the seat">
+      <line x1="10" y1="362" x2="310" y2="362" stroke="currentColor" stroke-width="3"/>
+      <path d="M169.2 267.7 A46 46 0 0 1 231.0 228.9" fill="none" stroke="var(--accent)" stroke-width="7"/>
+      <g stroke="currentColor" stroke-width="9" stroke-linecap="square">
+        <line x1="215.0" y1="272.0" x2="65.0" y2="258.0"/>
+        <line x1="215.0" y1="272.0" x2="279.3" y2="98.5"/>
+        <line x1="65.0" y1="258.0" x2="62.0" y2="358.0"/>
+        <line x1="215.0" y1="272.0" x2="228.0" y2="358.0"/>
+      </g>
+    </svg>
+    <div class="big">105°</div>
+    <p class="label"><b>Lounge chair</b>seat to back</p>
+  </div>
+</section>
+
+<section class="slide words" data-sec="5">
+  <p><span>ergonomics</span> <span>materials</span> <span>history</span> <span>construction</span> <span>comfort</span> <span>accessibility</span> <span>semiotics</span> <span>sculpture</span> <span>architecture</span> <span>craft</span> <span>style</span> <span>futures</span></p>
+</section>
+
+<section class="slide bleed" data-sec="6">
+  <figure class="ph" style="margin:0">
+    <img data-src="workshop" data-brief="you and Chris mid-build in the shop, one build session" alt="Building a chair in the shop during a Friday session">
+    <figcaption class="label"><b>A build session</b>Chris Attenborough and Kristian Bjornard, 2026</figcaption>
+  </figure>
+  <div class="card tilt tl"><h2>16 chairs.<br>8 sessions.<br>Under 32 hours.</h2></div>
+</section>
+
+<section class="slide bleed" data-sec="7">
+  <figure class="ph" style="margin:0">
+    <img data-src="union-qa" data-brief="our chairs in use at Union, people sitting in them; not the same photo as slide 23" alt="Our handmade chairs in use at Union Craft Brewing">
+    <figcaption class="label"><b>Sit in one</b>Union Craft Brewing, 1700 W 41st St.</figcaption>
+  </figure>
+  <div class="card tilt tl" style="max-width:52cqw"><blockquote style="font-size:calc(3.6 * var(--u))"><span class="hq">“</span>Designing is not a profession but an attitude.”
+    <cite>László Moholy-Nagy, Vision in Motion, 1947</cite></blockquote></div>
+</section>
+
+
+</div>
+
+<nav class="nav" aria-label="Slides">
+  <button id="prev" aria-label="Previous slide">←</button>
+  <button id="next" aria-label="Next slide">→</button>
+</nav>
+
+<script>
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var i = 0, total = slides.length, autoT = null;
+
+  /* Page number, lower left. Where a photo caption already sits in that
+     corner, the number becomes the caption's last line instead. */
+  slides.forEach(function (s, n) {
+    var no = document.createElement('span');
+    no.textContent = (n + 1) + ' / ' + total;
+    var cap = s.querySelector('.ph > .label');
+    if (cap) { no.className = 'no-in'; cap.appendChild(no); }
+    else { no.className = 'no'; s.appendChild(no); }
+  });
+
+  /* Image slots. A slide's own data-img, or an <img data-src>, names a
+     file in images/. Missing files stay silent; D shows name and brief. */
+  function wire(img, slot, brief, holder) {
+    holder.classList.add('missing');
+    var tag = document.createElement('p');
+    tag.className = 'slot';
+    tag.innerHTML = '<b>images/' + slot + '.jpg</b>' + (brief || '');
+    holder.appendChild(tag);
+    img.onload = function () { holder.classList.remove('missing'); };
+    img.src = 'images/' + slot + '.jpg';
+  }
+  document.querySelectorAll('[data-img]').forEach(function (fig) {
+    var img = fig.querySelector('img');
+    if (img && !img.getAttribute('data-src')) img.setAttribute('data-src', fig.getAttribute('data-img'));
+  });
+  document.querySelectorAll('img[data-src]').forEach(function (img) {
+    wire(img, img.getAttribute('data-src'), img.getAttribute('data-brief'), img.parentElement);
+  });
+
+  /* "restaurant chair": the same chair, over and over. */
+  var tile = document.getElementById('tile');
+  for (var k = 0; k < 9; k++) {
+    var t = document.createElement('img');
+    t.src = 'images/chaise-a.jpg';
+    t.alt = k === 0 ? 'The same white metal Chaise A, repeated nine times' : '';
+    tile.appendChild(t);
+  }
+
+  var timer = document.getElementById('timer');
+  function restartTimer() {
+    timer.style.animation = 'none'; void timer.offsetWidth; timer.style.animation = '';
+  }
+  function show(n) {
+    i = Math.max(0, Math.min(total - 1, n));
+    slides.forEach(function (s, n2) { s.classList.toggle('on', n2 === i); });
+    try { history.replaceState(null, '', '#' + (i + 1)); } catch (e) {}
+    if (autoT) { clearTimeout(autoT); autoT = setTimeout(function () { show(i + 1); }, 25000); restartTimer(); }
+  }
+  function toggleAuto() {
+    if (autoT) { clearTimeout(autoT); autoT = null; document.body.classList.remove('auto'); }
+    else { document.body.classList.add('auto'); autoT = setTimeout(function () { show(i + 1); }, 25000); restartTimer(); }
+  }
+
+  document.getElementById('next').addEventListener('click', function () { show(i + 1); });
+  document.getElementById('prev').addEventListener('click', function () { show(i - 1); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ') { e.preventDefault(); show(i + 1); }
+    else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); show(i - 1); }
+    else if (e.key === 'Home') show(0);
+    else if (e.key === 'End') show(total - 1);
+    else if (e.key === 'a' || e.key === 'A') toggleAuto();
+    else if (e.key === 'd' || e.key === 'D') document.body.classList.toggle('dev');
+    else if (e.key === 'f' || e.key === 'F') {
+      if (document.fullscreenElement) document.exitFullscreen(); else document.documentElement.requestFullscreen();
+    }
+  });
+  if ((location.hash || '').indexOf('dev') > -1) document.body.classList.add('dev');
+  var start = parseInt((location.hash || '').replace('#', ''), 10);
+  show(isNaN(start) ? 0 : start - 1);
+</script>
+</body>
+</html>
