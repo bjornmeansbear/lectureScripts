@@ -1,7 +1,10 @@
 # Intro to Sustainable Packaging
-sustainable-packaging · 2019 talk; notes cut into tiddlers, not yet published · updated 2026-11-04
+sustainable-packaging · 2019 talk; notes cut into tiddlers, not yet published; GD365 class projects rescued · updated 2026-11-19
 
 ## Where things are
+- Class projects (GD365, Spring 2014) — `lecture-sustainable-packaging/project-*.md`, `exercise-package-cooker.md`, `gd365-package-design-2014.md`
+- Old GD365 site snapshot, 2014 slides, syllabus PDF, cooker.json — `Dropbox/2 Teaching/lectureScripts-files/lecture-sustainable-packaging/gd365-2014/`
+- Notion — MICA+ → Course Projects: Best/Worst (packaging), Worst Re-Design, Packaging the Immaterial, The Best Package Ever, Package Cooker, A Perfectly Wrapped Box, Chinese Takeout Container
 - Script, Scribus deck, PDFs, images — github.com/bjornmeansbear/sustainable-packaging (public, last pushed 2019)
 - Folder here — `lecture-sustainable-packaging/README.md` (pointers, and the steps for retiring the repo)
 - Tiddlers — `sentence-a-day/sad2021tw/tiddlers/`: `Intro to Sustainable Packaging.tid` (Lecture), hub `Packaging.tid`, plus eight topic pages (not committed yet)
@@ -18,3 +21,4 @@ sustainable-packaging · 2019 talk; notes cut into tiddlers, not yet published �
 
 ## Log
 - 2026-11-04 — Notes cut into tiddlers in sentence-a-day; Are.na changes queued; this pointer and `lecture-sustainable-packaging/` made.
+- 2026-11-19 — Four GD365 briefs, Package Cooker and the 2014 course outline pulled from teaching.ookb.co and the 2014 syllabus into `lecture-sustainable-packaging/`; old site and slides backed up to Dropbox; Notion Course Projects rows pointed at the new files.

@@ -2,7 +2,9 @@
 
 Lecture and workshop material, one directory per topic.
 
-- `lecture-*` — a talk and its drafts, transcripts, and exports
+This repo is the public, shareable side: lecture content, workshop ideas, and the class project briefs that go with them, all meant to be reused. Course logistics (syllabi, dates, Canvas, rubrics, MICA policy) and governance, chair and academic-leadership documents live in the private `syllabiBuilder` repo instead. If a brief is written there for a course, the shareable version of it belongs here.
+
+- `lecture-*` — a talk and its drafts, transcripts, and exports, plus the class projects that go with it (`project-*.md`, `exercise-*.md`). Briefs for courses being taught now stay in `syllabiBuilder` and get linked. See `projectWriteups/course-projects.md` for what's been rescued and what's next.
 - `workshop-*` — a pitchable workshop, its source material, and its license
 - `booklet-new-design-commons/` — nine essays drawing on both; sources stay where
   they are and get cited by path, never copied in
