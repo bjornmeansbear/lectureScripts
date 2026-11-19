@@ -26,13 +26,13 @@ Students would be able to:
 |---|---|---|
 | Intro | [Best/Worst](project-best-worst.md) | 1 week |
 | 1 | [Worst Re-Design](project-worst-redesign.md) | 5 + 1 weeks |
-| 2 | [Packaging the Immaterial](project-packaging-the-immaterial.md) | 4 weeks |
+| 2 | [Packaging the Immaterial](project-packaging-the-immaterial.md) (requirements added 2026) | 4 weeks |
 | 3 | [The Best Package Ever](project-best-package-ever.md) | 5 weeks |
 | In class | [Package Cooker](exercise-package-cooker.md) | one session |
-| Mini | A Perfectly Wrapped Box | title only, no brief found |
-| Mini | Chinese Takeout Container | title only, no brief found |
+| Mini | [A Perfectly Wrapped Box](exercise-perfectly-wrapped-box.md) | short |
+| Mini | [Chinese Takeout Container](exercise-takeout-container.md) | short |
 
-The two mini projects appear only in the project list on the final-project page. They probably grew out of the wrapping and curved-surface demos. No written brief has turned up.
+The two mini projects appear only in the project list on the final-project page. Their briefs were reconstructed from memory in 2026.
 
 ## The semester, roughly
 

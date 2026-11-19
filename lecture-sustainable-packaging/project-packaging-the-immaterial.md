@@ -17,11 +17,15 @@ So many of today's products are digital or virtual. What does packaging mean as 
 
 ## Requirements
 
-Never written. The 2014 project page says “TK.” Anyone running this needs to set them. A starting point that matches the other two projects: a written position on what “package” means for the chosen immaterial product, a physical or screen-based prototype, and documentation.
+1. Pick one immaterial product you actually use: a streaming subscription, an app, a font license, a game download, cloud storage. Say what it is and who buys it.
+2. Find its package as it exists now. The store listing, the icon, the confirmation email, the onboarding screens, the receipt, the server it lives on. Document all of it.
+3. Write one page on what “package” means for this product. Which of Protect, Inform, Sell still apply? Which one disappeared? What does the package protect when there's nothing to drop?
+4. Design the package. Physical (a box for a thing that has no box), on screen, or both. Make the case for the one you chose.
+5. A prototype at real scale: a mockup you can hold, or a screen version someone can click through.
+6. Documentation photos or a screen recording.
 
 ## Notes for reuse
 
-- This is the thinnest of the four briefs. The question is good; the scaffolding isn't there.
 - In 2014 the examples were software boxes and downloads. In 2026 the obvious ones are subscriptions, streaming, AI services and app stores, where the “package” is an onboarding flow, an icon or a store listing. It's also a sustainability question now: immaterial products still have servers, energy and e-waste behind them.
 - The lecture's question, “does this package need to exist at all?”, fits this project best.
 

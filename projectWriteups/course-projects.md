@@ -17,7 +17,7 @@ The rule: a brief lives in one place. Briefs for courses being taught now stay i
 |---|---|---|---|
 | lecture-sustainable-packaging | GD365: Best/Worst, Worst Re-Design, Packaging the Immaterial, Best Package Ever, Package Cooker | here | done 2026-11-19 |
 | workshop-semiotic-commons | Drawdown Diptych | here | already here; Notion Source set 2026-11-19 |
-| lecture-some-semiotics | Semiotic / Conceptual Still Life, flags, Typologies, Subjective Dictionary (GD400 2017–18, AD1 2019 and 2023); DI220 P4 Semiotic Signage System | Dropbox PDFs + syllabi; DI220 in syllabiBuilder | next |
+| lecture-some-semiotics | Semiotic Still Life (and Flags), Typologies, Subjective Dictionary (GD400 2017–18); DI220 P4 Semiotic Signage System | here; DI220 in syllabiBuilder | done 2026-11-19 (Solid, Liquid, Gas / Concrete, Fluid, Amorphous still to find) |
 | lecture-time-speed-motion, lecture-everything-is-a-motion-graphic | GD300 2017–18: Loopity Loop, Music & Motion, Research & Reinterpretation, Invigorated Identity. GD3 2013–15: Animated Shapes/Word/Frames/Identity, Design-a-Mations, Love/Hate, the essay. 2012: Animated Text, Speculative Design (motion), Reverse Storyboard | Dropbox PDFs + syllabi; old ookb sites | to do |
 | lecture-new-design-commons | Originality: Counterfeit / Bootleg / Remix (AD1 Fall 2023) | Notion only | to do |
 | workshop-circular-economy-design | “Waste” Collection (PRD223 Spring 2024) | Notion body + PRD223 syllabus | to do |
@@ -35,8 +35,17 @@ The rule: a brief lives in one place. Briefs for courses being taught now stay i
 
 - 2026-11-19 — Course descriptions and learning outcomes are fine to share too (Kristian). Where and how is still to be worked out case by case. For now they ride along in course-outline files like `lecture-sustainable-packaging/gd365-package-design-2014.md`.
 
+- 2026-11-19 — Notion Course Projects is the one place that collects everything and links out to wherever each brief lives, as the base for a public teaching portal (Kristian; model: Luiza Dale's teaching spreadsheet). Every brief moved here gets a row.
+- 2026-11-19 — Flexible Design Studio (GD301, co-taught with Hayelin Choi and Maureen Weiss) is cleared to share.
+
+## Also found
+- MICA Google Drive, GD3 shared drive (2020–22): Assignment 000 Hard Questions, 001 Observations Over Time, 002 Loopity Loop, 003 Kinetic Type, 004 Set to Music; lecture doc “Wait, What is Motion Graphics?” plus its 2020 video and intro PDF. Also “Project 1: Process Dictionary” (2017), “Loopity Loop” (2017), “Solid Liquid Gas” (2026), “Spring24 GD301 Flexible Design Studio Syllabus”.
+- FF120 Color Design, Fall 2024: full Canvas export at `Dropbox/2 Teaching/MICA AY26/Fall25/Color-Design-2D--2025-Jul-09….zip` (all E1–E6 and A1–A4D pages). The lecture decks in it are Forough Abadian's (Spring 2024), not his.
+- Old ookb sites mirrored to `Dropbox/2 Teaching/lectureScripts-files/_old-teaching-sites-2026-11-19/`.
+
 ## Next
-- Semiotics batch: GD400 2017/2018 syllabi + Conceptual Still Life + Subjective Dictionary PDFs → `lecture-some-semiotics/`, linked to `workshop-semiotic-commons/` and DI220 P4.
+- Motion batch: GD3 Google Drive assignments 000–004 + Dropbox GD300 2017–18 sheets + gd3/mograph site pages → `lecture-time-speed-motion/` and `lecture-everything-is-a-motion-graphic/`.
 
 ## Log
 - 2026-11-19 — Inventory of Notion, syllabiBuilder, Dropbox and the old ookb sites. GD365 batch done (see `sustainable-packaging.md`). Drawdown Diptych's Notion row pointed at its file here.
+- 2026-11-19 — GD365 mini projects written from Kristian's memory. Old ookb sites mirrored to Dropbox. Semiotics batch: Semiotic Still Life, Typologies, Subjective Dictionary into `lecture-some-semiotics/` with a new README; Notion rows added for Typologies and Subjective Dictionary.

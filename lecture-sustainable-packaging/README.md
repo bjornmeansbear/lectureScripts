@@ -8,9 +8,10 @@ From Package Design (GD365), first taught at MICA in Spring 2014. Rescued from t
 
 - [Best/Worst](project-best-worst.md): intro assignment, one week
 - [Worst Re-Design](project-worst-redesign.md): Project 1, the research-heavy one
-- [Packaging the Immaterial](project-packaging-the-immaterial.md): Project 2 (requirements were never written; see the notes)
+- [Packaging the Immaterial](project-packaging-the-immaterial.md): Project 2 (requirements added in 2026)
 - [The Best Package Ever](project-best-package-ever.md): the final project
 - [Package Cooker](exercise-package-cooker.md): in-class brainstorming game, with the full lists
+- [A Perfectly Wrapped Box](exercise-perfectly-wrapped-box.md) and [Chinese Takeout Container](exercise-takeout-container.md): the two mini projects, reconstructed from memory
 - [The 2014 course outline](gd365-package-design-2014.md): schedule, demos, materials, readings
 
 ## The talk itself
